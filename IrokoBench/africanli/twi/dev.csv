@@ -1,0 +1,451 @@
+premise,hypothesis,label
+"Na ɔkaa sɛ Mama, mewɔ fie.",Ɔfrɛɛ ne maame berɛ no a na sukuu hyɛn no sii no.,neutral
+"Na ɔkaa sɛ Mama, mewɔ fie.",Wɔnka asɛm biara.,contradiction
+"Na ɔkaa sɛ Mama, mewɔ fie.",Ɔka kyerɛɛ ne maame sɛ wɛdu fie.,entailment
+"Na minnim adeɛ merekɔ akɔyɛ anaasɛ biribiara, saa ara na ɛsɛ sɛ ɔkɔ bɔ amanneɛ wɔ baabi a wɔahyɛ ato hɔ wɔ Washington. ",Menkɔɔ Washington da enti berɛ a wɔdii dwumadi hyɛ mensa no meyeraeɛ berɛ a na merehwehwɛ beaɛ hɔ.,neutral
+"Na minnim adeɛ merekɔ akɔyɛ anaasɛ biribiara, saa ara na ɛsɛ sɛ ɔkɔ bɔ amanneɛ wɔ baabi a wɔahyɛ ato hɔ wɔ Washington. ",Na menim nea ehia sɛ meyɛ pɛpɛɛpɛ berɛ a na merekɔ Washington.,contradiction
+"Na minnim adeɛ merekɔ akɔyɛ anaasɛ biribiara, saa ara na ɛsɛ sɛ ɔkɔ bɔ amanneɛ wɔ baabi a wɔahyɛ ato hɔ wɔ Washington. ",Na mennim ade koro pɔtee a merekɔyɛ enti na mekɔɔ Washington baabi a wɔdi dwumadi maa me sɛ menkɔ no.,entailment
+Wannya kwan ankɔ.,Na ɔno ne neɛ odi kan a wɔato nsa afrɛ no na ɔgyee n'ani.,contradiction
+Wannya kwan ankɔ.,Wamma no kwan amma w'ankɔ.,entailment
+Wannya kwan ankɔ.,Wamma no kwan ma w'ankɔ tete nneɛma akoraeɛ mbueɛ ano no.,neutral
+"Na mekaa sɛ yoo, na ɛnoa no no!","Berɛ a mepenee so akyi no, ɛbaa awieeɛ.",entailment
+"Na mekaa sɛ yoo, na ɛnoa no no!",Mekaa daabi na ɛda so kɔɔ so ara.,contradiction
+"Na mekaa sɛ yoo, na ɛnoa no no!","Berɛ a mepenee so no, yɛ faa adwene sɛ yɛbɛ ware saa da noa.",neutral
+Na mewɔ hɔ ara merebɔ mmɔden sɛ mɛte ase.  ,Metee aseɛ yiye fiti mfitiaseɛ no ara.,contradiction
+Na mewɔ hɔ ara merebɔ mmɔden sɛ mɛte ase.  ,Na merebɔ mmɔden sɛ mɛte baabi a sika no fae ase.,neutral
+Na mewɔ hɔ ara merebɔ mmɔden sɛ mɛte ase.  ,Na merebɔ mmɔden sɛ mɛte ase.  ,entailment
+"Na Nanabaa taa ka abasɛm fa ɔkwan a ne nuabaa ne ne nuabaa kunu yɛɛ wɔn adwene sɛ wɔn nnyinaa bɛtu akɔ kurow no mu, akɔ Augusta, na w'ayɛ wɔnho sɛ abrofo.","Nanabaa nuabaa no yɛ broni, na otu kɔtenaa Texas.",contradiction
+"Na Nanabaa taa ka abasɛm fa ɔkwan a ne nuabaa ne ne nuabaa kunu yɛɛ wɔn adwene sɛ wɔn nnyinaa bɛtu akɔ kurow no mu, akɔ Augusta, na w'ayɛ wɔnho sɛ abrofo.",Nanabaa nuabaa no nyɛ broni.,entailment
+"Na Nanabaa taa ka abasɛm fa ɔkwan a ne nuabaa ne ne nuabaa kunu yɛɛ wɔn adwene sɛ wɔn nnyinaa bɛtu akɔ kurow no mu, akɔ Augusta, na w'ayɛ wɔnho sɛ abrofo.","Nanabaa nuabaa no nyɛ broni, nanso wɔpɛ sɛ wɔyɛ saa ara na watumi akɔ sukuu.",neutral
+"Nanso na ɔyɛ, wonim, wɔ ɛkwan bebree so, te sɛ afuo kɛseɛ bi wura ba babarimaa ɛfiri sɛ na ɔyɛ ba babarima ma saa abarima a na ɔwɔ agyapadeɛ bebree no.",Ne papa nni hwee wɔ n'abrabɔ mu da. ,contradiction
+"Nanso na ɔyɛ, wonim, wɔ ɛkwan bebree so, te sɛ afuo kɛseɛ bi wura ba babarimaa ɛfiri sɛ na ɔyɛ ba babarima ma saa abarima a na ɔwɔ agyapadeɛ bebree no.",Na ne papa wɔ afuo asaasewa kɛseɛ mmɔho mpem mmienu. ,neutral
+"Nanso na ɔyɛ, wonim, wɔ ɛkwan bebree so, te sɛ afuo kɛseɛ bi wura ba babarimaa ɛfiri sɛ na ɔyɛ ba babarima ma saa abarima a na ɔwɔ agyapadeɛ bebree no.",Ne papa wɔ agyapadeɛ pii.,entailment
+Nanso na m'adwuma ne sɛ mede wiemkyiniiɛ bɛto so ne nkwa akorafoɔ wɔ berɛ a na yɛbɛhyehyɛ no na yɛfri hɔ akɔ amannɔne. ,Na menni adwuma enti me na mede nnaka no nyinaa siee fie.,contradiction
+Nanso na m'adwuma ne sɛ mede wiemkyiniiɛ bɛto so ne nkwa akorafoɔ wɔ berɛ a na yɛbɛhyehyɛ no na yɛfri hɔ akɔ amannɔne. ,Me manee nnaka no kɔɔ Japan.,neutral
+Nanso na m'adwuma ne sɛ mede wiemkyiniiɛ bɛto so ne nkwa akorafoɔ wɔ berɛ a na yɛbɛhyehyɛ no na yɛfri hɔ akɔ amannɔne. ,Me manee wɔn nyinaa kɔɛ.,entailment
+Afei saa kwan yi so na mehwɛ sɛ maka me ho ahyɛ mu den.,Mebɔɔ mɔden sɛ me kyekyere no yie na m'anya ahobanbɔ. ,neutral
+Afei saa kwan yi so na mehwɛ sɛ maka me ho ahyɛ mu den.,Saa pɛpɛɛpɛ na mede sanee me ho.,contradiction
+Afei saa kwan yi so na mehwɛ sɛ maka me ho ahyɛ mu den.,Saa pɛpɛɛpɛ na me de mia me mu.,entailment
+"Na wɔyɛ ɔbarima kohwini, aane, na ɔnfa ntetɛ. Na wonim, na mempɛ n'asɛm, nanso wɔ kwan biara so yei mo ne m'anansesɛm.",Na ɔyɛ ɔnokwafoɔ ne nipa pa. ,contradiction
+"Na wɔyɛ ɔbarima kohwini, aane, na ɔnfa ntetɛ. Na wonim, na mempɛ n'asɛm, nanso wɔ kwan biara so yei mo ne m'anansesɛm.",Na mempɛ n'asɛm efisɛ na ɔyɛ ahantan.,neutral
+"Na wɔyɛ ɔbarima kohwini, aane, na ɔnfa ntetɛ. Na wonim, na mempɛ n'asɛm, nanso wɔ kwan biara so yei mo ne m'anansesɛm.",Na mennyɛ no okyidini.,entailment
+"Sɛ me twe, bere a ɔtwe apata no ma me sɛ me twe no ɛfri hɔ, na ɔkyerɛɛ adeyɔdeɛ mmienu bi a ɛwɔ wiemhyɛn benkumso a na ne nyinaa anane wɔ wiemhyɛn no mu.",Na wiemhyɛn afidie no nyinaa ho ɛntɔɔ kyema.,contradiction
+"Sɛ me twe, bere a ɔtwe apata no ma me sɛ me twe no ɛfri hɔ, na ɔkyerɛɛ adeyɔdeɛ mmienu bi a ɛwɔ wiemhyɛn benkumso a na ne nyinaa anane wɔ wiemhyɛn no mu.",Na ɛyɛ den sɛ yɛbeyi no afi hɔ.,neutral
+"Sɛ me twe, bere a ɔtwe apata no ma me sɛ me twe no ɛfri hɔ, na ɔkyerɛɛ adeyɔdeɛ mmienu bi a ɛwɔ wiemhyɛn benkumso a na ne nyinaa anane wɔ wiemhyɛn no mu.",Na wiemhyɛn afidie no bi naneeɛ.,entailment
+Na wɔante ase papa. ,"Ne korakora, wantumi ante aseɛ papa biaa esiane ne kasa ho akwansideɛ nti. ",neutral
+Na wɔante ase papa. ,"Nokorɛ, wɔante aseɛ.",entailment
+Na wɔante ase papa. ,Na wɔnim pɛpɛɛpɛ dea yɛreka no.,contradiction
+Ebia wɔka kyerɛɛ obiara na na menyɛ aso wɔ saa berɛ titire no mu.,M'ante no nka berɛ a ɔka kyerɛɛ obiara no.,entailment
+Ebia wɔka kyerɛɛ obiara na na menyɛ aso wɔ saa berɛ titire no mu.,Metee biribiara a ɔkaeɛ no.,contradiction
+Ebia wɔka kyerɛɛ obiara na na menyɛ aso wɔ saa berɛ titire no mu.,Na me ne obi foforɔ ɛrebɔ nkɔmmɔ wɔ saa berɛ no.,neutral
+"Wɔhweree mmienu pɛ, wiemhyɛn mmiɛnsa berɛ a na yɛ wɔ hɔ, ne nsɔhwɛ berɛ.",Wiemhyɛn mmienu bi yerae esiane wiem tebea no nti.,neutral
+"Wɔhweree mmienu pɛ, wiemhyɛn mmiɛnsa berɛ a na yɛ wɔ hɔ, ne nsɔhwɛ berɛ.",Wiemhyɛn mmienu na ɛyeraeɛ.,entailment
+"Wɔhweree mmienu pɛ, wiemhyɛn mmiɛnsa berɛ a na yɛ wɔ hɔ, ne nsɔhwɛ berɛ.",Yɛn wiemhyɛn nyerae da.,contradiction
+Mehia wo sɛ wɔyɛ biribi ma me.,Menhia mmoa biaa. ,contradiction
+Mehia wo sɛ wɔyɛ biribi ma me.,Ɛyɛ adwuma kɛseɛ bi na mehia ne yɔ.,neutral
+Mehia wo sɛ wɔyɛ biribi ma me.,Biribi wɔ hɔ a ɛsɛ sɛɛ meyɛ.,entailment
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.","Ɛmfa ne din ho, Ɔwɔ Asubɔntene nni awɔ ankasa biara wɔ mu; wɔato no din esiane ne tebea a ɛte sɛ S nti.",contradiction
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.",Ɔwɔ Asubɔntene wɔ akyekyede bebree.,neutral
+"Oh na ɛyɛ Ɔwɔ Asubɔntene, oh ɔwɔ asubɔntene a  awɔ bebree wɔ mu.",Awɔ ahyɛ Ɔwɔ Asubɔntene no mu ma.,entailment
+"Saa pɛpɛɛpɛ na ɛte, ɛyɛ tebea a edi mu akotene ɛnyɛ biribia wobetumi ayɛ sɛ wo de wo ho bɛhyɛ mu na wɔahwɛ ɛkwan sɛ wɔbɛyɛ biribi pa a minndwen ho. ",Medwene sɛ ɛsɛ sɛ wode nnɔnhwerew ɛdu si ho da biara na ama woayɛ no yie.,neutral
+"Saa pɛpɛɛpɛ na ɛte, ɛyɛ tebea a edi mu akotene ɛnyɛ biribia wobetumi ayɛ sɛ wo de wo ho bɛhyɛ mu na wɔahwɛ ɛkwan sɛ wɔbɛyɛ biribi pa a minndwen ho. ",Medwene sɛ ɛsɛ sɛ wode wo ho hyɛ mu na ama woayɛ yie.,entailment
+"Saa pɛpɛɛpɛ na ɛte, ɛyɛ tebea a edi mu akotene ɛnyɛ biribia wobetumi ayɛ sɛ wo de wo ho bɛhyɛ mu na wɔahwɛ ɛkwan sɛ wɔbɛyɛ biribi pa a minndwen ho. ",Ɛyɛ paa sɛ wonfa no anibere so.,contradiction
+Na meredwene sɛ ɛbɛyɛ anigye ankasa ɛno ni nea yɛyɛ wɔ ho na mekyerɛ sɛ ɛsɛ sɛ yɛyɛ nsakraeɛ wɔ nnipa a wɔgyina hɔ ama yɛn no. ,"Menim sɛ ɛbeyɛ nnyaa saaa na ɛmfata sɛ wosesa wɔn a wɔbekyerɛ yɛn kwan, enti ɛnsɛ sɛ yɛbɔ mmɔden mpo sɛ yɛbɛsesa no.  ",contradiction
+Na meredwene sɛ ɛbɛyɛ anigye ankasa ɛno ni nea yɛyɛ wɔ ho na mekyerɛ sɛ ɛsɛ sɛ yɛyɛ nsakraeɛ wɔ nnipa a wɔgyina hɔ ama yɛn no. ,Medwene sɛ ɛbɛyɛ den sɛ yɛbɛsakra yɛn ananmusifo nanso mfaso wɔ so ewie. ,neutral
+Na meredwene sɛ ɛbɛyɛ anigye ankasa ɛno ni nea yɛyɛ wɔ ho na mekyerɛ sɛ ɛsɛ sɛ yɛyɛ nsakraeɛ wɔ nnipa a wɔgyina hɔ ama yɛn no. ,Ɛsɛ sɛ yɛyɛ nsakraeɛ wɔ won a wɔ gyina yɛ anan mu.,entailment
+Na won nso tumi yɛ nnipa pa bere a wɔatete wɔn.,"Sɛ wɔwie ntetee no a, wɔyɛ den na wɔn ho yɛ nwunu.",contradiction
+Na won nso tumi yɛ nnipa pa bere a wɔatete wɔn.,Wɔsesa ntɛm so bere a na wɔrekɔ nteteeɛ mu.,neutral
+Na won nso tumi yɛ nnipa pa bere a wɔatete wɔn.,"Sɛ wɔtete wɔn a, wɔnho bɛtumi ayɛ anigye mmom.",entailment
+Na ɛbɛtumi akɔ so mfirinhyia du kɔsi mfeɛ aduonu a nteaseɛ biara nnim.,Ɛyɛ nwonwa sɛ mansotwe asɛm baako tumi agye bere tenten saa.,neutral
+Na ɛbɛtumi akɔ so mfirinhyia du kɔsi mfeɛ aduonu a nteaseɛ biara nnim.,Nyansa nni mu sɛ otumi gyina mu kyɛ saa.,entailment
+Na ɛbɛtumi akɔ so mfirinhyia du kɔsi mfeɛ aduonu a nteaseɛ biara nnim.,Ɛyɛ nnawɔtwe baako pɛ. ,contradiction
+Na ɛbɛyɛ sɛ na wonni ahoma biara.,Ampa nea na wowɔ no yɛ nea ɛnni ahoma.,entailment
+Na ɛbɛyɛ sɛ na wonni ahoma biara.,Ɛda adi pefee sɛ na nea wowɔ no yɛ deɛ ɛwɔ ahoma no bi.,contradiction
+Na ɛbɛyɛ sɛ na wonni ahoma biara.,Anka wubetumi ɛnya bako a ɛwɔ ahoma foforo.,neutral
+Ɛyɛ akyerɛkyerɛfoɔ anaa awofoɔ no ho asɛm na woreka?,Ɛyɛ sukuufoɔ anaa akyerɛkyerɛfoɔ aboafoɔ no na wɔyɛɛ?,contradiction
+Ɛyɛ akyerɛkyerɛfoɔ anaa awofoɔ no ho asɛm na woreka?,Ɛyɛ akyerɛkyerɛfoɔ anaa awofoɔ?,entailment
+Ɛyɛ akyerɛkyerɛfoɔ anaa awofoɔ no ho asɛm na woreka?,Ɛdeɛn na wopɛ akyere afa awofoɔ ne akyerɛkyerɛfoɔ no ho?,neutral
+Mebɔ srɛmuka sɛ ɛbɛyɛ yie misusu sɛ ɛte saa na mennim na menhyehyɛɛ m'atenka nyinaa wɔ aduro nhwehwɛmu ho na meyɛ obi a me ho nni asɛm koraa a ɔrensusu sɛ medi nnuro ho dwuma da.,Ɛkyinnye biara nni ho wɔ m'adwene mu sɛ mempɛ sɛ wɔyɛ nnuro bɔne ho nhwehwɛmu.,contradiction
+Mebɔ srɛmuka sɛ ɛbɛyɛ yie misusu sɛ ɛte saa na mennim na menhyehyɛɛ m'atenka nyinaa wɔ aduro nhwehwɛmu ho na meyɛ obi a me ho nni asɛm koraa a ɔrensusu sɛ medi nnuro ho dwuma da.,Medwene sɛ me ho bɛtɔ me sɛ wɔyɛ nnuro bɔne ho nhwehwɛmu.,neutral
+Mebɔ srɛmuka sɛ ɛbɛyɛ yie misusu sɛ ɛte saa na mennim na menhyehyɛɛ m'atenka nyinaa wɔ aduro nhwehwɛmu ho na meyɛ obi a me ho nni asɛm koraa a ɔrensusu sɛ medi nnuro ho dwuma da.,Misusu saa nanso menfaa atenka biara mu wɔ nnuro bɔne ho nhwehwɛmu.,entailment
+Susu sɛnea ɔman mu nsɛm ho amanneɛbɔ no ka ɔmanfo no ho.,Ɛyɛ dadwene sɛneɛ ɔman mu nsɛm amaneɛbɔ no nya nsonsuansoɔ wɔ mantam mantam,entailment
+Susu sɛnea ɔman mu nsɛm ho amanneɛbɔ no ka ɔmanfo no ho.,M'ani nnye nea ɔman no mu nsɛm ho amanneɛbɔfo ka fa yɛn mpɔtam ho no ho.,contradiction
+Susu sɛnea ɔman mu nsɛm ho amanneɛbɔ no ka ɔmanfo no ho.,Aman nyinaa so nsɛm ho amanneɛbɔfoɔ ma yɛn kuromfo ho ba asɛm yɛ nea ɛnteɛ.,neutral
+"Nanso ɛnyɛ yɛn na mpɛn bebree na wunim, mmaa ase atadeɛ ne mmaa aseatadeɛ ne mmaa soro atadeɛ anaase kootu anaase ntaade yɛ dea wuhu wɔ ha no enti ɛyɛ me anigye sɛ meyɛ adwuma wɔ fie ɛfiri sɛ metumi ahyɛ npieto.",Menhyɛ atadeɛ nnyɛ ɛdwuma wɔ fie.,entailment
+"Nanso ɛnyɛ yɛn na mpɛn bebree na wunim, mmaa ase atadeɛ ne mmaa aseatadeɛ ne mmaa soro atadeɛ anaase kootu anaase ntaade yɛ dea wuhu wɔ ha no enti ɛyɛ me anigye sɛ meyɛ adwuma wɔ fie ɛfiri sɛ metumi ahyɛ npieto.",Sɛ meyɛ adwuma wɔ fie a menhyɛ ntadeɛ foforo biara ka nea ɛhyɛ me no ho.,neutral
+"Nanso ɛnyɛ yɛn na mpɛn bebree na wunim, mmaa ase atadeɛ ne mmaa aseatadeɛ ne mmaa soro atadeɛ anaase kootu anaase ntaade yɛ dea wuhu wɔ ha no enti ɛyɛ me anigye sɛ meyɛ adwuma wɔ fie ɛfiri sɛ metumi ahyɛ npieto.",Medaso hyɛ ntadeɛ bere a mereyɛ adwuma wɔ fie efisɛ m'ani gye ho bebree.,contradiction
+"Ampa, biribi wɔ hɔ fa sɛ mɛtena baabi a mennim",Sɛ wobenya baabi atena yɛ daayɛso a aba mu.,neutral
+"Ampa, biribi wɔ hɔ fa sɛ mɛtena baabi a mennim",Ɛmfa meho sɛ menni baabe te. ,contradiction
+"Ampa, biribi wɔ hɔ fa sɛ mɛtena baabi a mennim",Ɛyɛ sɛ wobenya baabi atena. ,entailment
+Ampa menim na enfa me ho mpo pii sɛ wɔwɔ  adwumakuo bi a wɔwɔ sika.,Ɛbɛyɛ fo sɛ wubehu sɛ adwumakuo no wɔ sika a.,neutral
+Ampa menim na enfa me ho mpo pii sɛ wɔwɔ  adwumakuo bi a wɔwɔ sika.,Ɛbɛma mebɔ afu sɛ wubehu sɛ na wɔn aboa adwumakuo kɛse no.,contradiction
+Ampa menim na enfa me ho mpo pii sɛ wɔwɔ  adwumakuo bi a wɔwɔ sika.,Ɛrenhaw mɛ sɛ wɔboa adwumakuo kɛse no.,entailment
+Aane ɛyɛ yɛn dea wɔ ha yɛwɔ yɛn nakuraase nkitahodie yɛ bɔne ankasa.,Nkitahodiɛ ahorow a ɛbɛn ha no ɛtɔ da a eye.,neutral
+Aane ɛyɛ yɛn dea wɔ ha yɛwɔ yɛn nakuraase nkitahodie yɛ bɔne ankasa.,Yɛn ni nkitahodiɛ ahoroɔ wɔ ha.,entailment
+Aane ɛyɛ yɛn dea wɔ ha yɛwɔ yɛn nakuraase nkitahodie yɛ bɔne ankasa.,Yɛ wɔ nkitahodiɛ ahoroɔ papa wɔ ha.,contradiction
+Mfaso baako a yɛwɔ ne sɛ yetumi tu kwan.,Akwantu ɔfa a mepɛ wɔ mu.,neutral
+Mfaso baako a yɛwɔ ne sɛ yetumi tu kwan.,Akwantu yɛ mfaso baako a yɛnya.,entailment
+Mfaso baako a yɛwɔ ne sɛ yetumi tu kwan.,Yɛnnya mfaso biara.,contradiction
+Ɛyɛ bɔne ankasa.,Mate sɛ ɛnyɛ papa.,neutral
+Ɛyɛ bɔne ankasa.,Ɛnyɛ koraa.,entailment
+Ɛyɛ bɔne ankasa.,Ɛnyɛ bɔne koraa.,contradiction
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Ade biara a ɛwɔ nkwammoaa mu yɛ deɛ ɛyɛ nwonworann.,contradiction
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Nkwammoaa pii yɛ nwonworann na ebetumi asɔre wɔ tebea ahorow bi mu.,entailment
+Saa mmoawa nhwehwɛmu nfidie a agye din paa a emu yɛ den a asɔre ɛfiri abɔde mu nyiyimu nti etumi yɛ ade wɔ ngyapadea a wɔaka abom no wɔ mmoawa nhwehwɛmu bere a saa ngyapadea ahorow a ɛboa ma wɔyɛ nsakraeɛ.,Yɛ tumi di nkwammoaa pii yɛ awuduru ahoroɔ a wɔde bɔ wɔn ho ban .,neutral
+"Nanso, mennye ndi sɛ wobetumi ayɛ saa abɛɛfo badwemma afidie yi nyinaa awie.",Abɛɛfo badwemma afidie ntumi nhu ɔkwan a wɔfa so yɛ paanoo a ɛyɛ deɛ ɛho twa a nipa nsusuho biara nni mu.,neutral
+"Nanso, mennye ndi sɛ wobetumi ayɛ saa abɛɛfo badwemma afidie yi nyinaa awie.",Akadeɛ biara niho a wobetumi di ɛsiesie ɔhaw yi ara ma ɛwie pɛ yɛ.,entailment
+"Nanso, mennye ndi sɛ wobetumi ayɛ saa abɛɛfo badwemma afidie yi nyinaa awie.",Saa nkadeɛ yi yɛ adwuma yie wɔ tebea biara mu.,contradiction
+Mmara ngye onipa no nanso ɔman no anaase ɔman mu no nyinaa.,"Na ɔgyeɛ enti, ankorankoran biara ɛsɛ sɛ wɔdan kɔ mmara no so.",contradiction
+Mmara ngye onipa no nanso ɔman no anaase ɔman mu no nyinaa.,Mmarasɛm tumi gye America.,neutral
+Mmara ngye onipa no nanso ɔman no anaase ɔman mu no nyinaa.,Mmarasɛm tumi gye mpɔtam ne ɔman. ,entailment
+Mmara asɛm wɔ 1787 na wɔama hokwan a asomfoɔ wura wɔ na wɔasan agye asomfoɔ a wodwane kɔɔ faako a faahodie wɔ no.,Wɔ 1787 wɔhyɛɛ mmara sɛɛ ɛno na ɛmaa nnipa agyae sɛ wɔbɛsan agye asomfoɔ biara  wɔakɔ ɔman bi a asɛm ni mu. ,contradiction
+Mmara asɛm wɔ 1787 na wɔama hokwan a asomfoɔ wura wɔ na wɔasan agye asomfoɔ a wodwane kɔɔ faako a faahodie wɔ no.,Yɛ kyerɛw amammuo mmara nsɛm no bi wɔ 1787.,entailment
+Mmara asɛm wɔ 1787 na wɔama hokwan a asomfoɔ wura wɔ na wɔasan agye asomfoɔ a wodwane kɔɔ faako a faahodie wɔ no.,Na obiara nni hokwan sɛ wɔbesan agye asomfoɔ fi nsase a wɔde maa wɔn no so.,neutral
+"Steve Harris, yɛ nkwammoaa nhwehwɛmuni a wɔfri Texas a ɔbesra yɛn.","Steve Harris, amma ho kwan so sɛ obefi ne fie nea enti a ɛte biara no.",contradiction
+"Steve Harris, yɛ nkwammoaa nhwehwɛmuni a wɔfri Texas a ɔbesra yɛn.",Steve yɛ nkwammoaa nhwehwɛmuni a wɔnfri mpɔtamu hɔ.,entailment
+"Steve Harris, yɛ nkwammoaa nhwehwɛmuni a wɔfri Texas a ɔbesra yɛn.",Na steve ɛkɔ nsrahwɛ wɔ California na wakɔ sua adi foforɔ.,neutral
+"Na ekuoba mmarima bɛyɛ aduasa ne aduonum a wɔn mu biara yɛ mpanimfoɔ (wɔfrɛ no moradas)  na wɔkyekyɛɛ mu nnipa dodoɔ mmienu a na wɔfrɛ wɔn hermanos disciplantes (anuafoɔ a wɔteneten afoforo aso), ne asomfoɔ mpayinfoɔ, na wɔfrɛ wɔn hermanos de luz (ehan anuafoɔ).",Na asraafo somfoɔ bɛboro ɔha na wɔwɔ ɔfa biara mu.,contradiction
+"Na ekuoba mmarima bɛyɛ aduasa ne aduonum a wɔn mu biara yɛ mpanimfoɔ (wɔfrɛ no moradas)  na wɔkyekyɛɛ mu nnipa dodoɔ mmienu a na wɔfrɛ wɔn hermanos disciplantes (anuafoɔ a wɔteneten afoforo aso), ne asomfoɔ mpayinfoɔ, na wɔfrɛ wɔn hermanos de luz (ehan anuafoɔ).",Na ɔfa bi yɛ nnipa atitiriw ne mpanyimfoɔ.,entailment
+"Na ekuoba mmarima bɛyɛ aduasa ne aduonum a wɔn mu biara yɛ mpanimfoɔ (wɔfrɛ no moradas)  na wɔkyekyɛɛ mu nnipa dodoɔ mmienu a na wɔfrɛ wɔn hermanos disciplantes (anuafoɔ a wɔteneten afoforo aso), ne asomfoɔ mpayinfoɔ, na wɔfrɛ wɔn hermanos de luz (ehan anuafoɔ).",Saa nkyɛmu yi yɛ wɔn a ɔhwɛ sɛ wɔbɛsesa kuromanni nnipa wɔ Amerika Mfinimfini.,neutral
+"Na wɔn a wɔadi mfe Enan ne mfe Enum, wɔtaa bisa nsɛmmisa a asɛm no ho nhyehyɛe. Na dɛn na ɛbe kyiri?",Mmɔfra wɔntaa nsua adi sɛ wɔbɛdi nkutaho akosi sɛ wobedi mfe nsia.,contradiction
+"Na wɔn a wɔadi mfe Enan ne mfe Enum, wɔtaa bisa nsɛmmisa a asɛm no ho nhyehyɛe. Na dɛn na ɛbe kyiri?",Wɔn a wadi mfe anum redwene deɛ ɛbɛse. ,entailment
+"Na wɔn a wɔadi mfe Enan ne mfe Enum, wɔtaa bisa nsɛmmisa a asɛm no ho nhyehyɛe. Na dɛn na ɛbe kyiri?",Neɛ wadi mfe Enum wɔtaa bu wɔn sɛ wondi nkutaho pa. ,neutral
+"Nteasea, dea edi ahyia nkyekyɛ mu kwan, sɛ nneɛma mmiena ahyia wɔ ɔkannifoɔ baako, wɔaka saa aman mmienu abom wɔ nea ɛne no bɔ abira.",Dea edi ahyia tumi ma kwan ma nkyekyɛ mu.,entailment
+"Nteasea, dea edi ahyia nkyekyɛ mu kwan, sɛ nneɛma mmiena ahyia wɔ ɔkannifoɔ baako, wɔaka saa aman mmienu abom wɔ nea ɛne no bɔ abira.",Dea edi ahyia no tumi kyɛ nnipa dodoɔ.,neutral
+"Nteasea, dea edi ahyia nkyekyɛ mu kwan, sɛ nneɛma mmiena ahyia wɔ ɔkannifoɔ baako, wɔaka saa aman mmienu abom wɔ nea ɛne no bɔ abira.",Dea edi ahyia tumi si kwan ma nkyekyɛ mu.,contradiction
+"Enti, wɔkɔ so ara de nsɛm bi a ennimu hɔ wɔ ewiase baye  a nnyansa wɔ mu a ɛkɔɔ so ara atwam yi a ɛnɔ pɛ ni nokwasɛm.",Ebinom mpɛ wiase a atwa yɛn ho ahyia na ɛsɛ sɛ ɛka nsɛm a efi tete mere mu ho asɛm.,entailment
+"Enti, wɔkɔ so ara de nsɛm bi a ennimu hɔ wɔ ewiase baye  a nnyansa wɔ mu a ɛkɔɔ so ara atwam yi a ɛnɔ pɛ ni nokwasɛm.",Nhyehyɛ niama a efi bere biara yɛ nokware wɔ wiase biara mu.,contradiction
+"Enti, wɔkɔ so ara de nsɛm bi a ennimu hɔ wɔ ewiase baye  a nnyansa wɔ mu a ɛkɔɔ so ara atwam yi a ɛnɔ pɛ ni nokwasɛm.",Saa susuɛ wiase niama wɔde di dwuma ma wiem tebea ho asɛm.,neutral
+"Enti, na ɔman no nni deɛ biribi hyɛ ne nsa ma saa ankorankoro nnipa yi a wɔapo wɔn a wɔwɔ hokwan a wɔyɛ abibifo amanfoɔ. ",Ankorɛankorɛ nnipa bi a wɔapo wɔn asetra hokwan ahorow mu sɛ wɔyɛ ɔmanni tumtum.,entailment
+"Enti, na ɔman no nni deɛ biribi hyɛ ne nsa ma saa ankorankoro nnipa yi a wɔapo wɔn a wɔwɔ hokwan a wɔyɛ abibifo amanfoɔ. ",Na wɔn a wɔyɛ ankorɛankorɛ no yɛ aborɔfo.,neutral
+"Enti, na ɔman no nni deɛ biribi hyɛ ne nsa ma saa ankorankoro nnipa yi a wɔapo wɔn a wɔwɔ hokwan a wɔyɛ abibifo amanfoɔ. ",Ɔman no nyinaa na edi dwuma sɛ ankorɛankorɛ no nneyɛɛ pa.,contradiction
+Nsonsonoeɛ biara enni sukuufoɔ ketewa ne mpanyimfo wɔ mmɔdenbɔ ho nsɔhwɛ mu.,"Bere a nsɔhwɛ nkontaabu ma mmofra ne wɔn a wɔn mfe wɔ anim asukuufo yɛ pɛ no, sukuufoɔ mmofra a na wɔn sua paa no wie nsɔhwɛ ntɛm.",neutral
+Nsonsonoeɛ biara enni sukuufoɔ ketewa ne mpanyimfo wɔ mmɔdenbɔ ho nsɔhwɛ mu.,Mmɔfra ne sukuufo mpanyimfoɔ nyaa pɛ wɔ wɔn nsɔhwɛ mu.,entailment
+Nsonsonoeɛ biara enni sukuufoɔ ketewa ne mpanyimfo wɔ mmɔdenbɔ ho nsɔhwɛ mu.,Mmɔfra ne sukuufo mpanyimfoɔ a wɔn mfe yɛ ade titiriw nti wɔn nsonsonoeɛ yɛ soronko.,contradiction
+Darwin hyɛ  abrabɔ ase wɔ hɔ deda. ,Darwin hyɛɛ ase de n'adwene sii nsuomnam so. ,neutral
+Darwin hyɛ  abrabɔ ase wɔ hɔ deda. ,Darwin hyɛɛ ase wɔ abrabɔ a na ɛwɔ hɔ deda.,entailment
+Darwin hyɛ  abrabɔ ase wɔ hɔ deda. ,Darwin de n'adwene sii so sɛ ɔrɛsua nneɛma a awu nkoaa.,contradiction
+"Ade pɔtɛɛ a ɛtaa de ba ne mmofra wɔn sua paa ne mmofraberemu a wonnim sukuu yie yɛ otitis dawurubɔ dwuma a ɛsi so bio, anaase, anaase mfinimfini aso mu yare.",Mfinimfini aso mu nyareɛ yɛ ade a ɛtaa yɛ mmofra.,entailment
+"Ade pɔtɛɛ a ɛtaa de ba ne mmofra wɔn sua paa ne mmofraberemu a wonnim sukuu yie yɛ otitis dawurubɔ dwuma a ɛsi so bio, anaase, anaase mfinimfini aso mu yare.",Otitis dawurubɔ yɛ nwanwa wɔ bere a mmofra wɔrekɔ sukuu.,contradiction
+"Ade pɔtɛɛ a ɛtaa de ba ne mmofra wɔn sua paa ne mmofraberemu a wonnim sukuu yie yɛ otitis dawurubɔ dwuma a ɛsi so bio, anaase, anaase mfinimfini aso mu yare.",Na mmofra dodow benya mfinimfini aso mu yareɛ.,neutral
+Bere a sɛ ɔmanfo akuo yɛ asoɔden a dadwene a ɛmfata tumi se.,Adwene a ɛmfata ahoyera no wɔ ɛfam se ɔmanfo kuo bu wiani gu su.,entailment
+Bere a sɛ ɔmanfo akuo yɛ asoɔden a dadwene a ɛmfata tumi se.,Adwene a ɛmfata agye din paa sɛ ɔmanmu nipa dodoɔ a ɔmanfo akuo abu wɔn ani agu wɔn so.,contradiction
+Bere a sɛ ɔmanfo akuo yɛ asoɔden a dadwene a ɛmfata tumi se.,Adwene a ɛmfata na ɔmanfo akuo dodoɔ abu wɔn ani gu so.,neutral
+"Ampa, neama yehia no yɛ ɔkwan a wɔfa so de hyehyɛ adi a yedi siesie wɔ ewiase a emu nyɛ pɛ. ",Yɛ hia ahyɛnsodeɛ a ebɛ kyerɛ yɛn sɛ akuo no abɔ mmɔden. ,neutral
+"Ampa, neama yehia no yɛ ɔkwan a wɔfa so de hyehyɛ adi a yedi siesie wɔ ewiase a emu nyɛ pɛ. ",Ɛho hia sɛ yɛde din to ahyɛnsodeɛ no so.,entailment
+"Ampa, neama yehia no yɛ ɔkwan a wɔfa so de hyehyɛ adi a yedi siesie wɔ ewiase a emu nyɛ pɛ. ",Ɛho nhia sɛ yɛbɛnya ahyɛnsodeɛ biara.,contradiction
+Na ɔde n'asɛm no kɔdan Lord Julian.,Na ɔpe sɛ obisa Lord Julian biribi.,entailment
+Na ɔde n'asɛm no kɔdan Lord Julian.,Na ɔpe sɛ obisa Lord Julian sɛ wɔbegyae ni yere.,neutral
+Na ɔde n'asɛm no kɔdan Lord Julian.,Wonhuu Lord Julian wɔ baabiara.,contradiction
+Na Jeremy Pitt yi ano serew ne ntam.,Jeremy Pitt gyee ne sere no so ne sere kakraa bi na wɔtoo twɛdeɛ bɔɔ ɔserefo no anim.,contradiction
+Na Jeremy Pitt yi ano serew ne ntam.,Jeremy Pitt di nse sɛ wɔbɛko ama no ɔman ne ne hemmaa.,neutral
+Na Jeremy Pitt yi ano serew ne ntam.,Obi sereeɛ wɔ Jeremy Pitt nkyɛn.,entailment
+"Pitt, hwɛɛ nea ɛkɔɔ so no keteke kwan, ka kyerɛ yɛn sɛ onimuonyamfoɔ na emu yɛ duru te sɛ nipa a wɔsɛn ɔno.",Pitt nhuu ne onimuonyamfoɔ no da na ne ho yɛ den te sɛ nea na ɔte saa bere no.,neutral
+"Pitt, hwɛɛ nea ɛkɔɔ so no keteke kwan, ka kyerɛ yɛn sɛ onimuonyamfoɔ na emu yɛ duru te sɛ nipa a wɔsɛn ɔno.",Pitt di nse sɛ wɛnhuu dea ɛsi yɛ no.,contradiction
+"Pitt, hwɛɛ nea ɛkɔɔ so no keteke kwan, ka kyerɛ yɛn sɛ onimuonyamfoɔ na emu yɛ duru te sɛ nipa a wɔsɛn ɔno.",Na Pitt wɔ hɔ na ne onimuonyamfo aniabere wɔ beaeɛ hɔ no.,entailment
+"Na ɔsraafo panin gye tum, na ɔbrɛɛ ne ho ase, oyii ne kyɛ kɛse no.",Na ɔsraafo panin no gyee n'abasɔbɔdeɛ fri kurow sohwɛfoɔ a ɔfri New York City. ,neutral
+"Na ɔsraafo panin gye tum, na ɔbrɛɛ ne ho ase, oyii ne kyɛ kɛse no.",Na ɔsraafo panin no poo deɛ na wɔde rema no no na ogyaa ne kyɛ no too hɔ sɛ asoɔden ho nsɛnkyerɛnne.,contradiction
+"Na ɔsraafo panin gye tum, na ɔbrɛɛ ne ho ase, oyii ne kyɛ kɛse no.",Na ɔsraafo panin no hyɛ kyɛ.,entailment
+"Wɔwɔ ho tumi sɛ wobɛkasa atia me efisɛ sɛ m'ahu sɛ wonsa ho nte koraa, mengye wo nsa; bere a minim sɛ woyɛ owudini ne wonnyɛ? Na ɔhwɛɛ no dinn a na n'ano abue.",Na ogyedi sɛ amumuyɛ kɔ sɔ na na ebetumi ayɛ nnipadɔm kum.,neutral
+"Wɔwɔ ho tumi sɛ wobɛkasa atia me efisɛ sɛ m'ahu sɛ wonsa ho nte koraa, mengye wo nsa; bere a minim sɛ woyɛ owudini ne wonnyɛ? Na ɔhwɛɛ no dinn a na n'ano abue.",Ɔpaw sɛ ɔrennye ne nsa efisɛ amumuyɛ bi agu wɔn ho fi.,entailment
+"Wɔwɔ ho tumi sɛ wobɛkasa atia me efisɛ sɛ m'ahu sɛ wonsa ho nte koraa, mengye wo nsa; bere a minim sɛ woyɛ owudini ne wonnyɛ? Na ɔhwɛɛ no dinn a na n'ano abue.","Ɔpaw sɛ ɔbɛ ye ne nsa efisɛ wɔyɛ ketewa, nketenkete, ne nea ɛsen ne nyinaa no, ahote.",contradiction
+"Na wɔmaa no kwan pefee a na ɔsusu sɛ ɛyɛ ɔdomfo no, aberante a ne ho yɛ fɛ a ofri St. James, Lord Julian Wade, na ɔde ne bere nyinaa esom no.",Lord Julian fri St. James.,entailment
+"Na wɔmaa no kwan pefee a na ɔsusu sɛ ɛyɛ ɔdomfo no, aberante a ne ho yɛ fɛ a ofri St. James, Lord Julian Wade, na ɔde ne bere nyinaa esom no.",Na ɔno ne Lord Julian Wade fee wɔn ano anadwo a etwaam no.,neutral
+"Na wɔmaa no kwan pefee a na ɔsusu sɛ ɛyɛ ɔdomfo no, aberante a ne ho yɛ fɛ a ofri St. James, Lord Julian Wade, na ɔde ne bere nyinaa esom no.",Ɔdɔ Lord Julian Wade na ɛmfa ho sɛ na ɔyɛ basabasa.,contradiction
+"Nanso... nanso... fa saa suhyen yi...? Na ɔsraani no kyerɛe sɛ onni tumi, na, na etɔɔ no adwenedwene, na prɛko pɛ wɔyɛ komm.","Dwumadibea teɛɛm simma pii, hyɛ abufuo ne kɛtɛasehyɛ a ɛwɔ n'ahyɛn no so.",contradiction
+"Nanso... nanso... fa saa suhyen yi...? Na ɔsraani no kyerɛe sɛ onni tumi, na, na etɔɔ no adwenedwene, na prɛko pɛ wɔyɛ komm.",Na ɔsraani no adwene yɛ naa wɔ dea na ɛrekɔ so wɔ suhyɛn no mu.,entailment
+"Nanso... nanso... fa saa suhyen yi...? Na ɔsraani no kyerɛe sɛ onni tumi, na, na etɔɔ no adwenedwene, na prɛko pɛ wɔyɛ komm.",Na ɔsraani hodwiri no wɔ dea na nnyansa biara nim sɛ a ɔfee guu nkatasoɔ no so.,neutral
+"Wɔye Lord Julian Wade, mate aseɛ, ne ne nkyia a ɛmfata no.",Lord Julian Wade maa no nkyia a emu yɛ hye na ɛyɛ anigye. ,contradiction
+"Wɔye Lord Julian Wade, mate aseɛ, ne ne nkyia a ɛmfata no.",Lord Julian Wade gyee afoforo wɔ nteteeɛ pa so na wobesusu ho sɛ ɛmfata no.,entailment
+"Wɔye Lord Julian Wade, mate aseɛ, ne ne nkyia a ɛmfata no.","Ɛwom sɛ nnipa dodoɔ bɔ mmɔden sɛ wɔbɛbɛn no, na Lord Wade taa yɛ obi a onni tema ne atenka.",neutral
+Mary Traill bɛka akyerɛ wo. ,Mary Traill betumi aka afunumu no akyerɛ wo.,neutral
+Mary Traill bɛka akyerɛ wo. ,Mary Traill nim asɛm no ho bi. ,entailment
+Mary Traill bɛka akyerɛ wo. ,Mepɛ na minim ho asɛm.,contradiction
+"Wɔbekum saa ɔbɔnefoɔ yi wɔ Port Royal. Anka na Blood pɛ sɛɛ ogye gyina mu ma no, nanso Lord Julian sii no kwan.",Blood yɛ amanaman abɔnefoɔ adwumakuo a ɛwɔ Port Royal a Lord Julian ama wɔn pinii wɔ mmara no a ɛmfata.,contradiction
+"Wɔbekum saa ɔbɔnefoɔ yi wɔ Port Royal. Anka na Blood pɛ sɛɛ ogye gyina mu ma no, nanso Lord Julian sii no kwan.","Lord Julian ɔman asase no bi ne Port Royal, na ɛyɛ kurow a wɔdi dwa a ɛyɛ mpɔtam bebia wɔyɛ ndwuma wɔ hɔ.",neutral
+"Wɔbekum saa ɔbɔnefoɔ yi wɔ Port Royal. Anka na Blood pɛ sɛɛ ogye gyina mu ma no, nanso Lord Julian sii no kwan.",Port Royal wɔ nhyehyie a wɔ betumi de atwe abɔnefoɔ aso.,entailment
+"Ɛnyɛ Ɔsɔfopɔn  ankasa, Wolverstone kaa sɛ, wɔ asɛmmisa ne nsɛmmisa ntam.",Wolverstone abisa asɛm bi a na ɛkyerɛ sɛ na ɔyɛ obi a ɔpɛ afoforɔ asɛm paa.,entailment
+"Ɛnyɛ Ɔsɔfopɔn  ankasa, Wolverstone kaa sɛ, wɔ asɛmmisa ne nsɛmmisa ntam.",Wolverstone abɔ Ɔsɔfopɔn din sɛ ɔyɛ obi a ne ho yɛ fɛ paa.,neutral
+"Ɛnyɛ Ɔsɔfopɔn  ankasa, Wolverstone kaa sɛ, wɔ asɛmmisa ne nsɛmmisa ntam.",Wolverstone anka bibiara anfa Ɔsɔfopɔn no ho. ,contradiction
+"Na so wubegyae atuateɛ, nipakum, ne asraafo asɛmnibea no? Blood hyɛ no kyɛ no, ɔtraa ase na wenbisa no hwee.",Blood wɔ ɛkyɛ a ɔhyɛ ansa na woatena ase.,entailment
+"Na so wubegyae atuateɛ, nipakum, ne asraafo asɛmnibea no? Blood hyɛ no kyɛ no, ɔtraa ase na wenbisa no hwee.","Blood ahyɛ no kyɛ, na wufri dan no mu a wanka hwee. ",contradiction
+"Na so wubegyae atuateɛ, nipakum, ne asraafo asɛmnibea no? Blood hyɛ no kyɛ no, ɔtraa ase na wenbisa no hwee.","Na Blood kyɛ no yɛ tumm, na ɔkɔdeɛ ntakra miensa wo ho. ",neutral
+Neɛma no nkɔ yiye mma no koraa wɔ bosome a atwam ɛfiri bere a ɔgyee tuum ɔbɛyɛ ɔhene adwuma no. ,Na ɔdaa hɔ komm anadwo no a na onim sɛ wapoo ɔhene ahyɛdeɛ no.,contradiction
+Neɛma no nkɔ yiye mma no koraa wɔ bosome a atwam ɛfiri bere a ɔgyee tuum ɔbɛyɛ ɔhene adwuma no. ,Adea ɛmaa no daa hɔ anadwo ne sɛ ɔgyee pene wɔ adwuma a Ɔhene no de maa no.,entailment
+Neɛma no nkɔ yiye mma no koraa wɔ bosome a atwam ɛfiri bere a ɔgyee tuum ɔbɛyɛ ɔhene adwuma no. ,Na Ɔhene no asoeɛ no agye din yie a ne dibea som bo a asɛdeɛ bebree wom.,neutral
+"Na wɔn wɔ baabi a ɛbɛn, Ogle suiɛ. ",Ogle kaa sɛ na wɔn nso bɛtumi adu nkyɛn. ,entailment
+"Na wɔn wɔ baabi a ɛbɛn, Ogle suiɛ. ",Ogle kaa sɛ wɔwɔ akyirikyiri.,neutral
+"Na wɔn wɔ baabi a ɛbɛn, Ogle suiɛ. ","Ɛwom sɛ na wonim sɛ wɔn wɔ baabi a ɛbɛn, Ogle de hyɛɛ ne ho. ",contradiction
+"Ɔsahen Blood, masoma sɛ wɔn ba bɛfrɛ wo, ɛfiri sɛ nsɛm bi aba m'anim.","Mente asɛm biara, Ɔsahen Blood. So woate anaa?",contradiction
+"Ɔsahen Blood, masoma sɛ wɔn ba bɛfrɛ wo, ɛfiri sɛ nsɛm bi aba m'anim.","Minyaa amanneɛbɔ bi ansa na mereba befrɛ wo, Ɔsahen  Blood.",entailment
+"Ɔsahen Blood, masoma sɛ wɔn ba bɛfrɛ wo, ɛfiri sɛ nsɛm bi aba m'anim.",Na amanneɛbɔ a minyaa no ma mehodwiri me.,neutral
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wobetumi hu nkodoɔ wɔ bepɔ no so.,neutral
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wobetumi hu mpoano wɔ bepɔ no so.,entailment
+"Bere noa ɔhwehwɛ nneɛma yi akyi no, wɔfro mmepɔ no kɔ Asraafoɔ Efie, baabi a wubehu mpoano a atwa ho ahyia ne ehyɛn gyinabea nwonworann a aka nyinaa.",Wontumi nhu mpoano firi bepɔ no atifi.,contradiction
+"American Anafoɔ asasetam no akyi no, wubehu Aduhwam Afididwumabea, baabi a wubetumi ayɛ w'ankasa aduhwam.",Aduhwam mfididwumabea ayɛ ɛdwuma firi 1954.,neutral
+"American Anafoɔ asasetam no akyi no, wubehu Aduhwam Afididwumabea, baabi a wubetumi ayɛ w'ankasa aduhwam.",Aduhwam mfididwumabea wɔ Anafoɔ Abibiman mpɔtam akyi.,entailment
+"American Anafoɔ asasetam no akyi no, wubehu Aduhwam Afididwumabea, baabi a wubetumi ayɛ w'ankasa aduhwam.",Aduhwam mfididwumabea wɔ Anafoɔ Abibiman mpɔtam anim.,contradiction
+"Awerɛhyɛmu sɔree, na ɛsan baa ɛfam, a ɛboro Bahamian ankaa ne aborɔbɛ. ","Ɛwom sɛ aborɔbɛ yɛ dɛ paa, na nuo so akwantu no ho ka yɛ kɛse paa sɛ wɔde bɛba edwom.",neutral
+"Awerɛhyɛmu sɔree, na ɛsan baa ɛfam, a ɛboro Bahamian ankaa ne aborɔbɛ. ","Bahamian ankaa yɛ nkɔsoɔ kɛseɛ, sɛ nea na obiara aka ato hɔ no.",contradiction
+"Awerɛhyɛmu sɔree, na ɛsan baa ɛfam, a ɛboro Bahamian ankaa ne aborɔbɛ. ",Bahamian ankaa nyɛ papa sɛnea na obiara rehwɛ kwan.,entailment
+"Nne no, bi ye mmiensa km (akwansin mmienu) wɔ nkyekyɛmu mmienu, na wosusu sɛ ɛyɛ tokuro kɛseɛ a ɛyɛ ogya bepɔ a apae dindindiiin.","Akwansin mmienu dede ebetumi aba sɛ nea ɛma nneɛma pii esi, ogya bepɔw a apae ka ho.",neutral
+"Nne no, bi ye mmiensa km (akwansin mmienu) wɔ nkyekyɛmu mmienu, na wosusu sɛ ɛyɛ tokuro kɛseɛ a ɛyɛ ogya bepɔ a apae dindindiiin.",Akwansin mmienu dede ankasa entumi emfa ogya pae bepɔw mba.,contradiction
+"Nne no, bi ye mmiensa km (akwansin mmienu) wɔ nkyekyɛmu mmienu, na wosusu sɛ ɛyɛ tokuro kɛseɛ a ɛyɛ ogya bepɔ a apae dindindiiin.",Ɛbɛyɛ sɛ akwansin mmienu dede tumi di ogya pae bepɔw ba.,entailment
+"Na ɛhɔ de, nneɛma yɛ bɔkɔɔ, na kasa mu haw betumi ahaw wɔ, nanso wubetumi ahu Chinafo agyapade a wɔde di adwuma.",Ɛyɛ adwempa sɛ wubenya nsɛm asekyerɛfo bi aka wo ho.,neutral
+"Na ɛhɔ de, nneɛma yɛ bɔkɔɔ, na kasa mu haw betumi ahaw wɔ, nanso wubetumi ahu Chinafo agyapade a wɔde di adwuma.",Kasa mu ɔhaw bi wɔ hɔ a ebetumi ama woabɔ hu.,entailment
+"Na ɛhɔ de, nneɛma yɛ bɔkɔɔ, na kasa mu haw betumi ahaw wɔ, nanso wubetumi ahu Chinafo agyapade a wɔde di adwuma.","Ɛnhaw wɔ hɔ ndwendwen ɔhaw kasa yi no, na obiara ka Borɔfo.",contradiction
+"Na Greecefo wɔ Loannis Metaxas asraafoɔ adaadaafoɔ som mu efi 1936 kosi 1940, wɔkaeɛ anwonwadi  kɛse echi (daabi)  na ɔdi anoyie ma Mussolini na wɔma no mmre a wɔbe gyae wɔ 1940.",Asraafoɔ adaadaafoɔ bi ndi Greece so da.,contradiction
+"Na Greecefo wɔ Loannis Metaxas asraafoɔ adaadaafoɔ som mu efi 1936 kosi 1940, wɔkaeɛ anwonwadi  kɛse echi (daabi)  na ɔdi anoyie ma Mussolini na wɔma no mmre a wɔbe gyae wɔ 1940.",Greece yɛ ɔman baako wɔ wiase a wɔn wɔ adaadaafoɔ. ,entailment
+"Na Greecefo wɔ Loannis Metaxas asraafoɔ adaadaafoɔ som mu efi 1936 kosi 1940, wɔkaeɛ anwonwadi  kɛse echi (daabi)  na ɔdi anoyie ma Mussolini na wɔma no mmre a wɔbe gyae wɔ 1940.",Greece sikasɛm anyɛ yie wɔ Metaxas asraafoɔ adaadaafoɔ ase.,neutral
+Wɔhwɛ sɛnea Sant Pau's Romanesque ntwerɛ no yɛ tiawa no yɛ anigye nsakrae a efi Barcelona modernisme yɛ ahoɔdenneɛ a ɛboro so ne Gothic adansi ho ahintasɛm.,Sant Pau nni Romanesque nsaneeɛ.,contradiction
+Wɔhwɛ sɛnea Sant Pau's Romanesque ntwerɛ no yɛ tiawa no yɛ anigye nsakrae a efi Barcelona modernisme yɛ ahoɔdenneɛ a ɛboro so ne Gothic adansi ho ahintasɛm.,Sant Pau wɔ Romanesque nsaneeɛ.,entailment
+Wɔhwɛ sɛnea Sant Pau's Romanesque ntwerɛ no yɛ tiawa no yɛ anigye nsakrae a efi Barcelona modernisme yɛ ahoɔdenneɛ a ɛboro so ne Gothic adansi ho ahintasɛm.,Sant Pau wɔ nsɔre.,neutral
+Na ɛfirii hɔ ntɛmntɛm ara.,Ehu tumi ka no wɔ bere a obi atu anammɔntuo prɛko.,neutral
+Na ɛfirii hɔ ntɛmntɛm ara.,"Esoro nim, na bibiara nni hɔ a ɛbɛka no. ",contradiction
+Na ɛfirii hɔ ntɛmntɛm ara.,Anamɔn kakra na ɛno ara; na ɛkɔ. ,entailment
+Wɔhwɛ kwan sɛ wobe siesie adwuma no pii wɔ afe 2001 awiei.,Adwuma nsakraeɛ nhyehyɛe yi bɛba awie ansa na afe 2001 ahyɛ aseɛ.,contradiction
+Wɔhwɛ kwan sɛ wobe siesie adwuma no pii wɔ afe 2001 awiei.,Adwuma nsakraeɛ nhyehyɛe entumi ba ɛwie kɔsi sɛ afe 2000 bɛba awieɛ.,entailment
+Wɔhwɛ kwan sɛ wobe siesie adwuma no pii wɔ afe 2001 awiei.,"Bere a nsakraeɛ nhyehyɛe ba awieɛ no, na ebetumi adi afe num.",neutral
+"Adwumayɛfoɔ no yɛ nhyehyɛe sɛ wɔbɛma flamingos adɔɔso wɔ U.S. Virgin asase a nsuo atwa ho ahyia, na wɔnnya mmoakuo ketewa wɔ ha a wobetumi awo wɔ afe biara.",Adwumayɛfoɔ no bɔ mmɔden sɛ wobeyi flamingos ɛfiri hɔ.,contradiction
+"Adwumayɛfoɔ no yɛ nhyehyɛe sɛ wɔbɛma flamingos adɔɔso wɔ U.S. Virgin asase a nsuo atwa ho ahyia, na wɔnnya mmoakuo ketewa wɔ ha a wobetumi awo wɔ afe biara.",Adwumayɛfoɔ no bɔ mmɔden sɛ wɔbɛma flamingos adɔɔso wɔ asase a nsuo atwa ho ahyia enti wobetumi afiri aseɛ ntɛm mu.,neutral
+"Adwumayɛfoɔ no yɛ nhyehyɛe sɛ wɔbɛma flamingos adɔɔso wɔ U.S. Virgin asase a nsuo atwa ho ahyia, na wɔnnya mmoakuo ketewa wɔ ha a wobetumi awo wɔ afe biara.",Adwumayɛfoɔ no bɔ mmɔden sɛ wɔbɛma flamingos adɔɔso wɔ asase a nsuo atwa ho ahyia. ,entailment
+Mmepɔ dennen a ɛwɔ Serra de Tramuntana na ɛretwe akɔ po mu ma ayɛ den sɛ ɛkwan kakraa bi wɔ hɔ a wotumi afa so na ɛhyɛn gyinabea baako pɛ na ɛwɔ mpoano.,Mmepɔ no wɔ hɔ bere biaara a ɛnyɛ mmerɛ a asasewosoɔ besi wɔ hɔ.,neutral
+Mmepɔ dennen a ɛwɔ Serra de Tramuntana na ɛretwe akɔ po mu ma ayɛ den sɛ ɛkwan kakraa bi wɔ hɔ a wotumi afa so na ɛhyɛn gyinabea baako pɛ na ɛwɔ mpoano.,Mmepɔ ma no yɛ den sɛ wɔbɛsi suhyɛn gyinabea.,entailment
+Mmepɔ dennen a ɛwɔ Serra de Tramuntana na ɛretwe akɔ po mu ma ayɛ den sɛ ɛkwan kakraa bi wɔ hɔ a wotumi afa so na ɛhyɛn gyinabea baako pɛ na ɛwɔ mpoano.,Suhyɛn gyinabea aduonu nson na ɛwɔ mmepɔ no so.,contradiction
+Na wonim Culebra sɛɛ wɔyɛ Spanish Virgin Island kosii sɛ Amerikafo bɛfaa yɛ na ɛda Puerto Rico ne St. Thomas wɔ US Virgin Islands.,Culebra wɔ Puerto Rico ne St. Thomas a ɛwɔ U.S. Virgin Islands.,entailment
+Na wonim Culebra sɛɛ wɔyɛ Spanish Virgin Island kosii sɛ Amerikafo bɛfaa yɛ na ɛda Puerto Rico ne St. Thomas wɔ US Virgin Islands.,Culebra enbɛn Puerto Rico ne St. Thomas a ɛwɔ U.S. Virgin Islands.,contradiction
+Na wonim Culebra sɛɛ wɔyɛ Spanish Virgin Island kosii sɛ Amerikafo bɛfaa yɛ na ɛda Puerto Rico ne St. Thomas wɔ US Virgin Islands.,Culebra wɔ baabi a Puerto Rico ne St. Thomas ɛwɔ wɔ U.S. Virgin Islands.,neutral
+"Umeda hyɛ atifi fam adwuma no ase ne anigyedeɛ mansini wɔfrɛ no Kita (asekyerɛ sɛ Atifi), na ɛyɛ kuro foforɔ Osaka a ɛyɛ bodwabodwa ne ahokeka.",Umeda nyɛ anigyebia mansini no fa bi. ,contradiction
+"Umeda hyɛ atifi fam adwuma no ase ne anigyedeɛ mansini wɔfrɛ no Kita (asekyerɛ sɛ Atifi), na ɛyɛ kuro foforɔ Osaka a ɛyɛ bodwabodwa ne ahokeka.",Umeda yɛ ɛfa kɛseɛ wɔ anigyede mansini. ,neutral
+"Umeda hyɛ atifi fam adwuma no ase ne anigyedeɛ mansini wɔfrɛ no Kita (asekyerɛ sɛ Atifi), na ɛyɛ kuro foforɔ Osaka a ɛyɛ bodwabodwa ne ahokeka.",Umeda yɛ anigyebia mansini no atifi fam.,entailment
+"Brahma yɛ Hindufo baasakoro fa nnipa a ɔto so mmiensa, a n'adwuma baako pɛ ne sɛ ɔbɛbɔ ewiase.",Brahma yɛ Kristofoɔ asomafoɔ.,contradiction
+"Brahma yɛ Hindufo baasakoro fa nnipa a ɔto so mmiensa, a n'adwuma baako pɛ ne sɛ ɔbɛbɔ ewiase.",Brahma yɛ Hindufo baasakoro fa.,entailment
+"Brahma yɛ Hindufo baasakoro fa nnipa a ɔto so mmiensa, a n'adwuma baako pɛ ne sɛ ɔbɛbɔ ewiase.",Brahma yɛ adea ɛho hia ma baasakoro fa.,neutral
+"Pedro faa ahennwa no, nanso akodi kɔɔ so wɔ abosome pii ne yawdie akyi a akyɛ yiye paa.",Nnipa mpem du na owui wɔ ɔko no mu. ,neutral
+"Pedro faa ahennwa no, nanso akodi kɔɔ so wɔ abosome pii ne yawdie akyi a akyɛ yiye paa.",Ɔko no dii bosome pii. ,entailment
+"Pedro faa ahennwa no, nanso akodi kɔɔ so wɔ abosome pii ne yawdie akyi a akyɛ yiye paa.",Ɔko no baa ewieɛ dakoro pɛ mu,contradiction
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,"Wotumi kaa nnipa ahoɔden mmoa ho nhyehyeɛ no bɔɔ mu nti, ɛkwan bɛ daa hɔ de ma adwuma nhyehyeɛ afoforɔ.",neutral
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,Wɔhyɛɛ adwuma nhyehyɛeɛ afoforɔ ase.,entailment
+Wɔkaa  nnipa ahoɔden mmoa ho nhyehyeɛ no nyinaa bɔɔ mu na wɔde adwuma nhyehyeɛ foforo bɛtoo dwa sɛneɛ wobetumi akɔso aboa wɔn adetɔfoɔ bebree no.,Wɔtrɛɛ mmoa a ɛgyina nnipa ahoɔden so nhyehyeɛ no mu kyɛn deɛ na ɛteɛ deda no.,contradiction
+Akwan a yɛfa so de nya sika no betumi akɔ kan mmom nso sika wɔ hɔ ma saa adwuma yi.,Mmoa a ɛhia wɔhɔ ma saa nnwuma yi.,entailment
+Akwan a yɛfa so de nya sika no betumi akɔ kan mmom nso sika wɔ hɔ ma saa adwuma yi.,Sika biara nni hɔ ma adwuma no.,contradiction
+Akwan a yɛfa so de nya sika no betumi akɔ kan mmom nso sika wɔ hɔ ma saa adwuma yi.,Sika no a ɛwɔ ho no ntumi nso adwuma no yɛ.,neutral
+Nkontabuo a ɛfa nkuraseɛ akwan a ɔdaa no edi wɔ saa krataa yi mu no gyina 1989 Ɔman Nkratoɔ Akenkan nhwehwɛmu no so.,Nkontabuo no a ɛwɔ saa krataa yi mu no gyina 2001 amannebɔ bi so.,contradiction
+Nkontabuo a ɛfa nkuraseɛ akwan a ɔdaa no edi wɔ saa krataa yi mu no gyina 1989 Ɔman Nkratoɔ Akenkan nhwehwɛmu no so.,Nkontabuo no a ɛwɔ saa krataa yi mu atwa mu.,neutral
+Nkontabuo a ɛfa nkuraseɛ akwan a ɔdaa no edi wɔ saa krataa yi mu no gyina 1989 Ɔman Nkratoɔ Akenkan nhwehwɛmu no so.,Saa krataa yi wɔ asɛm a ɛfa nkuraseɛ akwan ho.,entailment
+Mpaninfoɔ no tumi nya nsusuiɛ bi te sɛ ntamgyinafo anaa nkuguo wɔ ɔfa bi biara ho.,Biribiara a wɔbegyina so de asɔ mpaninfoɔ no ahwɛ no betumi de nsusuhoo ahodoɔ aba.,entailment
+Mpaninfoɔ no tumi nya nsusuiɛ bi te sɛ ntamgyinafo anaa nkuguo wɔ ɔfa bi biara ho.,Mpaninfoɔ no ɛntumi ndi nkoguo.,contradiction
+Mpaninfoɔ no tumi nya nsusuiɛ bi te sɛ ntamgyinafo anaa nkuguo wɔ ɔfa bi biara ho.,Ɛwɔ sɛ mpapninfoɔ no nya nsusuhoo bi a ɛkɔ enim sɛ wɔpɛ sɛ wɔtoa so a.,neutral
+Asɛmpɔ a wɔdi ho nkɔmo wɔ ntoatoano a edi kan no mu ne ɔkwan a efiefie no gye dawurubɔ nkratoɔ no to mu.,Ntawantawa wɔ ntoatoano a ɛdi kan no mu no mma wonnya adwuma no.,neutral
+Asɛmpɔ a wɔdi ho nkɔmo wɔ ntoatoano a edi kan no mu ne ɔkwan a efiefie no gye dawurubɔ nkratoɔ no to mu.,Ntoatoano a ɛdi kan no ɛnka biribiara ɛnfa dahurubɔ nkratoɔ no ho.,contradiction
+Asɛmpɔ a wɔdi ho nkɔmo wɔ ntoatoano a edi kan no mu ne ɔkwan a efiefie no gye dawurubɔ nkratoɔ no to mu.,Ntoatoano a ɛdi kan no ka biribi kakra fa ɔkwan a amanfoɔ gye dahurubɔ nkratoɔ no to mu ho.,entailment
+Wɔbu 189 ne nipa a ɔde di dwuma ɛka wɔ ɔkwan baako no ara so.,Wɔbɔɔ wɔn tiri mu faa nipa a ɔde di dwuma ɛka no ho.,entailment
+Wɔbu 189 ne nipa a ɔde di dwuma ɛka wɔ ɔkwan baako no ara so.,Wɔbɔɔ wɔn tiri mu sɛ nipa a ɔde di dwuma ɛka no yɛ $10000.,neutral
+Wɔbu 189 ne nipa a ɔde di dwuma ɛka wɔ ɔkwan baako no ara so.,Na wɔnim ɛka pɔtee a ɛfa nipa a ɔde de di dwuma no ho.,contradiction
+"Nfatohoɔ yi mu, ɛwɔ GGD mu, adwinnie ho adesua bi kɔɔso te sɛ adwuma a ate ne ho, a ɛko wie mpɛmpɛnso kɛseɛ",Adwinnie adesua biara ankɔso da.,contradiction
+"Nfatohoɔ yi mu, ɛwɔ GGD mu, adwinnie ho adesua bi kɔɔso te sɛ adwuma a ate ne ho, a ɛko wie mpɛmpɛnso kɛseɛ",Adwinnie adesua bi kɔɔso wɔ kokoam.,entailment
+"Nfatohoɔ yi mu, ɛwɔ GGD mu, adwinnie ho adesua bi kɔɔso te sɛ adwuma a ate ne ho, a ɛko wie mpɛmpɛnso kɛseɛ",Adwinnie adesua no ɛnwie pɛ yɛ.,neutral
+Nnwuma nkron a ɛɛgye so no nyiaa no kyerɛ sɛ ahokeka wɔ,Mmienu pɛ a ɛwɔ adwuma nkron no mu na ɛma no haa wɔn mpo sɛ wɔbɛgye nsɛmmisa a ɛfa ahokeka no ho so.,contradiction
+Nnwuma nkron a ɛɛgye so no nyiaa no kyerɛ sɛ ahokeka wɔ,Na ɔwɔ nnwuma nkron a ɔgyee so yiw sɛ wɔde wɔnho hyɛɛ dwumadie no mu.,entailment
+Nnwuma nkron a ɛɛgye so no nyiaa no kyerɛ sɛ ahokeka wɔ,Saa nnwuma nkron yi ani agye sɛ na wɔn ahokeka no wɔ soro paa.,neutral
+"Firi 1996 no, efiefie ahonya ne sikasɛm nfatohoo no akɔ sro ntɛm paara na ne mpɛnpɛnsoɔ yɛ 6.4 wɔ 1999 mu.",Efiefie nyinaa nyaa $10000 bebree sene afe deda no mu.,neutral
+"Firi 1996 no, efiefie ahonya ne sikasɛm nfatohoo no akɔ sro ntɛm paara na ne mpɛnpɛnsoɔ yɛ 6.4 wɔ 1999 mu.",Efiefie ɛrehwere ahonya kɛseɛ paa.,contradiction
+"Firi 1996 no, efiefie ahonya ne sikasɛm nfatohoo no akɔ sro ntɛm paara na ne mpɛnpɛnsoɔ yɛ 6.4 wɔ 1999 mu.",Efiefie enya ahonya ne sikasɛm nfatohoo a ɛboro so yie.,entailment
+"Wɔ gyinapɛn-ketewa kwan no mu no, adwumakyɛ ne nnyinasoɔ nkyekyɛmu no biara nya ɔha nkyemu ka foforo de ka ɛka ho, sɛneɛ wɔbetumi anya ɛboɔ a wɔnya no deda no ara.",Nnyinasoɔ nkyekyɛmu no boro ɛka no so.,entailment
+"Wɔ gyinapɛn-ketewa kwan no mu no, adwumakyɛ ne nnyinasoɔ nkyekyɛmu no biara nya ɔha nkyemu ka foforo de ka ɛka ho, sɛneɛ wɔbetumi anya ɛboɔ a wɔnya no deda no ara.",Ɛboɔ no boro ɛka no so ɔha mu du.,neutral
+"Wɔ gyinapɛn-ketewa kwan no mu no, adwumakyɛ ne nnyinasoɔ nkyekyɛmu no biara nya ɔha nkyemu ka foforo de ka ɛka ho, sɛneɛ wɔbetumi anya ɛboɔ a wɔnya no deda no ara.",Ɛboɔ no wɔ fam kyɛn ɛka no daa.,contradiction
+"Yɛnfa no sɛ bosome ɛnan a wɔde yɛɛ adwuma ansa na ɔrenya kɔntraagye no, anka mmere tenten a ɛbehia no nyinaa yɛ bosome du mmiɛnsa ansa na watumi esisie saa 675 MVe efidie a yɛde ka adeɛ hye yi.",Wɔde bosome mmienu pɛ na ɛbesiesie no.,contradiction
+"Yɛnfa no sɛ bosome ɛnan a wɔde yɛɛ adwuma ansa na ɔrenya kɔntraagye no, anka mmere tenten a ɛbehia no nyinaa yɛ bosome du mmiɛnsa ansa na watumi esisie saa 675 MVe efidie a yɛde ka adeɛ hye yi.",Wɔde bosome du mmiɛnsa pɛ na ɛbesiesie efidie a wɔde ka adeɛ hye no de maa asuo ase hyɛn no.,neutral
+"Yɛnfa no sɛ bosome ɛnan a wɔde yɛɛ adwuma ansa na ɔrenya kɔntraagye no, anka mmere tenten a ɛbehia no nyinaa yɛ bosome du mmiɛnsa ansa na watumi esisie saa 675 MVe efidie a yɛde ka adeɛ hye yi.",Wɔde bosome du mmiɛnsa pɛ na ɛbesiesie efidie a wɔde ka adeɛ hye no.,entailment
+Abɛɛfo ho nimdeɛ adwumayɛfoɔ a ɔndɔɔso wɔ ɛnnɛ dwam no ka ho nti na nnwuma kɔpɛ nnwumayɛfoɔ wɔ abɔnten.,Abɛɛfo ho nimdeɛ adwumayɛfoɔ no dɔɔso paara.,contradiction
+Abɛɛfo ho nimdeɛ adwumayɛfoɔ a ɔndɔɔso wɔ ɛnnɛ dwam no ka ho nti na nnwuma kɔpɛ nnwumayɛfoɔ wɔ abɔnten.,Abɛɛfo ho nimdeɛ adwumayɛfoɔ enni hɔ ɛfiri sɛ wɔmo nyinaa kɔɔ India.,neutral
+Abɛɛfo ho nimdeɛ adwumayɛfoɔ a ɔndɔɔso wɔ ɛnnɛ dwam no ka ho nti na nnwuma kɔpɛ nnwumayɛfoɔ wɔ abɔnten.,Yɛnni abɛɛfo ho nimdeɛ adwumayɛfoɔ bebree a wɔbɛyɛ adwuma no.,entailment
+Wontumi nhu ntɛnkyea no mpɛmpɛnsoɔ anaa n’akwankyerɛ a ɛwɔ nsesaeɛ dodoɔ yi mu sɛ wogyina ɔkwan a ɔfa so de C-R dwumadie baako pɛ di dwuma wɔ baabiara so a.,Obiara tumi hu ntɛnkyea a ɛwɔ hɔ.,contradiction
+Wontumi nhu ntɛnkyea no mpɛmpɛnsoɔ anaa n’akwankyerɛ a ɛwɔ nsesaeɛ dodoɔ yi mu sɛ wogyina ɔkwan a ɔfa so de C-R dwumadie baako pɛ di dwuma wɔ baabiara so a.,Wontumi nhu ntɛnkyea pɔtee paa ɛwɔ hɔ ɛfiri sɛ ɛyɛ den sɛ wobɛ tete no ntam efi nsunsuansoɔ a efiri abɔnten na ɛba.,neutral
+Wontumi nhu ntɛnkyea no mpɛmpɛnsoɔ anaa n’akwankyerɛ a ɛwɔ nsesaeɛ dodoɔ yi mu sɛ wogyina ɔkwan a ɔfa so de C-R dwumadie baako pɛ di dwuma wɔ baabiara so a.,Wontumi nhu ntɛnkyea pɔtee paa ɛwɔ hɔ.,entailment
+"Adwumayɛ ka ho nsunsuansoɔ no, a ɛgyina sɛ ɛkuo no a ɔreyɛ adwuma no bɛyɛ no aboɔden no, ho nkotabuo kɔso sɛdeɛ ɔyɛ no kanee no ara.",Adwumayɛ ka ho nsunsuansoɔ no wɔ ɔkwan baako a ɔfa de hwehwɛ mu.,entailment
+"Adwumayɛ ka ho nsunsuansoɔ no, a ɛgyina sɛ ɛkuo no a ɔreyɛ adwuma no bɛyɛ no aboɔden no, ho nkotabuo kɔso sɛdeɛ ɔyɛ no kanee no ara.",Wɔmo ntumi nhunuu ɔkwan a ɔde bɛyɛ adwumayɛ ka ho nsunsuansoɔ nkontabuo.,contradiction
+"Adwumayɛ ka ho nsunsuansoɔ no, a ɛgyina sɛ ɛkuo no a ɔreyɛ adwuma no bɛyɛ no aboɔden no, ho nkotabuo kɔso sɛdeɛ ɔyɛ no kanee no ara.",Wɔmode abakɔsɛm nhwehwɛmu a ɛda hɔ na ɛbu adwumayɛ ka nsunsuansoɔ ho nkonta,neutral
+Dwumadi ɛnan: Asiane ho Ntotoeɛ wɔ daadaa kwan so.,Ɔfa ɛnan no kuta dwumadie fa ɔkwan a wobɛfaso ayɛ asiane ho ntotoeɛ.,entailment
+Dwumadi ɛnan: Asiane ho Ntotoeɛ wɔ daadaa kwan so.,Nwoma no nkuta asɛm biara a ɛfa ɔkwan a wode bɛtoto asiane wɔ mmerɛ tenten mu,contradiction
+Dwumadi ɛnan: Asiane ho Ntotoeɛ wɔ daadaa kwan so.,Ɛsɛ sɛ wowie saa dwumadie yi na wode ba nnawɔtwe no awiei.,neutral
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Wɔde Marxist ne Leninist  nsusuiɛ hyɛɛ Nkramosom kuo no mu,entailment
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Nkramosom kuo no hyɛɛ ase afeha a ɛtɔ so nsia no mu,contradiction
+"Nkramosom kuo no a ɔhyɛɛ aseɛ bɛyɛ 1940 no, yɛ ɛnnɛ wiase so aba, Marxist ne Leninist nsusuiɛ a ɛfa nhyehyeɛ a ɛde nsesaeɛ ba no na ɛwɔ ne so tumi",Na Nkramosom kuo no botaeɛ a wɔde teeɛ ne sɛ wɔbɛ te kuo bi a wɔde bɛ boaboa wɔnho ano,neutral
+Afutufoɔ foforɔ nso sii saa dadwene yi so dua,Afutufoɔ no nyinaa kɔɔ adwene koro sɛ na biribiara nni hɔ a ɛwɔ sɛ ɛha wɔn.,contradiction
+Afutufoɔ foforɔ nso sii saa dadwene yi so dua,Futufoɔ baako pɛ na w’ankyerɛ dadwene biara anfa saa nhyehyeɛ yi ho,neutral
+Afutufoɔ foforɔ nso sii saa dadwene yi so dua,Saa dadwene yi yɛ ade a efutufoɔ bebree no ara wɔ,entailment
+Nhyehyɛeɛ no yi akwantufoɔ no mu biara-biara sɛ wɔnfa ahobanbɔ nhwehwɛmu afoforɔ mu,Akwantufoɔ nyinaa tumi twa mu berɛ a wɔnnya amaneɛ biara,contradiction
+Nhyehyɛeɛ no yi akwantufoɔ no mu biara-biara sɛ wɔnfa ahobanbɔ nhwehwɛmu afoforɔ mu,Akwantufoɔ no bi fa efidie mu a ɛhwehwɛ wɔn nipadua no mu nyinaa,neutral
+Nhyehyɛeɛ no yi akwantufoɔ no mu biara-biara sɛ wɔnfa ahobanbɔ nhwehwɛmu afoforɔ mu,Ahobanbɔ kuo no nso to wɔn bo hwehwɛ akwantufoɔ no bi mu,entailment
+"Yehu sɛ nsɛnkyerɛne birara nni hɔ a ɛkyerɛ sɛ wɔbɔɔ tirimupɔ no so kyerɛɛ amamuo foforo no anaa sɛ Clarke de ne krataa no maa wɔmo, ɛberɛ mpo a saa adwuma mpaninfoɔ yaa na na ɛwɔ amamuo mmienu no nyinaa mu",Yɛwɔ yɛnho ahotɔsoɔ ɔha mu nkyemu ɔha sɛ Clarke anfa krataa no amma obiara,neutral
+"Yehu sɛ nsɛnkyerɛne birara nni hɔ a ɛkyerɛ sɛ wɔbɔɔ tirimupɔ no so kyerɛɛ amamuo foforo no anaa sɛ Clarke de ne krataa no maa wɔmo, ɛberɛ mpo a saa adwuma mpaninfoɔ yaa na na ɛwɔ amamuo mmienu no nyinaa mu",Yentumi nnya adanseɛ biara a ɛkyerɛ sɛ Clarke de krataa no maa no,entailment
+"Yehu sɛ nsɛnkyerɛne birara nni hɔ a ɛkyerɛ sɛ wɔbɔɔ tirimupɔ no so kyerɛɛ amamuo foforo no anaa sɛ Clarke de ne krataa no maa wɔmo, ɛberɛ mpo a saa adwuma mpaninfoɔ yaa na na ɛwɔ amamuo mmienu no nyinaa mu",Yenim pefee sɛ Clarke de krataa no maa no Kitawonsa da a ɛtɔ so mmienuno mu,contradiction
+"Ɛnyɛ nea ɛmu da hɔ pefee sɛ wɔbɛtumi de nhyehyɛeɛ no asi hɔ ansa na 2010 aba, nanso nnabupono yi mpo tumi twentwɛn so, sɛ wɔɔhwɛ asiane a ɛwɔ ahobanmmɔ no mu a .",Ɛyɛ den sɛ wɔbetumi de nhyehyɛeɛ no ato akwan mu ɛfiri sɛ abɛɛfo dwumadie mu akorɔnfo tu hyɛ so anadwo biara,neutral
+"Ɛnyɛ nea ɛmu da hɔ pefee sɛ wɔbɛtumi de nhyehyɛeɛ no asi hɔ ansa na 2010 aba, nanso nnabupono yi mpo tumi twentwɛn so, sɛ wɔɔhwɛ asiane a ɛwɔ ahobanmmɔ no mu a .",Ɛnnyɛ bɛtɛɛ sɛ wɔde saa nhyehyɛeɛ no bɛto akwan mu esiane asiane a ɛwɔ ahobanmmɔ ho nti,entailment
+"Ɛnyɛ nea ɛmu da hɔ pefee sɛ wɔbɛtumi de nhyehyɛeɛ no asi hɔ ansa na 2010 aba, nanso nnabupono yi mpo tumi twentwɛn so, sɛ wɔɔhwɛ asiane a ɛwɔ ahobanmmɔ no mu a .","Wɔde ahobanbɔ nhyehyɛeɛ no bɛto akwan mu nnawɔtwe nsia mu, mehyɛ bɔ",contradiction
+"Ɛno nti, berɛ a ɔrebɔ yɛ man yi ho ban no, ɛwɔ sɛ Amerikafoɔ yɛ ahwɛyie wɔ asiane a ɛbata nipa ne manmufoɔ faahodie ho.",Enni sɛ Amerikafoɔ nya dadwene biara fa wɔn manmufoɔ faahodie ho – wɔbɛbɔ ho ban ama wɔn daa,contradiction
+"Ɛno nti, berɛ a ɔrebɔ yɛ man yi ho ban no, ɛwɔ sɛ Amerikafoɔ yɛ ahwɛyie wɔ asiane a ɛbata nipa ne manmufoɔ faahodie ho.",Ɛwɔsɛ Amerikafoɔ hwɛ sɛ wɔngye wɔn ntuo nfiri wɔnsa,neutral
+"Ɛno nti, berɛ a ɔrebɔ yɛ man yi ho ban no, ɛwɔ sɛ Amerikafoɔ yɛ ahwɛyie wɔ asiane a ɛbata nipa ne manmufoɔ faahodie ho.",Ɛwɔsɛ Amerikafoɔ yɛ ahwɛyie wɔ asiane a ɛbata yɛn faahodie ho,entailment
+Sɛ wɔde ɛrekɔma mprɛ dodoɔ no anfa mpontuo biara amba mu,Sɛ wɔde ɛrekɔma no anfa mpontuo biara amba mu,entailment
+Sɛ wɔde ɛrekɔma mprɛ dodoɔ no anfa mpontuo biara amba mu,Sɛ wɔde ɛrekɔma no de mpontuo kɛseɛ baa mu,contradiction
+Sɛ wɔde ɛrekɔma mprɛ dodoɔ no anfa mpontuo biara amba mu,Mpontuo biara amba mu berɛ a yɛde kɔɔ White House no,neutral
+"Sɛ wokɔ fam baako a, ɔkyerɛkyerɛfoɔ a ɔda al Qaeda kuo n’ano wɔ CIA mu saa berɛ no kaa sɛ w’andwene sɛ ɛyɛ n’adwuma sɛ ɔbɛkyerɛ deɛ yɛnyɛ ne deɛ yɛnnyɛ",Na ɔkyerɛkyerɛfoɔ no mpɛ sɛ ɔde neho hyɛ mu ɛfiri sɛ na aka kakra na w’akɔ ahomegyeɛ mu,neutral
+"Sɛ wokɔ fam baako a, ɔkyerɛkyerɛfoɔ a ɔda al Qaeda kuo n’ano wɔ CIA mu saa berɛ no kaa sɛ w’andwene sɛ ɛyɛ n’adwuma sɛ ɔbɛkyerɛ deɛ yɛnyɛ ne deɛ yɛnnyɛ",Na ɔkyerɛkyerɛfoɔ a ɔda kuo n’ano no mpɛ sɛ ɔde neho bɛhyɛ akyerɛkyerɛ a na ɛrekɔso no mu,entailment
+"Sɛ wokɔ fam baako a, ɔkyerɛkyerɛfoɔ a ɔda al Qaeda kuo n’ano wɔ CIA mu saa berɛ no kaa sɛ w’andwene sɛ ɛyɛ n’adwuma sɛ ɔbɛkyerɛ deɛ yɛnyɛ ne deɛ yɛnnyɛ",Na ɔkyerɛkyerɛfoɔ no dwene sɛ biribiara gyina ne so,contradiction
+Pickard susu sɛ wɔkaa saa asɛm yi wɔ amaneɛbɔ nhyiamu a esii Kitawonsa da a ɛtɔ so dumienu,Pickard antumi ankae biribiara a na wɔaka,contradiction
+Pickard susu sɛ wɔkaa saa asɛm yi wɔ amaneɛbɔ nhyiamu a esii Kitawonsa da a ɛtɔ so dumienu,Pickard kaee sɛ na amaneɛbɔ nhyiamu no fa nsɛm a na ɛfa akwanhyia no ho,neutral
+Pickard susu sɛ wɔkaa saa asɛm yi wɔ amaneɛbɔ nhyiamu a esii Kitawonsa da a ɛtɔ so dumienu,Pickard kaee neɛ ɔkaeɛ wɔ amaneɛbɔ nhyiamu no ase,entailment
+Na watu kwan akɔ Pakistan nanso ne yam hyɛɛ ase sɛ ɛɛhyehye no berɛ a wɔbisaa no sɛ watu kwan akɔ aman a etwa hɔ ehyia no mu bi berɛ a na ɔwɔ Pakistan no (na Pakistan ne kwan a ɔfa so kɔ nteteɛ sukuu a ɛwɔ Afghanistan no),Na ɛnnyɛ nwanwa sɛ amammɔfoɔ bɛtu kwan afiri Pakistan akɔ Afghanistan,entailment
+Na watu kwan akɔ Pakistan nanso ne yam hyɛɛ ase sɛ ɛɛhyehye no berɛ a wɔbisaa no sɛ watu kwan akɔ aman a etwa hɔ ehyia no mu bi berɛ a na ɔwɔ Pakistan no (na Pakistan ne kwan a ɔfa so kɔ nteteɛ sukuu a ɛwɔ Afghanistan no),Pakistan ne Afghanistan ntam ware yie,contradiction
+Na watu kwan akɔ Pakistan nanso ne yam hyɛɛ ase sɛ ɛɛhyehye no berɛ a wɔbisaa no sɛ watu kwan akɔ aman a etwa hɔ ehyia no mu bi berɛ a na ɔwɔ Pakistan no (na Pakistan ne kwan a ɔfa so kɔ nteteɛ sukuu a ɛwɔ Afghanistan no),Nteteɛ a wɔnyaa wɔ Afghanistan no bi yɛ nsa ne nsa ntokwa,neutral
+"Wopɛ nhyehyɛeɛ no tɔfa ɛne adeɛ nti a w’antumi ɛndi nsɛm a wɔnsa kaa yɛ no ho dwuma yie a, hwɛ Graham Allison ne Philip Zelikow, Gyinasie so Mfasoɔ, nsɛsoɔ a ɛtɔ so mmienu",Wɔsɔɔ nsɛm a wɔn nsa kaa yɛ no mu pɛpɛɛpɛ,contradiction
+"Wopɛ nhyehyɛeɛ no tɔfa ɛne adeɛ nti a w’antumi ɛndi nsɛm a wɔnsa kaa yɛ no ho dwuma yie a, hwɛ Graham Allison ne Philip Zelikow, Gyinasie so Mfasoɔ, nsɛsoɔ a ɛtɔ so mmienu",Wɔde nsɛm a wɔn nsa kaa yɛ no kɔ maa nnipa a na ɛnsɛsɛ ne nsa ka sɛ ɔnyɛ mu nhwehwɛmu,neutral
+"Wopɛ nhyehyɛeɛ no tɔfa ɛne adeɛ nti a w’antumi ɛndi nsɛm a wɔnsa kaa yɛ no ho dwuma yie a, hwɛ Graham Allison ne Philip Zelikow, Gyinasie so Mfasoɔ, nsɛsoɔ a ɛtɔ so mmienu",Wɔsɔɔ nsɛm a wɔn nsa kaa yɛ no mu yie,entailment
+"Wɔmo ma no yɛ den sɛ wobetu ahyɛ botaeɛ bi so, na wɔsan hwɛ sɛ atuahyɛsoɔ biara ensi ɛfiri sɛ ɛyɛ mmrɛ sɛ wɔbɛ kye wo",Na wɔnim sɛ wɔma botaeɛ no yɛ den kɛseɛ a wɔbɛtumi akyere bebree,neutral
+"Wɔmo ma no yɛ den sɛ wobetu ahyɛ botaeɛ bi so, na wɔsan hwɛ sɛ atuahyɛsoɔ biara ensi ɛfiri sɛ ɛyɛ mmrɛ sɛ wɔbɛ kye wo",Wɔmaa botaeɛ no yɛɛ fo ma ɔkyeree wɔn nyinaa sima mmiɛnsa pɛ mu,contradiction
+"Wɔmo ma no yɛ den sɛ wobetu ahyɛ botaeɛ bi so, na wɔsan hwɛ sɛ atuahyɛsoɔ biara ensi ɛfiri sɛ ɛyɛ mmrɛ sɛ wɔbɛ kye wo",Wɔma botaeɛ no ankasa yɛ den yie ɛno nti wɔrema akyekye akyekye no ɛsi mpɛn pii,entailment
+"Anaafoɔ-apueeɛ wiem bambɔ kuo no nyaa nkra faa asɛm no ho wɔ 9:55, simma aduonu nwɔtwe akyi mu","Asɛm no sii simma aduonu nwɔtwe akyi no, anaafoɔ-apueeɛ wiem bambɔ kuo no nyaa nkra",entailment
+"Anaafoɔ-apueeɛ wiem bambɔ kuo no nyaa nkra faa asɛm no ho wɔ 9:55, simma aduonu nwɔtwe akyi mu",Kuo no nsa anka nkra no wɔ ne mmerɛ mu esiane sɛ na nkɔmmɔdie nhyehyeɛ no ɛretwentwɛn so,neutral
+"Anaafoɔ-apueeɛ wiem bambɔ kuo no nyaa nkra faa asɛm no ho wɔ 9:55, simma aduonu nwɔtwe akyi mu",Anaafoɔ-apueeɛ wiem bambɔ kuo no nyaa nkra faa asɛm no ho simma aduonu nwɔtwe ansa na asɛm no siiɛ,contradiction
+"Yɛɛhwɛ anim sɛ yɛbɛ toatoa adwene afa mfasoɔ a ɛwɔ y’adwenekyerɛ no ho, na yɛde yɛho bɛhyɛ saa adwene ntoatoa dwumadie no mu dendenden",Ɛho ɛnhia sɛ yɛbɛtoatoa adwene wɔ saa asɛntitire yi ho,contradiction
+"Yɛɛhwɛ anim sɛ yɛbɛ toatoa adwene afa mfasoɔ a ɛwɔ y’adwenekyerɛ no ho, na yɛde yɛho bɛhyɛ saa adwene ntoatoa dwumadie no mu dendenden",Yɛpɛ sɛ yɛtoatoa adwene ɛfiri sɛ yɛnim sɛ saa adwenekyerɛ yi ho hia,neutral
+"Yɛɛhwɛ anim sɛ yɛbɛ toatoa adwene afa mfasoɔ a ɛwɔ y’adwenekyerɛ no ho, na yɛde yɛho bɛhyɛ saa adwene ntoatoa dwumadie no mu dendenden",Yɛbɛpɛ sɛ yɛbɛtoatoa adwene afa adwenekyerɛ no ho,entailment
+"Midhar kɔɔɛ akyi no, sukuufoɔ afoforɔ baa efie no mu",Na Midhar nim sɛ sukuufoɔ no ɛretwɛn ama no efiri hɔ,neutral
+"Midhar kɔɔɛ akyi no, sukuufoɔ afoforɔ baa efie no mu",Sukuu nkwadaa no kɔɔ efie hɔ berɛ a Midhar firii hɔ akyi no mu,entailment
+"Midhar kɔɔɛ akyi no, sukuufoɔ afoforɔ baa efie no mu",Sukuufoɔ no yɛɛ ɔyɛkyerɛ wɔ efie a na Midhar te mu no anim,contradiction
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,Akyɛdeɛ biara a yɛbɛnya no nsom bo te sɛ wodeɛ yi,neutral
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,W’akyɛdeɛ no mfa yɛn ho koraa,contradiction
+W’akyɛdeɛ no som bo ma yɛn afedida a ɛtɔ so aduowɔtwenum a yɛrebedi no,Y’adi saa dwuma yi boro mfeɛ aduowɔtwe,entailment
+Ɛgyina ayɔnkofa a ɛda ankonam mmoa ne suapɔn fotoɔ no so na ama mmara sukuu yi akɔso ɛnyini na ɛnya tumi,Yɛ mmara sukuu yi gyina sika a ɛfiri ankonam nkyɛn pɛ so,contradiction
+Ɛgyina ayɔnkofa a ɛda ankonam mmoa ne suapɔn fotoɔ no so na ama mmara sukuu yi akɔso ɛnyini na ɛnya tumi,Yɛ mmara sukuu no mmoa no fa no firi Melinda ne Bill Gates adɔyɛ kuo no hɔ.,neutral
+Ɛgyina ayɔnkofa a ɛda ankonam mmoa ne suapɔn fotoɔ no so na ama mmara sukuu yi akɔso ɛnyini na ɛnya tumi,Yɛ mmara sukuu no hia sika na etumi akɔso enyini,entailment
+Yɛgyina mmoa a yɛnya firi yɛn aboafoɔ hɔ na yatumi ayɛ nneɛma bebree,Bill Gates yi ntoboa ɔpepem $5 maa yɛn,neutral
+Yɛgyina mmoa a yɛnya firi yɛn aboafoɔ hɔ na yatumi ayɛ nneɛma bebree,"Esiane dwadie mu sikasɛm nti, yɛn aboafoɔ a ɔyɛ yɛn adɔyɛ no atwe wɔn mmoa no asan",contradiction
+Yɛgyina mmoa a yɛnya firi yɛn aboafoɔ hɔ na yatumi ayɛ nneɛma bebree,"Yɛatumi ayɛ nneɛma bebree, esiane adɔyɛ a yɛnsa aka no",entailment
+Yɛda w’ase sɛ woboaa Indianapolis Adwinnie Akoraeɛ no wɔ 1999 mu,Yɛda w’ase wɔ $100 ntoboa a wode maa Indianapolis Adwinnie Akoraeɛ no,neutral
+Yɛda w’ase sɛ woboaa Indianapolis Adwinnie Akoraeɛ no wɔ 1999 mu,Nnaaseɛ biara nni hɔ sɛ w’antumi anfa wo ntoboa no amma wɔ 1999 mu,contradiction
+Yɛda w’ase sɛ woboaa Indianapolis Adwinnie Akoraeɛ no wɔ 1999 mu,Ɛyɛ yɛ anigye paa sɛ wo boa akoraeɛ no,entailment
+M’anidasoɔ ne sɛ wonyaa nhyira kɛseɛ ne nkuranhyɛ bebree firi saa asɛm yi mu,Mewɔ anidasoɔ sɛ saa asɛm yi maa wo ahokeka foforɔ,entailment
+M’anidasoɔ ne sɛ wonyaa nhyira kɛseɛ ne nkuranhyɛ bebree firi saa asɛm yi mu,"Menim sɛ saa nsɛm yi ma w’abamu bu, nanso hwɛ w’akwanma no anim",contradiction
+M’anidasoɔ ne sɛ wonyaa nhyira kɛseɛ ne nkuranhyɛ bebree firi saa asɛm yi mu,Menim sɛ wobɛyɛ deɛ ɛwɔ wo tumi mu sɛ wobɛko atia nofoɔ mu kokoram,neutral
+Ɛhia sɛ yɛte firi wo nkyɛn fa yɛn sikagyeɛ dwumadie a ɛtwa toɔ wɔ nnapɔn yi mu,"Wei ne ntoboa dwumadie a ɛtwa toɔ a yɛbɛyɛ no nnapɔn wei, enti yɛhia mo mmoa!",entailment
+Ɛhia sɛ yɛte firi wo nkyɛn fa yɛn sikagyeɛ dwumadie a ɛtwa toɔ wɔ nnapɔn yi mu,Yɛwɔ dwumadie mmiɛnu a aka sɛ yɛbɛyɛ de agyegye sika saa afe yi,contradiction
+Ɛhia sɛ yɛte firi wo nkyɛn fa yɛn sikagyeɛ dwumadie a ɛtwa toɔ wɔ nnapɔn yi mu,"Yɛhia $100,000 aka ho na y'atumi ahyia yɛn sikagyeɛ botaeɛ no saa berɛ yi",neutral
+"Mepa wo kyɛw, wo mmoa no ho hia paa ma yɛn aduowɔtwe num afedida a yɛredi yi a ɛma Indianapolis Mpɔtam Agowhɛbea no yɛ mpɔtam agohwɛbea a ayɛ adwuma akyɛ paa kyɛn biara wɔ ɔman no mu","Na agohwɛbea foforɔ bi wɔ hɔ a ɛdii ne mfeɛ aduowɔtwe nan afedida nnansa yi ara a, nanso ogya ahye no dwerɛbɛɛ",neutral
+"Mepa wo kyɛw, wo mmoa no ho hia paa ma yɛn aduowɔtwe num afedida a yɛredi yi a ɛma Indianapolis Mpɔtam Agowhɛbea no yɛ mpɔtam agohwɛbea a ayɛ adwuma akyɛ paa kyɛn biara wɔ ɔman no mu",Yɛrehyɛ fa wɔ Indianapolis agohwɛbea foforɔ n’anobue kɛseɛ no ho,contradiction
+"Mepa wo kyɛw, wo mmoa no ho hia paa ma yɛn aduowɔtwe num afedida a yɛredi yi a ɛma Indianapolis Mpɔtam Agowhɛbea no yɛ mpɔtam agohwɛbea a ayɛ adwuma akyɛ paa kyɛn biara wɔ ɔman no mu",Yɛn ani agye paa sɛ Indianapolis mpɔtam agohwɛbea no adi dwuma mfeɛ dodoɔ aduowɔtwe num,entailment
+"Wɔn a wɔde wɔnho hyɛ dwumadie no mu no nsa bɛka wɔn a y'ani si wɔn so no din, wɔn akyirikwan ne ahomatrofoɔ nɔma, ne ekyiri asɛm biara a ɛfa deɛ sukuu no hia no ho",Wɔn a wɔde wɔnho hyɛ dwumadie no mu no nsa bɛka wɔn a y'ani si wɔn so no ho nsɛm a ɛfa ɔkwan a yɛbɛfa so ne wɔn adi nkɔmɔ ne wɔn ekyiri asɛm biara.,entailment
+"Wɔn a wɔde wɔnho hyɛ dwumadie no mu no nsa bɛka wɔn a y'ani si wɔn so no din, wɔn akyirikwan ne ahomatrofoɔ nɔma, ne ekyiri asɛm biara a ɛfa deɛ sukuu no hia no ho",Ɛwɔ sɛ wɔn a wɔde wɔnho hyɛ dwumadie no mu no tim krataa so a ɛkyerɛ sɛ ɔmbue nsɛmfua a wɔde bɛhyɛ wɔn nsa no so ansa na yɛde wɔn a y'ani si wɔn so no ho nsɛm ama wɔn,neutral
+"Wɔn a wɔde wɔnho hyɛ dwumadie no mu no nsa bɛka wɔn a y'ani si wɔn so no din, wɔn akyirikwan ne ahomatrofoɔ nɔma, ne ekyiri asɛm biara a ɛfa deɛ sukuu no hia no ho",Wɔn a wɔde wɔnho hyɛ dwumadie no mu yi batumi ahu wɔn a y'ani si wɔn so no din nanso ɛnnyɛ wɔn akyirikwan,contradiction
+"Wɔhwɛɛ beaeɛ a ɛkyerɛ mmoa bi tenabea ho na ɔnwinnii yɛn mmoa korabea no, sɛneɛ ɛbɛ ama ayɛ te sɛ abɔdeɛ mu tenabea a mmoa no te no ara",Beaeɛ a ɛkyerɛ mmoa bi tenabea no kyerɛ ma yɛhu sɛneɛ mmoa tena wɔ wɔn abɔdeɛ tebea mu,entailment
+"Wɔhwɛɛ beaeɛ a ɛkyerɛ mmoa bi tenabea ho na ɔnwinnii yɛn mmoa korabea no, sɛneɛ ɛbɛ ama ayɛ te sɛ abɔdeɛ mu tenabea a mmoa no te no ara","Wɔ yɛn mmoa korabea ha no, yɛgyidi sɛ beaeɛ a nipa ayɛ no yɛ kyɛn beaeɛ a ɛwɔ abɔdeɛ mu",contradiction
+"Wɔhwɛɛ beaeɛ a ɛkyerɛ mmoa bi tenabea ho na ɔnwinnii yɛn mmoa korabea no, sɛneɛ ɛbɛ ama ayɛ te sɛ abɔdeɛ mu tenabea a mmoa no te no ara",Beaeɛ a ɛkyerɛ mboa bi tenabea wɔ yɛn mmoa korabea no mu no boɔ ɛyɛ den paa,neutral
+Wo mmoa a ɛkyerɛ w’ayamyɛ ne no bɛ ma adwuma nteteɛ aba na yɛde nhyehyɛeɛ ato kwan mu a ɛbɛ boa ama wɔn a wɔwɔ Indiana mfimfini afa mu no enya adwuma a eho hia,Nkorɔfoɔ a wɔwɔ Indiana mfimfini afa mu no bɛnya adwuma nteteɛ,contradiction
+Wo mmoa a ɛkyerɛ w’ayamyɛ ne no bɛ ma adwuma nteteɛ aba na yɛde nhyehyɛeɛ ato kwan mu a ɛbɛ boa ama wɔn a wɔwɔ Indiana mfimfini afa mu no enya adwuma a eho hia,Mmoa a ɛkɔ ma adɔyɛ kuo no ho bɛba mfasoɔ ama nnipa bebree wɔ Indiana,entailment
+Wo mmoa a ɛkyerɛ w’ayamyɛ ne no bɛ ma adwuma nteteɛ aba na yɛde nhyehyɛeɛ ato kwan mu a ɛbɛ boa ama wɔn a wɔwɔ Indiana mfimfini afa mu no enya adwuma a eho hia,Mmoa a ɛkɔ ma adɔyɛ kuo no bɛma adwuma a ɛnni hɔ ho nsɛm akɔ fam,neutral
+"Fiti n'ahyɛaseɛ ketewa bi badu ne mpɛmpɛnsoɔ a adu ɛnnɛ yi sɛ ayaresa ho adesua sukuu baako a edi mu wɔ ɔman yi mu no, Indiana ayaresa sukuu baako pɛ no de tu ne ho sɛ ɔwɔ ade a oye",Annyɛ bi ara no Indiana wɔ ayaresa sukuu aduonu a ɛda nso,contradiction
+"Fiti n'ahyɛaseɛ ketewa bi badu ne mpɛmpɛnsoɔ a adu ɛnnɛ yi sɛ ayaresa ho adesua sukuu baako a edi mu wɔ ɔman yi mu no, Indiana ayaresa sukuu baako pɛ no de tu ne ho sɛ ɔwɔ ade a oye",Indiana man no wɔ ayaresa sukuu baako pɛ,entailment
+"Fiti n'ahyɛaseɛ ketewa bi badu ne mpɛmpɛnsoɔ a adu ɛnnɛ yi sɛ ayaresa ho adesua sukuu baako a edi mu wɔ ɔman yi mu no, Indiana ayaresa sukuu baako pɛ no de tu ne ho sɛ ɔwɔ ade a oye",Wɔnnya ayaresa sukuu foforɔ biara wɔ Indiana wɔ mfeɛ dodoɔ num a ɛda yɛn anim yi,neutral
+"Nanso, mmara nwoma a ne boɔ akɔ soro, nkrataa ne nimdeɛ a waboa ano wɔ faako ho som no kyerɛ sɛ yɛkɔso gye ntoboa a yɛrɛgye no seesei no a ɛbɛtra sika a y’abɔ pɔ sɛ yɛde bedi dwuma no so",Yɛregyina faako a yɛgyina wɔ yɛn ntoboa a yɛgye no seesei no bɛtwa sika a y’abɔ pɔ sɛ yɛde bɛdi dwuma wɔ afe no mu no mu baako nkyɛmu mmiɛnsa pɛ,contradiction
+"Nanso, mmara nwoma a ne boɔ akɔ soro, nkrataa ne nimdeɛ a waboa ano wɔ faako ho som no kyerɛ sɛ yɛkɔso gye ntoboa a yɛrɛgye no seesei no a ɛbɛtra sika a y’abɔ pɔ sɛ yɛde bedi dwuma no so",Sika a y’abɔ pɔ sɛ yɛde bɛdi dwuma no mma yɛn ho kwan sɛ yɛnkɔ so ngyegye ntoboa a yɛgye no seesei no,entailment
+"Nanso, mmara nwoma a ne boɔ akɔ soro, nkrataa ne nimdeɛ a waboa ano wɔ faako ho som no kyerɛ sɛ yɛkɔso gye ntoboa a yɛrɛgye no seesei no a ɛbɛtra sika a y’abɔ pɔ sɛ yɛde bedi dwuma no so",Annyɛ bi ara no yɛhia $10000 wɔ ntoboa mu na ama yɛtumi akɔ so agyegye yɛn ntoboa a yɛgyɛ no seesei no,neutral
+Yɛbɛbɔ mmɔden na y’afrɛ mo mu biara a ɔnfaa neho ɛnhyɛɛ saa sikasɛm ho ntotoeɛ ne amaneɛbɔ afe no mu wɔ nna aduanannum yi a ɛda yɛn anim yi sɛneɛ yɛ nsa bɛtumi aka yɛn botaeɛ ansa na Ayɛwohomɔbɔ da a ɛtɔ so aduasa no,Yɛnni adwene biara sɛ yɛbɛfrɛ wɔn a wɔnyɛɛ ntoboa biara mmaa yɛn sikasɛm ho ntotoeɛ ne amaneɛbɔ afe yi mu,contradiction
+Yɛbɛbɔ mmɔden na y’afrɛ mo mu biara a ɔnfaa neho ɛnhyɛɛ saa sikasɛm ho ntotoeɛ ne amaneɛbɔ afe no mu wɔ nna aduanannum yi a ɛda yɛn anim yi sɛneɛ yɛ nsa bɛtumi aka yɛn botaeɛ ansa na Ayɛwohomɔbɔ da a ɛtɔ so aduasa no,Yɛde nkratoɔ bɛ mane wɔn a wɔnyɛɛ ntoboa biara saa sikasɛm ho ntotoeɛ ne amaneɛbɔ afe yi no wɔ nna aduanan num yi a ɛda yɛn anim yi,neutral
+Yɛbɛbɔ mmɔden na y’afrɛ mo mu biara a ɔnfaa neho ɛnhyɛɛ saa sikasɛm ho ntotoeɛ ne amaneɛbɔ afe no mu wɔ nna aduanannum yi a ɛda yɛn anim yi sɛneɛ yɛ nsa bɛtumi aka yɛn botaeɛ ansa na Ayɛwohomɔbɔ da a ɛtɔ so aduasa no,Yɛbɛbɔ mmɔden na y’afrɛ wɔn a wɔmfaa ntoboa biara mmaɛ wɔ saa sikasɛm ho ntotoeɛ ne amaneɛbɔ afe yi mu nna aduanannum yi a ɛda yɛn anim yi,entailment
+"Woyɛ obi a ɔka mmara sukuu no ___ yi deɛ, menim sɛ w’ani tua yɛn kankorɔ yi",Meka mmara sukuu no ho,neutral
+"Woyɛ obi a ɔka mmara sukuu no ___ yi deɛ, menim sɛ w’ani tua yɛn kankorɔ yi",Obiara nka mmara sukuu no ho,contradiction
+"Woyɛ obi a ɔka mmara sukuu no ___ yi deɛ, menim sɛ w’ani tua yɛn kankorɔ yi",Na mmara sukuu no agye nnipa,entailment
+"Ɛka a yɛdi si saa adan yi boro deɛ yɛn atɔfoɔ no batumi atɔ so, ɛno nti yɛtwere fotoɔ ne ankorankora ntoboa so na yɛtumi ayɛ no aboɔfoɔ",Adansie no yɛ biribi a y’annye obiara sika,contradiction
+"Ɛka a yɛdi si saa adan yi boro deɛ yɛn atɔfoɔ no batumi atɔ so, ɛno nti yɛtwere fotoɔ ne ankorankora ntoboa so na yɛtumi ayɛ no aboɔfoɔ",Na adan no hia nneɛma bi a ɛbɛboa na y'atumi asi,entailment
+"Ɛka a yɛdi si saa adan yi boro deɛ yɛn atɔfoɔ no batumi atɔ so, ɛno nti yɛtwere fotoɔ ne ankorankora ntoboa so na yɛtumi ayɛ no aboɔfoɔ",Na adansie no boɔ no wɔ soro kyɛn deɛ yɛsusuu ho no,neutral
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,Awofoɔ a wɔn dadwene so yɛ botaeɛ baako a nnawɔtwe dawurubɔ nkrataa adetɔnfoɔ no de wɔn ani si,entailment
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,Nnawɔtwe dawurubɔ nkrataa no nwinni wɔn akatasoɔ nhyehyɛeɛ no sɛneɛ ɛbɛtwe nkodaa nketewa anaa mpaninfoɔ adwene,contradiction
+Nnawɔtwe dawurubɔ nkrataa nkatasoɔ nhyehyɛeɛ no wɔ hɔ ma awofoɔ a wɔn dadwene so,"Awofoɔ bɛ tae de wɔn sika atɔ ɛhyɛn foforɔ , enti ɛyɛ biribi a ɔdehyɛ ɔfa a ɛtɔn paa mu wɔ dawurubɔ krataa no mu ",neutral
+Mmerɛ krataa amanneɛbɔ a ɛda anim no yɛ Bill Gate anammɔn dummienu nhyehyɛeɛ a wɔfa so de yɛ yie wɔ abɛɛfo pɛn no mu,Kim Kardashian na ɔtwerɛɛ amanneɛbɔ a ɛda anim wɔ Mmerɛ dawurubɔ krataa fa anammɔn dummienu a wɔfa so de yɛ yie wɔ abɛɛfo pɛn no mu,contradiction
+Mmerɛ krataa amanneɛbɔ a ɛda anim no yɛ Bill Gate anammɔn dummienu nhyehyɛeɛ a wɔfa so de yɛ yie wɔ abɛɛfo pɛn no mu,Mmerɛ dawurubɔ krataa no wɔ Bill Gates mfoni wɔ akatasoɔ no so,neutral
+Mmerɛ krataa amanneɛbɔ a ɛda anim no yɛ Bill Gate anammɔn dummienu nhyehyɛeɛ a wɔfa so de yɛ yie wɔ abɛɛfo pɛn no mu,Mmerɛ dawurubɔ krataa no ɛretwerɛ asɛm afa Bill Gates ne yiedie ho wɔ abɛɛfo pɛn no mu.,entailment
+"Dwane komm, dwane deɛ emu dɔ, dwane mmuaeɛ no",Dwane berɛ a woreyɛ dede,contradiction
+"Dwane komm, dwane deɛ emu dɔ, dwane mmuaeɛ no",Dwane na toto wo nsa,neutral
+"Dwane komm, dwane deɛ emu dɔ, dwane mmuaeɛ no",Dwane berɛ a obi nte wo nka,entailment
+Paul bu Alan Greenspan sɛ adwenekyerɛfoɔ bi a ɔhenham adwuma a enni hɔ no so esiane nsɛm bi a w’atwerɛ wɔ sikasɛm nkyerɛkyerɛ bi mu,Alan Greenspan wɔ sikasɛm nkyerɛkyerɛ bi a ɛfa adwuma a enni hɔ dodoɔ no ho,entailment
+Paul bu Alan Greenspan sɛ adwenekyerɛfoɔ bi a ɔhenham adwuma a enni hɔ no so esiane nsɛm bi a w’atwerɛ wɔ sikasɛm nkyerɛkyerɛ bi mu,Paul ɛntee hwee nfaa Alan Grenspan anaa sɛ ne sikasɛm nkyerɛkyerɛ ne ho,contradiction
+Paul bu Alan Greenspan sɛ adwenekyerɛfoɔ bi a ɔhenham adwuma a enni hɔ no so esiane nsɛm bi a w’atwerɛ wɔ sikasɛm nkyerɛkyerɛ bi mu,Paul dwene sɛ Alan Greenspan yɛ obi a onim de sɛ ɛba no sikasɛm ho a,neutral
+"Microsoft Helpdesk' mmoa ma me hunuu sɛ ɛbetumi ayɛ sɛ na me CD-ROM efidie no ne nnyegyeɛ efidie no na edi nhyia sene IDE efidie no, na ɛno na na ɛresi me Linux no ho kwan sɛ ɛbɛyɛ adwuma",Menfaa Linux ɛnyɛɛ adwuma da,contradiction
+"Microsoft Helpdesk' mmoa ma me hunuu sɛ ɛbetumi ayɛ sɛ na me CD-ROM efidie no ne nnyegyeɛ efidie no na edi nhyia sene IDE efidie no, na ɛno na na ɛresi me Linux no ho kwan sɛ ɛbɛyɛ adwuma",Na merenya ɔhaw bebree berɛ a na mereyɛ ama me Linux no ne m’efidie a mede kɔ intanɛt so no aka abom adi dwuma no,neutral
+"Microsoft Helpdesk' mmoa ma me hunuu sɛ ɛbetumi ayɛ sɛ na me CD-ROM efidie no ne nnyegyeɛ efidie no na edi nhyia sene IDE efidie no, na ɛno na na ɛresi me Linux no ho kwan sɛ ɛbɛyɛ adwuma",Na merenya ɔhaw wɔ Linux ho,entailment
+"Steve, m’antumi antam wo sika bɔtɔ ketwewa no mpo, Hatch yii n’ano",Hatch de abufuo kaa sɛ w’antumi antam Steve sika bɔtɔ ketewa no mpo,neutral
+"Steve, m’antumi antam wo sika bɔtɔ ketwewa no mpo, Hatch yii n’ano",Na Hatch nni adwenekyerɛ biara fa Steve sika bɔtɔ ketewa no ho,contradiction
+"Steve, m’antumi antam wo sika bɔtɔ ketwewa no mpo, Hatch yii n’ano",Hatch de dii agorɔ sɛ w’antumi antam Steve sika bɔtɔ ketewa no mpo,entailment
+Wɔn a wɔpɛ adesua paa no a wɔde wɔn ho nyinaa hyɛ sikasɛm ntotoɛ adesua ne kɔmputa adesuadan mu no nni gyianabea a anidasoɔ biara mpo wɔ mu,Wɔn a wɔpɛ adesua paa no nni anidasoɔ biara,entailment
+Wɔn a wɔpɛ adesua paa no a wɔde wɔn ho nyinaa hyɛ sikasɛm ntotoɛ adesua ne kɔmputa adesuadan mu no nni gyianabea a anidasoɔ biara mpo wɔ mu,Wɔn a wɔpɛ adesua paa no nnyɛ ade wɔ nipa nkutahodie mu,neutral
+Wɔn a wɔpɛ adesua paa no a wɔde wɔn ho nyinaa hyɛ sikasɛm ntotoɛ adesua ne kɔmputa adesuadan mu no nni gyianabea a anidasoɔ biara mpo wɔ mu,Wɔn a wɔpɛ adesua paa no wɔ daakye,contradiction
+A ɛyɛ ade a ɛboro deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi ahyɛ bɔ afa Fox ho,Ɛwɔ fam kyɛn deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi ahyɛ bɔ afa Fox ho,contradiction
+A ɛyɛ ade a ɛboro deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi ahyɛ bɔ afa Fox ho,Ɛwɔ soro kyɛn deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi ama yɛn abotɔɛ afa Fox ho,entailment
+A ɛyɛ ade a ɛboro deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi ahyɛ bɔ afa Fox ho,Ɛbetumi mpo awɔ soro kyɛn deɛ nkaseɛbɔ nsɔhwɛ no bɛtumi aka afa Fox ho,neutral
+Nnipa awoɔ a ɛkɔ soro bebree no te sɛ ɔsɛeɛ a adan n’akyi,Ɔsɛeɛ yɛ ade a esi nnipa awoɔ a ɛkɔ soro bebree no ho kwan,neutral
+Nnipa awoɔ a ɛkɔ soro bebree no te sɛ ɔsɛeɛ a adan n’akyi,Nnipa awoɔ a ɛkɔ soro bebree no bɛtumi de neho atoto ɔsɛeɛ a ani abutu ho,entailment
+Nnipa awoɔ a ɛkɔ soro bebree no te sɛ ɔsɛeɛ a adan n’akyi,Ayɔkofa biara nna nnipa awoɔ a ɛkɔ soro bebree no ne ɔsɛeɛ ntam,contradiction
+"Sɛ wofa sɛ Bill Bradley nyinii wɔ St. Louis, twɛn, kafra,  saa no pɛ bɛtumi ayɛ sere anka Al Gore nyinii wɔ Tennessee a",Na Bradley firi Arkansas,contradiction
+"Sɛ wofa sɛ Bill Bradley nyinii wɔ St. Louis, twɛn, kafra,  saa no pɛ bɛtumi ayɛ sere anka Al Gore nyinii wɔ Tennessee a",Na Bradley firi Missouri,entailment
+"Sɛ wofa sɛ Bill Bradley nyinii wɔ St. Louis, twɛn, kafra,  saa no pɛ bɛtumi ayɛ sere anka Al Gore nyinii wɔ Tennessee a",Na Bradley firi St Louis apueeɛ afa mu,neutral
+"Sabol kaa sɛ ɛwɔ mu a ɛwɔ sɛ ɔgyina gye n'ahome kakra, nanso na ɛno mpo w’ato ne bo ahyehyɛ no pɛpɛɛpɛ",Ɛho nhia sɛ Sabol bɛgyina agye n’ahome kakra,neutral
+"Sabol kaa sɛ ɛwɔ mu a ɛwɔ sɛ ɔgyina gye n'ahome kakra, nanso na ɛno mpo w’ato ne bo ahyehyɛ no pɛpɛɛpɛ",Sabol kaa sɛ ɛwɔ mu a ɛwɔ sɛ ɔgyina gye n’ahome kakra,entailment
+"Sabol kaa sɛ ɛwɔ mu a ɛwɔ sɛ ɔgyina gye n'ahome kakra, nanso na ɛno mpo w’ato ne bo ahyehyɛ no pɛpɛɛpɛ",Sabol kaa sɛ ɛho nhia sɛ ɔbegyina agye n’ahome biara,contradiction
+Adɛn na yei nnyɛ adwuma wɔ abɛɛfo ntontan no so?,Yei yɛ adwuma wɔ abɛɛfo ntontan no so,contradiction
+Adɛn na yei nnyɛ adwuma wɔ abɛɛfo ntontan no so?,Yei nnyɛ adwuma wɔ abɛɛfo ntontan no so seesei,entailment
+Adɛn na yei nnyɛ adwuma wɔ abɛɛfo ntontan no so?,Yei  bɛtumi ayɛ adwuma wɔ tebea bi mu wɔ abɛɛfo ntontan no so,neutral
+"Polisifoɔ no de ato dwa sɛ w’ayi wɔn ani efiri JonBenet Ramsey nuabarima ne nuabaa no mo so, ɛmu da hɔ sɛ na wɔn mmienu nyinaa nni kurom berɛ a amumuyɛ no kɔɔ so no",Na Jon Benet Ramsey nuabarima no nni kurom berɛ a awudie no siiɛ no,entailment
+"Polisifoɔ no de ato dwa sɛ w’ayi wɔn ani efiri JonBenet Ramsey nuabarima ne nuabaa no mo so, ɛmu da hɔ sɛ na wɔn mmienu nyinaa nni kurom berɛ a amumuyɛ no kɔɔ so no",Jon Benet Ramsey nuabaa no wɔ obi a ɔbetumi adi ne ho adanseɛ trodoo a ɛkyerɛ sɛ na ɔnni kurom hɔ berɛ a awudie no siiɛ no,neutral
+"Polisifoɔ no de ato dwa sɛ w’ayi wɔn ani efiri JonBenet Ramsey nuabarima ne nuabaa no mo so, ɛmu da hɔ sɛ na wɔn mmienu nyinaa nni kurom berɛ a amumuyɛ no kɔɔ so no",Adanseɛ bebree wɔ hɔ a wɔbetumi agyina so akyere Jon Benet Ramsey nuabarima no sɛ ɔwudifoɔ no,contradiction
+Wonnye ndi sɛ w'ama nipa a wotaa n’akyi no ada edi pefee ,Ɛda hɔ pefee fa nipa a wotaa n’akyi no ho,contradiction
+Wonnye ndi sɛ w'ama nipa a wotaa n’akyi no ada edi pefee ,Yɛnnim nipa a wotaa n’akyi wɔ abatoɔ no mu,neutral
+Wonnye ndi sɛ w'ama nipa a wotaa n’akyi no ada edi pefee ,Yɛnnim nipa a wotaa n’akyi,entailment
+"Da bi, abɛɛfo nimdeɛ ho adwumayɛ a ɛboa ma wɔn a wɔwɔ anisuadehunu nya dwa no bɛyɛ daadaa ade tesɛ nkanea",Abɛɛfo nimdeɛ ho adwumayɛ yɛ aniha sɛ berɛ kakra twa mu a,entailment
+"Da bi, abɛɛfo nimdeɛ ho adwumayɛ a ɛboa ma wɔn a wɔwɔ anisuadehunu nya dwa no bɛyɛ daadaa ade tesɛ nkanea",Abɛɛfo nimdeɛ ho adwumayɛ yɛ anika daa,contradiction
+"Da bi, abɛɛfo nimdeɛ ho adwumayɛ a ɛboa ma wɔn a wɔwɔ anisuadehunu nya dwa no bɛyɛ daadaa ade tesɛ nkanea",Abɛɛfo nimdeɛ ho adwumayɛ yɛ aniha sɛ w’ankɔso ansesa no a,neutral
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Ɛnnyɛ papa sɛ wɔbɛka sɛ ‘alternative’ berɛ a wopɛ akyerɛ ‘alternate’,entailment
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Ɔkwan wɔ hɔ sɛ wode ‘alternate’ bɛsi ‘alternative’ anan mu,contradiction
+Enni sɛ wode ‘alternative’ si ‘alternate’ anan mu,Nkurɔfoɔ bebree nnim berɛ pa a ɛwɔ sɛ wɔka ‘alternative’ ne ‘alternate’,neutral
+"Berɛ a ɔwuraa ne mfeɛ aduosia mu wɔ 1895 mu no, Skeat ma obiara adwene yɛɛ no sɛ ɔrehyɛ aseɛ afa nneɛma bɔkɔɔ",Skeat ɛrɛwura ne mfeɛ aduosia mu no w’annyɛ biribi a na ɛkyerɛ sɛ ɔredwene biribi ho,contradiction
+"Berɛ a ɔwuraa ne mfeɛ aduosia mu wɔ 1895 mu no, Skeat ma obiara adwene yɛɛ no sɛ ɔrehyɛ aseɛ afa nneɛma bɔkɔɔ",Skeat ɛrekɔ ne mpanin mfeɛ so no ɔmaa obiara nyaa atenka bi sɛ ɔfa saa nneɛma yi bɔkɔɔ,entailment
+"Berɛ a ɔwuraa ne mfeɛ aduosia mu wɔ 1895 mu no, Skeat ma obiara adwene yɛɛ no sɛ ɔrehyɛ aseɛ afa nneɛma bɔkɔɔ",Skeat hyɛɛ aseɛ sɛ ɔredwene afa nneɛma ahoroɔ bebree ho berɛ a na ɔrenyini no,neutral
+Nanso nhyiamu mmienu no siiɛ no te sɛ deɛ w’aka nnanfo mmienu ntam,"Ɔnnim ɔfa a ɔnkɔtaa n’akyi, sɛ ɔhwɛ ne nnamfo mmienu no ntam a",neutral
+Nanso nhyiamu mmienu no siiɛ no te sɛ deɛ w’aka nnanfo mmienu ntam,Ɔwɔ nkutahodie baako pɛ a ɛfa n’adamfo bi ho,contradiction
+Nanso nhyiamu mmienu no siiɛ no te sɛ deɛ w’aka nnanfo mmienu ntam,Nkutahodie a na ɛtɔ so mmienu no fa nkorɔfoɔ mmiɛnsa ho,entailment
+"Dɛn na wopɛ paa, nkotabuo anaa abɔdeɛ mu nyansapɛ?",Wopɛ nkontabuo sene abɔdeɛ mu nyansapɛ anaa?,entailment
+"Dɛn na wopɛ paa, nkotabuo anaa abɔdeɛ mu nyansapɛ?","Dɛn na wokyi paa, engrisi anaa nyansapɛ?",contradiction
+"Dɛn na wopɛ paa, nkotabuo anaa abɔdeɛ mu nyansapɛ?",Wobɛtumi apɛ nneɛma foforo kyɛn nkotabuo anaa sɛ abɔdeɛ mu nyansapɛ,neutral
+"Mmerɛ kakra pa ho na abɛɛfo nimdeɛ ho adeyɔ kɔ nkan a, ahomatrofoɔ biara a ɛnni kasafidie no bɛnya din sɛ ahomatorofo a ahoma tare toɔ",Ahomatrofoɔ a ɛnni kasafidie no bɛwie sɛ ahomatorofoɔ a ahoma tare toɔ,entailment
+"Mmerɛ kakra pa ho na abɛɛfo nimdeɛ ho adeyɔ kɔ nkan a, ahomatrofoɔ biara a ɛnni kasafidie no bɛnya din sɛ ahomatorofo a ahoma tare toɔ",Ahomatorofo bɛboa ama abɛɛfo nimdeɛ ho adeyɔ akɔ nkan,neutral
+"Mmerɛ kakra pa ho na abɛɛfo nimdeɛ ho adeyɔ kɔ nkan a, ahomatrofoɔ biara a ɛnni kasafidie no bɛnya din sɛ ahomatorofo a ahoma tare toɔ",Ahomatorofoɔ a ahoma tare toɔ no da fam kraa kyɛn ahomatorofoɔ a ɛnni kasafidie,contradiction
+"Asɛm a etwa toɔ no, yɛ dwene sɛ, ampa, womfaa saa ntwerɛye yi nkɔɔ baabi foforɔ biara","Yɛfa no sɛ, wondaa saa ntwerɛyɛ yi edi nkyerɛɛ obiara",entailment
+"Asɛm a etwa toɔ no, yɛ dwene sɛ, ampa, womfaa saa ntwerɛye yi nkɔɔ baabi foforɔ biara",Yɛte aseɛ sɛ wode saa ntwerɛyɛ yi ato dwa wɔ dawurubɔ nkrataa num mu,contradiction
+"Asɛm a etwa toɔ no, yɛ dwene sɛ, ampa, womfaa saa ntwerɛye yi nkɔɔ baabi foforɔ biara",Yɛbɛpɛ sɛ wobɛtim krataa so agye ato mu sɛ yɛ nko ara na w’adan saa ntwerɛyɛ yi edi akyerɛ,neutral
+Onua pa – saa asɛmka a yɛtae ka no nnɛ no wɔ Julius Caesar mu,"Wɔ Julius Caesar mu no, wɔde onua pa asɛmka no di dwuma",entailment
+Onua pa – saa asɛmka a yɛtae ka no nnɛ no wɔ Julius Caesar mu,Wɔde onua pa asɛmka no adi dwuma fiti afeha a ɛtɔ so aduonu no mu,contradiction
+Onua pa – saa asɛmka a yɛtae ka no nnɛ no wɔ Julius Caesar mu,Onua pa asɛmka no tumi kyerɛ akonta,neutral
+"Ɛte saa deɛ a, wɔbetumi ahyɛ wɔn sɛ wɔntɔ saa nsɛsoɔ yi ɛfiri sɛ ɛwɔ nwoma nkrataa aduonumnum a ɛkuta nsɛm, nkyerɛkyerɛmu ne anideɛ a ɛfata a wɔnfa ntoo dwa da",Nwoma yi kuta nsɛm bebree a ɔnfa ntoo dwa da,entailment
+"Ɛte saa deɛ a, wɔbetumi ahyɛ wɔn sɛ wɔntɔ saa nsɛsoɔ yi ɛfiri sɛ ɛwɔ nwoma nkrataa aduonumnum a ɛkuta nsɛm, nkyerɛkyerɛmu ne anideɛ a ɛfata a wɔnfa ntoo dwa da",Saa nwoma sɛso yi nte sɛ nwoma sɛso deda no,contradiction
+"Ɛte saa deɛ a, wɔbetumi ahyɛ wɔn sɛ wɔntɔ saa nsɛsoɔ yi ɛfiri sɛ ɛwɔ nwoma nkrataa aduonumnum a ɛkuta nsɛm, nkyerɛkyerɛmu ne anideɛ a ɛfata a wɔnfa ntoo dwa da",Saa nwoma sɛso yi atɔn mprɛ dodoɔ mpem ahanum wɔ n’afe a ɛdi kan no mu,neutral
+"Sɛneɛ na ɛte no hunahunaa yɛn kakra, na y’anfa ahokeka biara enni na emom yɛde ano soro a ayɛ bawee na yɛde diiɛ, wotumi ka sɛ, ne yɛ maame nufosuo",Obiara de ahokeka na ɛdii wɔn aduane no na wɔkaa sɛ ɛkaee wɔn afoofi da aduane a wɔn ani gye ho paa,contradiction
+"Sɛneɛ na ɛte no hunahunaa yɛn kakra, na y’anfa ahokeka biara enni na emom yɛde ano soro a ayɛ bawee na yɛde diiɛ, wotumi ka sɛ, ne yɛ maame nufosuo",Yɛnyaa nka bi sɛ ɛyɛ yɛn asɛdeɛ sɛ yedi nea wɔde sii yɛn anim no efisɛ na yɛmpɛ sɛ yɛfom yɛn ahɔhogyefoɔ no,neutral
+"Sɛneɛ na ɛte no hunahunaa yɛn kakra, na y’anfa ahokeka biara enni na emom yɛde ano soro a ayɛ bawee na yɛde diiɛ, wotumi ka sɛ, ne yɛ maame nufosuo",Yɛde amemenemfe dii deɛ wɔde maa yɛn no ɛwom sɛ yɛn ani annye ho deɛ,entailment
+Ababunu adi mfeɛ ahe?,Menim mfeɛ pɔtee a ababunu adi.,contradiction
+Ababunu adi mfeɛ ahe?,Ababunu yɛ dɔm bi a ɛyɛ den ma nnipa binom sɛ wɔde mfeɛ a w’adi bɛkyekyɛ wɔn mu.,entailment
+Ababunu adi mfeɛ ahe?,Ababunu biara nnyini mpaa mfeɛ aduonu num ho,neutral
+"Ɛno nna kyɛn, wɔdwene mmerɛ ho te sɛ adeɛ a etwa neho hyia, nyɛ adeɛ a ɛkɔ n’anim afe bɔɔ, ɛno nti sɛneɛ wɔkae mmerɛ a atwa mu no ho nhia wɔn tesɛ nnapɔnda a ɛsan ba n’akyi bio","Sɛneɛ wɔdwene sɛ mmerɛ yɛ adeɛ a ɛkɔ n’anim afe bɔɔ no, mmerɛ a ɛretwa mu no ho hia kyɛn nnapɔnda a ɛsan ba n’akyi bio",contradiction
+"Ɛno nna kyɛn, wɔdwene mmerɛ ho te sɛ adeɛ a etwa neho hyia, nyɛ adeɛ a ɛkɔ n’anim afe bɔɔ, ɛno nti sɛneɛ wɔkae mmerɛ a atwa mu no ho nhia wɔn tesɛ nnapɔnda a ɛsan ba n’akyi bio","Esiane sɛ wɔdwene mmerɛ ho te sɛ adeɛ a ɛtwa ne ho hyia nti no, nnapɔnda a ɛsan ba n’akyi bio no ho hia wɔn paa",entailment
+"Ɛno nna kyɛn, wɔdwene mmerɛ ho te sɛ adeɛ a etwa neho hyia, nyɛ adeɛ a ɛkɔ n’anim afe bɔɔ, ɛno nti sɛneɛ wɔkae mmerɛ a atwa mu no ho nhia wɔn tesɛ nnapɔnda a ɛsan ba n’akyi bio",Wɔdi nnapɔnda ɛfiri sɛ wɔgyedi sɛ mmerɛ yɛ kanko,neutral
+"Nhwɛsoɔ yi, ebinom wɔ din a wɔhyɛda yi firi nnwinadeɛ a wɔde di dwuma no anaa sɛ agopramma no a wɔdi so agorɔ no",Agokansie biara nya wɔn din firi nnwinadeɛ ketewa bi a wɔde di agoro no mu,contradiction
+"Nhwɛsoɔ yi, ebinom wɔ din a wɔhyɛda yi firi nnwinadeɛ a wɔde di dwuma no anaa sɛ agopramma no a wɔdi so agorɔ no",Agorɔ binom din mfiri nnwinadeɛ anaa agopramma mu,entailment
+"Nhwɛsoɔ yi, ebinom wɔ din a wɔhyɛda yi firi nnwinadeɛ a wɔde di dwuma no anaa sɛ agopramma no a wɔdi so agorɔ no",Yei tae si sɛ wɔhyehyɛ agorɔ bi na wɔfa nnwinadeɛ a ɛwɔ agorɔ foforɔ bi mu a,neutral
+"Sɛ ɛba no akwansideɛ a, merehwehwɛ asɛm bi a mɛtumi akyɛ mu nketwa mmienu ama na toatoa so",Menya nsɛm mmiɛnsa a mɛtumi akyɛ mu nketwa mmienu ama na toatoa so,contradiction
+"Sɛ ɛba no akwansideɛ a, merehwehwɛ asɛm bi a mɛtumi akyɛ mu nketwa mmienu ama na toatoa so",Menfaa no bɛtɛɛ sɛ merehwehwɛ asɛm a mɛtumi akyɛ mu nketwa mmienu ama na toatoa so,entailment
+"Sɛ ɛba no akwansideɛ a, merehwehwɛ asɛm bi a mɛtumi akyɛ mu nketwa mmienu ama na toatoa so","M’afa aniku bi wɔ kasasua mu, fiti sɛ mefaa ho yikyerɛ nkyerɛkyerɛ bi mu wɔ afe a atwa mu no",neutral
+"Nanso w’amfa saa nkyerɛkyerɛmu a ɛfa ɔfa a wɔde hyɛ anuonyam no amba mpɛnsɛnpɛnsɛnmu no mu, enti akenfanfoɔ no annya ho nyansa foforɔ biara",Nwoma no yɛ ade a wɔde hyɛɛ ɔtwerɛfoɔ no maame din anuonyam,neutral
+"Nanso w’amfa saa nkyerɛkyerɛmu a ɛfa ɔfa a wɔde hyɛ anuonyam no amba mpɛnsɛnpɛnsɛnmu no mu, enti akenfanfoɔ no annya ho nyansa foforɔ biara",Mpɛnsɛnpɛnsɛmu no kata asɛm biara a ɛwɔ sɛ ɔkenkanfoɔ no hunu so,contradiction
+"Nanso w’amfa saa nkyerɛkyerɛmu a ɛfa ɔfa a wɔde hyɛ anuonyam no amba mpɛnsɛnpɛnsɛnmu no mu, enti akenfanfoɔ no annya ho nyansa foforɔ biara",Mpɛnsɛnpɛnsɛmu no nka nsɛm pɔtee bi a ɛfa ɔfa a wɔtwerɛ de hyɛ anuonyam no hwee,entailment
+"Wɔ mfeɛ a ɛtwa toɔ wɔ afeha a ɛtɔ so dunkron no mu no, na nkɔmɔ bebree ɛrekɔso fa asɛm no ho",Ewie aseɛ no wɔsii wɔn adwene pi sɛ asɛm no mfata wɔ wɔn a wɔbu wɔnho no ntam,neutral
+"Wɔ mfeɛ a ɛtwa toɔ wɔ afeha a ɛtɔ so dunkron no mu no, na nkɔmɔ bebree ɛrekɔso fa asɛm no ho",Na asɛm no yɛ gyinasodeɛ ma akyinnyeɛgye mfeɛ bebree a atwa mu kɔ yi,entailment
+"Wɔ mfeɛ a ɛtwa toɔ wɔ afeha a ɛtɔ so dunkron no mu no, na nkɔmɔ bebree ɛrekɔso fa asɛm no ho",Na wɔgyae sɛ wɔde asɛm no redi dwuma na wɔn werɛ firiiɛ ansa na afeha a ɛtɔ so dunan no reba awieɛ,contradiction

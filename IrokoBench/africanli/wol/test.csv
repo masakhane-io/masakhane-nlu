@@ -1,0 +1,604 @@
+premise,hypothesis,label
+"dëggit, xalaatuma woon loolu sax, waaye dama amoon lu ma metti ba ma mujje wax ak moom",waxaataguma ak moom,contradiction
+"dëggit, xalaatuma woon loolu sax, waaye dama amoon lu ma metti ba ma mujje wax ak moom",Dama jaaxlewoon ba dama mujje waxaat ak moom,entailment
+"dëggit, xalaatuma woon loolu sax, waaye dama amoon lu ma metti ba ma mujje wax ak moom",waxtaan nanu lu yaatu,neutral
+"dañu ne ma woon ca njombaxtal la, dinañu ma yóbbu ci ak góor ngir ma dajeek moom",kenn mësu ma wax ma dajeek kenn,contradiction
+"dañu ne ma woon ca njombaxtal la, dinañu ma yóbbu ci ak góor ngir ma dajeek moom",nee nanu ma woowoon nanu  benn waay ngir ma dajeek moom,entailment
+"dañu ne ma woon ca njombaxtal la, dinañu ma yóbbu ci ak góor ngir ma dajeek moom",waa ji dafa dikkul woon ca waxtu wa,neutral
+am ay mbir yu bare yoo leen mën a wax ba jarul ma ciy sore,dama leen bëggoon a wax lépp li ma xam ci mbir mi,contradiction
+am ay mbir yu bare yoo leen mën a wax ba jarul ma ciy sore,"duma ci wax, donte sax am na ñu bare ñu may sàng sutura",entailment
+am ay mbir yu bare yoo leen mën a wax ba jarul ma ciy sore,duma wax ci mbooru dëkk bi ndax li ñu ci mën a wax dafa bare,neutral
+"kon xamuma, dëgg-dëgg, li ko waral",xam naa  li ko waral,contradiction
+"kon xamuma, dëgg-dëgg, li ko waral",xamuma lu tax mu soppi ab lekool,neutral
+"kon xamuma, dëgg-dëgg, li ko waral",xamuma li ko waral,entailment
+man kese maa mënoon saasu ne di doxal jutuwaayu natt bi ci néeg yu suufe yi,bëgguma woon a nekk kenn rekk ki doon jëfandikoo jumtuwaayu natt bi ngir saytu yi,neutral
+man kese maa mënoon saasu ne di doxal jutuwaayu natt bi ci néeg yu suufe yi,saytu yi ci néeg yu suufe yi lees ko doon amalee,entailment
+man kese maa mënoon saasu ne di doxal jutuwaayu natt bi ci néeg yu suufe yi,ñenn ci ñun ñi ngi doon daw ci sunu ginaaw ak jumtuwaayu natt bi ngir saytu yi,contradiction
+"ni ko Rick waxee, man njiitu làrme bu mag laa woon bu alatereete",damay liggéey ba bésu tay,contradiction
+"ni ko Rick waxee, man njiitu làrme bu mag laa woon bu alatereete",atum 2002 laa aatereete,neutral
+"ni ko Rick waxee, man njiitu làrme bu mag laa woon bu alatereete",ndax Rick wax na la ni dama alatereete,entailment
+"am na ay fooguy koppar ci sama bérébu liggéeyukaay, waaw, kiliyaan bii di Cutty moo ko moom",kiliyaan bi tudd Cutty weer wu dee 10 000 $ lay am,neutral
+"am na ay fooguy koppar ci sama bérébu liggéeyukaay, waaw, kiliyaan bii di Cutty moo ko moom",am na kiliyaan bu tudd Cutty,entailment
+"am na ay fooguy koppar ci sama bérébu liggéeyukaay, waaw, kiliyaan bii di Cutty moo ko moom",amunu benn kiliyaan bu tudd Cutty,contradiction
+xale bu jigéen bi ma mën dimbali ma nga ca wàlla,xale bu jigéen bi ma soxla ndimbalam sore na fii,entailment
+xale bu jigéen bi ma mën dimbali ma nga ca wàlla,xale bu jigéen bi may dimbali fi mu dëkk ak fii tollu na ci junniy kilomeetar,neutral
+xale bu jigéen bi ma mën dimbali ma nga ca wàlla,amul kenn ku ma mën a dimbali,contradiction
+waaye dafa amoon jaxasoo ci diggante wéy-liggéeykat yi ak doomi kër gi,nangu nañoo liggéeyandoo ñoom ñépp ci tool yi ,contradiction
+waaye dafa amoon jaxasoo ci diggante wéy-liggéeykat yi ak doomi kër gi,mëñuwoon a déggoo ci ani ñan ñooy meneebar yi ak ñan ñooy boroom kër gi,entailment
+waaye dafa amoon jaxasoo ci diggante wéy-liggéeykat yi ak doomi kër gi,mëñuwoon a am ag déggoo ci ñi war a liggéey ci toolu wëtteen bi ak ñi war ak toppatoo bant yi  ,neutral
+"dama bëgg a wax ne amunu juróomi doom, kenn ki dafa dee",xale yépp  a dund,contradiction
+"dama bëgg a wax ne amunu juróomi doom, kenn ki dafa dee",benn ci juróomi xale yoo jël da doon dee,entailment
+"dama bëgg a wax ne amunu juróomi doom, kenn ki dafa dee",xale bi dee dafa judduwaale feebar,neutral
+"nee ay rangooñam a doon wadd, ginnaaw bi mu ne ci la Joe agsi ci pors bi","kon dafa doon wax waxi yéeg ci pos bi, ay gëtam dañu taa woon",entailment
+"nee ay rangooñam a doon wadd, ginnaaw bi mu ne ci la Joe agsi ci pors bi",dafa gaaw fompi rangooñam ginnaaw ba mu génnee Joe ci biti pors bi,contradiction
+"nee ay rangooñam a doon wadd, ginnaaw bi mu ne ci la Joe agsi ci pors bi",Dafa bégoon ci gis Joe ba mujje di jooy,neutral
+"bu roplaan gi doon tàkk sax, lu tax muy ruy walla muy tàkk ci benn nefaru polom ngir mucc",jumtukaay bi mën na mucc ci lakk gi,neutral
+"bu roplaan gi doon tàkk sax, lu tax muy ruy walla muy tàkk ci benn nefaru polom ngir mucc",jumtuwaayu wubale bi rëcc na nefaru polom ginnaaw lakkug roplaan gi,entailment
+"bu roplaan gi doon tàkk sax, lu tax muy ruy walla muy tàkk ci benn nefaru polom ngir mucc",jumtuwaayu leerle bi mënul a mucc su ag làkk tàmbalee,contradiction
+"Kii mooy Clem Francis, njiit la ci làrme bu Amerig US Air Force, dafa alatereete",njiit li US Air Force la alatereetee,entailment
+"Kii mooy Clem Francis, njiit la ci làrme bu Amerig US Air Force, dafa alatereete",njiit li ayu-bés yii weesu rekk la alatereete,neutral
+"Kii mooy Clem Francis, njiit la ci làrme bu Amerig US Air Force, dafa alatereete",ki jiite làrmeb Amerig yép fan yii la tàmbale ab liggéeyam,contradiction
+"waaw, agsi na waxtu woo xam ne ñaar walla ñetti jumtuwaay agsi nanu ci ayu-bés bi, xamuma woon fan lanu doon naawe",lu weesu benn roplaan dina agsi ayu-bés bu ne,entailment
+"waaw, agsi na waxtu woo xam ne ñaar walla ñetti jumtuwaay agsi nanu ci ayu-bés bi, xamuma woon fan lanu doon naawe",ni roplaan yi bare dafa xaw a soof,neutral
+"waaw, agsi na waxtu woo xam ne ñaar walla ñetti jumtuwaay agsi nanu ci ayu-bés bi, xamuma woon fan lanu doon naawe",amul benn roplaan bu mës a agsi,contradiction
+amaloon nanu sax ay tàggatu ngir mokkal jumtuwaay bi waaye dafa xaw yàgg tuuti,dina mat ñetti weer ngir jeexal njàngum jëfandikug jumtukaayu jaww ji ,neutral
+amaloon nanu sax ay tàggatu ngir mokkal jumtuwaay bi waaye dafa xaw yàgg tuuti,diir bi tàggatu ngir mokkal jëfandikug yëre bi ñuy sol ngir yéeg ci asamaan si di jël dafa yàgg ,entailment
+amaloon nanu sax ay tàggatu ngir mokkal jumtuwaay bi waaye dafa xaw yàgg tuuti,"mën nanu leen tàggat ngir ngeen mën a jëfandikoo, fii ak guddi, yëre bi ñuy sol ngir yéeg ci asamaan si",contradiction
+dama bëgg a wax ne amul lenn lu wóoradi ci tugg ci biir ak ndell bi ndax du tàkk ak ni mu mën di dale ci suuf si,ndell bi gawar gi moo ko fey,neutral
+dama bëgg a wax ne amul lenn lu wóoradi ci tugg ci biir ak ndell bi ndax du tàkk ak ni mu mën di dale ci suuf si,ndell bi mënul woon a tàkk,entailment
+dama bëgg a wax ne amul lenn lu wóoradi ci tugg ci biir ak ndell bi ndax du tàkk ak ni mu mën di dale ci suuf si,ndell bi awoon na ci yoonu tàkk,contradiction
+ci naka la nuroo ak li may jéem a def,xamuma lay nurool ci yaw,contradiction
+ci naka la nuroo ak li may jéem a def,loolu de laay jéem a def,entailment
+ci naka la nuroo ak li may jéem a def,damay jéem a jeexal sama nasub ayu-bés biy ñów,neutral
+waaye ak lu mën a xaw mala yi moom dañuy rëcc rawatina béy yi,béy muccoon nañu ci ndëppëtël gi,neutral
+waaye ak lu mën a xaw mala yi moom dañuy rëcc rawatina béy yi,béy yi dañu doon faral di mucc,entailment
+waaye ak lu mën a xaw mala yi moom dañuy rëcc rawatina béy yi,béy yi denc nañu leen denc bu mucc ayib,contradiction
+bunt dañu téjuwoon bi ñuy dugg,bunt yépp a tijjeeku woon,contradiction
+bunt dañu téjuwoon bi ñuy dugg,noo yoroon jaabi yi,neutral
+bunt dañu téjuwoon bi ñuy dugg,dugg nanu donte caabi woon nañu bunt yi,entailment
+"kon, dama dajale lépp, ba noppi jéem ko defar ci melow nataal",am naa yaqiin ne soxlawu ma lu dul ndajale gi ngir mën ci undi ay saafara,neutral
+"kon, dama dajale lépp, ba noppi jéem ko defar ci melow nataal","xamuma lan laa war a def ak ndajale yi, ndax mën nga ma ko gën a faram-fàcceel ngir mu leer ",contradiction
+"kon, dama dajale lépp, ba noppi jéem ko defar ci melow nataal",dinaa xayma sukkandiku ci njuréef yi,entailment
+te loolu li ko gën a waral mooy li waajur yu jigéen yiy jëfandikoo sineebar,waajur yu jigéen yi ay jëfandikookati sineebar lañu,neutral
+te loolu li ko gën a waral mooy li waajur yu jigéen yiy jëfandikoo sineebar,"waajur yu jigéen yi amuñu ay digle, waxuma ay garab",contradiction
+te loolu li ko gën a waral mooy li waajur yu jigéen yiy jëfandikoo sineebar,waajur yu jigéen yi dañuy jëfandikoo sineebar,entailment
+"waaw lii aka rafet, neex na la ?",taw bi sonalu ma,neutral
+"waaw lii aka rafet, neex na la ?",dafa rafet ak taw bi,entailment
+"waaw lii aka rafet, neex na la ?",aka soof ak naaj bu dul jeex,contradiction
+"lan mooy solos dundug doom-aadama, su fekkee mën nga dekkal kenn walla déet","ñépp a war mën a xoddeeku ci sineebar, te jublu ci dundin wu bees",neutral
+"lan mooy solos dundug doom-aadama, su fekkee mën nga dekkal kenn walla déet",amul benn doom-aadama bu ñu war a foddat,contradiction
+"lan mooy solos dundug doom-aadama, su fekkee mën nga dekkal kenn walla déet","bu weesoo foddatu gi, dund jar na ko",entailment
+danga am jafe-jafeb xalaat bu wér,mësuma gis jafe-jafeb róofaleb  fiil bi mul nii bu dul tay,neutral
+danga am jafe-jafeb xalaat bu wér,róofaleb fiil bi du jafe-jafe,contradiction
+danga am jafe-jafeb xalaat bu wér,am benn jafe-jafe bu róofóob fiil bu doy waar bii indi,entailment
+dafa xaw a niroo ak lu soof. waaw. gis naa ne lu doy waar la li mu nangu ñu def ko yépp,ni mu yéwénee bettuma dara,contradiction
+dafa xaw a niroo ak lu soof. waaw. gis naa ne lu doy waar la li mu nangu ñu def ko yépp,bàyyi gi mu leen bàyyi ngeen di jël fii ci biir ay lekk ak ay naanu bett na ma,neutral
+dafa xaw a niroo ak lu soof. waaw. gis naa ne lu doy waar la li mu nangu ñu def ko yépp,bett nama ci ni ñu mënë def ba génn si ,entailment
+"oh waye ak bépp fann, samay doom amnanu ñaar fukki àt ak benn ak ñaar fukki àt ak ñent, léegi waruma ",soxla wuma ko ndax samay doom amna ñu lu ëpp ñaar fukki àt ,entailment
+"oh waye ak bépp fann, samay doom amnanu ñaar fukki àt ak benn ak ñaar fukki àt ak ñent, léegi waruma ",mënu maleen a gis ndax seeni àtt dafa jege woo,neutral
+"oh waye ak bépp fann, samay doom amnanu ñaar fukki àt ak benn ak ñaar fukki àt ak ñent, léegi waruma ",warnako def si kaw ni ñoom ñaar yëpp amna ñu fukki àt ak fukki àt ak benn,contradiction
+"waaw nitt ñi, ñooñu waroon nekk si liggéy bi saa sune ñi nga xam ni mënees nañoo lëndëmël seeni dogal su fekkoon ni ñoom ñoo ko waaroon a jël
+","waaw, ay nitt ñi nga xamni mën na ñoo baña mêna jël dogal yi gën",entailment
+"waaw nitt ñi, ñooñu waroon nekk si liggéy bi saa sune ñi nga xam ni mënees nañoo lëndëmël seeni dogal su fekkoon ni ñoom ñoo ko waaroon a jël
+","waaw, ay nitt  yi nga xamni mënna àm xiiifu ñu  ",neutral
+"waaw nitt ñi, ñooñu waroon nekk si liggéy bi saa sune ñi nga xam ni mënees nañoo lëndëmël seeni dogal su fekkoon ni ñoom ñoo ko waaroon a jël
+","Waaw, nitt ñi nga xamni seen xelup ndogalukaay du mësa waññeeku",contradiction
+"Nekku ñu fi, da ñu demm wëri, dañoo tukki ca jamonoy mujjëntéel atum jurόom benn fukk",dañu demm ci tukkib wëndéelu ca atum 1970,entailment
+"Nekku ñu fi, da ñu demm wëri, dañoo tukki ca jamonoy mujjëntéel atum jurόom benn fukk",dañoo sopp ay tukkiy wëndéelu,neutral
+"Nekku ñu fi, da ñu demm wëri, dañoo tukki ca jamonoy mujjëntéel atum jurόom benn fukk",léegi lañu jeexal seen tukkib wëndéelu bi,contradiction
+naka ngeen mënë defe tàggatu bi ngay t tàwwi sa yaram tey ànd ak misik ,mën nga ñoo faram fàcceel naka nga doon defe tàggatu yaram bi ngay tàwwi sa yaram tey ànd ak misic,entailment
+naka ngeen mënë defe tàggatu bi ngay t tàwwi sa yaram tey ànd ak misik ,tàggatu bi ñiy tàwwi sa yaram soxal nama ndax dama wara tàggatu ngir sàmm sama xol,neutral
+naka ngeen mënë defe tàggatu bi ngay t tàwwi sa yaram tey ànd ak misik ,bàyyi leen waax ci lu jëm ci wàllum tàggatu boobu ngay tàwwi sa yaram,contradiction
+"eh waaw,kii ku baax la ku jigéen kii, sama xel demul woon ci loolu, waaw ",xalaat bu ñaaw moom la bañ ay bés si gànnaw,contradiction
+"eh waaw,kii ku baax la ku jigéen kii, sama xel demul woon ci loolu, waaw ",lii poñ bu baax la,entailment
+"eh waaw,kii ku baax la ku jigéen kii, sama xel demul woon ci loolu, waaw ",jiixi jaaxa bi ngay tuddu poñ bu baax la,neutral
+béréb wottu kaay bi ñuy dénkaane gune yi dafay jëll ñaari fann si ayu bés yu ne ay mag waye dafay demm si béréb bi ñu jagleel mag ñi.,bérébu wottu kaay danu koy tijjil bés yépp gune yu lu yées jurόomi àt rekk,contradiction
+béréb wottu kaay bi ñuy dénkaane gune yi dafay jëll ñaari fann si ayu bés yu ne ay mag waye dafay demm si béréb bi ñu jagleel mag ñi.,Daf leen di bàyyi si lu wér ñuy génn lu ëpp ñaari yoon si ayu bés su fekke ni mag ñi nàngu nañu. ,neutral
+béréb wottu kaay bi ñuy dénkaane gune yi dafay jëll ñaari fann si ayu bés yu ne ay mag waye dafay demm si béréb bi ñu jagleel mag ñi.,"ab béréb wottu kaayu mag la, waaye këru mag ñi lanuy koy woowe.  ",entailment
+loolu mooy seen illa oh,loolu la ñoo ñu jéemoo na def,entailment
+loolu mooy seen illa oh,loolu mësul woon nekk lu ñoo ñu bëggόon,contradiction
+loolu mooy seen illa oh,matal nañu seen illa,neutral
+saytug fetal yi ñaari yoxo kay def,genn wàll saytug fetal yi moy defarug benn loxoo ko waral,neutral
+saytug fetal yi ñaari yoxo kay def,yoon wi gënn si saytu fetal mooy jëfàndikoo ñaari tànk   ,contradiction
+saytug fetal yi ñaari yoxo kay def,Da ngeen wara jëfàndikoo seen ñaari tànk soo leen bëgge jëfàndikoo mokkalub fetal,entailment
+"ak eh noonu rekk mu jόge fenn, xawma fumu bayyeeko waye ","xawma fu loolu jόge, waye gaaw na",entailment
+"ak eh noonu rekk mu jόge fenn, xawma fumu bayyeeko waye ",dafa ñëw gaaw waye xamu ma fan,neutral
+"ak eh noonu rekk mu jόge fenn, xawma fumu bayyeeko waye ",dafay ñëw ni ñu wax melas te xamnaa bu baax kañ lay aksi,contradiction
+"déet,  li àm xamu ma ko, xaalaatu ma ko",Xamu ma si lu bari,entailment
+"déet,  li àm xamu ma ko, xaalaatu ma ko",sama xam xam màccul ci mbëgéel,neutral
+"déet,  li àm xamu ma ko, xaalaatu ma ko",maa ngi koy jàng defna att yu bari,contradiction
+"waaw, dafa nekkoon jigéen ju baax moom",xalaat naa ni xamoon na ni moom jigéen ju baax la,neutral
+"waaw, dafa nekkoon jigéen ju baax moom","déet, jigéen ju bon a bon la woon",contradiction
+"waaw, dafa nekkoon jigéen ju baax moom","waaw, dafa baaxoon lool",entailment
+"waaw, daf ko digal mu jël rek benn euh, benn fompukaayu dër ninu kay jëfàndikoo",daf ko digal mu jënd jumtukaay buy muucu tilim tilim yi,contradiction
+"waaw, daf ko digal mu jël rek benn euh, benn fompukaayu dër ninu kay jëfàndikoo",daf ko xelal mu jënd fompukaayu dër ,entailment
+"waaw, daf ko digal mu jël rek benn euh, benn fompukaayu dër ninu kay jëfàndikoo",dafa bëgόon fomp dereet bi ak fompukaay bànt bi,neutral
+"dafa ñaaw dëg dëg si koñ bi, danu fa door ay fetal si kax tali bi tollook ñett tànk si sunu kër   ",soxum fetal mi mi ngi àm su néewe si li tollu si  100 miles si sama wetu kër,contradiction
+"dafa ñaaw dëg dëg si koñ bi, danu fa door ay fetal si kax tali bi tollook ñett tànk si sunu kër   ",soxum fetal mi sama wetu kër la ame te dafma tiital lool ba tere ma géen ,neutral
+"dafa ñaaw dëg dëg si koñ bi, danu fa door ay fetal si kax tali bi tollook ñett tànk si sunu kër   ","dafa àm benn soxum fetal sama wetu kër, dëg dëg fi baaxul",entailment
+euh euh dëg dëg li de li de dëg dëg dëppoo wul,"ànduma si ak yow, dëgër na lool",contradiction
+euh euh dëg dëg li de li de dëg dëg dëppoo wul,yakaar naani mën nga àm dëg si li aju ci solo si,neutral
+euh euh dëg dëg li de li de dëg dëg dëppoo wul,àm nga dëg si li nga ko dëppële wul,entailment
+maa ngi jéem a jafàndu,damay jéem a des di jafàndu,entailment
+maa ngi jéem a jafàndu,maa ngi def dëg dëg sama kéemtalay kattan,neutral
+maa ngi jéem a jafàndu,damay wëlbëti xët bi te baña gestu ba faww,contradiction
+danuy wërële sunu ndoorteel si ëllëgu jumtukaayu xarala yi,ñu ngi tabax njitël yi war ci jumtukaayu xarala yi,entailment
+danuy wërële sunu ndoorteel si ëllëgu jumtukaayu xarala yi,"danuy tabax ay jumtukaayu xarala bu mucc ayib, sunu ëllëg xaralay xamtu yu yees yi ñoo koy yore",neutral
+danuy wërële sunu ndoorteel si ëllëgu jumtukaayu xarala yi,Da bëgga tere jumkaayu xarala yi ñu yémb,contradiction
+"Ci misaal, lu mu néew-néew, yuqq yépp dañuy xeme","lu mu bare-bare, xaaju yuqq yi rekk mooy xeme",contradiction
+"Ci misaal, lu mu néew-néew, yuqq yépp dañuy xeme",yuqq yi mën nanu soppi aw melo,entailment
+"Ci misaal, lu mu néew-néew, yuqq yépp dañuy xeme",yenn saa yi yuqq yi mën nanoo baxa,neutral
+Daniel Yamins ndaw bu xarañ la ci wàllu xayma,Sëñ Yamins dafa xarañ lool ci xayma,entailment
+Daniel Yamins ndaw bu xarañ la ci wàllu xayma,Sëñ Yamins ci nattukaayu siifar yi la sëgg ,neutral
+Daniel Yamins ndaw bu xarañ la ci wàllu xayma,Sëñ  Yamins ab wéy-aadaak cosaan bu réy la waaye xamul tus ci xayma,contradiction
+"su fekkee noonu la deme, ndax jegee nañu dig wi noonu ",xam naa ne duñu mës a jël yoonu wetu dig wi ,contradiction
+"su fekkee noonu la deme, ndax jegee nañu dig wi noonu ",dama bëgg a xam ndax dañuy faral di dem àngalteer ,neutral
+"su fekkee noonu la deme, ndax jegee nañu dig wi noonu ",waxkat bi dafa bëggoon a xam ñaata yoon lañu ci am ay jafe-jafe ,entailment
+jàpp naa ne am benn mbir buy màndargaal ne biyosfeer dfay sosu ci ne ndundeef yi di tasaaroo,biyosfeer bi dafay soppeeku lu bare,entailment
+jàpp naa ne am benn mbir buy màndargaal ne biyosfeer dfay sosu ci ne ndundeef yi di tasaaroo,biyosfeer bi dafay soppeeku aju ci màndargay tàngoor walla seddaay bi,neutral
+jàpp naa ne am benn mbir buy màndargaal ne biyosfeer dfay sosu ci ne ndundeef yi di tasaaroo,Biyosfeer bi du mës a soppeeku,contradiction
+"ak lii rëcc, ab kiristaal mënul a dékku ay xibaar yu bare",kiristaal yi ay dékkukaayu xibaar yu bare solo,contradiction
+"ak lii rëcc, ab kiristaal mënul a dékku ay xibaar yu bare",kiristaal yi amuñu benn njariñ ci ndékkug xibaar,entailment
+"ak lii rëcc, ab kiristaal mënul a dékku ay xibaar yu bare",am na yeneeni xeeti kiristaal yu am njariñ ngir ndencum xibaar i keew ,neutral
+"kon, mag ñi soxlawu ñu jàngal xale yi mat a dugg ci daaray tuut-tànk yi nu ñuy xamtoo ni ki ñoom ni ñu koy defe    ",xale yi tollu ci dugg ci daaray tuut-tànk yi xarañ ci poy méngale yi ,contradiction
+"kon, mag ñi soxlawu ñu jàngal xale yi mat a dugg ci daaray tuut-tànk yi nu ñuy xamtoo ni ki ñoom ni ñu koy defe    ",xale yi tollu ci dugg ci daaray tuut-tànk yi soxlawu ñu ku leen dimbali ngir ñu jàng nu ñuy tege xel    ,entailment
+"kon, mag ñi soxlawu ñu jàngal xale yi mat a dugg ci daaray tuut-tànk yi nu ñuy xamtoo ni ki ñoom ni ñu koy defe    ",xale yi tollu ci dugg ci daaray tuut-tànk yi amuñu xam-xamu jaww ji ngir njàngum tek-xel donte ne sax amul benn mag bu leen dimbali ,neutral
+"réew mii dañu ko tabax cig moom sa bopp, doom-aadama yépp a yem  ",li tukke ci xelal bii denc nañu ko ci téeré yu bare ,neutral
+"réew mii dañu ko tabax cig moom sa bopp, doom-aadama yépp a yem  ",ñenn ñi dañoo foog ne ñépp a yem  ,entailment
+"réew mii dañu ko tabax cig moom sa bopp, doom-aadama yépp a yem  ",réew mii dañu ko tabax ci ngëm-ngëmu ne ñenn ñi ñoo gëñn ñeñeen ñi         ,contradiction
+ndax dama ko war a jaajëfalaat ?,daanaka leer na ma nàññ ne dama ko war a daan ci ay yonjaxteem ,contradiction
+ndax dama ko war a jaajëfalaat ?,damay laaj ba xam dafa bëgg ma gën ko jox gëdda,entailment
+ndax dama ko war a jaajëfalaat ?,ndax dama ko war a gën a  jaajëfalaat  ci njàmbaarte gi mu wone ci wàllum riiti ?,neutral
+xamtu yi ci wàllum wërngël warees nañu leen a tabax ci nattu xayma yu wuute,yeneen nattu xayma yi mën nañu leen a jëfandikoo ngir xàll ay xamtu ci wàllum spin,entailment
+xamtu yi ci wàllum wërngël warees nañu leen a tabax ci nattu xayma yu wuute,bareley Spin dañoo am njariñ  ci jumtuwaayu xaraley dencu,neutral
+xamtu yi ci wàllum wërngël warees nañu leen a tabax ci nattu xayma yu wuute,mëneesul a xalaat xaymay bareley Spin ci ay nattu yu wuute,contradiction
+déet déet bëgguma nga dee,bëñgguma nga dee,entailment
+déet déet bëgguma nga dee,sama yoon nekkusi soo faatoo,contradiction
+déet déet bëgguma nga dee,dina mer soo faatoo,neutral
+danu koo pàndar ci besu 19i fan ci weeru màrs atum 1875 ca Californie,waa Californie dañu doon wéyal di faat nit ñi ci teewaayu mbooloo ba ci atum 1875  ,entailment
+danu koo pàndar ci besu 19i fan ci weeru màrs atum 1875 ca Californie,setal nanu ko ci bépp mbir bu ñu ko doon toppe ba noppi bàyyi ko,contradiction
+danu koo pàndar ci besu 19i fan ci weeru màrs atum 1875 ca Californie,dañu ko pàndar ndax càccum fas  ak yu ne mel ,neutral
+"bu ñàngee ba ñàng, géej gu nëtëx dafay ball  ",géej gi dafa baxawoon lool ba noppi ritax ne ab weer,contradiction
+"bu ñàngee ba ñàng, géej gu nëtëx dafay ball  ",géej gi dafa fesoon dell ak ay jën yu ndaw yu doon mbëkk gaal gu mag gi ,neutral
+"bu ñàngee ba ñàng, géej gu nëtëx dafay ball  ",géej gi dafa nëtëxoon ba noppi nuruwoon luy yëngu,entailment
+ab ndogalu yoon bu bees moo doon jéem a soppi dundin wu jaxasoo wi xewoon ci atum 1860,"Ciy atum 1870, kuréelu yoon da ñoo màbb loolu tax réexmi yëpp jaxasoo",contradiction
+ab ndogalu yoon bu bees moo doon jéem a soppi dundin wu jaxasoo wi xewoon ci atum 1860,ati 1860 yi jamono yu jaxasoo la woon,entailment
+ab ndogalu yoon bu bees moo doon jéem a soppi dundin wu jaxasoo wi xewoon ci atum 1860,kuréelu yoon bu bees bi bëggόo na yaatal léep lu àju ci wàllu yoonu way liggéey kat yi,neutral
+"bu ñu sukkàndikoo si moom, bépp xalaat bu màgg si waxtaanu askan wi lay sokkeeko ba noppi, si digànte gune yi ak ñi fi nekkal caada si benn liggéy bi ñépp bokk",xale yi mënees suñu wéccànte ay xalaat yu màgg,contradiction
+"bu ñu sukkàndikoo si moom, bépp xalaat bu màgg si waxtaanu askan wi lay sokkeeko ba noppi, si digànte gune yi ak ñi fi nekkal caada si benn liggéy bi ñépp bokk",napp gi liggéey bi ñëpp di def la ñu bokk ko ak askan yu bari te wuute ,neutral
+"bu ñu sukkàndikoo si moom, bépp xalaat bu màgg si waxtaanu askan wi lay sokkeeko ba noppi, si digànte gune yi ak ñi fi nekkal caada si benn liggéy bi ñépp bokk",sékk ay liggéey yu ñëpp di defàndoo dafa baax yenn say ngir mënë weece ay xalaat yu bari te kawe,entailment
+"koñ yu bari amna ñu ay njitu tarixa, ay sëriñ yi leen di jiite si diine te jiitël askan wi suñuy julli ji su dëjj ame, bu ñuy màggal ñu baax ak itam bu jiitu diine yi amee gàllaŋkoor.",benn askan amul woon ay njiit tarixa yu nekkul woon ay njiitu diine,contradiction
+"koñ yu bari amna ñu ay njitu tarixa, ay sëriñ yi leen di jiite si diine te jiitël askan wi suñuy julli ji su dëjj ame, bu ñuy màggal ñu baax ak itam bu jiitu diine yi amee gàllaŋkoor.",yenn si koñ yi amoon nañu ay njiitu tarixa yi jiite wul béréb diine ye,entailment
+"koñ yu bari amna ñu ay njitu tarixa, ay sëriñ yi leen di jiite si diine te jiitël askan wi suñuy julli ji su dëjj ame, bu ñuy màggal ñu baax ak itam bu jiitu diine yi amee gàllaŋkoor.",ñenn si njiitu tarixa yi da ñoo amoon ay kawar yu ñuul,neutral
+"si àm po buy nitt ñiy wanale mbiru askan wi si anam bu tiis itam, yokkuté bi ngi siy àm booy jëf aka jiite wàll kune si ñu jëf po mi dafay dimbali xale yi ñu teela nànd yi méngό ak yi wuute si li nitt  ñiy bëgg, li ñi gëm a k itam seen i yég yég.",xale mënees na ñoo jàng si naka la nitt méngόo we ak wuute we,entailment
+"si àm po buy nitt ñiy wanale mbiru askan wi si anam bu tiis itam, yokkuté bi ngi siy àm booy jëf aka jiite wàll kune si ñu jëf po mi dafay dimbali xale yi ñu teela nànd yi méngό ak yi wuute si li nitt  ñiy bëgg, li ñi gëm a k itam seen i yég yég.",xale yi mënees na ñoo ràññee si naka la xeet yi wuute we,neutral
+"si àm po buy nitt ñiy wanale mbiru askan wi si anam bu tiis itam, yokkuté bi ngi siy àm booy jëf aka jiite wàll kune si ñu jëf po mi dafay dimbali xale yi ñu teela nànd yi méngό ak yi wuute si li nitt  ñiy bëgg, li ñi gëm a k itam seen i yég yég.",xale yi mënu ñoo jàng lenn,contradiction
+"jikkό gi gënë màgg ci li ëmb ndeyu sàrt allemand yi si lu topp si xare bi, léegi moo nekk ki gënë ñakk dayoom ci nguurug nazi",nguurug nazi nànguloon naleen ko,contradiction
+"jikkό gi gënë màgg ci li ëmb ndeyu sàrt allemand yi si lu topp si xare bi, léegi moo nekk ki gënë ñakk dayoom ci nguurug nazi",nguurug nazi rey na ñi si bokkoon ñëpp,neutral
+"jikkό gi gënë màgg ci li ëmb ndeyu sàrt allemand yi si lu topp si xare bi, léegi moo nekk ki gënë ñakk dayoom ci nguurug nazi",nguurug nazi dakkal nako,entailment
+sonja xale door naa toppàndooy yuuxu doomam bu jigéen,kenn meru fi woon,contradiction
+sonja xale door naa toppàndooy yuuxu doomam bu jigéen,sonja xale la,entailment
+sonja xale door naa toppàndooy yuuxu doomam bu jigéen,sonja dafa jaxle woon,neutral
+6 ci biir jurόom fukki àt yi jiitu xare ba askan wi daan jàmmarloo si seen biir; ëttu àtteekaay bu màg bi dafa jëffàndikoo woon sañ sañam ak teey,ëtt àtteekaay bu mag bi daa na jëffàndikoo yenn saay bile sañ sañ  si fukkiy at yu jiitu xare ba askan wi daan jàmmarloo si seen biir,entailment
+6 ci biir jurόom fukki àt yi jiitu xare ba askan wi daan jàmmarloo si seen biir; ëttu àtteekaay bu màg bi dafa jëffàndikoo woon sañ sañam ak teey,ëtt àtteekaay bu mag bi jëffàndikoo na bile sañ sañό ñént yoon ci biir jurόomi yi ñu jëmële woon sa xare ba askan daan jàmmarloo si seen bii  ,neutral
+6 ci biir jurόom fukki àt yi jiitu xare ba askan wi daan jàmmarloo si seen biir; ëttu àtteekaay bu màg bi dafa jëffàndikoo woon sañ sañam ak teey,ëtt àtteekaay bu mag jëffàndikoo 5 alfunni ci biir jorόomi àtu yi ό ñi jemée woon xareeb tàkkalikoo bi.,contradiction
+"maa ngi lay leeral ni, sëriñ bi, ni yégal nañu ma bu baax lépp li ci am",wax nala ni yég naa lépp,entailment
+"maa ngi lay leeral ni, sëriñ bi, ni yégal nañu ma bu baax lépp li ci am",deewug saytukat bi lanu ma yégal,neutral
+"maa ngi lay leeral ni, sëriñ bi, ni yégal nañu ma bu baax lépp li ci am",ay mbir yu bari lanu ma nëbb,contradiction
+coow yi jaxase nañu njiit li tudd Blood si ay ngéentam yu jaxaso,Njiit lii di Blood mënόon na xalaat ay mbir yi ka daan merloo saa sune,contradiction
+coow yi jaxase nañu njiit li tudd Blood si ay ngéentam yu jaxaso,ay xalaat u njiit li di Blood dafa doon dag ndax ay coow,entailment
+coow yi jaxase nañu njiit li tudd Blood si ay ngéentam yu jaxaso,yuuxuy kutti bi moo genne njiit li di Blood si ay yëytόom,neutral
+"waye mënumaa fàtte dëkke sa keur nijaay te jaam yi sax gënn ma demin, fe ca Barbade, da nga maa toppatoo woon ak mbaax",da nga ma doon toppatoo woon ak mbaax ba ma nekke jaam ca Barbade,entailment
+"waye mënumaa fàtte dëkke sa keur nijaay te jaam yi sax gënn ma demin, fe ca Barbade, da nga maa toppatoo woon ak mbaax","da na bonoon lool si mann, te da nga maa jappe woon ni ku tilim tilim gën",contradiction
+"waye mënumaa fàtte dëkke sa keur nijaay te jaam yi sax gënn ma demin, fe ca Barbade, da nga maa toppatoo woon ak mbaax",sa nijaay daf ma daan door bës bu jott ba mu ma yore,neutral
+"fii, si lu ëppul ñetti milles yu gëna sori, fa la suuf si nekkoon, benn miiru gàncax bu fëss te ëppante moo feesaloon séen wi féetéek sawu bi",gis gisu gàncax bu rafett moo fi waroon a am,entailment
+"fii, si lu ëppul ñetti milles yu gëna sori, fa la suuf si nekkoon, benn miiru gàncax bu fëss te ëppante moo feesaloon séen wi féetéek sawu bi",dund bi ό ñii doon jege kenn dëkku fa woon,neutral
+"fii, si lu ëppul ñetti milles yu gëna sori, fa la suuf si nekkoon, benn miiru gàncax bu fëss te ëppante moo feesaloon séen wi féetéek sawu bi","mënu ñu woon giss benn suuf ci ay miles ci li leen wër, benn géej kesse bu amul fumu yemm. ",contradiction
+"mann la buur yόnni ci dëkk yu ñaaw yi, ma nekk itam mbokku buur Sunderland",buur bi dafa am ñi mu yόnni te sila bokk,entailment
+"mann la buur yόnni ci dëkk yu ñaaw yi, ma nekk itam mbokku buur Sunderland",Buur bi daf maa yόnni fii def na benn si ayubés,neutral
+"mann la buur yόnni ci dëkk yu ñaaw yi, ma nekk itam mbokku buur Sunderland",duma jott ay ndigëlu buur bi,contradiction
+"lu ma warloo ak yow la- wala loolu laa yaakaaroon, mu ni ko",mësula xalaat ni ameel nala dara,contradiction
+"lu ma warloo ak yow la- wala loolu laa yaakaaroon, mu ni ko",bula yoreeloon dara ngir ndimbal ngi nga ko defal ba mu nekke yalwaankat bu amul dara,neutral
+"lu ma warloo ak yow la- wala loolu laa yaakaaroon, mu ni ko",dafa yaakaaroon i daf la ameel dara ,entailment
+waroon na mëna xam bu baax ni ñëw fii si jege Jamaïque si guddi sii,dama tukki woon si wetu Jamaïque ba jànt suuxe ba noppi,entailment
+waroon na mëna xam bu baax ni ñëw fii si jege Jamaïque si guddi sii,dama tukki woon Jamaïque ma jëloon gaal gu mag,neutral
+waroon na mëna xam bu baax ni ñëw fii si jege Jamaïque si guddi sii,sama jabar ak man aksi na ñu si Jamaïque si bëccek,contradiction
+xalaatu Blood yëpp ci lii la jublu woon ak yeneen yitte te mu ngi nirook ku doon noppalu ci bëccek ,Blood def na géent gu ñakk solo si kaw lalu bëccëgam,contradiction
+xalaatu Blood yëpp ci lii la jublu woon ak yeneen yitte te mu ngi nirook ku doon noppalu ci bëccek ,Blood dafa tëdd di xalaat,entailment
+xalaatu Blood yëpp ci lii la jublu woon ak yeneen yitte te mu ngi nirook ku doon noppalu ci bëccek ,Blood dafa doon xalaat xalaat bu xoot ci bis bamu mujje gis yaayam,neutral
+"si lu wér, léegi, dina leen ko wax","waw gόor, léegi dinala si wax",entailment
+"si lu wér, léegi, dina leen ko wax",damax gumba tëx,contradiction
+"si lu wér, léegi, dina leen ko wax",ngir rekk yéena ma digόon ni du ngeen si toppaat loolu laleen wax,neutral
+Ah! ak si naka?,amna kuy laaj fumuy jaar,entailment
+Ah! ak si naka?,laajcekat bi rekka fi nekk te amul kenn kumu waxtaanal,contradiction
+Ah! ak si naka?,nitt kiy laaj dafa yàkkamti te dafa bëgg xam léegi ban yoon lay jël,neutral
+duma soofàntal yonnénte buur bi,li tegu si may nangulaate yόnnénte buur bi dafa dëppόo wul ak sama gisin,neutral
+duma soofàntal yonnénte buur bi,xalaat na bu baax si yόnnénte buur bi,entailment
+duma soofàntal yonnénte buur bi,rëdd naa dogalug nangute yonnénte buur bi te xaalaaatuma si,contradiction
+xamna ni warnaa mëna soxlaa waññeeku bu gaaw,xamnani amoon na bés bi yépp ngir genn si,contradiction
+xamna ni warnaa mëna soxlaa waññeeku bu gaaw,léegi la xamni dafa xaroon jëf si lu gaaw,entailment
+xamna ni warnaa mëna soxlaa waññeeku bu gaaw,"soo desoon si benn béréb bi, dinanu ko doon gis",neutral
+"Te léegi doonoon na kimu doon te def na limu defoon ci biir ñetti at yi weesu, loolu la wax, waye daf kay wax ak tiis te, te bole wu si mbañeelam ba woon",te bëggul woon réy gimu réy gόor ñu bari ñi si ñetti at yi weesu,neutral
+"Te léegi doonoon na kimu doon te def na limu defoon ci biir ñetti at yi weesu, loolu la wax, waye daf kay wax ak tiis te, te bole wu si mbañeelam ba woon",ku jigéen ki wax na ak mbégte si ay tukkéem ak si boppam,contradiction
+"Te léegi doonoon na kimu doon te def na limu defoon ci biir ñetti at yi weesu, loolu la wax, waye daf kay wax ak tiis te, te bole wu si mbañeelam ba woon",ku jigéen ki daf doon wax ak déggin bu tiis,entailment
+yakaar naani méngόo na ak say bëgg bëgg ,yakaar nani sa mbokk yi noonu lanuy def,entailment
+yakaar naani méngόo na ak say bëgg bëgg ,jàng naa  ci li àju si seen nitt ñi ak seen caada,neutral
+yakaar naani méngόo na ak say bëgg bëgg ,yaakaar naani doo leen ko farataal di def si ñenn si seen biir ,contradiction
+benn xap xappalu yéen yi moo lemm jë bi,dafa fësëlόon ab ree gu yaatu si kanam gi ,contradiction
+benn xap xappalu yéen yi moo lemm jë bi,dafa yég lu nakkari si mbàkkam,neutral
+benn xap xappalu yéen yi moo lemm jë bi,dafa doon xap xappal yéen yi,entailment
+"daf ko doon xool ay gëtt yuy mellax, xaye bamu gise kanam gu tiis gi, ak xap xappalug yéen yu xόot yi yi doon feeñ si jë bi, kanam soppeeku",kanam gi dafa soppeeku bamu gise kanamam,entailment
+"daf ko doon xool ay gëtt yuy mellax, xaye bamu gise kanam gu tiis gi, ak xap xappalug yéen yu xόot yi yi doon feeñ si jë bi, kanam soppeeku",kanam gi dafa melaxoon ba mu gise mu sëngéem,contradiction
+"daf ko doon xool ay gëtt yuy mellax, xaye bamu gise kanam gu tiis gi, ak xap xappalug yéen yu xόot yi yi doon feeñ si jë bi, kanam soppeeku",xamul woon ni daf koo mere woon,neutral
+"muy dox ndànk, dafa wër miir bu tojj bi te jaar si bunt yu mag yi nekk si ëtt bi","li buntu tëju wόon ak caabi tax, mu tëbb ñag bi ba noppi daanu si ëtt bi",contradiction
+"muy dox ndànk, dafa wër miir bu tojj bi te jaar si bunt yu mag yi nekk si ëtt bi",buntu yu mag yi rekka nekkoon bunt ëtt bi,neutral
+"muy dox ndànk, dafa wër miir bu tojj bi te jaar si bunt yu mag yi nekk si ëtt bi",amoon na ay bunt yu mag yu doon fëll ci ëtt bi,entailment
+"soo moytuwul di ngeen ko sànni, loolu la waw ak ñakk kersa",yakaaroon nani dina am ku siy dee,entailment
+"soo moytuwul di ngeen ko sànni, loolu la waw ak ñakk kersa",amna benn shérif bu jàppoon sàcc,neutral
+"soo moytuwul di ngeen ko sànni, loolu la waw ak ñakk kersa",déey nama benn yoon bu ñu mëna jëll ba rëcc si dëkk bi ngir mëna mucc si kaso bi,contradiction
+"ci dëgg dëgg, naka laaleen mënoon a tëjée? ci waxtaan wi la woon",mujje wuma leen denc,entailment
+"ci dëgg dëgg, naka laaleen mënoon a tëjée? ci waxtaan wi la woon",amoon naleen bama leen gise,contradiction
+"ci dëgg dëgg, naka laaleen mënoon a tëjée? ci waxtaan wi la woon",dumako mësoon baal sama bopp suma leen tëjόon,neutral
+dama leen dàkk at mii,maa ngi koy topp bu baax matna benn at,neutral
+dama leen dàkk at mii,bamako dale topp jege na rekk benn si ayubés,contradiction
+dama leen dàkk at mii,"ci biir at bu mujj bi, damako gëdd",entailment
+miise bi bariwul ay xobu naatal ak ay xobb yu ndax yu màndargaal tolluwaayu naatal bu ne,miise bi bëgul  ñu defal ko ay xobu nataal,neutral
+miise bi bariwul ay xobu naatal ak ay xobb yu ndax yu màndargaal tolluwaayu naatal bu ne,miise bi farataalul ay xobu natal yu ndaw yi,entailment
+miise bi bariwul ay xobu naatal ak ay xobb yu ndax yu màndargaal tolluwaayu naatal bu ne,ndëgërlaayu miise moo di ay xobu nataal,contradiction
+jàbba biti yi ñooy béréb yu gëna neexa jëndee ca Pekin,pekin amna ay jàbba yu tijji te am ay bitik you neexa jënde,entailment
+jàbba biti yi ñooy béréb yu gëna neexa jëndee ca Pekin,jàbba biti yi nekk Beijing ñoo gëna neexa jënde ci aduna bi yépp,neutral
+jàbba biti yi ñooy béréb yu gëna neexa jëndee ca Pekin,yoonu Pekin bi dafay tere jàbba yi nekkul ci ronn si biir dëkk bi,contradiction
+"tefess bu gëna mag si yoonu géej bi féete soowu-kaw dafa rafett si poor, waye ndox mi ak géej gi mën nañoo tilim",ndox mi ak tefess gi yépp a rafett ,contradiction
+"tefess bu gëna mag si yoonu géej bi féete soowu-kaw dafa rafett si poor, waye ndox mi ak géej gi mën nañoo tilim",ndox meek géej gi yépp mën na ñoo tilim,entailment
+"tefess bu gëna mag si yoonu géej bi féete soowu-kaw dafa rafett si poor, waye ndox mi ak géej gi mën nañoo tilim",ndox mi dafa tilim ndax mbir yiy àndi tilim- tilim si jawu ji,neutral
+"Kër yu réy yi jege asamaan ay bᾶk la, te yoon bi ñu nekk ñu ngi koy woowe la Mila de Oro,  Wala golden Mile. ",benn si kër yu réy yi  jege asamaan yi nekk si kaw Golden Mile du bᾶk,contradiction
+"Kër yu réy yi jege asamaan ay bᾶk la, te yoon bi ñu nekk ñu ngi koy woowe la Mila de Oro,  Wala golden Mile. ",Kër yu réy yi jege asamaan yu nekk Golden Mile ay bᾶk la,entailment
+"Kër yu réy yi jege asamaan ay bᾶk la, te yoon bi ñu nekk ñu ngi koy woowe la Mila de Oro,  Wala golden Mile. ","kër yu réy yu jege asamaan te nekk Golden Mile ay bérébu liggéyukaay la, ak bᾶk yitam  ",neutral
+"si bula neexe, mbokkum ñareelu xare aduna bi dafa tàmbalee jéemàntu xare bisi kaw jawu ji bu common wealth britannique amal si asamaan yu gënë wόor ca canada, ngir waajal daxalkatu ropplaan yi",Canada moo amoon asamaan bu gëna wόor,entailment
+"si bula neexe, mbokkum ñareelu xare aduna bi dafa tàmbalee jéemàntu xare bisi kaw jawu ji bu common wealth britannique amal si asamaan yu gënë wόor ca canada, ngir waajal daxalkatu ropplaan yi",asamaanu canada kenn dόoru fawoon ay sox yu mag,neutral
+"si bula neexe, mbokkum ñareelu xare aduna bi dafa tàmbalee jéemàntu xare bisi kaw jawu ji bu common wealth britannique amal si asamaan yu gënë wόor ca canada, ngir waajal daxalkatu ropplaan yi",skis yu waa kanadaa ñoo gën a raglu yeneen yi,contradiction
+"te danuy wéy di yéwén ak a baax, donte ne sax seen li ñuy ñoddi nekkul seen yëf",dañoo amee xol bu wow ak mettitu xol ci ñépp bi nga xamee ne dañoo war a séddoo wetu géej gi,contradiction
+"te danuy wéy di yéwén ak a baax, donte ne sax seen li ñuy ñoddi nekkul seen yëf",dañoo  war a séddoo wetu mbeex mi ak yeneen nit fi mu ne,entailment
+"te danuy wéy di yéwén ak a baax, donte ne sax seen li ñuy ñoddi nekkul seen yëf",amoon na bu jëkk téeméeri junniy kiiraayu mbeex,neutral
+"Kublai Khan ci atum 1279 la tabax ab kàppitaalu boppam ci tefesu déegu Beihai bu Pekin, foofu nga xam ne yenn ci ballu yi sax mënees na koy gis ba tay",Kubilai Khan benn ci kàppitaal ca Taiwan,contradiction
+"Kublai Khan ci atum 1279 la tabax ab kàppitaalu boppam ci tefesu déegu Beihai bu Pekin, foofu nga xam ne yenn ci ballu yi sax mënees na koy gis ba tay",Kubilai Khan am na ay ballu ca Beijing,entailment
+"Kublai Khan ci atum 1279 la tabax ab kàppitaalu boppam ci tefesu déegu Beihai bu Pekin, foofu nga xam ne yenn ci ballu yi sax mënees na koy gis ba tay",Kubilai Khan ku ñu fonkoon la ,neutral
+"duggante gu gaaw ak askan wiy làkk kàllaama anglais, bérébu jànguy keerceen yi nangu nanu seeni doom yi  nekk ay yahuut yu réewi penkub tugal amee ay lijjaasa  ci Westmount gu bakkane gi walla sax ñu mbëkkaat ca Toronto",yahuut yu penkub réewu tugal ñépp lañu miin,contradiction
+"duggante gu gaaw ak askan wiy làkk kàllaama anglais, bérébu jànguy keerceen yi nangu nanu seeni doom yi  nekk ay yahuut yu réewi penkub tugal amee ay lijjaasa  ci Westmount gu bakkane gi walla sax ñu mbëkkaat ca Toronto",yahuut yi safuñu yeneen doom-aadama yi,neutral
+"duggante gu gaaw ak askan wiy làkk kàllaama anglais, bérébu jànguy keerceen yi nangu nanu seeni doom yi  nekk ay yahuut yu réewi penkub tugal amee ay lijjaasa  ci Westmount gu bakkane gi walla sax ñu mbëkkaat ca Toronto",yahuut yi askan wiy làkk àngale lanu gën a saafoonteel,entailment
+"su manee nekk, fexeel ba miin, ca njëlbeen, wàllum nasi pexe ","bul jàng wàllum nasum pexe ca njëlbeen la, loolu dafay gàlankoor neexaay bi ginnaaw bi",contradiction
+"su manee nekk, fexeel ba miin, ca njëlbeen, wàllum nasi pexe ","fexeel ba teel a nànd seenub naru, soo ko mënee",entailment
+"su manee nekk, fexeel ba miin, ca njëlbeen, wàllum nasi pexe ",dinga mën a xam gën a xam fi mu féete soo xamee tàmbalib téere bi,neutral
+"ab ngunoomu 27 meetar (88 tànk) ci suuf, ban lanu ko defare te mu tollu ci 200 meetar yu këpp (13 000 tànk yu këpp)",fi ñu ko suul xóotaay mat na ñaar fukki meetar ci suuf,entailment
+"ab ngunoomu 27 meetar (88 tànk) ci suuf, ban lanu ko defare te mu tollu ci 200 meetar yu këpp (13 000 tànk yu këpp)",nekkoon na ab nit bu siiw bu am solo,neutral
+"ab ngunoomu 27 meetar (88 tànk) ci suuf, ban lanu ko defare te mu tollu ci 200 meetar yu këpp (13 000 tànk yu këpp)",ay yëfi dëjam ci bant lañu ko def,contradiction
+fàttelikuleen nëbb golo yi seen mbir yi ñu man a yóbbu,nëbbleen seen njàmbaarte soo leen gisee golo,entailment
+fàttelikuleen nëbb golo yi seen mbir yi ñu man a yóbbu,"golo yi li leen yitteel dafa bare, bokk na ci seeni moomeel",neutral
+fàttelikuleen nëbb golo yi seen mbir yi ñu man a yóbbu,soxlawu leen nëbb golo yi seeni yëf ,contradiction
+"14000i at ginnaaw tabaxug taaxum kowum Estei, Milreum nekkoon na kër gu yaatu gu benn nit bu am dayo ",Milreu nekkoon na 10i junni  ci lépp,neutral
+"14000i at ginnaaw tabaxug taaxum kowum Estei, Milreum nekkoon na kër gu yaatu gu benn nit bu am dayo ",Milreu mi ngi woon ca àll ba,entailment
+"14000i at ginnaaw tabaxug taaxum kowum Estei, Milreum nekkoon na kër gu yaatu gu benn nit bu am dayo ",Milreu mi ngi woon ci biir dëkku taax bi,contradiction
+nattukaayu ndox mi mi ngi ci diggante 18 ak 24° C (64-75°F),nattukaayu géej gu yaatu gi dafay faral di soppeeku waaye du wàcc mukk ci fi muy gën a galaasee ,entailment
+nattukaayu ndox mi mi ngi ci diggante 18 ak 24° C (64-75°F),nattukaayu géej gi benn béréb rekk lanuy yem at mi yépp,contradiction
+nattukaayu ndox mi mi ngi ci diggante 18 ak 24° C (64-75°F),"nattukaay ci bëccëg gi lanuy gën a yokkee, bu gënee sedd",neutral
+pàrkub Kinabalu bokk na ci fukk ak benn gox yi nguur gi gën a wottu,Pàrku askanu Kinabalu am na fukki ñey ak juróom benni mbaam-xàkk,neutral
+pàrkub Kinabalu bokk na ci fukk ak benn gox yi nguur gi gën a wottu,"nguur gi am na ay gox yu mu wottu, bokk na ci pàrku askanu Kinabalu",entailment
+pàrkub Kinabalu bokk na ci fukk ak benn gox yi nguur gi gën a wottu,"am na ci woññi, ñetti gox yu nguur gi wottu",contradiction
+di ngeen gis ay widewooy mboor bu Anne ak Amsterdam ci singale gi ak itam ay nataal ak ay jumtuwaay yu yàgg,doo leen gis nataal yi,contradiction
+di ngeen gis ay widewooy mboor bu Anne ak Amsterdam ci singale gi ak itam ay nataal ak ay jumtuwaay yu yàgg,di ngeen gis ay nataal,entailment
+di ngeen gis ay widewooy mboor bu Anne ak Amsterdam ci singale gi ak itam ay nataal ak ay jumtuwaay yu yàgg,di ngeen gis yenn ci nataal yu jëkk yi,neutral
+"Treasure Beach nekk na, ci misaal, benn bérébu wotel kott, ci yenn wotel yi nekk ci yoon wu xàllu wi",ay pexey wotel  yu bare amul ngir ñiy dem ca Treasure Beach,entailment
+"Treasure Beach nekk na, ci misaal, benn bérébu wotel kott, ci yenn wotel yi nekk ci yoon wu xàllu wi",am na benn wotelu bu mucc ayib bu ubbeeku boo xam ne wëraakon yiy wër Treasure Beach mën nanu ko gis,neutral
+"Treasure Beach nekk na, ci misaal, benn bérébu wotel kott, ci yenn wotel yi nekk ci yoon wu xàllu wi",Treasure Beach bokk na ci benn ci bérébu wotel yi nekk ci gox bi,contradiction
+"ak naaj wi, jamono ji dafay neex (waaye waxeesul mbóoyo mi) ak ni géej gi di neexee, loolu tax mu nekk waxtu wu neex ngir sóobu ci ndox mi, feex ak yeneen xeeti mbir yu aju ci wàllum géej",saa su ne dina def lu ëpp 100 degere walla lu ko ëpp ci jamonoy naaj ,contradiction
+"ak naaj wi, jamono ji dafay neex (waaye waxeesul mbóoyo mi) ak ni géej gi di neexee, loolu tax mu nekk waxtu wu neex ngir sóobu ci ndox mi, feex ak yeneen xeeti mbir yu aju ci wàllum géej","li daan xew, 75 la woon ci jamonoy naaj",neutral
+"ak naaj wi, jamono ji dafay neex (waaye waxeesul mbóoyo mi) ak ni géej gi di neexee, loolu tax mu nekk waxtu wu neex ngir sóobu ci ndox mi, feex ak yeneen xeeti mbir yu aju ci wàllum géej",dafay tàng ci jomonoy naaj,entailment
+"ci biir jalab yii, am na ci boo xam ne weccit yu ci ay seetaankat sànni yaakaar ne daanu seen benn boppu mbonaat, loolu di woon, ci ñoom, aw yoon ngir joti ci ñoom",nit ñi duñu sànni mukk xaalis ndax gaaf la,contradiction
+"ci biir jalab yii, am na ci boo xam ne weccit yu ci ay seetaankat sànni yaakaar ne daanu seen benn boppu mbonaat, loolu di woon, ci ñoom, aw yoon ngir joti ci ñoom",nit danuy sànni ay weccitu xaalis donte ne sax bindu bi tere na leen ko,neutral
+"ci biir jalab yii, am na ci boo xam ne weccit yu ci ay seetaankat sànni yaakaar ne daanu seen benn boppu mbonaat, loolu di woon, ci ñoom, aw yoon ngir joti ci ñoom",nit ñi sànni nanu xaalis ci ndox mi,entailment
+"dëkkub dalluwaayu gaal yu mag bu Nauplie, nekk na béréb mu mucc ayib boo xam ne mënees na cee doxantu ci gox bi, waaye it mënees na faa amee aw ñam ci wojaas gi",Nauplie dafa neex a xoolee,neutral
+"dëkkub dalluwaayu gaal yu mag bu Nauplie, nekk na béréb mu mucc ayib boo xam ne mënees na cee doxantu ci gox bi, waaye it mënees na faa amee aw ñam ci wojaas gi",Nafplio béréb bu bon la,contradiction
+"dëkkub dalluwaayu gaal yu mag bu Nauplie, nekk na béréb mu mucc ayib boo xam ne mënees na cee doxantu ci gox bi, waaye it mënees na faa amee aw ñam ci wojaas gi",Nafplio béréb bu baax la,entailment
+"ca Prinsengracht, Otto Frank ak njabootam dañu fa làqatu ci seen yëngu-yënguy njënd ak njaay lu mat ñaari at laata ñuy feeñ",Otto Frank ci ñaareelu fan ba lañu ko jàpp,contradiction
+"ca Prinsengracht, Otto Frank ak njabootam dañu fa làqatu ci seen yëngu-yënguy njënd ak njaay lu mat ñaari at laata ñuy feeñ",Otto Frank cig làqu la dund lu mat 25 weer,entailment
+"ca Prinsengracht, Otto Frank ak njabootam dañu fa làqatu ci seen yëngu-yënguy njënd ak njaay lu mat ñaari at laata ñuy feeñ",Otto Frank dafa làqatu ba keroog raykatu xeet yi di ko gis,neutral
+"réew ak nguuri gox yu bare, dañoo am geneen tënku ci wàllum saytu",nguuri gox yi mëñ nanoo tënk seen sàrti bopp,neutral
+"réew ak nguuri gox yu bare, dañoo am geneen tënku ci wàllum saytu",nguuri gox amuñu genn tënku,contradiction
+"réew ak nguuri gox yu bare, dañoo am geneen tënku ci wàllum saytu",am yeneen tënku ci wàllum saytu yoo xam ne nguuri gox yi ñoo koy joxe,entailment
+ay mbooloom kaaraangey xibaaar yu ñu amal ci diggante 8 ak 12 ponki waxtaan weeer wu jot,"mbooloom kaaraange am na, ci xayma, 9 ponki waxtaan weer wu ne",neutral
+ay mbooloom kaaraangey xibaaar yu ñu amal ci diggante 8 ak 12 ponki waxtaan weeer wu jot,mbooloom kaaraange gi dafay amal aw waxtaan bés bu ne,contradiction
+ay mbooloom kaaraangey xibaaar yu ñu amal ci diggante 8 ak 12 ponki waxtaan weeer wu jot,mboloom kaarange gi dafay amal ay ndajey waxtaan yu bare at mu ne,entailment
+"waaye, xaraleg njëlbeen teel nañu ko def",xarala gi am na jamonoy njëlbeen,entailment
+"waaye, xaraleg njëlbeen teel nañu ko def",xarala gi ca njombaxtal la rekk la amee,contradiction
+"waaye, xaraleg njëlbeen teel nañu ko def","su fekkee amul ay gëstu ca njëlbeen, xarala gi, ci njort, mën na bañ a àntu",neutral
+"li mu jur mooy, dogalkat yi politig yi ak njiit yi  ci biir nguur gi am nanu weneen xalaatin, xàll nanu yeneen yoon ngir matale seeni jubluwaay ba noppi di jëfandikoo yeneen xibaar ngir natt seeni dogal",ñi teewal nguur gi soppi nanu doxalin,entailment
+"li mu jur mooy, dogalkat yi politig yi ak njiit yi  ci biir nguur gi am nanu weneen xalaatin, xàll nanu yeneen yoon ngir matale seeni jubluwaay ba noppi di jëfandikoo yeneen xibaar ngir natt seeni dogal",ñi teewal nguur gi danuy jéem a gën a yokk seen doole  ciw xalaatin wu wuute,neutral
+"li mu jur mooy, dogalkat yi politig yi ak njiit yi  ci biir nguur gi am nanu weneen xalaatin, xàll nanu yeneen yoon ngir matale seeni jubluwaay ba noppi di jëfandikoo yeneen xibaar ngir natt seeni dogal",ñi teewal nguur gi bañ nanoo soppi seen dundin,contradiction
+mën naa am warees naa firi këyit yi ngir kilyaan yi dégg beneen làkk bu dul àngale,wayndarey mbir mi ci làkku àngale rekk lees ko nangu,contradiction
+mën naa am warees naa firi këyit yi ngir kilyaan yi dégg beneen làkk bu dul àngale,wayndare yi mën nanu bind ci sinuwaa ak ci làkku waa Russie,neutral
+mën naa am warees naa firi këyit yi ngir kilyaan yi dégg beneen làkk bu dul àngale,wayndare yi mën nañu ko bind ci yeneen làkk,entailment
+yeneen njàmbaarte ñi ngi ciy yoon walla ñu koy waaj  bokk na ci,lu ëpp ci sunuy njàmbaarte ñi ngi yëngu,neutral
+yeneen njàmbaarte ñi ngi ciy yoon walla ñu koy waaj  bokk na ci,amul lenn lu nu waaj ngir ëllëg,contradiction
+yeneen njàmbaarte ñi ngi ciy yoon walla ñu koy waaj  bokk na ci,am na lu nu jot a waaj,entailment
+"dugalug këyiti fayeeku yu ci mel ni ay àpp yu gàtt, faaseg  ay yëfi masin, ak ñàkk a joti ci wayndare yu mënul a ñàkk yi",faase nanu ay yëf yu nu denc ci masin yu IBM,neutral
+"dugalug këyiti fayeeku yu ci mel ni ay àpp yu gàtt, faaseg  ay yëfi masin, ak ñàkk a joti ci wayndare yu mënul a ñàkk yi",faase nanu yëfi njëlbeeni masin bi,entailment
+"dugalug këyiti fayeeku yu ci mel ni ay àpp yu gàtt, faaseg  ay yëfi masin, ak ñàkk a joti ci wayndare yu mënul a ñàkk yi",denc nanu yëfi njëlbeeni masin bi yépp,contradiction
+"rax ci dolli, teewalkat bi def ceetig njëlbeen gi ci boppam, gis na sarwiirkat bu bees bi ngir mu tontu ci laaj yi te it indiy leeral ci jafe-jafe yi ñu seetlu ci xeetu ñaxtu bi",teewalkat bi def na ceetug benn waxtu,neutral
+"rax ci dolli, teewalkat bi def ceetig njëlbeen gi ci boppam, gis na sarwiirkat bu bees bi ngir mu tontu ci laaj yi te it indiy leeral ci jafe-jafe yi ñu seetlu ci xeetu ñaxtu bi",am na ag ceetug benn teewalkat ,entailment
+"rax ci dolli, teewalkat bi def ceetig njëlbeen gi ci boppam, gis na sarwiirkat bu bees bi ngir mu tontu ci laaj yi te it indiy leeral ci jafe-jafe yi ñu seetlu ci xeetu ñaxtu bi",mësuñoo am genn ceet,contradiction
+"bu dul ne sax ndenc mi dafay laal wàllum alalu gi, waaye alalu dafay laal moom ci boppam tànneefu ndenc","tànneefu ndenc, alaloo koy sabab",entailment
+"bu dul ne sax ndenc mi dafay laal wàllum alalu gi, waaye alalu dafay laal moom ci boppam tànneefu ndenc",alalu ak wàllum koom deesu leen faral di boole,contradiction
+"bu dul ne sax ndenc mi dafay laal wàllum alalu gi, waaye alalu dafay laal moom ci boppam tànneefu ndenc",nit ñi am xaalis ñooy faral di gën di denc benn pàcc ci seen koom,neutral
+"ci misaal, ab kuréel bu nu gëstu def na ñaari lëkkëloo loolu taxoon ba bérébu liggéeykaay bi dugal lëkkële yu yees yi, ba noppi defaruwaat ngir undiy tontu ci càkkutéefi jaaykat yi","donte ne sax am na ñaari  lëkkëloo, bérébu liggéeykaay bi yittewoowul a soppiy njiit",contradiction
+"ci misaal, ab kuréel bu nu gëstu def na ñaari lëkkëloo loolu taxoon ba bérébu liggéeykaay bi dugal lëkkële yu yees yi, ba noppi defaruwaat ngir undiy tontu ci càkkutéefi jaaykat yi",lëkkëloob ñaari kuréel yi ngir nekk benn kuréel ak defaruwaat gi sabab na nekkin wu bon a bon ,neutral
+"ci misaal, ab kuréel bu nu gëstu def na ñaari lëkkëloo loolu taxoon ba bérébu liggéeykaay bi dugal lëkkële yu yees yi, ba noppi defaruwaat ngir undiy tontu ci càkkutéefi jaaykat yi",saytu nanu ab bérébu liggéeykaay bu def ñaari lëkkëloo boo xam ne dafa gaaw a defaruwaat ngir méngoo ak li mbir yi laaj,entailment
+"ci xalaatam, sunu yitte moo doon ne pay gi nangu nanu ko laata nuy seet ba xam wojaas bi amoon na ",xamoon nanu ne pay gi da doon yàgg lool,contradiction
+"ci xalaatam, sunu yitte moo doon ne pay gi nangu nanu ko laata nuy seet ba xam wojaas bi amoon na ",yaakaaroon nanu ne pay gi mënoon naa jiitu lëñmbët gi,entailment
+"ci xalaatam, sunu yitte moo doon ne pay gi nangu nanu ko laata nuy seet ba xam wojaas bi amoon na ","danu yaakaaroon ne pay gi mënoon nanu ko teel a def , manoon nanu ñu cee saay-saaye",neutral
+"jumtuwaay yu yees yi bokk nañu ci doxini mbiri kuréel yii ndax ni ñu leen di xoole mooy ne njàppale ñeel bérébu liggéeykaay bi, waaye déet rekk ne ab jumtuwaay",ab jumtuwaayu waajal bu xarala bokk na ci jumtuwaay yu yees yi bérébu liggéeykaay yi jox bopp,neutral
+"jumtuwaay yu yees yi bokk nañu ci doxini mbiri kuréel yii ndax ni ñu leen di xoole mooy ne njàppale ñeel bérébu liggéeykaay bi, waaye déet rekk ne ab jumtuwaay",jumtuwaayu xarala yu yees jumtuwaay la rekk waaye nekkul ab yombalkatu mbir,contradiction
+"jumtuwaay yu yees yi bokk nañu ci doxini mbiri kuréel yii ndax ni ñu leen di xoole mooy ne njàppale ñeel bérébu liggéeykaay bi, waaye déet rekk ne ab jumtuwaay",bérébu liggéeykaay yii jox nañu solo lool jumtuwaayu xarala yu yees yi,entailment
+ñaari gis-gis yuy fés ci wàllu mbindum aadaa  mën nañoo xàll ay yooni gëstu suba,mbindum aada man na soppi gisin wi nu am ci xeet y,neutral
+ñaari gis-gis yuy fés ci wàllu mbindum aadaa  mën nañoo xàll ay yooni gëstu suba,mbindum aada man na sopp gëstu yi ëllëg,entailment
+ñaari gis-gis yuy fés ci wàllu mbindum aadaa  mën nañoo xàll ay yooni gëstu suba,amul lu nu man a def ngir sippi gëstu yi,contradiction
+"rëdd yi nga xam ne ay néeg a nekk ci biir mooy wone muccaayu ayibu nekkinu wéy-gëstukat yi, waaye itam rëdd yi làmboo wurus yiiy wone ñàkk yi ci wàllum xarala (su fekkee dafa safaane) ci jële liggéey bi cib wàll yóbbu ko ci beneen wàll",rëd yi dañuy xayma dayo muccu ayibu nekkinu wéy-gëstu yi bi tollu ci 10%,neutral
+"rëdd yi nga xam ne ay néeg a nekk ci biir mooy wone muccaayu ayibu nekkinu wéy-gëstukat yi, waaye itam rëdd yi làmboo wurus yiiy wone ñàkk yi ci wàllum xarala (su fekkee dafa safaane) ci jële liggéey bi cib wàll yóbbu ko ci beneen wàll",rëdd yi wone wu nu lenn lu dul jëmu wi,contradiction
+"rëdd yi nga xam ne ay néeg a nekk ci biir mooy wone muccaayu ayibu nekkinu wéy-gëstukat yi, waaye itam rëdd yi làmboo wurus yiiy wone ñàkk yi ci wàllum xarala (su fekkee dafa safaane) ci jële liggéey bi cib wàll yóbbu ko ci beneen wàll",rëdd yi dañuy wone dayo muccu ayibu wéy-gëstu yépp,entailment
+"ci ag sukkandikoom ci xayma wóoradi gi, Centerlink nàmm na ay xalaatin yu fegu ci wàllum gatandu jëm ci njàngal liggéeykat yi ak wéy-bokk yi ay ponk yu laal ciiwalug njuréel yi",Centerlink xamul woon naka lay saafaraa jafe-jafe bi,contradiction
+"ci ag sukkandikoom ci xayma wóoradi gi, Centerlink nàmm na ay xalaatin yu fegu ci wàllum gatandu jëm ci njàngal liggéeykat yi ak wéy-bokk yi ay ponk yu laal ciiwalug njuréel yi",Centerlink amoon na ay pexe yu bare ngir jàngal nit ñi  naka lañuy siiwalee seeni njuréel ndax njuumte yi dafa doon undil nguur gi ay jafe-jafey koppar yu tar,neutral
+"ci ag sukkandikoom ci xayma wóoradi gi, Centerlink nàmm na ay xalaatin yu fegu ci wàllum gatandu jëm ci njàngal liggéeykat yi ak wéy-bokk yi ay ponk yu laal ciiwalug njuréel yi",Centerlink am na ay pexe yu bari ngir jàngal xale yi naka lañuy siiwalee seeni njuréel ,entailment
+"loolu dafa doon yombal yëngu-yëngu yi waaye lépp ci muccal bérébu-liggéeykaay, ci pàccub caytu gi, ñuy def ay koppar yu bare ci wut ay jumtuwaay rawatina jumtuwaayu njuréef ngir defar ay meññeenti nuroowaale","rax ci dolli, dinañu mën a wone nakala la mbir mi war a doxe",entailment
+"loolu dafa doon yombal yëngu-yëngu yi waaye lépp ci muccal bérébu-liggéeykaay, ci pàccub caytu gi, ñuy def ay koppar yu bare ci wut ay jumtuwaay rawatina jumtuwaayu njuréef ngir defar ay meññeenti nuroowaale",mënoon nañoo xamal bérébu-liggéeykaay bi ne gënul wool ñuy tabax yeneen béréb yu yees,neutral
+"loolu dafa doon yombal yëngu-yëngu yi waaye lépp ci muccal bérébu-liggéeykaay, ci pàccub caytu gi, ñuy def ay koppar yu bare ci wut ay jumtuwaay rawatina jumtuwaayu njuréef ngir defar ay meññeenti nuroowaale",amuñu woon benn xam-xam ngir wone njureelu ndogalum koppar yi,contradiction
+njàmbaartey lëkkëloo yu waa Caroline du Sud juroon na bànneex at ma ca topp,kenn ci waa Caline du Sud dugalu ci loxoom,contradiction
+njàmbaartey lëkkëloo yu waa Caroline du Sud juroon na bànneex at ma ca topp,SC bokk na liggéey,entailment
+njàmbaartey lëkkëloo yu waa Caroline du Sud juroon na bànneex at ma ca topp,ñi gëm ne yoon la ñu taxawu askan wi seen wàllu nekkin ay yu deme noonu ak ñi nga xam ne ñoom wàllum kopporaan lañu gën a jox gëdda ak baaxi nguur gi te ñ u nekk ca Caroline du Sud ñooy liggéeyandoo,neutral
+"su nu sukkandikoo ci kenn ku teewal kuréel gi, nangug caytu 605 (b) bu ñile kenn yeggewu ko  Njiit lu mag ngir ñu gën a dooleel bérébu-liggéeykaay yu ndaw yi","kuréel gi joxewul nanguy caytu SBA , ca màkkaanu ki ko war a saytu lanu ko wacc",neutral
+"su nu sukkandikoo ci kenn ku teewal kuréel gi, nangug caytu 605 (b) bu ñile kenn yeggewu ko  Njiit lu mag ngir ñu gën a dooleel bérébu-liggéeykaay yu ndaw yi",kuréel gi joxewul nanguy-caytu SBA,entailment
+"su nu sukkandikoo ci kenn ku teewal kuréel gi, nangug caytu 605 (b) bu ñile kenn yeggewu ko  Njiit lu mag ngir ñu gën a dooleel bérébu-liggéeykaay yu ndaw yi",kuréelu lëkkële gi dafay seddale bés bu ne ay nànguy caytu SBA képp ku ko sàkku,contradiction
+doon a am solo nu gën a saytu li aju ci tukki bi su fekkee deppãs yi ci woteel yi dafa méggoo ak yeneen deppãs,lu ëpp ci yenn woteeli dëkk bi nangu nanu ay peyoor ak kàrti bànk,neutral
+doon a am solo nu gën a saytu li aju ci tukki bi su fekkee deppãs yi ci woteel yi dafa méggoo ak yeneen deppãs,wojaas bi ci boppam lees di saytu jaarale ko ci deppãsi wotel bi,entailment
+doon a am solo nu gën a saytu li aju ci tukki bi su fekkee deppãs yi ci woteel yi dafa méggoo ak yeneen deppãs,amul nenn noo man a xamee ne amal nanu wojaas bi walla déet,contradiction
+"ci misaal, ab kàppitaalu dëkk bu nu demoon làmboo na lu weesu 600 kuréelu xarala",kàppitaal yi ñooy béréb yu gën a mucc ayib ngir këri liggéeykaay yiy yëngu ci wàllum xarala,neutral
+"ci misaal, ab kàppitaalu dëkk bu nu demoon làmboo na lu weesu 600 kuréelu xarala",ab kàppitaal am na tonu bérébu-liggéeyu xarala,entailment
+"ci misaal, ab kàppitaalu dëkk bu nu demoon làmboo na lu weesu 600 kuréelu xarala",këri liggéeykaay yiy yëngu ci wàllu xarala dañuy moytu kàppitaal yi ngir ay mbiri yoon,contradiction
+"sooy natt muccaayu ayib bi, lu amul sikk amul ",mën nga ñàkk sikk su fekkee def nga lépp ngir loolu,contradiction
+"sooy natt muccaayu ayib bi, lu amul sikk amul ",doo mës a ñàkk sikk,entailment
+"sooy natt muccaayu ayib bi, lu amul sikk amul ",mënoo leen a ñàkk sikk ndax ñépp ay doom-aadama yoo xam ne dañoo sikk lool,neutral
+ki dëkkëloon ci néegam Hazmi ak Mihdhar ci atum 2000 nekk koo xam ne ku fonk yoon la rax ci dolli ku amoon jàmm la bu yàgg ba tay ak tàkk-deri gox bi ak waa FBI,Hazmi ak Mihdhar dañu jënd kër ngir bañ a jëflante ak kenn,contradiction
+ki dëkkëloon ci néegam Hazmi ak Mihdhar ci atum 2000 nekk koo xam ne ku fonk yoon la rax ci dolli ku amoon jàmm la bu yàgg ba tay ak tàkk-deri gox bi ak waa FBI,"Hazmi ak Mihdar dañoo luye benn néeg ngir at mi yépp, 500§ lañuy fey bés bu ne",neutral
+ki dëkkëloon ci néegam Hazmi ak Mihdhar ci atum 2000 nekk koo xam ne ku fonk yoon la rax ci dolli ku amoon jàmm la bu yàgg ba tay ak tàkk-deri gox bi ak waa FBI,Hazmi ak Mihdar luye nanu benn néeg,entailment
+"Ngir ay leeral ci seenub tukki ca Bosnie, xoolal li tukkee ci liggéeyub caytu bu benn doomu Arabie Saoudite bu bokk ci Al Qaeda def ci bés 3i fan ci weeru oktoobar atum 2001",kenn ku bokk ci Al Qaida dem na Bosnie lu tollu ci 18i yoon ci atum 2001,neutral
+"Ngir ay leeral ci seenub tukki ca Bosnie, xoolal li tukkee ci liggéeyub caytu bu benn doomu Arabie Saoudite bu bokk ci Al Qaeda def ci bés 3i fan ci weeru oktoobar atum 2001",kenn ku bokk ci Al-Qaida dem na ca Bosnie,entailment
+"Ngir ay leeral ci seenub tukki ca Bosnie, xoolal li tukkee ci liggéeyub caytu bu benn doomu Arabie Saoudite bu bokk ci Al Qaeda def ci bés 3i fan ci weeru oktoobar atum 2001",amul woon firnde ci am na kenn ku bokk ci Al-Qaida ku demoon Bosnie,contradiction
+Jane laaj na takk-der bi dëkk New-York te mu sasoo wër Mihdhar mu siife benn këyit buy wone ni takk-der bi xamoon na na mu doon toppatoowee xibaaru FISA bi,Jane sàkku na ab àttekatu gox siife benn këyitu firnde bu FISA,neutral
+Jane laaj na takk-der bi dëkk New-York te mu sasoo wër Mihdhar mu siife benn këyit buy wone ni takk-der bi xamoon na na mu doon toppatoowee xibaaru FISA bi,Jane sàkku na siifeb benn këyit buy firndeel jot gi bi FISA,entailment
+Jane laaj na takk-der bi dëkk New-York te mu sasoo wër Mihdhar mu siife benn këyit buy wone ni takk-der bi xamoon na na mu doon toppatoowee xibaaru FISA bi,Jane xamle na ne benn këyit buy firnde ne FISA jot na ci jaru ko woon,contradiction
+"amul dara lu matul a bàyyi xel ci seen gis-gis, ci wàllu benn ñallu kaaraange gi jëm ci saytu ca jataayu takk-der ya",ay firnde yu doy waar lañu a ca ba ña leen di déglu ca bérébu saytu ba,contradiction
+"amul dara lu matul a bàyyi xel ci seen gis-gis, ci wàllu benn ñallu kaaraange gi jëm ci saytu ca jataayu takk-der ya",caytu yi ca béréb ba ci njortu takk-der yi koom yi amal caytu gi rekk lay wékku,neutral
+"amul dara lu matul a bàyyi xel ci seen gis-gis, ci wàllu benn ñallu kaaraange gi jëm ci saytu ca jataayu takk-der ya",bérébu caytu gi mujjul undi firne yi leen mën a tuumaal yépp,entailment
+"Khallad leneen la wax, maanaam ñomm ñett ñétt ñépp a wojaaseendoo ca Karachi",Khallad nee na xamalul ñoom ñett dara,contradiction
+"Khallad leneen la wax, maanaam ñomm ñett ñétt ñépp a wojaaseendoo ca Karachi",Khallad nee na ñett ñi naroon nañu ànd wojaase,entailment
+"Khallad leneen la wax, maanaam ñomm ñett ñétt ñépp a wojaaseendoo ca Karachi","Khallad nee ñett ñi naroon nañoo ànd ca Karachi ci weeru Oktoobar, ci xayma 50%",neutral
+"Këyitu tënkub xibaar, laaji Binalshibh, benn fan ci weeru Oktoobar atum 2002",Binalshibh ab pàccub FBI bu xelu ñoo ko doon déglu,neutral
+"Këyitu tënkub xibaar, laaji Binalshibh, benn fan ci weeru Oktoobar atum 2002",Binalshibh doon nañu ko déglu ca atum 2002,entailment
+"Këyitu tënkub xibaar, laaji Binalshibh, benn fan ci weeru Oktoobar atum 2002","kenn mësul a wax ak Binalshibh, dafa ne mërr",contradiction
+Mihdhar jot na firndeb tukki bu waa Amerig ñaari fan ginaaw waxtaanu CIA-FBIi CA New-York,Mihdhar amoon na ab firnde tukki bu Amerig ngir dugg ci réew mi,entailment
+Mihdhar jot na firndeb tukki bu waa Amerig ñaari fan ginaaw waxtaanu CIA-FBIi CA New-York,"Mihdhar mësul a am firndeb tukki, kon mësul a ñów ci nun",contradiction
+Mihdhar jot na firndeb tukki bu waa Amerig ñaari fan ginaaw waxtaanu CIA-FBIi CA New-York,Mihdhar jot na firndeb tukki ndax amul lenn lu wóoradi ci moom,neutral
+FBI mënuñu gis naataangoo bi walla sax ñu xam mooy kan donte ne sax lànket nanu ñaari at,FBI mësuñu gis waa ji ginnaaw ba mu demee Floride ca atum 2001,neutral
+FBI mënuñu gis naataangoo bi walla sax ñu xam mooy kan donte ne sax lànket nanu ñaari at,FBI gisuñu kan moo doon waa jooju,entailment
+FBI mënuñu gis naataangoo bi walla sax ñu xam mooy kan donte ne sax lànket nanu ñaari at,FBI xamoon nañu kan la ba téj ko kaso,contradiction
+"bu dee American bi11 la, jokkalante gu mujj gi ci ci bi juróom ñetti waxtu tegalee fukki simili ak ñett la mujjewoona am",am na ay jokkalante yu juge ci American 11 bi,entailment
+"bu dee American bi11 la, jokkalante gu mujj gi ci ci bi juróom ñetti waxtu tegalee fukki simili ak ñett la mujjewoona am",amoon na ay jokkalante yu jugewoon ci American 11 juróomi simili yu nekk,neutral
+"bu dee American bi11 la, jokkalante gu mujj gi ci ci bi juróom ñetti waxtu tegalee fukki simili ak ñett la mujjewoona am",mësul woon a am ay jokkalante ak American 11,contradiction
+"njortees na ne ab gëstoom dafa doon sàkku jokkalante gu gaaw te xelu ci nguurug Allemagne, loolu doon nekk luy jafee am","su fekkoon caytu gi amaloon nanu ko ci anam yu mucc ayib, doon na wone fi daw-làqu yi nekk",neutral
+"njortees na ne ab gëstoom dafa doon sàkku jokkalante gu gaaw te xelu ci nguurug Allemagne, loolu doon nekk luy jafee am",nguurug Allemagne doon nanu am ay jafe-jafe ngir amal ab lànket bu gaaw te yaatu,entailment
+"njortees na ne ab gëstoom dafa doon sàkku jokkalante gu gaaw te xelu ci nguurug Allemagne, loolu doon nekk luy jafee am",lànket bi doon na yomba defal nguur gi,contradiction
+"ay mën-mënam doyul, waaye ay jéegu yu tuuti lañu def ngir yaatal leen ak soppi leen",mësuñoo soppi seen wàllum caytu kaaraange,neutral
+"ay mën-mënam doyul, waaye ay jéegu yu tuuti lañu def ngir yaatal leen ak soppi leen",defuñu daanaka dara ngir soppi mbir mi,entailment
+"ay mën-mënam doyul, waaye ay jéegu yu tuuti lañu def ngir yaatal leen ak soppi leen",def nañu ay jéego yu rëy ngir soppi mbir mi,contradiction
+bataaxalu ki ci xam-xamam màcc dafa wone ne dafa doon jaaxaale ay dànkaafu yu bare ak ay gàllankoori yoon ci tasaare xibaar bi ak tënkub jëfandikoo xibaar bi ñeel takk-der yi seen xam-xam màcc ci wàllum faat bakkan te nu jële ko ci gëstukat yi, xeltukat bi undi na ay xalaat yu leer,contradiction
+bataaxalu ki ci xam-xamam màcc dafa wone ne dafa doon jaaxaale ay dànkaafu yu bare ak ay gàllankoori yoon ci tasaare xibaar bi ak tënkub jëfandikoo xibaar bi ñeel takk-der yi seen xam-xam màcc ci wàllum faat bakkan te nu jële ko ci gëstukat yi,xeltukat bi desewoon naa leeral yenn ci mbir yu bare,entailment
+bataaxalu ki ci xam-xamam màcc dafa wone ne dafa doon jaaxaale ay dànkaafu yu bare ak ay gàllankoori yoon ci tasaare xibaar bi ak tënkub jëfandikoo xibaar bi ñeel takk-der yi seen xam-xam màcc ci wàllum faat bakkan te nu jële ko ci gëstukat yi,këyitu tënkub xeltukat bi ni ñu ko bindewoon dafa bon a bon ba kenn mënu ko woon liir,neutral
+"yenn ci njiiti làrme yu mag yi dañu leen a yóbbu ci wetu yéegu yi; ñeneen ñi dañu leen sasoon ñu gën a gaawaal leeral béréb bi, ca buntu ba ba ca bérébu wotoraay ba",njiiti làrme yu mag yi am seen coppitey bopp ci seen wàllu liggéey,entailment
+"yenn ci njiiti làrme yu mag yi dañu leen a yóbbu ci wetu yéegu yi; ñeneen ñi dañu leen sasoon ñu gën a gaawaal leeral béréb bi, ca buntu ba ba ca bérébu wotoraay ba",njiiti làrme yu mag yi dañu doon daw rekk fa ñu leen soxlaa,contradiction
+"yenn ci njiiti làrme yu mag yi dañu leen a yóbbu ci wetu yéegu yi; ñeneen ñi dañu leen sasoon ñu gën a gaawaal leeral béréb bi, ca buntu ba ba ca bérébu wotoraay ba",njiiti làrme yu mag dañu doon undi ay coppite ci seen wàllu liggéey sukkandiku ci ka ca jiitu,neutral
+"Bésu 9i fan ci weeru setàmbar, musiba mu bees dal na ci Afghanistan",am nanu ay xibaar ci Afghanistan,entailment
+"Bésu 9i fan ci weeru setàmbar, musiba mu bees dal na ci Afghanistan",déggunu ku wax waxi Afghanistan li feek Oktoobar,contradiction
+"Bésu 9i fan ci weeru setàmbar, musiba mu bees dal na ci Afghanistan",xibaaroon nanu nu nar a conkug 9i fan ci weeru Septàmbar,neutral
+"ñàkk a mën a jokkalante gi bokkoon na ci gën a doy waar ci daanug World Trade Center bi, li ko dalee ca Pentagone, ba ca kuréelu Somerset, waaye it ba ca Pennsylvanie nga xam ne ay kuréel yu bare wax nañu ci ",jokkalante gi muccoon na ayib bésu 11i fan ci weeru septàmbar,contradiction
+"ñàkk a mën a jokkalante gi bokkoon na ci gën a doy waar ci daanug World Trade Center bi, li ko dalee ca Pentagone, ba ca kuréelu Somerset, waaye it ba ca Pennsylvanie nga xam ne ay kuréel yu bare wax nañu ci ",nit ñi amoon nañu jafe-jafey jokkalante ak World Trade Center bi ndax kuurã bi ak liy yombal jokkalante bi ci wàllu jollasu yépp a daggoon,neutral
+"ñàkk a mën a jokkalante gi bokkoon na ci gën a doy waar ci daanug World Trade Center bi, li ko dalee ca Pentagone, ba ca kuréelu Somerset, waaye it ba ca Pennsylvanie nga xam ne ay kuréel yu bare wax nañu ci ",nit ñi amoon nañu jafe-jafey jokkoo ak world trade center bi,entailment
+"ay gëstu ci bérébu dencu xibaar yu neex a joti doon na yombal cullig këyiti dawal yi, xàmmeekaayu woto bi ak limu jollasu bi",lànketkat yi laay itam joti ci bérébu dencu xibaar yu xarala yi,neutral
+"ay gëstu ci bérébu dencu xibaar yu neex a joti doon na yombal cullig këyiti dawal yi, xàmmeekaayu woto bi ak limu jollasu bi",ay xeeti xibaar yu bare yemb na woon ca bérébu dencu xibaar yi nu defar ba noppi,entailment
+"ay gëstu ci bérébu dencu xibaar yu neex a joti doon na yombal cullig këyiti dawal yi, xàmmeekaayu woto bi ak limu jollasu bi",amul woon wenn yoon woo xam ne mëneesoon na cee jaar ngir gis xibaar ci nit ñi su fekkkee ci balluwaay yi fi lañu sukkandiku,contradiction
+"bi mu waxee ne dafa am xel mu teey ci mboolem jokkalante gi ci wàllu njënd ak njaay, ki yor wàllu jokkalante gi dafa sori Hazmi ak Mihdhar, waae ginnaaw ba mu amee ndimbal la mu soxla woon","ki yore wàllum jokkalante gi dafa jokkoo ci saa si ak njiit yi, ginnaaw bi dafa bañ a undi njàppaleem ci mbir mi",contradiction
+"bi mu waxee ne dafa am xel mu teey ci mboolem jokkalante gi ci wàllu njënd ak njaay, ki yor wàllu jokkalante gi dafa sori Hazmi ak Mihdhar, waae ginnaaw ba mu amee ndimbal la mu soxla woon",ki yore wàllu jokkalante undi na njàppaleen donte sax xelam dalul,entailment
+"bi mu waxee ne dafa am xel mu teey ci mboolem jokkalante gi ci wàllu njënd ak njaay, ki yor wàllu jokkalante gi dafa sori Hazmi ak Mihdhar, waae ginnaaw ba mu amee ndimbal la mu soxla woon",njàppale gi ci wàllu koppar la woon ak itam ci këyiti tukki,neutral
+"ci atum 2003, pàcc yii dañu ko dindiwoon; léegi mbir yi jëm yépp ci wàllu  yeekati fitnay bitim-réew ñoo bokku tur, 315",bépp yëngu-yëngu mu jëm ci wàllu yee fitna mi mooy suñu yitte,neutral
+"ci atum 2003, pàcc yii dañu ko dindiwoon; léegi mbir yi jëm yépp ci wàllu  yeekati fitnay bitim-réew ñoo bokku tur, 315",lépp li aju ci wàllu yee fitna ñoo yem àtte,entailment
+"ci atum 2003, pàcc yii dañu ko dindiwoon; léegi mbir yi jëm yépp ci wàllu  yeekati fitnay bitim-réew ñoo bokku tur, 315",bépp mbir bu laale ak yee fitna àtteb boppan lay ame,contradiction
+"njiitu làrme bi doon xool wërgëlu soww bi muy daanu, yegge na ko waa ESU ci wërngëlu béj-gànnaar bi nga xam ne sàkku nanu ñu juge fa",kenn desul ci wërngëlu béj-gànnaar bi ginnaaw bi  wërngëlu soww bi daanoo,contradiction
+"njiitu làrme bi doon xool wërgëlu soww bi muy daanu, yegge na ko waa ESU ci wërngëlu béj-gànnaar bi nga xam ne sàkku nanu ñu juge fa",wërngëlu soww bi ci diirub fanweeri simili la daanu laata ko njiitu làrme bee yëgal waa ESU ci wërngëlu béj-gànnaar bi,neutral
+"njiitu làrme bi doon xool wërgëlu soww bi muy daanu, yegge na ko waa ESU ci wërngëlu béj-gànnaar bi nga xam ne sàkku nanu ñu juge fa",njiitu làrme bi fekke na bi wërngëu soww biy daanu,entailment
+Indianapolis mooy béréb bi gën ngir liggéeyu ñiy yëngu ci wàllu filmu,ñiy yëngu ci wàllu filmu dañoo sopp Indianapolis ndax bérébi caytu ya fa nekk,neutral
+Indianapolis mooy béréb bi gën ngir liggéeyu ñiy yëngu ci wàllu filmu,"ne koy yëngu ci wàllu filmu, danga war a tuxu Indianapolis",entailment
+Indianapolis mooy béréb bi gën ngir liggéeyu ñiy yëngu ci wàllu filmu,"jafe na ngir am liggéey ca Indianapolis su fekkee ci wàllu filmu ak tiyaatar ci ngay yëngu, ndax foofu dëkku xarala la",contradiction
+"dañuy jàppalewaate bés bi yépp jaarale ko ci jollasu, ayu-bés bi yépp jaarale ko ci bérébu balluy xibaar ci yaxanal ak jàppandil ndimbal ci waajuur yi",nit ñi mënuñu ñoo jokk lu dul ci ci jokkalekaay gi walla ci bataaxalu keww gi,contradiction
+"dañuy jàppalewaate bés bi yépp jaarale ko ci jollasu, ayu-bés bi yépp jaarale ko ci bérébu balluy xibaar ci yaxanal ak jàppandil ndimbal ci waajuur yi","mënees naa jokkoo ak nun ci jollasu, ci waxtuy bés bi yépp",entailment
+"dañuy jàppalewaate bés bi yépp jaarale ko ci jollasu, ayu-bés bi yépp jaarale ko ci bérébu balluy xibaar ci yaxanal ak jàppandil ndimbal ci waajuur yi",daanu jot lu ëpp téeméeri woote altine ak aljuma bu jot,neutral
+ndax buwaat yii ci seen biiri mbar lañuy des  lu yàgg ginnaaw ba nu ubbee yeneen neexal yépp,buwaat yi ay ndell yu raglu la def,neutral
+ndax buwaat yii ci seen biiri mbar lañuy des  lu yàgg ginnaaw ba nu ubbee yeneen neexal yépp,paket yii daañu leen ubbi laataa yeneen neexal yi,contradiction
+ndax buwaat yii ci seen biiri mbar lañuy des  lu yàgg ginnaaw ba nu ubbee yeneen neexal yépp,buwaat yii daañu leen téj ab diir,entailment
+"su fekkee danoo wéy di wàññi sunuy njëg, danoo war a wax ak yeen  mbooloo mi ngir ngeen jàppale nu ndax nu gën a mën a doxal sunu liggéey","ngir mën a saxal njëgu sunuy biye ci lu yées 10 §, daanu soxla ñi bokk ci ñuy déglu yépp ngir ñu joxe 25 §",neutral
+"su fekkee danoo wéy di wàññi sunuy njëg, danoo war a wax ak yeen  mbooloo mi ngir ngeen jàppale nu ndax nu gën a mën a doxal sunu liggéey","dinanu mën a saxl sunu wàññiteg sunuy njëg bu nu soxalee dëgg, bu dul sax see xaalis, waaye sunu njiit li dafa bëgg ab nooflaay",contradiction
+"su fekkee danoo wéy di wàññi sunuy njëg, danoo war a wax ak yeen  mbooloo mi ngir ngeen jàppale nu ndax nu gën a mën a doxal sunu liggéey",seeni njàppale danuy dimbali ngir nu saxal wàññiteg sunuy njëg,entailment
+"00 tax na ba nu undiy xelal, ay ñax ak kaf ak ree jëmële ko ci lu tollu ci 400 xale yu nekk ci goxu Indianapolis ","ginnaaw njàppale gu takku, tax na nu woo Beyonce ngir mu tëgg ab baal ngir jiriimi Indianapolis",neutral
+"00 tax na ba nu undiy xelal, ay ñax ak kaf ak ree jëmële ko ci lu tollu ci 400 xale yu nekk ci goxu Indianapolis ","yaakaaroon nanoo amal feetug Nowel ngir xale yi, waaye mujjewu nu mës a mën a def dara ngir ñoom",contradiction
+"00 tax na ba nu undiy xelal, ay ñax ak kaf ak ree jëmële ko ci lu tollu ci 400 xale yu nekk ci goxu Indianapolis ",mujjewoon nanoo mën a dimbali ay xale yu bare yu Indianapolis,entailment
+"Cci pàcc bu jëkk bi, ñi teewal seen bopp mën nañoo bokk  su ñu defee benn joxeb coobare bu 1000 § lu mu néew néew ngir Chancellors Circle bi, walla bu 500 § lu mu néew néew ngir Chancellors Associates yi.",ñi teewal seen bopp mën nañoo  bokk ginnaaw bu ñu defee ab neexal bu tuuti bu  50 §,contradiction
+"Cci pàcc bu jëkk bi, ñi teewal seen bopp mën nañoo bokk  su ñu defee benn joxeb coobare bu 1000 § lu mu néew néew ngir Chancellors Circle bi, walla bu 500 § lu mu néew néew ngir Chancellors Associates yi.",nit ñi dinañu ci mën a bokk bu fekkee joxe nañu  ay neexal yu am solo,entailment
+"Cci pàcc bu jëkk bi, ñi teewal seen bopp mën nañoo bokk  su ñu defee benn joxeb coobare bu 1000 § lu mu néew néew ngir Chancellors Circle bi, walla bu 500 § lu mu néew néew ngir Chancellors Associates yi.",lu ëpp ci nit ñi dañoo taamu jox ab neexal Chancellors Associates,neutral
+"sab neexal, fi mu tollu nii, mën na la tax a am yeneen njuréel ci wàllu leempo ci njeexitalu at mi","su fekkee dangeen a joxe ab neexal boo xam ne lu mu néew néew tollu na ci 1000 §, dingeen mën a gën a mucc ci fayum leempo",neutral
+"sab neexal, fi mu tollu nii, mën na la tax a am yeneen njuréel ci wàllu leempo ci njeexitalu at mi","Maaraday taali, sunuy xelalkat ci wàllu leempo noo ngi leen di xelal ngeen bañ a joxe benn neexal",contradiction
+"sab neexal, fi mu tollu nii, mën na la tax a am yeneen njuréel ci wàllu leempo ci njeexitalu at mi",dingeen war a mënoon a am ay wàññitey leempo ci seeni njoxe,entailment
+"ni ngeen ko xamee, ñi bokk ci kippaango gi  bokk na ci xarit yi ak ña woon démb ñiy joxe at mu jot 1000 § walla lu ko ëpp béréb bi ñuy jàngalee yoon",ñenn ñi bokk ci kippaango gi joxe nañu  lu ëpp  100000 § ca lekool,neutral
+"ni ngeen ko xamee, ñi bokk ci kippaango gi  bokk na ci xarit yi ak ña woon démb ñiy joxe at mu jot 1000 § walla lu ko ëpp béréb bi ñuy jàngalee yoon",amna ay nitt yu bokk ci bi  ñu joxe ci lu toll ci 100000ֆ béréb bi nuy jàngale lépp lu aju ci wàllu yoon,entailment
+"ni ngeen ko xamee, ñi bokk ci kippaango gi  bokk na ci xarit yi ak ña woon démb ñiy joxe at mu jot 1000 § walla lu ko ëpp béréb bi ñuy jàngalee yoon",ñ waajal làcce ci bile kippaango ñu joxe seen wàll siy koppar ngir ekool bi waaye mësuñu ko woon a def,contradiction
+ni xale bu màgg si atum 50 yi; benn  si samay fàttiliku bu gënë neex mooy dem seetani ay jëfi caada yi ñeel askan wi,dama baññoon a dem ca bérébu caada yi ba ma nekke gune moo tax ma dooon léegi gëstukatu xam-xam,contradiction
+ni xale bu màgg si atum 50 yi; benn  si samay fàttiliku bu gënë neex mooy dem seetani ay jëfi caada yi ñeel askan wi,dama bëggόon di dem sa bérébu caada yi bama nekke gune,entailment
+ni xale bu màgg si atum 50 yi; benn  si samay fàttiliku bu gënë neex mooy dem seetani ay jëfi caada yi ñeel askan wi,lima gënόon a neex ci li ñi daan amal bérébu Caaday Civic bi moodi bi ñiyt wax jigéen bu rafett bi ak mala mi,neutral
+bu fekkoon ni nitt ku jott bataaxal bi joxe 18 ֆ kese,"Ñëpp ñuy jott bataaxal bi: bu leen joxe seen xaalis, ay naxaate la ",contradiction
+bu fekkoon ni nitt ku jott bataaxal bi joxe 18 ֆ kese,bu leen joxe 18 ֆ di ngeen am neexal,neutral
+bu fekkoon ni nitt ku jott bataaxal bi joxe 18 ֆ kese,amna ñu yaakaar ni képp ku jott bataaxal bi di joxe ndimbal bu toll si 18ֆ,entailment
+"xollil rekk li féeté kaw, kosal wàll wiy feeñ, def leen si coppite yi war  si seen béréb bi ngeen dëkk te ngeen yόone ko ci kayit bi kay lëmës si biir",ngala waay buleen def benn coppite si seen bérébu yόnne kaay,contradiction
+"xollil rekk li féeté kaw, kosal wàll wiy feeñ, def leen si coppite yi war  si seen béréb bi ngeen dëkk te ngeen yόone ko ci kayit bi kay lëmës si biir",bule na ñu si kayitu laxasukaay bu weex,neutral
+"xollil rekk li féeté kaw, kosal wàll wiy feeñ, def leen si coppite yi war  si seen béréb bi ngeen dëkk te ngeen yόone ko ci kayit bi kay lëmës si biir","dess na si yeen ngeen àndi ay copppite si bérébu yόone bataxal, si bu leen nexe",entailment
+ekool u faj kat yu jigéen yi dafa soxla seen ndimbal yu sakkan yi ngir yokk aka yiir ngëneel njang mi,"ñu ngi leen di ñaan ngeen joxe ndimbalu 100 millions si ay dollars  si ekool yiy jàngale lépp lu jëmm si wàllum paj, lu ko moy di ngeen ñakk seen takawayu joxekatu ndimbal yi ñiy fàtteliku",neutral
+ekool u faj kat yu jigéen yi dafa soxla seen ndimbal yu sakkan yi ngir yokk aka yiir ngëneel njang mi,ekool bi jàngale lépp lu aju cim paj dajjal lépp limu yakkaroon ci koppar ba tax na soxlaatul xaalis,contradiction
+ekool u faj kat yu jigéen yi dafa soxla seen ndimbal yu sakkan yi ngir yokk aka yiir ngëneel njang mi,amna ñu yaakaar ni di ngeen joxe seen ndimbal si ekool biy jàngale lépp lun aju cim paj,entailment
+"80% si ñiy bokk ci ,bir mi dinañu wane seen xam-xam bu xér si li  màcc si àtte xeex yi",lu ëpp xaaju si ñiy bokk si mbir mi dinañu wane seen mën-mën si àttem xeex yi gënë metti ,entailment
+"80% si ñiy bokk ci ,bir mi dinañu wane seen xam-xam bu xér si li  màcc si àtte xeex yi",benn xaaj-xaajaat si ñi bokk si mbir mi rekk ñooy wane seen mën-mën si li aju si àtteem xeex,contradiction
+"80% si ñiy bokk ci ,bir mi dinañu wane seen xam-xam bu xér si li  màcc si àtte xeex yi",amoon na si lu tollu ci 100 way bokku,neutral
+ngala moytuleen a suux si ñu biir kayit bi rëdd bépp joxekat bu sàppi,dina na metti lool boo leen bayyi woon a joxe ay may,entailment
+ngala moytuleen a suux si ñu biir kayit bi rëdd bépp joxekat bu sàppi,"sunu kayit bi ñiy bind mayekat yi dañu koy siiwal, léegi gëm leen ma,  bëggooleen ñu toroxal leen si yile anam",neutral
+ngala moytuleen a suux si ñu biir kayit bi rëdd bépp joxekat bu sàppi,"daña am ay mayekat yu bari, léegi mën ngeen a baayi may mi",contradiction
+suñu béréb yi dinañu ubbil képp ku am nosukaay ak jumtukaay bi kay yombalal mbooleente ak tasaare mi, nitt ñi soxla wuñu lenn ngir dugg si bayaal bi,contradiction
+suñu béréb yi dinañu ubbil képp ku am nosukaay ak jumtukaay bi kay yombalal mbooleente ak tasaare mi,nitt ñi soxla nañu ab nosukaay ak li leen di yombalal tasaare ak mboleente ngir mënë dugg ci biir,entailment
+suñu béréb yi dinañu ubbil képp ku am nosukaay ak jumtukaay bi kay yombalal mbooleente ak tasaare mi,nitt ñi danu xara àndaaleek ñoom seen nosukaay ak jumtukaay bi leen di yombalal mbolente mi ak tasaare mi bu ñiy dugg si biir ngir mënë jàll,neutral
+njaayum tiket yi ak mbokkute doyul ngir dolli koppar si jamano ji yëpp,"feek ñu ngi jaay ay tiket, jamano ji yëpp dinañu am koppar ngir taxawal mbir mi",contradiction
+njaayum tiket yi ak mbokkute doyul ngir dolli koppar si jamano ji yëpp,dañoo yitte woo koppar ngir doxal jamono ji yëpp koppar gu weesu bi joge si njaayum tiket mi ak koppari mbokkute mi,entailment
+njaayum tiket yi ak mbokkute doyul ngir dolli koppar si jamano ji yëpp,njayum tiket mi at mbokkute mi  li muy matal mu ngi tollu si 70% si mboleem joxe mi bi amal ngir mu matal jamono ji yépp,neutral
+wàcc si yu bees! neexal bu neek dafay àndiy coppiteem,ap may gu ne dañu koo denc te dan koy fësël ci yéglékaayu weer wi,neutral
+wàcc si yu bees! neexal bu neek dafay àndiy coppiteem,bépp neexal bi ñu maye amna lumuy njariñ ,entailment
+wàcc si yu bees! neexal bu neek dafay àndiy coppiteem,may yu weesu 100ֆ ñooy am ay wute,contradiction
+amnañu baa léegi yoon wu sori wu ñu dese bala ñoo jott 365000ֆ yi ñiy séentu  si sunuy xaritt ak àndadoo yu bokk si mbir mi yi si mel ni yeen,lu ñuy séentu ci koppar weesu na 300000ֆ,entailment
+amnañu baa léegi yoon wu sori wu ñu dese bala ñoo jott 365000ֆ yi ñiy séentu  si sunuy xaritt ak àndadoo yu bokk si mbir mi yi si mel ni yeen,yakaar nanu am ba ñetti yoon si liñuy séentu si koppar,neutral
+amnañu baa léegi yoon wu sori wu ñu dese bala ñoo jott 365000ֆ yi ñiy séentu  si sunuy xaritt ak àndadoo yu bokk si mbir mi yi si mel ni yeen,amuñu poñu méengalé ci mbirum xaalis,contradiction
+sunu bérébu jëfukaayu askan wi bamu amale ay gëddëm ak leegi def na at yu bari te yokkaat nañu benn béréb bu ñuy amale wàll atte tooñ yi,sunu bérébu jëfukaayu askan wi bamu amale ay gëddëm ak leen def na jurόom ñetti at,neutral
+sunu bérébu jëfukaayu askan wi bamu amale ay gëddëm ak leegi def na at yu bari te yokkaat nañu benn béréb bu ñuy amale wàll atte tooñ yi,sunu bérébu jëfukaay askan wi dina amal keyum jàmmum njëkkeelu atamu ubbiteem ci weer wi di ñëw,contradiction
+sunu bérébu jëfukaayu askan wi bamu amale ay gëddëm ak leegi def na at yu bari te yokkaat nañu benn béréb bu ñuy amale wàll atte tooñ yi,yoon wi tëral dogalug askan wi door na def na at ci gànnaw,entailment
+njëgu tiket yi du mataleek njëgu yëf yi ñi tëral,melnani njëgu tërëlin mi njëgu tiket yi bayu ko jaaye ba noppi doka matale,entailment
+njëgu tiket yi du mataleek njëgu yëf yi ñi tëral,njëgu tërëlin mi dafa bari lool,neutral
+njëgu tiket yi du mataleek njëgu yëf yi ñi tëral,li ñu am ba ñu jaaye tiket yi ba noppi dina matt ci lu wer tërëlinu xew mi,contradiction
+"Omnia vincit amor( rekk bu fekke ni da ngeen di liggéyal weekly standard): Brit Hume( ci tërëlin bi ñuy wax Fox News Sunday) dafay saytu ci liy waral  Lewinsky du wara mëna, amna cofees bum am ci njit li te kooku dellu wu koko",Brit Hume moo di tass  katu xabar bu jiite Fox,neutral
+"Omnia vincit amor( rekk bu fekke ni da ngeen di liggéyal weekly standard): Brit Hume( ci tërëlin bi ñuy wax Fox News Sunday) dafay saytu ci liy waral  Lewinsky du wara mëna, amna cofees bum am ci njit li te kooku dellu wu koko",Brit Hume dafay liggéeyal CNN,contradiction
+"Omnia vincit amor( rekk bu fekke ni da ngeen di liggéyal weekly standard): Brit Hume( ci tërëlin bi ñuy wax Fox News Sunday) dafay saytu ci liy waral  Lewinsky du wara mëna, amna cofees bum am ci njit li te kooku dellu wu koko",Brit Hume dafay liggéeyal Fox,entailment
+def nañu lu bari ngir jël Micheal Apted ngir mënë yokk nite si  limu powum caada,Michael Apted yakk na limu powum caada yëpp ci bi muy taxaw rekk ngir dindi lépp lu woyof te nite,contradiction
+def nañu lu bari ngir jël Micheal Apted ngir mënë yokk nite si  limu powum caada,Michael Apted dafa jëll ngir yokk nitt ñiy taaral aka njëmmal limu powu caada mi,entailment
+def nañu lu bari ngir jël Micheal Apted ngir mënë yokk nite si  limu powum caada,"da ñu jàpp ni poowum caada mi dafa sedd te ñakk xorom; moo tax, dafa jotoon lool ñu jëll ku mel ni Michael Apted ngir yokk xumbaay bu neex ci limug powu caada mi, mu dolli ci ay yoxoom ngir yokk li nu siy àm",neutral
+xool xale bu jigéen si mbubb bu am ay dunq yu weex sollit ay dàlli tàkk ,xale bu jigéen bi dafa solu ngir foo si galaas bi wacce si kaw asamaan,neutral
+xool xale bu jigéen si mbubb bu am ay dunq yu weex sollit ay dàlli tàkk ,xale bu jigéen bi ay yéré yu weex la sol,entailment
+xool xale bu jigéen si mbubb bu am ay dunq yu weex sollit ay dàlli tàkk ,xale bu jigéen bi li mu sol lépp a xonq,contradiction
+li film bi fësëlul moodi Kausfman dafa doon wax ci nimiy matalee ak ndee wam,film bi wane wul  ni Kaufman da doon wax ci ndee wam,entailment
+li film bi fësëlul moodi Kausfman dafa doon wax ci nimiy matalee ak ndee wam,flm bi joxoon na kàddu Kaufman ngir mu wax si ndee wam,contradiction
+li film bi fësëlul moodi Kausfman dafa doon wax ci nimiy matalee ak ndee wam,"bile film dafa soxla woon koppar gu bari ngir taxawal ko,ñu bayyi si wet gi ay mbir yu am solo si Kaufman ",neutral
+Rockefeller jëll may gu tiisu gi ba Avenging Tarbell tàmbalee xotti yaramam sa kër McClure,Rockfeller joxe ngir saytu  ci tawatu cancer,neutral
+Rockefeller jëll may gu tiisu gi ba Avenging Tarbell tàmbalee xotti yaramam sa kër McClure,Rockfeller joxe woon na,entailment
+Rockefeller jëll may gu tiisu gi ba Avenging Tarbell tàmbalee xotti yaramam sa kër McClure,Rockfeller dafa nayoon,contradiction
+"fann yi yi rekk, ci mbirum njënd ak njaay ca New York, klayman jiin nanu kofa ay jiiñu parparlook waaso",Klayman jiin nanuko ay parparloog waaso ca Californie,contradiction
+"fann yi yi rekk, ci mbirum njënd ak njaay ca New York, klayman jiin nanu kofa ay jiiñu parparlook waaso",Klayman mësula yaakaaar ni dinanu mësa jiiñ  ni amna ay xalaat yu ñaaw ci li aju ci waaso,neutral
+"fann yi yi rekk, ci mbirum njënd ak njaay ca New York, klayman jiin nanu kofa ay jiiñu parparlook waaso",amoon na ay tuuma si mbirum parparloog waaso yu tegu woon si kaw Klayman ,entailment
+kenn xaarul woon ni béreb bi dana fees ak ay nitt yi teewal seen mbootayu liggéey yi te yuuxόoka saaga sekeerteer liggéykat américain bi,ñi fi teewal mbootayu liggéey kat yi ay palto lañuy sol,neutral
+kenn xaarul woon ni béreb bi dana fees ak ay nitt yi teewal seen mbootayu liggéey yi te yuuxόoka saaga sekeerteer liggéykat américain bi,dañu yakaaroon ni ñi fi teewal mbootayu liggéey kat yi dañuy fi ne di mbiip,contradiction
+kenn xaarul woon ni béreb bi dana fees ak ay nitt yi teewal seen mbootayu liggéey yi te yuuxόoka saaga sekeerteer liggéykat américain bi,yakaaruñu woon ni ñi fi teewal mbootaayu liggéey kat dinañu fi ne di mbiip,entailment
+du li caada amul solo su ëpp si liggéeyu tàggatukat  moo tax càkk biy nelaw,tàggatu kat yi dañuy judduwaaleek seen mën-mën bu mat sëkk,contradiction
+du li caada amul solo su ëpp si liggéeyu tàggatukat  moo tax càkk biy nelaw,jëfu way tàggatu kat dafa aju si lu ëpp ay tàggatoom ni si ndoonoom xeetam ,entailment
+du li caada amul solo su ëpp si liggéeyu tàggatukat  moo tax càkk biy nelaw,way tàggatu kat yu bari te am pasteef su tuute ba tuut jurόom ñetti waxtu si ayubés yu ne ,neutral
+Bama àggee wa kër ga laa xamni Etats Unis daa ñu doon dag joxe ndug mi si ñaari fasoŋ  ,dama yitte loo politik bi,neutral
+Bama àggee wa kër ga laa xamni Etats Unis daa ñu doon dag joxe ndug mi si ñaari fasoŋ  ,jàng na ci li aju ci Etats Unis,entailment
+Bama àggee wa kër ga laa xamni Etats Unis daa ñu doon dag joxe ndug mi si ñaari fasoŋ  ,yeg naani Etats Unis dina wàññi  ndugg bi si ñaari fasoŋ  si li aju si ñibisi seen kër,contradiction
+béréb tas xabaar bu daara yu kawe yi bu gënë mag te gënë yàgg ci adduna bi--oxford-- fésël na léegi  dakkalub kayyitu limug taalif bi,kayyitu limug taalif bu Oxford bi dafa xewwi,entailment
+béréb tas xabaar bu daara yu kawe yi bu gënë mag te gënë yàgg ci adduna bi--oxford-- fésël na léegi  dakkalub kayyitu limug taalif bi,daara ju kawe bu bakkane bi amul koppar bu doy ngir téyé kayyitu limug taalif bu yëngu bi,neutral
+béréb tas xabaar bu daara yu kawe yi bu gënë mag te gënë yàgg ci adduna bi--oxford-- fésël na léegi  dakkalub kayyitu limug taalif bi,daara ju kawe ji dañu koo jagleel yiirub kayyitu limug taalif gi te waat nani kenn duko mësa dakkal,contradiction
+"amna njëgub neexal nitt ñëpp, léegi",njëgub neexal gi mu ngi nekk benn walukaay bu am ñaari jumtukaayu gaawal   ñu jagleel ko ñëpp,neutral
+"amna njëgub neexal nitt ñëpp, léegi",amul benn tonu ci nitt ñi  ci bile nekkin,contradiction
+"amna njëgub neexal nitt ñëpp, léegi",lii du xabaar bu nakkari si nitt ñi,entailment
+limug tàggatu yaram yi nekkuñu  fi ñoom  rekk ni ay xew-xew yi takk nga mëna amal tànneef si yii bérébu jokkalànte,tànneef yi ñiy amale si li aju ci waxtaanug politik nàngul nañu ko yile béréb jokkalànte,neutral
+limug tàggatu yaram yi nekkuñu  fi ñoom  rekk ni ay xew-xew yi takk nga mëna amal tànneef si yii bérébu jokkalànte,béréb jokkalànte tànneef yi aju kepp si xew-xew tàggatu yaram yi la nàngu,contradiction
+limug tàggatu yaram yi nekkuñu  fi ñoom  rekk ni ay xew-xew yi takk nga mëna amal tànneef si yii bérébu jokkalànte,bérébu jokkalànte yi dañuy jëll li gën si mëntéef yu bari,entailment
+"Ca 25 Août , ba tënk wi ñeel démocratie ca Atlantique city weesoo, N.J. Johnson bi amoon 65 ci ay at ca jamono yooyu, mu ngi doon tëkku si ñetti waxtaan yi mu  denc ni dina genn si xëccόog guur gi",Johnson dafa yék-yégu ñakka jàppale,neutral
+"Ca 25 Août , ba tënk wi ñeel démocratie ca Atlantique city weesoo, N.J. Johnson bi amoon 65 ci ay at ca jamono yooyu, mu ngi doon tëkku si ñetti waxtaan yi mu  denc ni dina genn si xëccόog guur gi",Johnson mësula xalaat génn si kujje gi,contradiction
+"Ca 25 Août , ba tënk wi ñeel démocratie ca Atlantique city weesoo, N.J. Johnson bi amoon 65 ci ay at ca jamono yooyu, mu ngi doon tëkku si ñetti waxtaan yi mu  denc ni dina genn si xëccόog guur gi",Johnson mu ngi tëkkuwaate ni dafay génn,entailment
+Lamar Alexander bàyyi na li mu doon maye si pallug nguur gi,bu yées ba yées benn nitt bàyyi jéem gi doon jéema nekk njiit,entailment
+Lamar Alexander bàyyi na li mu doon maye si pallug nguur gi,Lamar Alexander dafa lànk ni du bàyyi topp ngi muy topp si askan ngir ñu wooteel mu nekk njiit   ,contradiction
+Lamar Alexander bàyyi na li mu doon maye si pallug nguur gi,M. Alexander dañu koo noot ngir mu bàyyi bañu fësëlee nataalam yu ñakk worma yooyu si moom ,neutral
+"sudul jëf yi jiitu te ñu ñaaw luko lool, amna itam jëffàndikόo bu ëpp si FBI ba kër gu weex doon saytu moom si boppam ci li ñeel béréb lijjantikaay tukki yi ak mbir bi ñi ne woon nanu tudde Filegate",Kër gu weex gi dafay sànt saytulu wéy jojànte politik yi waa FBI. ,neutral
+"sudul jëf yi jiitu te ñu ñaaw luko lool, amna itam jëffàndikόo bu ëpp si FBI ba kër gu weex doon saytu moom si boppam ci li ñeel béréb lijjantikaay tukki yi ak mbir bi ñi ne woon nanu tudde Filegate",kër gu weex gi ni muy jëffàndikόo FBI baaxul,entailment
+"sudul jëf yi jiitu te ñu ñaaw luko lool, amna itam jëffàndikόo bu ëpp si FBI ba kër gu weex doon saytu moom si boppam ci li ñeel béréb lijjantikaay tukki yi ak mbir bi ñi ne woon nanu tudde Filegate",kër gu weex gi dafay jëffàndikόo FBI si anam bu baax,contradiction
+"Tung ñaan  na ñu tekk ay daan képp kuy jaay bole ci fokkale ci li ñeel wàllub kër, waaye ñëpp dañoo yaakaar ni dafay coow rekk waye du tekk kenn metit",Tung bayyiwul xel sax jaaykatu lépp lu jëmm ci wàllu béréb bi ñu taxawal   yu fokkale yi ,contradiction
+"Tung ñaan  na ñu tekk ay daan képp kuy jaay bole ci fokkale ci li ñeel wàllub kër, waaye ñëpp dañoo yaakaar ni dafay coow rekk waye du tekk kenn metit",Tung dafa yaakaar ni jaaykatu yu fokkale yuy jaay béréb yi ñu taxawal dañuy jëf jëf yu méngόo wul ak li xel di nangu,neutral
+"Tung ñaan  na ñu tekk ay daan képp kuy jaay bole ci fokkale ci li ñeel wàllub kër, waaye ñëpp dañoo yaakaar ni dafay coow rekk waye du tekk kenn metit",Tung dafa bëgga xiirtal ñiy wax ngir jaay si mbirum alal yi ñi sàmp def ko si ab béréb ,entailment
+"jàmbat yëpp ñi ngi doon wax ci mbirum dëbës yi, liggéykati ropplaan gi mer,ñu dakkal demug ropplaan te kenn xamul lu ko waral, payum paas yi metti lool ",10 nitt dañoo ñakk seeni dëbës,neutral
+"jàmbat yëpp ñi ngi doon wax ci mbirum dëbës yi, liggéykati ropplaan gi mer,ñu dakkal demug ropplaan te kenn xamul lu ko waral, payum paas yi metti lool ",nitt ñi da ñu doon ñaxtu ngir seeni dëbës,entailment
+"jàmbat yëpp ñi ngi doon wax ci mbirum dëbës yi, liggéykati ropplaan gi mer,ñu dakkal demug ropplaan te kenn xamul lu ko waral, payum paas yi metti lool ",denc  ñu fi benn kalaame ,contradiction
+"Lawrence Singleton, benn yoolekat bi ñu raññee dafa dagg xasabu ki mu yoole baala moo tëdd lu dul jurόom ñetti at kaso, dañ koo jàpp ndax dafa jamm paaka beneen jigéen ca Floride","bamu daggatee xasabi ñi mu gaañ ba noppi, daf leen jéemoon nëbb si ab sënn",neutral
+"Lawrence Singleton, benn yoolekat bi ñu raññee dafa dagg xasabu ki mu yoole baala moo tëdd lu dul jurόom ñetti at kaso, dañ koo jàpp ndax dafa jamm paaka beneen jigéen ca Floride","si xalaatu ñëpp, dafa leeroon ni jaar jaaram kaso defaroon nako bu baax",contradiction
+"Lawrence Singleton, benn yoolekat bi ñu raññee dafa dagg xasabu ki mu yoole baala moo tëdd lu dul jurόom ñetti at kaso, dañ koo jàpp ndax dafa jamm paaka beneen jigéen ca Floride",M. Singleton benn yoolekat la bu ñu tëjj ca Floride,entailment
+"si gis gisu Charles Lane, bu New Republic, jotaayu tas xibaarug këf dafay yokk yoonu njublàngu tassum xibaaru Gabriel Garcia Màrquez",Charles Lane tass katu xaabaar la,entailment
+"si gis gisu Charles Lane, bu New Republic, jotaayu tas xibaarug këf dafay yokk yoonu njublàngu tassum xibaaru Gabriel Garcia Màrquez",Charles Lane dafa jaay ay daamar,contradiction
+"si gis gisu Charles Lane, bu New Republic, jotaayu tas xibaarug këf dafay yokk yoonu njublàngu tassum xibaaru Gabriel Garcia Màrquez",Charles Lane dafa gañe benn raaya bi ñuy jox tas katu xaabar bu am ndam,neutral
+"bérébu àtteekaay bu kawe bi nekkul moom rekk làng politik,ca bëccëgu tay bi ca Washington ",bérébu àtteekaay bu kawe bi nekkul moom rekk bérébu politik ca Washington ,entailment
+"bérébu àtteekaay bu kawe bi nekkul moom rekk làng politik,ca bëccëgu tay bi ca Washington ",béssub politik bi mën naa am mu tàmbali ci suba si,neutral
+"bérébu àtteekaay bu kawe bi nekkul moom rekk làng politik,ca bëccëgu tay bi ca Washington ",amna benn powum caada si bérébu wërgëlub bérébu àtteekaay bu kawe ak ay nitt yuy soll ay nguuka aki coop si bàkkan,contradiction
+"mënees na ñoo xalaat benn dawalkatu bulldozer di defar benn yoon ngir benn yokkute gu bees, bu aji yokku gi nangu Hey, Loyd...",mënn ngéen a xalaat benn dawalkatu di dawal bulldozer,neutral
+"mënees na ñoo xalaat benn dawalkatu bulldozer di defar benn yoon ngir benn yokkute gu bees, bu aji yokku gi nangu Hey, Loyd...",mëne ngéen a xalaat benn liggéykatu bulldozer,entailment
+"mënees na ñoo xalaat benn dawalkatu bulldozer di defar benn yoon ngir benn yokkute gu bees, bu aji yokku gi nangu Hey, Loyd...",mënoo leen xalaat benn liggéeykatu bulldozer,contradiction
+"wanale si ab bataaxal buma yόone Dr. dafa meloon ni lukoy reetaan loo, tax mu yόone ma benn ngato bu ndaw bu àndaki meññeef ci noel bi",leer nama ni facc kat bi jott na bataaxal bimako yόone,entailment
+"wanale si ab bataaxal buma yόone Dr. dafa meloon ni lukoy reetaan loo, tax mu yόone ma benn ngato bu ndaw bu àndaki meññeef ci noel bi",lekku ma ngato bima ma facc kat bi yόone bésub noel boo ba,neutral
+"wanale si ab bataaxal buma yόone Dr. dafa meloon ni lukoy reetaan loo, tax mu yόone ma benn ngato bu ndaw bu àndaki meññeef ci noel bi",facc kat bi yόone nama benn butéelu biiñ bésub noel boo bu,contradiction
+"mbootaayu faràndoo mi xamoon nañu ko si turub fàttelikub lekk katu ñebbe, bile mbootaayu faràndoo, si kumpa, mënees nañu ko jàppe benn turu indien bi ñu koy woowe","da ñoo soppi turub mbootaayu faràndoo, ndax siiiwul woon lool",neutral
+"mbootaayu faràndoo mi xamoon nañu ko si turub fàttelikub lekk katu ñebbe, bile mbootaayu faràndoo, si kumpa, mënees nañu ko jàppe benn turu indien bi ñu koy woowe",mbootaayu fàrandoo mi amoon nab tur balaa tur bi ñu mëna jàppe ni tur biñ koy woowe te mu jόge ca indien ya,entailment
+"mbootaayu faràndoo mi xamoon nañu ko si turub fàttelikub lekk katu ñebbe, bile mbootaayu faràndoo, si kumpa, mënees nañu ko jàppe benn turu indien bi ñu koy woowe",bootaayu faràndoo mi benn tur rekk la mësa am,contradiction
+mëneesu ma giss leeral gu melni si birr diksoneerub méngëléey baat ,gis naa leeral gi si biir thésaurus,contradiction
+mëneesu ma giss leeral gu melni si birr diksoneerub méngëléey baat ,xool naa si biir thésaurus te gisuma leeralug baat yi,entailment
+mëneesu ma giss leeral gu melni si birr diksoneerub méngëléey baat ,thésaurus bi ñu jëfàndikoo mi ngi woon si biir thésaurus bu yemamaay bi,neutral
+naka la nitt mëna defe lii,naka la nitt ñu bari mënee baña def dara,contradiction
+naka la nitt mëna defe lii,naka lanu mënee def lu bonn lii,neutral
+naka la nitt mëna defe lii,naka la mënee nekk nitt di def lii,entailment
+"ñu yokk si ni, mi ngi ëmb rekk ay baat yi ñu xam yi doon wax si 20ème xarnu bi, si njalbéenu téeré bi, waaye fatte na  kàllaama tak der yi si njalbéenu 20ème xarnu bi","si njalbéenu téere bi, amna ay baat yu jur ca XXème xarnu ba, waaye bayyiwul xel kàllaama yi teela fës",entailment
+"ñu yokk si ni, mi ngi ëmb rekk ay baat yi ñu xam yi doon wax si 20ème xarnu bi, si njalbéenu téeré bi, waaye fatte na  kàllaama tak der yi si njalbéenu 20ème xarnu bi",amna lépp li kàllaama yi ëmb ba jamono dee jamono,contradiction
+"ñu yokk si ni, mi ngi ëmb rekk ay baat yi ñu xam yi doon wax si 20ème xarnu bi, si njalbéenu téeré bi, waaye fatte na  kàllaama tak der yi si njalbéenu 20ème xarnu bi",amna ay kàllaama yu bari te wuute yu yàgg ca jamono ya jiitu ñaar fukkéelu xarnu ,neutral
+"su amee kenn ku yore téere bi génn 1884, mën naa am mu jaxaaso si li mu jënd bile téeré te jëndul li mottali te gëna leer ( te gëna yomb)",xise bu 1984 bi moo gënn ci wàll wi,neutral
+"su amee kenn ku yore téere bi génn 1884, mën naa am mu jaxaaso si li mu jënd bile téeré te jëndul li mottali te gëna leer ( te gëna yomb)",téere bi kenn du ko jaay,contradiction
+"su amee kenn ku yore téere bi génn 1884, mën naa am mu jaxaaso si li mu jënd bile téeré te jëndul li mottali te gëna leer ( te gëna yomb)",mottalib téeré bi moo gëna yomb njëg téeré bi,entailment
+Bernstein dafay leeral si ubbite téeré bi,Bernstein ben benalul leeral yi,neutral
+Bernstein dafay leeral si ubbite téeré bi,Berstein leeraluko si mujàntël gi,contradiction
+Bernstein dafay leeral si ubbite téeré bi,ubbite gi am ay leeral,entailment
+"digaluñu kenn ni mbir yi danukoo tere, dafa rekk jafe si gan, su fekke ni sax defnani ay ñaar fuuki atu miineel, mu mënë ràññee li reetanlu si seeni kàddu",kàll kat yi fi juddόo sax dañuy am ay jafe jafe yenn saay,neutral
+"digaluñu kenn ni mbir yi danukoo tere, dafa rekk jafe si gan, su fekke ni sax defnani ay ñaar fuuki atu miineel, mu mënë ràññee li reetanlu si seeni kàddu",kàll gu reetaanlu bokk na yëf yi gëna yomb nànd si gan,contradiction
+"digaluñu kenn ni mbir yi danukoo tere, dafa rekk jafe si gan, su fekke ni sax defnani ay ñaar fuuki atu miineel, mu mënë ràññee li reetanlu si seeni kàddu",lii ñiiy waxtaane moo gënë nakkaree nànd si gan,entailment
+"leegi, danoo wara moytu taaweeku gi bi am leerlu bu wuute ",bind kat yi jiitu dañu leen a jël ngir ñuy gis xeetu juumte yi,neutral
+"leegi, danoo wara moytu taaweeku gi bi am leerlu bu wuute ","taawwi gi ñiy yokke kàddu yi, lu baax la ngir wane sig leeral li baat yiy wundu",contradiction
+"leegi, danoo wara moytu taaweeku gi bi am leerlu bu wuute ",li baat yi wund mënees naa soppiku bu ñu jéemé def ay baat yu gënë gudd,entailment
+jànnaxeel leen bopp ak tàngoor bi,diw tàngoor si bopp nitt lu baax la ngir yokk bayyim xelam ak teexloom,contradiction
+jànnaxeel leen bopp ak tàngoor bi,tàngoor bu ëpp mën naa àndi ay jànnaxe si  yenn yi,entailment
+jànnaxeel leen bopp ak tàngoor bi,"tay, mu ngi woon ci jurόomi degrès ci kaw xaajalub jamono ji",neutral
+beneen liggéey amul mbaax gu naat bunitt ki di kόkkëlee boppam,yeneen liggéey yu bari dañoo taxawee màggaay gu nitt am si ñoom,neutral
+beneen liggéey amul mbaax gu naat bunitt ki di kόkkëlee boppam,ay liggéy yu bari dañu baaxo yàkk seen bopp,contradiction
+beneen liggéey amul mbaax gu naat bunitt ki di kόkkëlee boppam,amul beneen liggéy buy jëfàndikoo si mbaax bu dëgër di natt boppam,entailment
+"te ak ay mayub sag, sagar yi te ñu jëll ndamug tur yu ñaaw si baaxu réex mi dañuy jëfàndikoo turug woote yi ci bataaxalu biir néeg yi, ci wax yu amul solo yi akitam kayit biy wane jaar jaarub liggéeyu nitt ki te yoon wéraluko  ",kayit yi amuñu lenn lu ñu mëna tekk si deram ,contradiction
+"te ak ay mayub sag, sagar yi te ñu jëll ndamug tur yu ñaaw si baaxu réex mi dañuy jëfàndikoo turug woote yi ci bataaxalu biir néeg yi, ci wax yu amul solo yi akitam kayit biy wane jaar jaarub liggéeyu nitt ki te yoon wéraluko  ",kayit yi amnañu woy wu rafett,entailment
+"te ak ay mayub sag, sagar yi te ñu jëll ndamug tur yu ñaaw si baaxu réex mi dañuy jëfàndikoo turug woote yi ci bataaxalu biir néeg yi, ci wax yu amul solo yi akitam kayit biy wane jaar jaarub liggéeyu nitt ki te yoon wéraluko  ",kayitu tas xabaar yi dañu bari waxu jigéen yu amul liggéey yu sew ,neutral
+bu fekke woyof bi dafay wane benn rëddug raññee wu sàngara ( si benn firndé),kayit yi ñu taf si kaw butéelu sàngara si dafay wane woyofaayam,entailment
+bu fekke woyof bi dafay wane benn rëddug raññee wu sàngara ( si benn firndé),woyof wala woyof danu leen di jëfàndikoo rekk ngir ràññeetle biiñ yi ak whisky yi,contradiction
+bu fekke woyof bi dafay wane benn rëddug raññee wu sàngara ( si benn firndé),sàngara su oyof amul alkol bu bari,neutral
+ tur wu woyof bi ñu jëfàndikoowaat dañu jëfàndikoo woon foo fu nga xamni du moom du beneen pexe bu si aju woon,yombul si nitt ñi ñu giss weneen tur,neutral
+ tur wu woyof bi ñu jëfàndikoowaat dañu jëfàndikoo woon foo fu nga xamni du moom du beneen pexe bu si aju woon,tur wi danuko jëfàndikoo lu bari,entailment
+ tur wu woyof bi ñu jëfàndikoowaat dañu jëfàndikoo woon foo fu nga xamni du moom du beneen pexe bu si aju woon,tur wi danuko wara jëfàndikoo waat,contradiction
+"si kaw loolu lépp, jàpp nañu ne mbind gu neex dafa gaawa des sim xel; loolo yokk benkeñenke yi",nitt ñi mbind mu ñaaw lanu gëna mëna fàtteliku,contradiction
+"si kaw loolu lépp, jàpp nañu ne mbind gu neex dafa gaawa des sim xel; loolo yokk benkeñenke yi",xët bi ñu bind mindéef bu rafett moo gëna yomba jàpp xët mu mbind baaxul,entailment
+"si kaw loolu lépp, jàpp nañu ne mbind gu neex dafa gaawa des sim xel; loolo yokk benkeñenke yi",xët mu mbind ma rafett njëg la dafa bari  ,neutral
+"janook taxawaay bi ak tuuti ragal, Britanniques yi gëm nañu seen cër bañu màggale kàddu gi",Britanniques yi amuñu joxe wuñu wόon benn cër,contradiction
+"janook taxawaay bi ak tuuti ragal, Britanniques yi gëm nañu seen cër bañu màggale kàddu gi",Britanniques yi jël nañu saytug koom-koomu adduna bi,neutral
+"janook taxawaay bi ak tuuti ragal, Britanniques yi gëm nañu seen cër bañu màggale kàddu gi",Britanniques def nañu lu bari si wàllu njënd ak Njaay ci adduna wërngël képp,entailment
+yenn saay moom mooy ki gëna naaféeq,yenn saay dafay nakkaree gis si yenn waxtu yi,entailment
+yenn saay moom mooy ki gëna naaféeq,dafa xawa bari coow ndax benn jumtukaay bu kay dawal defaluñu ko benn coow,neutral
+yenn saay moom mooy ki gëna naaféeq,nafa nexoon a gis ak fumu mën di toll,contradiction
+"amna ci lu wér ay kàll yu gënë bari te wuute si anglais ca Grande Bretagne ni yu ca bëj gànnar u Amérique , te képp ku leen déglu dinañu leen wax ni   ñoom dinañu nàndante si seen biir","Grande Bretagne amna kàlliy anglais yu ndaw yu bari, yu ëpp ya ca Etats Unis",entailment
+"amna ci lu wér ay kàll yu gënë bari te wuute si anglais ca Grande Bretagne ni yu ca bëj gànnar u Amérique , te képp ku leen déglu dinañu leen wax ni   ñoom dinañu nàndante si seen biir","kàll yu ndaw yi ca bët gànnaaru amerique yëppa yemm, te nitt ñi mënuñ leen ràññeele si seen biir",contradiction
+"amna ci lu wér ay kàll yu gënë bari te wuute si anglais ca Grande Bretagne ni yu ca bëj gànnar u Amérique , te képp ku leen déglu dinañu leen wax ni   ñoom dinañu nàndante si seen biir",nitt ñi dëkk bëtt gànnaar u Amerique du ñu yomba nànd xaaju kàll yu Britanniques yi di wax,neutral
+" benn yéglékat bu Tennessee dafa jëfàndikoo kàddu waxtug xaj ngir leeral ni waxtu wi dafa tàng ba noppi wow, loolu mën naa am ni dafa joge si kaddug tàngoor wu metti, bu muy méngëleek waxtu bu wowub weeru août bi","bu ñu sukkàndikoo si yéglékat bi, waxtu xaj yi danu ko doon jëfàndikoo ngir wane tawub jamonoy mousson",contradiction
+" benn yéglékat bu Tennessee dafa jëfàndikoo kàddu waxtug xaj ngir leeral ni waxtu wi dafa tàng ba noppi wow, loolu mën naa am ni dafa joge si kaddug tàngoor wu metti, bu muy méngëleek waxtu bu wowub weeru août bi",juin ak juillet itam dafay tàng jërr ci biir Tennesse,neutral
+" benn yéglékat bu Tennessee dafa jëfàndikoo kàddu waxtug xaj ngir leeral ni waxtu wi dafa tàng ba noppi wow, loolu mën naa am ni dafa joge si kaddug tàngoor wu metti, bu muy méngëleek waxtu bu wowub weeru août bi",waxtu wi dafa tàng te tawul ni bés yu bari si weeru août,entailment

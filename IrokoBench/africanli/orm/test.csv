@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Tole, ani waa'ee sanaa illee yaadaa hin ture, garuu baay'een aare fi, ammas isa waliin haasa'ee xumure.",Isa waliin ammas hin dubbannen ture.,contradiction
+"Tole, ani waa'ee sanaa illee yaadaa hin ture, garuu baay'een aare fi, ammas isa waliin haasa'ee xumure.",Baay'ee waanan mufadheef ammas isa waliin haasa'uu jalqabe.,entailment
+"Tole, ani waa'ee sanaa illee yaadaa hin ture, garuu baay'een aare fi, ammas isa waliin haasa'ee xumure.",Haasaa baayyee bareedaa taasifneerra.,neutral
+"Isaanis akkas naan jedhan, ah, akkan wal arguuf dhuma irratti gurbaa tokkoon akkan waamamu natti himan.",Nama kamiinuu wal arguuf homaa natti himamee hin beeku.,contradiction
+"Isaanis akkas naan jedhan, ah, akkan wal arguuf dhuma irratti gurbaa tokkoon akkan waamamu natti himan.",Wal arguuf gurbaan tokko gara keessaatti anaaf akka waamamu natti himame.,entailment
+"Isaanis akkas naan jedhan, ah, akkan wal arguuf dhuma irratti gurbaa tokkoon akkan waamamu natti himan.",Gurbaan sun xiqqoo turee mul'ate.,neutral
+" Waan baay'ee waa’ee sanaa irratti dubbachuu dandeessu ni jira, calliseen irran darba.",Waa'ee sanaa waanan beeku hunda isinitti himuu barbaada!,contradiction
+" Waan baay'ee waa’ee sanaa irratti dubbachuu dandeessu ni jira, calliseen irran darba.","Waanti baay'ee kan jedhamu jiraatus, waa'ee sanaa hin dubbadhu.",entailment
+" Waan baay'ee waa’ee sanaa irratti dubbachuu dandeessu ni jira, calliseen irran darba.",Waa'ee seenaa magaalattii hin dubbadhu sababni isaas waanti jedhamu baay'ee waan ta'eef.,neutral
+Kanaafuu ani dhuguma maaliif akka ta'e hin beeku.,Sababni maaliif akka ta'e ani shakkii tokko malee nan beeka.,contradiction
+Kanaafuu ani dhuguma maaliif akka ta'e hin beeku.,Maaliif manneen barnootaa akka geeddare hin beeku.,neutral
+Kanaafuu ani dhuguma maaliif akka ta'e hin beeku.,Maaliif sun akka ta'e hin beeku.,entailment
+" Ana qofa ture kan ah, yoomiyyuu qorannaa gola olka'insa xiqqaa qabu keessatti to'ataa kanan banuuf.",Qorannoo kanaaf to'ataa kan banu ana qofa ta'uun natti hin tolle.,neutral
+" Ana qofa ture kan ah, yoomiyyuu qorannaa gola olka'insa xiqqaa qabu keessatti to'ataa kanan banuuf.",Qorannoowwan gola olka’iinsa xiqqaa qabu keessatti raawwatamaniiru.,entailment
+" Ana qofa ture kan ah, yoomiyyuu qorannaa gola olka'insa xiqqaa qabu keessatti to'ataa kanan banuuf.",Qorannoo kanaaf to'ataa kan banan muraasa keenya turre.,contradiction
+"Ani ah, hoogganaa olaanaa Saajin, soorama ba'eera, akkuma Rick jedhe.",Ammas hanga har'aatti hojjechaan jira.,contradiction
+"Ani ah, hoogganaa olaanaa Saajin, soorama ba'eera, akkuma Rick jedhe.",Bara 2002 soorama nan ba'e.,neutral
+"Ani ah, hoogganaa olaanaa Saajin, soorama ba'eera, akkuma Rick jedhe.",Riik soorama akkan ba'e sitti himeera.,entailment
+"Deeskii koo irratti tilmaama dhangala'aa maallaqaa tokko tokkotu jira fi, im, ah, kan akkasii fi akkasiitiif Cutty dha, maqaan maamilaa kanuma.",Maamilli Cutty jedhamu ji'atti doolaara 10000 hojjeta.,neutral
+"Deeskii koo irratti tilmaama dhangala'aa maallaqaa tokko tokkotu jira fi, im, ah, kan akkasii fi akkasiitiif Cutty dha, maqaan maamilaa kanuma.",Maamilli Cutty jedhamu jira.,entailment
+"Deeskii koo irratti tilmaama dhangala'aa maallaqaa tokko tokkotu jira fi, im, ah, kan akkasii fi akkasiitiif Cutty dha, maqaan maamilaa kanuma.",Nuyi maamila Cutty jedhamee waamamu kamiyyu hin qabnu.,contradiction
+Intalli na gargaaruu dandeessu magaalaa gara gama biraatti qaxxaamurteetti.,Intalli ani gargaarsa irraa barbaadu kun fageenya dheeraa irra jiraatti.,entailment
+Intalli na gargaaruu dandeessu magaalaa gara gama biraatti qaxxaamurteetti.,Intalti na gargaaruuf deemtu kun maayilii 5 fagaatti.,neutral
+Intalli na gargaaruu dandeessu magaalaa gara gama biraatti qaxxaamurteetti.,Namni na gargaaruu danda'u tokkoyyu hin jiru.,contradiction
+"Garuu waa'ee akka eenyu hojjetaa maasii fi eenyu ijoollee manaa akka ta'e addaan qoodamanii turan, gosa-- ture.",Isaan hundinuu maasii irratti akka hojjetan hundi isaanii walii galan.,contradiction
+"Garuu waa'ee akka eenyu hojjetaa maasii fi eenyu ijoollee manaa akka ta'e addaan qoodamanii turan, gosa-- ture.",Isaan waa'ee Eenyu hojjetaa maasii akka ta'ee fi eenyu kan manaa akka ture irratti walii galuu hin dandeenye.,entailment
+"Garuu waa'ee akka eenyu hojjetaa maasii fi eenyu ijoollee manaa akka ta'e addaan qoodamanii turan, gosa-- ture.",Eenyuutu maasii suufii keessa hojjechuu akka qabuu fi eenyutu lafa haxaa'uu akka qabu walii galuu hin dandeenye.,neutral
+"Kana jechuun koo qabu turan, akka, isaan ijoollee shan qabu turan, isaan keessaa tokko du'eera.",Ijoolleen isaanii hundi lubbuun hafan.,contradiction
+"Kana jechuun koo qabu turan, akka, isaan ijoollee shan qabu turan, isaan keessaa tokko du'eera.",Shanan keessaa daa'imni tokko du'eera.,entailment
+"Kana jechuun koo qabu turan, akka, isaan ijoollee shan qabu turan, isaan keessaa tokko du'eera.",Mucaan du'e dhukkubsataa isaatu dhalate.,neutral
+"Ija ishee irraa imimmaanonni gadi dhufaa akka turan qofa dubbattee, sana booda akkas jette Joo barandaa irratti ol dhufe.",Akkuma barandaa ol ba'uu itti himtu imimmaan ija ishee irraa calalaan.,entailment
+"Ija ishee irraa imimmaanonni gadi dhufaa akka turan qofa dubbattee, sana booda akkas jette Joo barandaa irratti ol dhufe.",Joo barandaa irraa erga buuftee booda daftee imimmaan ishee haxaa'atte.,contradiction
+"Ija ishee irraa imimmaanonni gadi dhufaa akka turan qofa dubbattee, sana booda akkas jette Joo barandaa irratti ol dhufe.",Joo argitee baayʼee waan gammaddeef booʼuu eegalte.,neutral
+"Xiyyaarri sun ibiddaan gubataa yoo jiraate illee, maaliif, ni ta'a ture ah, gubuu fi karaa qaama liidiin ni baqa ture akka callaqqeen ifaa sun ba’uuf.",Callaqqeen ifaa kun yeroo ibiddaas illee akkasuma jiraachuu ni danda’a.,neutral
+"Xiyyaarri sun ibiddaan gubataa yoo jiraate illee, maaliif, ni ta'a ture ah, gubuu fi karaa qaama liidiin ni baqa ture akka callaqqeen ifaa sun ba’uuf.",Callaqqeen ifaa kun erga xiyyaarichi gubatee booda qaama liidiin tokko keessaa ba'a ture.,entailment
+"Xiyyaarri sun ibiddaan gubataa yoo jiraate illee, maaliif, ni ta'a ture ah, gubuu fi karaa qaama liidiin ni baqa ture akka callaqqeen ifaa sun ba’uuf.",Callaqqeen ifaa kun yeroo ibiddaa hin ba'u ture.,contradiction
+"Kun hoogganaa olaanaa saajin Clem Francis, humna qilleensaa Ameerikaa irraa soorama ba'eedha.",Hoogganaan olaanaa kun humna qilleensaa US irraa soorama ba'aniiru.,entailment
+"Kun hoogganaa olaanaa saajin Clem Francis, humna qilleensaa Ameerikaa irraa soorama ba'eedha.",Hogganaan olaanaa kun torban muraasa dura dhiheenya kana soorama ba'aniiru.,neutral
+"Kun hoogganaa olaanaa saajin Clem Francis, humna qilleensaa Ameerikaa irraa soorama ba'eedha.",Hogganaan olaanaa humna qilleensaa US reefu torban kana keessa hojii isaa eegale.,contradiction
+"Tole, torbanitti bakka xiyyaarri lama sadii balali'u jiru ga'ee gara eessaatti akka isaan balali'an hin beeku ture.",Torbanitti xiyyaaronni tokkoo ol ni dhufu.,entailment
+"Tole, torbanitti bakka xiyyaarri lama sadii balali'u jiru ga'ee gara eessaatti akka isaan balali'an hin beeku ture.",Tiraafiki qilleensaa dabaluunis rakkina qaba.,neutral
+"Tole, torbanitti bakka xiyyaarri lama sadii balali'u jiru ga'ee gara eessaatti akka isaan balali'an hin beeku ture.",Xiyyaara dhufan kamiyyu gonkumaa hin jiran.,contradiction
+Isaan duraan leenjii isaanii Uffata dhiibbaa guutuutiin fudhatanii kan turanii fi yoo uffata dhiibbaa guutuu keessa seenan yeroo natti fudhateera.,Itti fayyadama uffata dhiibbaa guutuu irratti leenjii xumuruuf hanga ji'a sadii fudhata.,neutral
+Isaan duraan leenjii isaanii Uffata dhiibbaa guutuutiin fudhatanii kan turanii fi yoo uffata dhiibbaa guutuu keessa seenan yeroo natti fudhateera.,Leenjiin uffata dhiibbaa guutuu fayyadamuu yeroo fudhata.,entailment
+Isaan duraan leenjii isaanii Uffata dhiibbaa guutuutiin fudhatanii kan turanii fi yoo uffata dhiibbaa guutuu keessa seenan yeroo natti fudhateera.,Uffata dhiibbaa guutuu akka fayyadamtan dhuma guyyaa sanaatti akka isin leenjifamtan gochuu dandeenya turre.,contradiction
+"Boombiin hammam lafa dhawullee waan hin dhoohiniif, boombii sana qabatanii seenuun balaan tokkollee hin turre jechuu barbaada.",Boombiin kun balaliisaa sanaan akka hin hojjenne ta'ee ture.,neutral
+"Boombiin hammam lafa dhawullee waan hin dhoohiniif, boombii sana qabatanii seenuun balaan tokkollee hin turre jechuu barbaada.",Boombiin kun carraa dho'uu hin qabu ture.,entailment
+"Boombiin hammam lafa dhawullee waan hin dhoohiniif, boombii sana qabatanii seenuun balaan tokkollee hin turre jechuu barbaada.",Dhohinsa boonbichaan balaan guddaan ture.,contradiction
+Akkasumas waa'ee waanan gochuuf yaalaa jiru sirriitti maal fakkaata.,Kun sitti maal akka fakkaatu ani sirriitti hin beeku.,contradiction
+Akkasumas waa'ee waanan gochuuf yaalaa jiru sirriitti maal fakkaata.,"Ani kana gochuudhaaf yaalaan jira, akkuma beekamu.",entailment
+Akkasumas waa'ee waanan gochuuf yaalaa jiru sirriitti maal fakkaata.,Torban dhufu keessa pirojektii koo xumuruuf yaalaan jira.,neutral
+"Garuu waanuma fedhes ta'u bineensonni yeroo hunda ni hiikamu turan, keessumaa re'oonni.",Re'oonni kun guyyaa guyyaan mana kuusaa keessaa miliqu.,neutral
+"Garuu waanuma fedhes ta'u bineensonni yeroo hunda ni hiikamu turan, keessumaa re'oonni.",Re’oonni yeroo baay’ee ni miliqu ture.,entailment
+"Garuu waanuma fedhes ta'u bineensonni yeroo hunda ni hiikamu turan, keessumaa re'oonni.",Re’oonni kun nagaa fi tasgabbiidhaan eegamaa turan.,contradiction
+Yeroo seennetti balbaloonni cufamanii turan.,Balbaloonni hundi banaa turan.,contradiction
+Yeroo seennetti balbaloonni cufamanii turan.,Furtuuwwan sana of biraa qabna turre.,neutral
+Yeroo seennetti balbaloonni cufamanii turan.,Balballoonni cufaa yoo ta'aniyyu ni seenne.,entailment
+Kanaafuu ida'ama waliigala fudhadhee akkasitti bira ga'uu yaaluun qofa narra ture.,Kana bira ga'uuf kan na barbaachisu waliigala qofa ta'uusaatti ofitti amanamummaatu natti dhagahama.,neutral
+Kanaafuu ida'ama waliigala fudhadhee akkasitti bira ga'uu yaaluun qofa narra ture.,Waliigala qofaan maal akkan godhu hin beeku mee waliin-dhaha kana bira ga'uuf ibsa dabalata naaf kenna.,contradiction
+Kanaafuu ida'ama waliigala fudhadhee akkasitti bira ga'uu yaaluun qofa narra ture.,Waliigala irratti hundaa'ee nan shallaga.,entailment
+Akasumas kun immoo baay'ee kan ta'eef sababa dhugaa haadholiin qoricha sammuu hadoochu fudhachuu isaanii irraa kan ka'edha.,Haadholiin fayyadamtoota araada qoricha sammuu namaa hadoochudha.,neutral
+Akasumas kun immoo baay'ee kan ta'eef sababa dhugaa haadholiin qoricha sammuu hadoochu fudhachuu isaanii irraa kan ka'edha.,Haadholiin ajaja yaalaa ykn qoricha kamiyyu hin fudhatan.,contradiction
+Akasumas kun immoo baay'ee kan ta'eef sababa dhugaa haadholiin qoricha sammuu hadoochu fudhachuu isaanii irraa kan ka'edha.,Haadholiin qoricha sammuu hadoochu fudhatu.,entailment
+Eeyyen dhuguma namatti tola roobni roobaa turee jira.,Roobni na hin dhibu.,neutral
+Eeyyen dhuguma namatti tola roobni roobaa turee jira.,Gaariidhaa fi rooba qaba.,entailment
+Eeyyen dhuguma namatti tola roobni roobaa turee jira.,Aduu dhuma hin qabneen waliin akka malee rifachiisaadha.,contradiction
+oo jireenyi namaa maal gatii qabaa akkasumas nama tokko deebistee dhaabuu dandeessa yookiin hin dandeessu.,Jireenyi hundinuu deebisanii dhaabuuf akkasumas carraa lammaffaaf gatii qabu.,neutral
+oo jireenyi namaa maal gatii qabaa akkasumas nama tokko deebistee dhaabuu dandeessa yookiin hin dandeessu.,Ilma namaa kamiyyuu deebisanii dhaabuun hin maluuf.,contradiction
+oo jireenyi namaa maal gatii qabaa akkasumas nama tokko deebistee dhaabuu dandeessa yookiin hin dandeessu.,Deebisanii dhaabuun maaliyyu haa ta'u maal jireenyi gatii kan qabudha.,entailment
+oh yaa gurbaa ati achitti rakkoo hubannaa hin baramne ajaa'ibaa qabda.,Rakkoon hubannaa akkanaa kanaan dura argee hin beeku.,neutral
+oh yaa gurbaa ati achitti rakkoo hubannaa hin baramne ajaa'ibaa qabda.,Rakkoon hubannaa dhimma hin ta'u.,contradiction
+oh yaa gurbaa ati achitti rakkoo hubannaa hin baramne ajaa'ibaa qabda.,Rakkoon hubannaa adda ta'ef hin baramne kanaan uumame jira.,entailment
+Waan nama gammachiisu fakkaata eeyyen akkamiin waan meeqa akka hayyamuuf turan anaaf ajaa'ibadha.,Isaan obsa kan qaban ta'uun isaanii tasumaa na hin ajaa'ibu.,contradiction
+Waan nama gammachiisu fakkaata eeyyen akkamiin waan meeqa akka hayyamuuf turan anaaf ajaa'ibadha.,Nyaataa fi dhugaatii achi keessa akka galchitu siif hayyamuun isaanii sun na ajaa'ibeera.,neutral
+Waan nama gammachiisu fakkaata eeyyen akkamiin waan meeqa akka hayyamuuf turan anaaf ajaa'ibadha.,Waan isaan jalaa bahuu danda'an na ajaa'iba.,entailment
+"Oo, garuu waanuma fedhes ta'u, waanuma fedhes ta'u, uum ijoolleen koo amma digdamii tokkoo fi digdamii afur waan ta'aniifna hin barbaachisu.",Ijoolleen koo umuriin isaanii waggaa digdamaa ol waan ta’aniif na hin barbaachisu.,entailment
+"Oo, garuu waanuma fedhes ta'u, waanuma fedhes ta'u, uum ijoolleen koo amma digdamii tokkoo fi digdamii afur waan ta'aniifna hin barbaachisu.",Umriin isaanii waan walitti dhihoo ta'eef dirqama natti ta'uu danda'a,neutral
+"Oo, garuu waanuma fedhes ta'u, waanuma fedhes ta'u, uum ijoolleen koo amma digdamii tokkoo fi digdamii afur waan ta'aniifna hin barbaachisu.",Lamaanuu umuriin isaanii waggaa kudhanii fi kudha tokkoo waan ta'eef dirqaman qaba.,contradiction
+Eeyyen namoota yeroo kamiyyuu taanaan hojii irra jiraachuu danda'an ykn murtoo murteessuu yoo qabaatan murtoon isaanii duumessa ta'uu danda'u turan.,"Eeyyee, namoonni waamichoota murtii hundarra gaarii ta'e gochuu kan hin dandeenye ta'uu danda'u.",entailment
+Eeyyen namoota yeroo kamiyyuu taanaan hojii irra jiraachuu danda'an ykn murtoo murteessuu yoo qabaatan murtoon isaanii duumessa ta'uu danda'u turan.,Eeyyee namoota beela'uu dhiisuu danda'an.,neutral
+Eeyyen namoota yeroo kamiyyuu taanaan hojii irra jiraachuu danda'an ykn murtoo murteessuu yoo qabaatan murtoon isaanii duumessa ta'uu danda'u turan.,Eeyyee namoota dandeettiin murtii isaanii gonkumaa hin miidhamne.,contradiction
+Lakki isaan ammallee daawwannaa irra jiru dhuma jaatamaa irraa eegalee daawwannaa taasisaa turan.,Bara 1970 dura irraa eegalee daawwannaa taasisaa turan.,entailment
+Lakki isaan ammallee daawwannaa irra jiru dhuma jaatamaa irraa eegalee daawwannaa taasisaa turan.,Daawwannaa ni jaallatu.,neutral
+Lakki isaan ammallee daawwannaa irra jiru dhuma jaatamaa irraa eegalee daawwannaa taasisaa turan.,Dhiheenya kana daawwannaa isaanii xumuraniiru.,contradiction
+Akkamitti erobiksii hojjetta turte.,Akkamitti erobiksii akka hojjettu ibsuu dandeessaa?,entailment
+Akkamitti erobiksii hojjetta turte.,Sochii onnee fi ujummoolee dhiigaa tokko tokko waan na barbaachisuuf erobiksii irratti fedhiin qaba.,neutral
+Akkamitti erobiksii hojjetta turte.,Maaloo waa'ee erobiksii dubbachuu dhiisaa.,contradiction
+Tole sun gaarii dha ani waa'ee sanaa hin yaadnen ture eeyyee.,Sun yaada gadhee ani torban darbe gatedha.,contradiction
+Tole sun gaarii dha ani waa'ee sanaa hin yaadnen ture eeyyee.,Sun qabxii gaarii dha.,entailment
+Tole sun gaarii dha ani waa'ee sanaa hin yaadnen ture eeyyee.,Yaadi wal-faallaa ati kaafte qabxii gaarii dha.,neutral
+Kunuunsa guyyaa torbanitti guyyaa lama kunuunsa guyyaa angafaa lammii jedhaniiti waamu garuu gara giddugala angafa lammii deemti.,Kunuunsi guyyaa daa'imman umuriin isaanii waggaa shan gadi ta'e qofaaf guyyaa hunda banaadha.,contradiction
+Kunuunsa guyyaa torbanitti guyyaa lama kunuunsa guyyaa angafaa lammii jedhaniiti waamu garuu gara giddugala angafa lammii deemti.,Maanguddoonni lammii yoo danda’an torbanitti al lamaa ol akka deemaniif ni hayyamamaaf.,neutral
+Kunuunsa guyyaa torbanitti guyyaa lama kunuunsa guyyaa angafaa lammii jedhaniiti waamu garuu gara giddugala angafa lammii deemti.,Kunuunsa guyyaa maanguddootaa jechuun waamu garuu wiirtuu maanguddootaa jedhama.,entailment
+Sun galma isaanii ture oo.,Wanti isaan carraaqaa turaniif kanuma.,entailment
+Sun galma isaanii ture oo.,Sun gonkumaa waan isaan barbaadan hin turre.,contradiction
+Sun galma isaanii ture oo.,Kaayyoo isaanii galmaan gahaniiru.,neutral
+To’annoo qawwee jechuun harka lama fayyadamuu jechuudha.,Dhukaasa qawwee dogoggoraa hunda keessaa walakkaan isaa harka tokkoon fayyadamuu irraa kan maddudha.,neutral
+To’annoo qawwee jechuun harka lama fayyadamuu jechuudha.,To'annaa Qawweetiif karaan hundarra gaariin miila lamaan fayyadamuudha.,contradiction
+To’annoo qawwee jechuun harka lama fayyadamuu jechuudha.,Yoo to'annoo qawwee shaakaluu barbaadde harka lamaan fayyadami.,entailment
+"Akkasumas ah, garuu battaluma bakka tokko irraa dhufa, garuu eessaa akka dhufe hin beeku.",Eessaa akka dhufe hin beeku garuu saffisaa dha.,entailment
+"Akkasumas ah, garuu battaluma bakka tokko irraa dhufa, garuu eessaa akka dhufe hin beeku.",Saffisaan dhufa garuu eessaa dhufuu akka malu akkanatti beeka.,neutral
+"Akkasumas ah, garuu battaluma bakka tokko irraa dhufa, garuu eessaa akka dhufe hin beeku.",Suutan dhufa yeroo itti dhufu sirriitti nan beeka.,contradiction
+"Lakki, dhugaa dubbachuuf ani wantichaan wal hin beeku jedheen hin yaadu.",Waa'ee sanaa waan baay'ee hin beeku.,entailment
+"Lakki, dhugaa dubbachuuf ani wantichaan wal hin beeku jedheen hin yaadu.",Dhimma jaalalaa keessatti ani wallaalaadha.,neutral
+"Lakki, dhugaa dubbachuuf ani wantichaan wal hin beeku jedheen hin yaadu.",Waggootaaf qo'achaan jira.,contradiction
+Eeyyen isheen baayyee gaarii turte ishee beekta.,Isheen nama dinqisiistuu akka turte waan beektu natti fakkaata.,neutral
+Eeyyen isheen baayyee gaarii turte ishee beekta.,Lakki isheen gara-jabeettii turte.,contradiction
+Eeyyen isheen baayyee gaarii turte ishee beekta.,Eeyyee baayyee gaarii turte.,entailment
+Eeyyen akkuma ati fayyadamtu uh um a uh um haxooftuu akka argattu yaada dhiheesse.,Iddoo duwwaa bitachuuf yaada dhiheesse.,contradiction
+Eeyyen akkuma ati fayyadamtu uh um a uh um haxooftuu akka argattu yaada dhiheesse.,Innis Haxooftuu barbaaduuf yaada dhiheesse.,entailment
+Eeyyen akkuma ati fayyadamtu uh um a uh um haxooftuu akka argattu yaada dhiheesse.,Dhiiga sana Haxooftuudhan qulqulleessuu barbaade.,neutral
+"Bakki kun dhugumatti baayyee hamaadha, daandii saffisaa mana keenya irraa gara bilookii sadii fagaatu irratti dhukaasni baname.",Dhukaasni kun yoo xiqqaate bakka ani jiraadhu irraa fageenya maayilii 100 irratti ture.,contradiction
+"Bakki kun dhugumatti baayyee hamaadha, daandii saffisaa mana keenya irraa gara bilookii sadii fagaatu irratti dhukaasni baname.",Dhukaasni mana kootti dhihoo waan tureef ala ba'uuf na sodaachisa.,neutral
+"Bakki kun dhugumatti baayyee hamaadha, daandii saffisaa mana keenya irraa gara bilookii sadii fagaatu irratti dhukaasni baname.","Naannoo mana kootti dhukaasni baname, dhuguma naannoo kana keessa gaarii miti.",entailment
+ah-hah sun dhugaadha dhuguma ah walsimaa miti.,"Ani si waliin walii hin galu, baay'ee walsima.",contradiction
+ah-hah sun dhugaadha dhuguma ah walsimaa miti.,Waa'ee walsimannaa isaa sirrii ta'uu dandeessa jedheen yaada.,neutral
+ah-hah sun dhugaadha dhuguma ah walsimaa miti.,Waa'ee isaa ati sirrii dha wal hin simne.,entailment
+Achuma obsaan turuuf yaalaan jira,Ani fannifamuu yaalaan jira.,entailment
+Achuma obsaan turuuf yaalaan jira,Dhuguma waanan danda'u hunda gochaan jira.,neutral
+Achuma obsaan turuuf yaalaan jira,Ani gadhiisa malee of duuba hin ilaalu.,contradiction
+Seensa karra teeknooloojiitti gara egeree nii seenna.,Dursitoota egeree teeknooloojiif barbaachisan ijaaraa jirra.,entailment
+Seensa karra teeknooloojiitti gara egeree nii seenna.,"Tiraanzistara ni ijaarra, kanaaf egereen keenya sammuu namtolcheen kan hoogganamu ta'a.",neutral
+Seensa karra teeknooloojiitti gara egeree nii seenna.,Teeknooloojiin akka hin milkoofne ittisuu barbaanna.,contradiction
+"Fakkeenyaaf, yoo baay’ate, jiiniiwwan hundinuu diimaa-cuqulisatti jijjiiramu.","Yoo baay’ate, jiiniiwwan walakkaa qofti diimaa-cuqulisatti jijjiiramuu danda’u.",contradiction
+"Fakkeenyaaf, yoo baay’ate, jiiniiwwan hundinuu diimaa-cuqulisatti jijjiiramu.",Jiiniiwwaniif halluu jijjiiruun ni danda'ama.,entailment
+"Fakkeenyaaf, yoo baay’ate, jiiniiwwan hundinuu diimaa-cuqulisatti jijjiiramu.",Yeroo tokko tokko jiiniin sunis gara halluu cuqulisaas ta’uu danda’a.,neutral
+Daani'eel Yaamiins dargaggeessa ogeessa herregaa qaroodha.,Obbo Yamins herrega irratti gaariidha.,entailment
+Daani'eel Yaamiins dargaggeessa ogeessa herregaa qaroodha.,Xiyyeeffannaan Obbo Yamins ji'oomeetirii aljebraa ti.,neutral
+Daani'eel Yaamiins dargaggeessa ogeessa herregaa qaroodha.,"Kan Obbo Yamins artistii guddaadha, garuu ogeessa herregaa sodaachisaadha..",contradiction
+"Akkas yoo taʼe immoo, yeroo baayʼee daangaa sanatti dhihoo jiruu?",Gonkumaa daangaatti dhihoo akka isaan hin imalle nan beeka.,contradiction
+"Akkas yoo taʼe immoo, yeroo baayʼee daangaa sanatti dhihoo jiruu?","Ani beekuun barbaada, yeroo baayyee biyya Ingilizii keessa jiruu?",neutral
+"Akkas yoo taʼe immoo, yeroo baayʼee daangaa sanatti dhihoo jiruu?",Dubbi himaan kun yeroo meeqa akka gara daangaatti deeman ibsa barbaadee ture.,entailment
+"Akkasumas, akkan yaadutti, baayoosfiiriin tuuta hidda dhalootaa itti fufiinsaan babal'achaa jiruuf sirna lubbuun jiraachuu keessatti itti fufinsaan of ijaaraa akka jiru kan agarsiisu ragaa xiqqoo molakiyuulaa jira.",Baayoosfiiriin baayyee jijjiirama.,entailment
+"Akkasumas, akkan yaadutti, baayoosfiiriin tuuta hidda dhalootaa itti fufiinsaan babal'achaa jiruuf sirna lubbuun jiraachuu keessatti itti fufinsaan of ijaaraa akka jiru kan agarsiisu ragaa xiqqoo molakiyuulaa jira.",Baayoosfiiriin akkaataa ho’aatti jijjiirama.,neutral
+"Akkasumas, akkan yaadutti, baayoosfiiriin tuuta hidda dhalootaa itti fufiinsaan babal'achaa jiruuf sirna lubbuun jiraachuu keessatti itti fufinsaan of ijaaraa akka jiru kan agarsiisu ragaa xiqqoo molakiyuulaa jira.",Baayoosfiiriin gonkumaa hin jijjiiramu.,contradiction
+"Utaalcha sanaan, kiristaalli idilee odeeffannoo baay’ee koodii hin danda’u.",Kiristaalonni idilee meeshaa odeeffannoo kuusaa baay’ee ol’aanaa dha.,contradiction
+"Utaalcha sanaan, kiristaalli idilee odeeffannoo baay’ee koodii hin danda’u.",Kiristaalonni idilee odeeffannoo koodii  gochuuf baay’ee faayidaa hin qaban.,entailment
+"Utaalcha sanaan, kiristaalli idilee odeeffannoo baay’ee koodii hin danda’u.",Kiristaalonni gosa biroo kanneen odeeffannoo teessuma lafaa ifa laayizerii fayyadamuun koodii gochuuf baay’ee faayidaa qaban jiru.,neutral
+"Kanarraa kan ka’e, ga’eessonni daa’imman mana barumsaa duraa tapha fakkeessaatiin barsiisuu hin barbaachisan, akkuma yeroo tokko tokko yeroo isaan gargaaran hibboo ykn hojiiwwan kana fakkaatan adda baasuuf godhan.",Daa’imman mana barumsaa duraa uumamaan tapha fakkeessaa taphachuu caalaa hibboo furuu irratti fooyya’oodha.,contradiction
+"Kanarraa kan ka’e, ga’eessonni daa’imman mana barumsaa duraa tapha fakkeessaatiin barsiisuu hin barbaachisan, akkuma yeroo tokko tokko yeroo isaan gargaaran hibboo ykn hojiiwwan kana fakkaatan adda baasuuf godhan.",Daa’imman mana barumsaa duraa akkamitti fakkeessuun akka danda'amu barachuuf gargaarsa hamma kanaa isaan hin barbaachisu.,entailment
+"Kanarraa kan ka’e, ga’eessonni daa’imman mana barumsaa duraa tapha fakkeessaatiin barsiisuu hin barbaachisan, akkuma yeroo tokko tokko yeroo isaan gargaaran hibboo ykn hojiiwwan kana fakkaatan adda baasuuf godhan.",Daa’imman mana barumsaa duraa dandeettii moodeela iddoo barbaachisaa ta’e kan ofuma isaaniitiin hibboo qabachuu danda’an hin qaban.,neutral
+[Sabni kun] bilisummaan keessatti kan ulfaa’ee fi yaada namoonni hundi walqixa uumaman jedhuuf kan of kenne ture.,Yaadannoowwan waa’ee yaada kanaa sanadoota dabalataa hedduu keessatti galmaa’aniiru.,neutral
+[Sabni kun] bilisummaan keessatti kan ulfaa’ee fi yaada namoonni hundi walqixa uumaman jedhuuf kan of kenne ture.,Namoonni tokko tokko namoonni hundi wal qixa jedhanii amanu turan.,entailment
+[Sabni kun] bilisummaan keessatti kan ulfaa’ee fi yaada namoonni hundi walqixa uumaman jedhuuf kan of kenne ture.,Sabni kun kan hundeeffame namoonni tokko tokko uumamaan warra kaan caala amantii jedhu irratti.,contradiction
+Caalaatti isa faarsuun qabaa?,Kufaatiilee isaa kanaan isa mo'achuu akkan qabu mirkanaa'aa dha.,contradiction
+Caalaatti isa faarsuun qabaa?,Dinqisiifannaa dabalataa narraa akka isa barbaachisu yaadaa jira.,entailment
+Caalaatti isa faarsuun qabaa?,Gahumsa piyaanoo isaatiin caalaatti isa faarsuun qabaa?,neutral
+Yaad-rimeewwaan ispiin neetworkii kallattii adda addaatiin ijaaramuu danda’a.,Yaad-rimeewwan ispiin neetworkii ijaaruuf kallattiiwwan biroo fayyadamuun ni danda’ama.,entailment
+Yaad-rimeewwaan ispiin neetworkii kallattii adda addaatiin ijaaramuu danda’a.,Neetworkiin ispiin teeknooloojiiwwan kuusaa odeeffannoof baay’ee faayidaa qaba.,neutral
+Yaad-rimeewwaan ispiin neetworkii kallattii adda addaatiin ijaaramuu danda’a.,Neetworkiin ispiin kallattii adda addaatiin tilmaamamuu hin danda’u.,contradiction
+(Sodaadhaan) Lakki lakki akka ati duutu hin barbaadu!,Akka ati duutu hin barbaadu!,entailment
+(Sodaadhaan) Lakki lakki akka ati duutu hin barbaadu!,Yoo duute na hin dhibu!,contradiction
+(Sodaadhaan) Lakki lakki akka ati duutu hin barbaadu!,Osoo duutee baay'een aara!,neutral
+"Bitooteessa 19, 1875, Saan Joosee, Kaalifoorniyaatti ifatti fannifame.",Kaalifoorniyaan hanga dhuma bara 1875tti ajjeechaa ummataa raawwachaa turte.,entailment
+"Bitooteessa 19, 1875, Saan Joosee, Kaalifoorniyaatti ifatti fannifame.",Badii hojjete hundarraa bilisa ta'ee gara karaa isaatti ergame.,contradiction
+"Bitooteessa 19, 1875, Saan Joosee, Kaalifoorniyaatti ifatti fannifame.",Inni fincilaa fi saamicha fardaa irratti fannifame.,neutral
+Sirna jeequmsaa kana keessatti galaanni magariisa calaqqisu sun ni dhangala’a.,Galaanni sun cuquliisa gadi fagoo fi akka fuullee kan hin quuqne ture.,contradiction
+Sirna jeequmsaa kana keessatti galaanni magariisa calaqqisu sun ni dhangala’a.,Galaanichi qurxummii xixiqqoo bidiruutti faca'aniin guutame.,neutral
+Sirna jeequmsaa kana keessatti galaanni magariisa calaqqisu sun ni dhangala’a.,Galaanichi magariisaa fi hoomacha fakkaata ture.,entailment
+Sirni seeraa guutummaatti haaraan jeequmsa bara 1860moota keessa ture irraa kara bilisa ta'een hojjechuuf hawwaama.,Bara 1870 moota keessa sirni seeraa hundi diigamee biyyattiin guutummaatti seera-maleessummaa keessa turte.,contradiction
+Sirni seeraa guutummaatti haaraan jeequmsa bara 1860moota keessa ture irraa kara bilisa ta'een hojjechuuf hawwaama.,Bara 1860moota keessa yeroo jeequmsaa ture.,entailment
+Sirni seeraa guutummaatti haaraan jeequmsa bara 1860moota keessa ture irraa kara bilisa ta'een hojjechuuf hawwaama.,Sirni seeraa haaraan kun mirgoota hojjetaa babal'isuu barbaada.,neutral
+"Gosti yaadaa olaanaa kamiyyuu, jalqaba qunnamtii hawaasummaa keessatti ni mul'ata, daa’imaa fi bakka bu’oota aadaa isaa yookiin ishee gidduutti yeroo isaan sochii waloo irratti bobba’an kan mul’atu ta’uu akeekeera.",Ijoolleen gosoota yaada ol’aanaa qooduuf dandeettii hin qaban.,contradiction
+"Gosti yaadaa olaanaa kamiyyuu, jalqaba qunnamtii hawaasummaa keessatti ni mul'ata, daa’imaa fi bakka bu’oota aadaa isaa yookiin ishee gidduutti yeroo isaan sochii waloo irratti bobba’an kan mul’atu ta’uu akeekeera.",Qurxummii qabuun gochaa beekamaa aadaa adda addaa hedduu gidduutti qooddatamu keessaa isa tokkodha.,neutral
+"Gosti yaadaa olaanaa kamiyyuu, jalqaba qunnamtii hawaasummaa keessatti ni mul'ata, daa’imaa fi bakka bu’oota aadaa isaa yookiin ishee gidduutti yeroo isaan sochii waloo irratti bobba’an kan mul’atu ta’uu akeekeera.",Sochiiwwan waliinii keessatti qooda qabaachuun yeroo tokko tokko gosoota yaada ol’aanoo qooddachuuf gargaara.,entailment
+"Ollaan tokko tokko kadhannaa ykn kadhannaa, geggeessitoota hafuuraa kanneen hawaasa geggeessan kadhannaa awwaalchaa, ayyaana guyyaa qulqullootaa fi yeroo lubichi hin argamne hundatti qaban turan.",Ollaan keessaan tokkollee geggeessitoota hafuuraa luba hin taane hin qaban ture.,contradiction
+"Ollaan tokko tokko kadhannaa ykn kadhannaa, geggeessitoota hafuuraa kanneen hawaasa geggeessan kadhannaa awwaalchaa, ayyaana guyyaa qulqullootaa fi yeroo lubichi hin argamne hundatti qaban turan.",Ollaan tokko tokko geggeessitoota hafuuraa luba hin taane qabu turan.,entailment
+"Ollaan tokko tokko kadhannaa ykn kadhannaa, geggeessitoota hafuuraa kanneen hawaasa geggeessan kadhannaa awwaalchaa, ayyaana guyyaa qulqullootaa fi yeroo lubichi hin argamne hundatti qaban turan.",Geggeessitoota hafuuraa keessaa tokko tokko rifeensa gurraacha qabu turan.,neutral
+"Tapha hawaas-diraamaa keessattis, carraan gahee adda addaa taphachuu fi qindeessuun ijoolleen walfakkeenyaa fi garaagarummaa fedhii, amantaa fi miira uummata gidduu jiru akka hubatan gargaaruu hin oolu.",Ijoolleen akkamitti namoonni akka wal fakkaatanii fi adda ta’an baruu danda’u.,entailment
+"Tapha hawaas-diraamaa keessattis, carraan gahee adda addaa taphachuu fi qindeessuun ijoolleen walfakkeenyaa fi garaagarummaa fedhii, amantaa fi miira uummata gidduu jiru akka hubatan gargaaruu hin oolu.",Ijoolleen sanyiiwwan adda addaa akkamitti akka adda taʼan hubachuu dandaʼu.,neutral
+"Tapha hawaas-diraamaa keessattis, carraan gahee adda addaa taphachuu fi qindeessuun ijoolleen walfakkeenyaa fi garaagarummaa fedhii, amantaa fi miira uummata gidduu jiru akka hubatan gargaaruu hin oolu.",Ijoolleen homaa barachuu hin danda'an.,contradiction
+"Gaarummaan olaanaa sirna heera mootummaa Jarmanii waraana boodaa ture, sana booda, sirriitti miidhaa guddaa sirna Naazii irra gahee ture.",Mosaajiin sagantaa sadarkaa olaanaa qopheessuuf dandeessisu teeknooloojiiwwan cimoo daldaltoonni irratti kaayyeffatan keessaa isa tokkodha.,contradiction
+"Gaarummaan olaanaa sirna heera mootummaa Jarmanii waraana boodaa ture, sana booda, sirriitti miidhaa guddaa sirna Naazii irra gahee ture.",Bulchiinsi Naazii nama dhimmicha keessa ture hunda ajjeese.,neutral
+"Gaarummaan olaanaa sirna heera mootummaa Jarmanii waraana boodaa ture, sana booda, sirriitti miidhaa guddaa sirna Naazii irra gahee ture.",Bulchiinsi Naazii sana ni dhaabsise.,entailment
+Sonja mucaan sun aarii intala ishee fakkeessuu jalqabde.,Namni aarii qabu hin turre.,contradiction
+Sonja mucaan sun aarii intala ishee fakkeessuu jalqabde.,Sonjaan daa'ima dha.,entailment
+Sonja mucaan sun aarii intala ishee fakkeessuu jalqabde.,Sonjaan ni mufatte.,neutral
+6 Waggoota shantamii shan Waraana Biyya keessaa dura turan keessatti Manni Murtii aangoo kana xiqqoo fayyadameera.,Manni Murtichaa waggoota kurnan Waraana Biyya keessaa dura turan keessatti darbee darbee aangoo kana fayyadamaa ture.,entailment
+6 Waggoota shantamii shan Waraana Biyya keessaa dura turan keessatti Manni Murtii aangoo kana xiqqoo fayyadameera.,Manni Murtichaa waggoota shantamii shan Waraana Biyya keessaa dura turan keessatti yeroo 4f aangoo kana fayyadameera.,neutral
+6 Waggoota shantamii shan Waraana Biyya keessaa dura turan keessatti Manni Murtii aangoo kana xiqqoo fayyadameera.,Manni Murtichaa waggoota shantamii shan Waraana Biyya keessaa dura turan keessatti aangoo kana yeroo miliyoona 5niif fayyadameera.,contradiction
+Waan hundisaa guutummaatti akka natti himame ta'uu isaa siif mirkaneessa yaa Gooftaa.,Waa'ee waan hundaa beekumsi akka naaf kenname sitti himaan jira.,entailment
+Waan hundisaa guutummaatti akka natti himame ta'uu isaa siif mirkaneessa yaa Gooftaa.,Du'a qorataa yakkaa sanaati kan ani waa'ee isaa dhagahe.,neutral
+Waan hundisaa guutummaatti akka natti himame ta'uu isaa siif mirkaneessa yaa Gooftaa.,Bal'ina na jalaa dhokatanii turan baay'eetu jiru. ,contradiction
+Sagaleewwan sun Kaapteen Blood muuziqummaa isaa isa mufate irraa yaada isaa jeeqe.,Kaapteen Blood yaada isaa isa hin gammachiifne osoo addaan hin kutin yaaduu danda'eera.,contradiction
+Sagaleewwan sun Kaapteen Blood muuziqummaa isaa isa mufate irraa yaada isaa jeeqe.,Yaadni Kaapteen Blood sagalee tokko tokkoon addan cite.,entailment
+Sagaleewwan sun Kaapteen Blood muuziqummaa isaa isa mufate irraa yaada isaa jeeqe.,Iyyi saree sanaa kaappiteenii sana gad fageenyan yaaduu isaa irraa isa kaase.,neutral
+Garuu yeroon mana adeera keessanii Baarbaadoositti garba hin caalu turetti gaarummaa murtaa'een akka natti fayyadame dagachuu hin danda'u.,Barbaadoositti yeroon garba ture gaarummaadhaan na qabatte.,entailment
+Garuu yeroon mana adeera keessanii Baarbaadoositti garba hin caalu turetti gaarummaa murtaa'een akka natti fayyadame dagachuu hin danda'u.,"Haala ajaa'ibaa ta'een garaa natti jabaateetta, hanga xuriitti illee nan ilaalle.",contradiction
+Garuu yeroon mana adeera keessanii Baarbaadoositti garba hin caalu turetti gaarummaa murtaa'een akka natti fayyadame dagachuu hin danda'u.,Yeroo eessumni kee akka abbummaatti na qabatee turetti guyyaa guyyaan akka malee na reebaa ture.,neutral
+"Achitti, fageenya maayilii sadii hin caalle irratti, lafti ture--Gidaarri magariisa hin sirroofne ifa ta'ee fi naannoo dhihaa ture.",Taa'umsi lafaa lalisaa taʼe tokko ijaan mulʼata ture.,entailment
+"Achitti, fageenya maayilii sadii hin caalle irratti, lafti ture--Gidaarri magariisa hin sirroofne ifa ta'ee fi naannoo dhihaa ture.",Odola isaan itti dhiyaachaa turan namni jiraatu hin turre.,neutral
+"Achitti, fageenya maayilii sadii hin caalle irratti, lafti ture--Gidaarri magariisa hin sirroofne ifa ta'ee fi naannoo dhihaa ture.",Isaan galaana dhuma hin qabne qofa malee lafa Mayiiii tokkollee arguu hin dandeenye.,contradiction
+"Ani ergamaa mootii kutaalee badoo kanaaf ergamaa surraa isaanii, fi fira dhiyoo gooftaa koo Sanderland dha.","Mootiin surraa kun ergamtoota kan qaban yoo ta’u, ani isaan keessaa tokkodha.",entailment
+"Ani ergamaa mootii kutaalee badoo kanaaf ergamaa surraa isaanii, fi fira dhiyoo gooftaa koo Sanderland dha.",Mootiin surraa kun gara torban tokko dura asitti na erganiiru.,neutral
+"Ani ergamaa mootii kutaalee badoo kanaaf ergamaa surraa isaanii, fi fira dhiyoo gooftaa koo Sanderland dha.",Ani ajaja mootii surraa irraa hin fudhadhu.,contradiction
+Hidaa siifan qaba--ykn kanan raawwadhe jedheen yaade jedhe.,Inni homaa hidaan akka sirra jiru yaadee hin beeku.,contradiction
+Hidaa siifan qaba--ykn kanan raawwadhe jedheen yaade jedhe.,Akka kadhataa saantima hin qabne gargaarsa ati isa gooteef siif liqeesse.,neutral
+Hidaa siifan qaba--ykn kanan raawwadhe jedheen yaade jedhe.,Waan si irraa liqii qabu itti fakkaate.,entailment
+Halkaniin gara Jaamaayikaatti dhihaachuu caalaa beekuun qaba ture.,Erga aduun lixxee booda gara Jaamaayikaatti dhihoo nan imale.,entailment
+Halkaniin gara Jaamaayikaatti dhihaachuu caalaa beekuun qaba ture.,Bidiruu guddaa tokkoon gara Jaamaayikaattin deeme.,neutral
+Halkaniin gara Jaamaayikaatti dhihaachuu caalaa beekuun qaba ture.,Aniifi haati manaakoo guyyaa saafaa Jaamaayikaa geenye.,contradiction
+Yaadni Blood wanta kanaa fi kanneen biroo irratti akkuma achi siree guyyaa irra taa’ee jiru ture.,Blood abjuu hin yaadamne siree guyyaa isa irratti rafe.,contradiction
+Yaadni Blood wanta kanaa fi kanneen biroo irratti akkuma achi siree guyyaa irra taa’ee jiru ture.,Blood yeroo gad ciisetti baayyee yaadaa ture.,entailment
+Yaadni Blood wanta kanaa fi kanneen biroo irratti akkuma achi siree guyyaa irra taa’ee jiru ture.,Blood yeroo dhumaaf haadha isaa yeroo argetti cimsee yaadaa ture.,neutral
+"Mirkanaa'aadha, egaa, Ani isinitti nan hima.","Tole egaa, ani waa'ee isaa isinitti nan hima.",entailment
+"Mirkanaa'aadha, egaa, Ani isinitti nan hima.",Jecha tokkollee sitti hin dubbadhu.,contradiction
+"Mirkanaa'aadha, egaa, Ani isinitti nan hima.",Kana irra akka hin deebine waadaa waan galteef qofa ani sitti himaan jira.,neutral
+Ah! Sunis karaa akkamii taʼuu dandaʼa?,Namni tokko karaa kamiin akka deemu qabu gaafachaa jira.,entailment
+Ah! Sunis karaa akkamii taʼuu dandaʼa?,Gaaffii gaafataan kophaa waan ta'eef nama waliin haasa'u hin qabu.,contradiction
+Ah! Sunis karaa akkamii taʼuu dandaʼa?,Gaaffii gaafataan ariifachaa waan jiruuf karaa irra deemuu qabu hatattamaan beekuu qaba.,neutral
+Ergama Mootichaa salphaatti hin kennu.,Ergama Mootichaa kennuunis safuu koo waliin wal faallaadha.,neutral
+Ergama Mootichaa salphaatti hin kennu.,Ani ergama mootichaa baayyee itti yaadeera.,entailment
+Ergama Mootichaa salphaatti hin kennu.,Ani yaada lammaffaa malee ergama mootichaa kennuudhaaf wabii mallatteesseera.,contradiction
+Ariitiidhaan duubatti deebi’uu akka qabu inni hubateera.,Duubatti deebi'uuf guyyaa guutuu akka qabu hubate.,contradiction
+Ariitiidhaan duubatti deebi’uu akka qabu inni hubateera.,Tarkaanfii ariifataa gochuu akka qabu hubate.,entailment
+Ariitiidhaan duubatti deebi’uu akka qabu inni hubateera.,Osoo iddooma sana turee ta'e ni argama ture.,neutral
+"Akkasuma ta'us inni waan ta'ee ture ta'ee waggoota sadan darban kana keessatti waan hojjete hojjeteera jette, isheen garuu amma gadda guddaadhaan dubbatte, tuffii ishee duraanii tokko malee.",Waggoota sadan darban keessatti dhiirota hedduu ajjeesuu isaa ishee hin jaalanne.,neutral
+"Akkasuma ta'us inni waan ta'ee ture ta'ee waggoota sadan darban kana keessatti waan hojjete hojjeteera jette, isheen garuu amma gadda guddaadhaan dubbatte, tuffii ishee duraanii tokko malee.",Waa'ee cimina isaa fi namooma isaa gammachuudhaan dubbatte.,contradiction
+"Akkasuma ta'us inni waan ta'ee ture ta'ee waggoota sadan darban kana keessatti waan hojjete hojjeteera jette, isheen garuu amma gadda guddaadhaan dubbatte, tuffii ishee duraanii tokko malee.",Sagalee gaddisiisaa ta'een dubbatte.,entailment
+Sun faashinii gosa keessanii booda ta'a jedheen yaada.,Gosti keessan waan kana hojjetu jedheen fudhadha.,entailment
+Sun faashinii gosa keessanii booda ta'a jedheen yaada.,"Waa'ee gosa keessanii, fi aadaa isaanii dubbiseera.",neutral
+Sun faashinii gosa keessanii booda ta'a jedheen yaada.,Kun gosa keessan biratti waan barame miti jedheen fudhadha.,contradiction
+Gammachuu dhabuun fuula ishee guurte.,Fuula ishee irratti seequun guddaan faca'e.,contradiction
+Gammachuu dhabuun fuula ishee guurte.,Garaa ishee keessatti miira nama dhukkubsutu itti dhaga'ame.,neutral
+Gammachuu dhabuun fuula ishee guurte.,Fuula ishee irra aariitu ture.,entailment
+"Ija bobaastee isa taajjabaa turte, garuu fuula isaa isa gadda qabu arguudhaan, akkasumas mufannaa gadi fagoon deebii inni kenne yoo argitu ibsi mataa ishee ni jijjiirame.",Fuula isaa erga argitee booda ibsi ishee jijjiirame.,entailment
+"Ija bobaastee isa taajjabaa turte, garuu fuula isaa isa gadda qabu arguudhaan, akkasumas mufannaa gadi fagoon deebii inni kenne yoo argitu ibsi mataa ishee ni jijjiirame.",Fuulli ishee yeroo fuula isaa irraa miira aarii argitu ife.,contradiction
+"Ija bobaastee isa taajjabaa turte, garuu fuula isaa isa gadda qabu arguudhaan, akkasumas mufannaa gadi fagoon deebii inni kenne yoo argitu ibsi mataa ishee ni jijjiirame.",Isheen isheetti aaruu fi dhiisuu isaa hin beektu turte.,neutral
+"Boonaa utuu adeemuu dallaa lolaan marfame sana qaxxaamuree, karra gurguddaa sana keessa darbee gara mooraa sanaatti seene.","Karrawwan gurguddoon cufamanii waan jiraniif, inni dallaa sana irraa gara mooraa sanaatti utaalee.",contradiction
+"Boonaa utuu adeemuu dallaa lolaan marfame sana qaxxaamuree, karra gurguddaa sana keessa darbee gara mooraa sanaatti seene.",Karrawwan gurguddoon sana qofatu seensa mooraa sanaa ture.,neutral
+"Boonaa utuu adeemuu dallaa lolaan marfame sana qaxxaamuree, karra gurguddaa sana keessa darbee gara mooraa sanaatti seene.",Karrawwan gurguddoon gara mooraa sanaatti nama geessan jiru turan.,entailment
+"Gara fannootti ni yaata, shakkii tokko malee jedhe tuffiidhaan.",Inni namni tokko gara fannootti ni deema jedhee yaadee ture.,entailment
+"Gara fannootti ni yaata, shakkii tokko malee jedhe tuffiidhaan.", Kan hattuu qabe inni sheriif ture.,neutral
+"Gara fannootti ni yaata, shakkii tokko malee jedhe tuffiidhaan.",Mana hidhaa irraa of qusachuuf jecha karaa itti biyyaa miliqu hasaasan dubbate.,contradiction
+Akkamittan amanamummaadhaan isaan to'achuu dandaʼa ture? Marii irra ture.,Gara isaan to'achuutti ofii koo of fiduu hin dandeenye.,entailment
+Akkamittan amanamummaadhaan isaan to'achuu dandaʼa ture? Marii irra ture.,Akkuman isaan argeen isaan to'adhe.,contradiction
+Akkamittan amanamummaadhaan isaan to'achuu dandaʼa ture? Marii irra ture.,"Silaa ofii kootiif dhiifama hin godhu ture, osoon isaan hidhee.",neutral
+Bara kana isa adamsaan jira.,Waggaa tokkoof osoo inni hin beekin itti dhiyeenyaan hordofaa jira.,neutral
+Bara kana isa adamsaan jira.,Gara torban tokkoo qofaf isa hordofaan ture.,contradiction
+Bara kana isa adamsaan jira.,Waggaa darbe keessa isa adamsaan ture.,entailment
+Muuziyeemichi baafata ykn asxaa irratti cimaa miti.,Muuziyeemichi maqaa itti moggaafamuu hin jaallatu.,neutral
+Muuziyeemichi baafata ykn asxaa irratti cimaa miti.,Muuziyeemichi dinqisiifataa waraqaa beeksisaa miti.,entailment
+Muuziyeemichi baafata ykn asxaa irratti cimaa miti.,Qabxiin cimaan muuziyeemichaa baafatoota.,contradiction
+Gabaawwan qilleensa banaa kunneenis Beejiing keessatti daldaluuf iddoowwan bittaa hawwataa ta'anidha.,Beejiing gabaa qilleensa banaa kan suuqiiwwan baayyee hawwataa ta'an of keessaa qabu qabdi.,entailment
+Gabaawwan qilleensa banaa kunneenis Beejiing keessatti daldaluuf iddoowwan bittaa hawwataa ta'anidha.,Gabaawwan qilleensa banaa Beejiing keessatti argaman addunyaa irratti kanneen hawwataa ta’aniidha.,neutral
+Gabaawwan qilleensa banaa kunneenis Beejiing keessatti daldaluuf iddoowwan bittaa hawwataa ta'anidha.,Seerri cimaan Beejiing keessatti bahe daangaa magaalattii keessatti gabaa qilleensa banaa dhorka.,contradiction
+"Galoo galaanni guddaan qarqara galaanaa kaaba dhihaatti argamu buufata doonii gaarii kan taasisu taʼus, bishaanii fi qarqara galaanaa lamaan isaanii iyyuu xuraaʼuu dandaʼu.",Bishaanii fi qarqarri galaanaa yeroo hunda qulqulluudha.,contradiction
+"Galoo galaanni guddaan qarqara galaanaa kaaba dhihaatti argamu buufata doonii gaarii kan taasisu taʼus, bishaanii fi qarqara galaanaa lamaan isaanii iyyuu xuraaʼuu dandaʼu.",Bishaanii fi qarqarri galaanaa xuraa'aa ta'uu malu.,entailment
+"Galoo galaanni guddaan qarqara galaanaa kaaba dhihaatti argamu buufata doonii gaarii kan taasisu taʼus, bishaanii fi qarqara galaanaa lamaan isaanii iyyuu xuraaʼuu dandaʼu.",Sababa faalamaan bishaanichi xuriidha.,neutral
+"Gamoowwan olka'oo sun baankiidha, akkasumas daandiin isaan irra dhaabbaatan immoo maqaa masoo Milla de Oro, yookiin Golden Mile jedhamuun moggaafamee jira.",Gamoowwan  olka'oo Golden Mile irratti argaman keessaa tokkollee baankii miti.,contradiction
+"Gamoowwan olka'oo sun baankiidha, akkasumas daandiin isaan irra dhaabbaatan immoo maqaa masoo Milla de Oro, yookiin Golden Mile jedhamuun moggaafamee jira.",Gamoowwan  olka'oo Golden Mile irratti argaman baankiidha.,entailment
+"Gamoowwan olka'oo sun baankiidha, akkasumas daandiin isaan irra dhaabbaatan immoo maqaa masoo Milla de Oro, yookiin Golden Mile jedhamuun moggaafamee jira.",Gamoowwan  olka'oo Golden Mile irratti argaman baankota dabalatee gosa daldalaa adda addaati.,neutral
+"Uumamaan gahaadha, achii, waraana addunyaa 2ffaa keessatti hirmaannaan sun karoora qilleensaa komanwelt Biriteen irraa kan jalqabe si'a ta'u, kunis samii kanaadaa isa nageenya qabutti fayyadamuun balaliistota lolaaf qopheessuudhaan ture.",Kanaadaan irra caalaatti samii nageenya qabu qabdi.,entailment
+"Uumamaan gahaadha, achii, waraana addunyaa 2ffaa keessatti hirmaannaan sun karoora qilleensaa komanwelt Biriteen irraa kan jalqabe si'a ta'u, kunis samii kanaadaa isa nageenya qabutti fayyadamuun balaliistota lolaaf qopheessuudhaan ture.",Samiin Kanaadaa misaa'ela irraa bilisa ture.,neutral
+"Uumamaan gahaadha, achii, waraana addunyaa 2ffaa keessatti hirmaannaan sun karoora qilleensaa komanwelt Biriteen irraa kan jalqabe si'a ta'u, kunis samii kanaadaa isa nageenya qabutti fayyadamuun balaliistota lolaaf qopheessuudhaan ture.",Samiin Kanaadaa caalaatti balaa qaba ture.,contradiction
+"Qarqarri galaanaa isaanii inni jaalala qabeessa taʼe kana booda kan isaanii qofa akka hin taane beekanillee, wal dandaʼuu fi gargaarsa gochuudhaan itti fufu.",Amma qarqara galaanaa qooddachuu waan qabaniif nama hundaaf hadhaa fi aarii guddaa qabu.,contradiction
+"Qarqarri galaanaa isaanii inni jaalala qabeessa taʼe kana booda kan isaanii qofa akka hin taane beekanillee, wal dandaʼuu fi gargaarsa gochuudhaan itti fufu.",Amma qarqara galaanaa uummata biroo waliin qooddachuu qabu.,entailment
+"Qarqarri galaanaa isaanii inni jaalala qabeessa taʼe kana booda kan isaanii qofa akka hin taane beekanillee, wal dandaʼuu fi gargaarsa gochuudhaan itti fufu.",Duraan fuula qarqara galaanaa maayilii dhibba shan qabu turan.,neutral
+"Kublai Khan bara 1279tti magaala guddoo mataa isaa qarqara haroo Beihai Beejiing irratti kan dhaabe yoo ta'u, qabeenyi impaayera isaa tokko tokko har'as bakka itti mul'atutti jira.",Kublai Khan magaala guddoo Taayiwaan keessatti ijaare.,contradiction
+"Kublai Khan bara 1279tti magaala guddoo mataa isaa qarqara haroo Beihai Beejiing irratti kan dhaabe yoo ta'u, qabeenyi impaayera isaa tokko tokko har'as bakka itti mul'atutti jira.",Kublai Khan Beejing keessaatii qabeenya mi'aa ta'e qaba.,entailment
+"Kublai Khan bara 1279tti magaala guddoo mataa isaa qarqara haroo Beihai Beejiing irratti kan dhaabe yoo ta'u, qabeenyi impaayera isaa tokko tokko har'as bakka itti mul'atutti jira.",Kublai Khan nama kabaja guddaa qabu ture.,neutral
+"Hawaasa Anglo wajjiin salphaatti ofiiti makuun manneen barnootaa Pirootestaantii qofti ijoollee isaanii fudhatan Yihudoonni Awurooppaa Bahaa gara dureeyyii Westmount eebbifamaniiru yookiin godaananiiru, ammas, gara Toronto.",Yihudoonni Awurooppaa Bahaa nama hundumaa wajjin akka gaariitti walii galu.,contradiction
+"Hawaasa Anglo wajjiin salphaatti ofiiti makuun manneen barnootaa Pirootestaantii qofti ijoollee isaanii fudhatan Yihudoonni Awurooppaa Bahaa gara dureeyyii Westmount eebbifamaniiru yookiin godaananiiru, ammas, gara Toronto.",Yihudoonni hawaasa kaniin hin barbaadaman.,neutral
+"Hawaasa Anglo wajjiin salphaatti ofiiti makuun manneen barnootaa Pirootestaantii qofti ijoollee isaanii fudhatan Yihudoonni Awurooppaa Bahaa gara dureeyyii Westmount eebbifamaniiru yookiin godaananiiru, ammas, gara Toronto.",Yihudoonni uummata Anglo waliin salphaatti walii galu.,entailment
+Yoo danda’ame dursitee daba sana of barsiisi.,Dursitee daba keessa hin seenin; booda bashannana ni balleessa.,contradiction
+Yoo danda’ame dursitee daba sana of barsiisi.,Yoo dandeesse dursiiti daba sana baruu yaali.,entailment
+Yoo danda’ame dursitee daba sana of barsiisi.,Dubbii kitaabichaa yoo hubatte dareen sun salphaa ta'ee argatta.,neutral
+"Kuusaan awwaalchaa isaa, lafa jalaa m 27 (88 ft) kan ta'e, marbilii irraa kan hojjetame yoo ta'u, sq m 1,200 (13,000 sq ft) kan uwwifame dha.",Inni 20m ol lafa jalatti awwaalameera.,entailment
+"Kuusaan awwaalchaa isaa, lafa jalaa m 27 (88 ft) kan ta'e, marbilii irraa kan hojjetame yoo ta'u, sq m 1,200 (13,000 sq ft) kan uwwifame dha.",Inni nama qaroo ummataa barbaachisaa ture.,neutral
+"Kuusaan awwaalchaa isaa, lafa jalaa m 27 (88 ft) kan ta'e, marbilii irraa kan hojjetame yoo ta'u, sq m 1,200 (13,000 sq ft) kan uwwifame dha.",Taa'umsi awwaalcha isaa kan muka irraa hojjetaman ture.,contradiction
+Qabeenya socho'aa hunda jaldeessota jalaa dhoksuu yaadadhu.,Qabeenya kee jaldeessa jalaa dhoksi.,entailment
+Qabeenya socho'aa hunda jaldeessota jalaa dhoksuu yaadadhu.,Jaldeessonni qabeenya kee dabalatee wantoota hedduudhaaf fedhii guddaa qabu.,neutral
+Qabeenya socho'aa hunda jaldeessota jalaa dhoksuu yaadadhu.,Qabeenya kee jaldessa jalaa dhoksuun si hin barbaachisu.,contradiction
+"Masaraan Estei dhaabbachuu isaa gara waggaa 1,400 dura, Milreu mana baadiyyaa guddaa nama beekamaa tokkoos ture.",Milreu waan kamirraayyuu fageenya maayilii 10 irra ture.,neutral
+"Masaraan Estei dhaabbachuu isaa gara waggaa 1,400 dura, Milreu mana baadiyyaa guddaa nama beekamaa tokkoos ture.",Milreu biyyaa ala ture.,entailment
+"Masaraan Estei dhaabbachuu isaa gara waggaa 1,400 dura, Milreu mana baadiyyaa guddaa nama beekamaa tokkoos ture.",Milreu sirrii gidduu magaalattii keessa ture.,contradiction
+Ho’i galaanaa 18e fi 24e C (64-75e F) gidduutti jijjiirama qaba.,"Ho’i galaanaa yeroo hunda jijjiiramaa jira, garuu ho’a qorraa gadi hin deeman.",entailment
+Ho’i galaanaa 18e fi 24e C (64-75e F) gidduutti jijjiirama qaba.,Ho’i galaanaa yeroo hunda waggaa guutuu bakka murtaa’e tokkotti argama.,contradiction
+Ho’i galaanaa 18e fi 24e C (64-75e F) gidduutti jijjiirama qaba.,Ho'i galaanaa yeroo ho'u guyyaa keessaa olka'a ta'uu isaa ilaala.,neutral
+Paarkiin biyyoolessaa Kinabalu naannoolee eegumsa argatan ja'a bulchiinsa kanaa keessaa tokko qofa.,Paarkiin biyyoolessaa Kinabalu arba kudhanii fi saroonni ja'a qaba.,neutral
+Paarkiin biyyoolessaa Kinabalu naannoolee eegumsa argatan ja'a bulchiinsa kanaa keessaa tokko qofa.,"Bulchiinsi kun naannolee eegumsa argate kan qabu yoo ta'u, isaanis paarkii biyyoolessaa Kinabalu dabalata.",entailment
+Paarkiin biyyoolessaa Kinabalu naannoolee eegumsa argatan ja'a bulchiinsa kanaa keessaa tokko qofa.,Naannichatti iddoowwan eegumsa argatan walumaagala sadiitu jiru.,contradiction
+Viidiyoowwan seenaa Anne fi kan Amsterdam suuraa fi meeshaalee yeroo sanaa waliin ni argitu.,Suuraawwan hin argitan.,contradiction
+Viidiyoowwan seenaa Anne fi kan Amsterdam suuraa fi meeshaalee yeroo sanaa waliin ni argitu.,Suuraawwan ni argitu.,entailment
+Viidiyoowwan seenaa Anne fi kan Amsterdam suuraa fi meeshaalee yeroo sanaa waliin ni argitu.,Suuraalee jalqabaa tokko tokko keessaa muraasa ni argitu.,neutral
+"Treasure Beach naannoo riizoortii kan itti dubbatamu qofa yoo ta'u, kan quban lakkaawaman hoteelonni muraasni qofti bakka cirrachaa sadii irratti diriiranii jiru.",Uummata Treasure Beach daawwataniif filannoowwan hoteelaa hangas hin jiran.,entailment
+"Treasure Beach naannoo riizoortii kan itti dubbatamu qofa yoo ta'u, kan quban lakkaawaman hoteelonni muraasni qofti bakka cirrachaa sadii irratti diriiranii jiru.",Turistoota kanneen Treasure Beach daawwataniif hoteelli urjii afur tokko jira.,neutral
+"Treasure Beach naannoo riizoortii kan itti dubbatamu qofa yoo ta'u, kan quban lakkaawaman hoteelonni muraasni qofti bakka cirrachaa sadii irratti diriiranii jiru.",Treasure Beach riizoortii naannoo sana jiran hedduu keessaa isa tokko.,contradiction
+"Ganni haala qilleensaa ho’aa (garuu ho’aa miti) fi ho’a galaanaa ho’aa waan fiduuf, bishaan keessa cuuphamuu, snorkeling, fi ispoortii bishaanii biroof mijataa taasisa.",Yeroo hunda yeroo gannaa digrii 100 fi isaa ol ho'a.,contradiction
+"Ganni haala qilleensaa ho’aa (garuu ho’aa miti) fi ho’a galaanaa ho’aa waan fiduuf, bishaan keessa cuuphamuu, snorkeling, fi ispoortii bishaanii biroof mijataa taasisa.",Yeroo baayyee ganna 75 ta'a.,neutral
+"Ganni haala qilleensaa ho’aa (garuu ho’aa miti) fi ho’a galaanaa ho’aa waan fiduuf, bishaan keessa cuuphamuu, snorkeling, fi ispoortii bishaanii biroof mijataa taasisa.",Yeroo gannaa keessa waqtii ho'aadha.,entailment
+"Bishaan kuufamaa kana keessaa kan daawwattoonni mataa qocaa irraa darbachuu abdachuun saantima itti darbatan yoo ta'u, kunis karaa mirkanaa'aa carraa gaarii argachuuf gargaarudha.",Namoonni gonkumaa maallaqa hin darbatan sababni isaa carraa badaa waan ta'eef.,contradiction
+"Bishaan kuufamaa kana keessaa kan daawwattoonni mataa qocaa irraa darbachuu abdachuun saantima itti darbatan yoo ta'u, kunis karaa mirkanaa'aa carraa gaarii argachuuf gargaarudha.",Namoonni mallattoon sun hin darbatiin osoo jedhuullee saantima darbatu.,neutral
+"Bishaan kuufamaa kana keessaa kan daawwattoonni mataa qocaa irraa darbachuu abdachuun saantima itti darbatan yoo ta'u, kunis karaa mirkanaa'aa carraa gaarii argachuuf gargaarudha.",Namoonni saantima bishaan keessatti darbatu.,entailment
+"Magaalaan buufata doonii Nafplio naannoo sana daawwachuuf buufata gaarii dha, ykn tarii bakka yeroo daawwannaa keessan irratti laaqana itti nyaattan ta'a.",Nafplio bakka daawwanaa gaarii qaba.,neutral
+"Magaalaan buufata doonii Nafplio naannoo sana daawwachuuf buufata gaarii dha, ykn tarii bakka yeroo daawwannaa keessan irratti laaqana itti nyaattan ta'a.",Nafplio bu'uura hamaadha.,contradiction
+"Magaalaan buufata doonii Nafplio naannoo sana daawwachuuf buufata gaarii dha, ykn tarii bakka yeroo daawwannaa keessan irratti laaqana itti nyaattan ta'a.",Nafplio bu'uura mudaa hin qabnedha.,entailment
+Prinsengracht keessatti Otto Frank fi maatiin isaa osoo hin argamiin dura waggoota lamaa oliif mana gubbaa bakka daldalaa isaanii keessa dhokatanii turan.,Otto Frank guyyaa lammaffaatti booji'ame.,contradiction
+Prinsengracht keessatti Otto Frank fi maatiin isaa osoo hin argamiin dura waggoota lamaa oliif mana gubbaa bakka daldalaa isaanii keessa dhokatanii turan.,Otto Frank ji'oota 25 oliif dhokate.,entailment
+Prinsengracht keessatti Otto Frank fi maatiin isaa osoo hin argamiin dura waggoota lamaa oliif mana gubbaa bakka daldalaa isaanii keessa dhokatanii turan.,Otto Frank hanga Naaziin isa argatutti dhokate.,neutral
+Mootummoonni naannolee fi bulchinsoonni naannoo hedduun ulaagaalee odiitii dabalataa qabu.,Bulchinsoonni naannoo seera mataa isaanii tumachuu qabu.,neutral
+Mootummoonni naannolee fi bulchinsoonni naannoo hedduun ulaagaalee odiitii dabalataa qabu.,Bulchinsoonni naannoo ulaagaa zeeroo qabu.,contradiction
+Mootummoonni naannolee fi bulchinsoonni naannoo hedduun ulaagaalee odiitii dabalataa qabu.,Dhimmoonni odiitii dabalataa bulchinsoota naannootiin barbaachisan jiru.,entailment
+Gareen nageenya odeeffannoo kun baatiitti walgahii 8 hamma 12 gidduutti gaggeessa.,Gurmiin nageenyaa kun baatiitti giddu galeessaan walgahii 9 qaba.,neutral
+Gareen nageenya odeeffannoo kun baatiitti walgahii 8 hamma 12 gidduutti gaggeessa.,Gumiin nageenyaa kun baatii keessaa guyyaa tokko tokkoon walgahii gaggeessa.,contradiction
+Gareen nageenya odeeffannoo kun baatiitti walgahii 8 hamma 12 gidduutti gaggeessa.,Gumiin nageenyaa kun waggaatti walgahii yeroo hedduu godhata.,entailment
+"Haa ta'uyyu malee, injinariingiin duraa dafee raawwateera.",Injinariingiin yeroo jalqabaa qaba ture.,entailment
+"Haa ta'uyyu malee, injinariingiin duraa dafee raawwateera.",Injinariingiin kan raawwate sadarkaa dhumaa qofa keessatti.,contradiction
+"Haa ta'uyyu malee, injinariingiin duraa dafee raawwateera.",Yeroon jalqabaa osoo hin jiraatin sadarkaa dhumaatti injinariingiin kufaa ta’uun isaa hin oolu.,neutral
+"Kanarraan kan ka’e murteessitoonni bulchinsaa fi hoggantoonni mala yaada haaraa fudhachaa, mala galma ga’iinsa adda addaa ilaaluu fi odeeffannoo haaraa murtii soroorsuuf dhimma itti bahaa jiru.",Bakka bu'oonni bulchinsaa tooftaa isaanii geeddaraa jiru.,entailment
+"Kanarraan kan ka’e murteessitoonni bulchinsaa fi hoggantoonni mala yaada haaraa fudhachaa, mala galma ga’iinsa adda addaa ilaaluu fi odeeffannoo haaraa murtii soroorsuuf dhimma itti bahaa jiru.",Bakka bu’oonni bulchinsaa bifa adda ta’een xiinxaluun aangoo isaanii guddisuuf yaalaa jiru.,neutral
+"Kanarraan kan ka’e murteessitoonni bulchinsaa fi hoggantoonni mala yaada haaraa fudhachaa, mala galma ga’iinsa adda addaa ilaaluu fi odeeffannoo haaraa murtii soroorsuuf dhimma itti bahaa jiru.",Bakka bu'oonni bulchinsaa haala jiruu isaanii jijjiiruu rincicu.,contradiction
+Dhimmi faayilootaa maamiltoota afaan Ingiliffaan ala dubbisaniif hiikuu barbaachisuu danda’a.,Dhimmi faayilootaa afaan Ingiliffaa qofaan akka ta'an hayyamama.,contradiction
+Dhimmi faayilootaa maamiltoota afaan Ingiliffaan ala dubbisaniif hiikuu barbaachisuu danda’a.,Dhimmi faayilootaa afaan Chaayinaa ykn Raashiyaatiin kaa'amuu danda’u.,neutral
+Dhimmi faayilootaa maamiltoota afaan Ingiliffaan ala dubbisaniif hiikuu barbaachisuu danda’a.,Dhimmi faayilootaa afaanota birootiin kaa'amuu danda'u.,entailment
+Xaarriin biraan kan yeroo ammaa gaggeeffamaa jiru ykn karoorfame kan hammatu dha,Xaariin keenya irra jireessi isaa amma sochiirra jira.,neutral
+Xaarriin biraan kan yeroo ammaa gaggeeffamaa jiru ykn karoorfame kan hammatu dha,Boruuf waan addaa karoorfanne hin qabnu.,contradiction
+Xaarriin biraan kan yeroo ammaa gaggeeffamaa jiru ykn karoorfame kan hammatu dha,Nuyi waa karoorfanne qabna.,entailment
+"Dhiibbaalee kanneen akka yeroo gabaabaa, sanadoota kompiitaraa jalqabaa balleessuu fi sanadoota barbaachisan argachuu dhabuu dabalatee itti dabaluu yaala.",Sanadoota kompiitaraa IBM irraa balleessaniiru.,neutral
+"Dhiibbaalee kanneen akka yeroo gabaabaa, sanadoota kompiitaraa jalqabaa balleessuu fi sanadoota barbaachisan argachuu dhabuu dabalatee itti dabaluu yaala.",Sanadoota kompiitaraa jalqabaa balleessaniiru.,entailment
+"Dhiibbaalee kanneen akka yeroo gabaabaa, sanadoota kompiitaraa jalqabaa balleessuu fi sanadoota barbaachisan argachuu dhabuu dabalatee itti dabaluu yaala.",Sanadoota jalqabaa hunda kaa'aniiru.,contradiction
+"Ergasii, bakka bu’aan daawwannaa duraa raawwate sun gaaffii dhiyaataniif deebii deebisuufi rakkoolee samuuda himannaa keessatti argaman hundayyuu irratti mari’achuuf dhiyeessaa haaraa irra deebi’ee daawwata.",Bakka bu'aan kun sa'aatii tokkoof do'ateera.,neutral
+"Ergasii, bakka bu’aan daawwannaa duraa raawwate sun gaaffii dhiyaataniif deebii deebisuufi rakkoolee samuuda himannaa keessatti argaman hundayyuu irratti mari’achuuf dhiyeessaa haaraa irra deebi’ee daawwata.",Do'annaan bakka bu'aan godhameera.,entailment
+"Ergasii, bakka bu’aan daawwannaa duraa raawwate sun gaaffii dhiyaataniif deebii deebisuufi rakkoolee samuuda himannaa keessatti argaman hundayyuu irratti mari’achuuf dhiyeessaa haaraa irra deebi’ee daawwata.",Do'annaa argannee hin beeknu.,contradiction
+"Qusannaan kuufama qabeenya irratti dhiibbaa uumuu qofa osoo hin taane, qabeenyi dabaree isaatiin filannoo qusachuu irratti dhiibbaa qaba.",Murannoon namni tokko ni qusata moo hin qusatu qabeenya isaatin dhiibbaa qaba.,entailment
+"Qusannaan kuufama qabeenya irratti dhiibbaa uumuu qofa osoo hin taane, qabeenyi dabaree isaatiin filannoo qusachuu irratti dhiibbaa qaba.",Qabeenyii fi qusannaan akka idileetti sirumaa hariiroo hin qaban.,contradiction
+"Qusannaan kuufama qabeenya irratti dhiibbaa uumuu qofa osoo hin taane, qabeenyi dabaree isaatiin filannoo qusachuu irratti dhiibbaa qaba.",Namoonni sooressa ta’an galii isaanii keessaa harka caalaa qusachuuf carraan isaanii guddaadha.,neutral
+"Fakkeenyaaf, dhaabbati nuti qo'anne tokko muuxannoo lama walitti makamuu kan dhaabbatichi barbaadu daddafee daldala haaraa walitti makuu fi fedhii daldalaa guddachaa jiru guutuuf irra deebiin gurmaa’uu kan gaafatu isa mudateera.",Walitti makaamni lama jiraatanis dhaabbatichi cancala dhaabbata isaanii irra deebiin gurmeessuun hin barbaachisu ture.,contradiction
+"Fakkeenyaaf, dhaabbati nuti qo'anne tokko muuxannoo lama walitti makamuu kan dhaabbatichi barbaadu daddafee daldala haaraa walitti makuu fi fedhii daldalaa guddachaa jiru guutuuf irra deebiin gurmaa’uu kan gaafatu isa mudateera.",Waajjiraalee lama gara dhhaaba tokkotti walitti dabaluun qindaa’insi haaraan haala hojii jeequmsaa uumeera.,neutral
+"Fakkeenyaaf, dhaabbati nuti qo'anne tokko muuxannoo lama walitti makamuu kan dhaabbatichi barbaadu daddafee daldala haaraa walitti makuu fi fedhii daldalaa guddachaa jiru guutuuf irra deebiin gurmaa’uu kan gaafatu isa mudateera.",Dhaabbata walitti dabalamuu muuxannoo qabu lamaa fi gaaffii daldalaa isaanii guutuuf saffisaan irra deebiin gurmaa’uu akka qaban qo'anneerra.,entailment
+"dizaayiniin isaa, imalli sun ifaa ifatti xumuramuu isaa osoo hin mirkaneessin dura kaffaltii ni hayyama jennee shakkii qabna turre.",Kaffaltiin sun yeroo barabaraa akka fudhatu beekna turre.,contradiction
+"dizaayiniin isaa, imalli sun ifaa ifatti xumuramuu isaa osoo hin mirkaneessin dura kaffaltii ni hayyama jennee shakkii qabna turre.",Kaffaltiin sun osoo hin mirkaneessiin dursee darbuu mala jennee tilmaane.,entailment
+"dizaayiniin isaa, imalli sun ifaa ifatti xumuramuu isaa osoo hin mirkaneessin dura kaffaltii ni hayyama jennee shakkii qabna turre.",Kaffaltiin sun saffisee socho'uu danda'aa fi ittiin gowwoomfamuu dandeenya  jennee tilmaamne.,neutral
+Teeknooloojiin adeemsa daldalaa dhaabbilee kanneen keessatti sirriitti kan walitti hidhame yoo ta’u sababiin isaa teknooloojiin akka meeshaa qofa osoo hin taane hojii daldalaaf akka si'eessituutti waan ilaalamuufidha.,Sirni sagantaa sadarkaa olaanaa qopheessuuf dandeessisu teeknooloojiiwwan cimoo daldaltoonni irratti kaayyeffatan keessaa isa tokkodha.,neutral
+Teeknooloojiin adeemsa daldalaa dhaabbilee kanneen keessatti sirriitti kan walitti hidhame yoo ta’u sababiin isaa teknooloojiin akka meeshaa qofa osoo hin taane hojii daldalaaf akka si'eessituutti waan ilaalamuufidha.,Teeknooloojiin mi'a qofa malee daldalaa dandeessisiistuu miti.,contradiction
+Teeknooloojiin adeemsa daldalaa dhaabbilee kanneen keessatti sirriitti kan walitti hidhame yoo ta’u sababiin isaa teknooloojiin akka meeshaa qofa osoo hin taane hojii daldalaaf akka si'eessituutti waan ilaalamuufidha.,Daldaloonni kunneen teeknooloojiif iddoo guddaa kennu.,entailment
+Yaad-rimeewwan lama ogbarruu keessatti yeroo hedduu argaman gara fulduraatti qo'annoo beeksisuudhaaf bu'aa qabaachuu danda’u.,Ogbarroonni akkaataa saamuda itti qorru jijjiiruu danda’u.,neutral
+Yaad-rimeewwan lama ogbarruu keessatti yeroo hedduu argaman gara fulduraatti qo'annoo beeksisuudhaaf bu'aa qabaachuu danda’u.,Ogbarroonni gara fuula duraattti qorannoo geeddaruu ni danda'u.,entailment
+Yaad-rimeewwan lama ogbarruu keessatti yeroo hedduu argaman gara fulduraatti qo'annoo beeksisuudhaaf bu'aa qabaachuu danda’u.,Gara qo'annoo geeddaruutiin wanti biraa dalagamu hin jiru.,contradiction
+Sararoonni saanduqa irraa tolfaman sadarkaa walgargaarsa ergamtoota poostaa mara walitti qabaman kan akeekan yoo ta’u sararoonni daayimandii irraa tolfaman ammoo kasaaraa teeknikaa (yoo nagatiivii ta’e) hojii gara qaama addaatti geeddaruu akeeku.,Sararoonni sadarkaan walgargaarsaa warra poostaa erganii %10 akka ta’e agarsiisu.,neutral
+Sararoonni saanduqa irraa tolfaman sadarkaa walgargaarsa ergamtoota poostaa mara walitti qabaman kan akeekan yoo ta’u sararoonni daayimandii irraa tolfaman ammoo kasaaraa teeknikaa (yoo nagatiivii ta’e) hojii gara qaama addaatti geeddaruu akeeku.,Sararoonni karaa malee waa biraa agarsiisan hin qaban.,contradiction
+Sararoonni saanduqa irraa tolfaman sadarkaa walgargaarsa ergamtoota poostaa mara walitti qabaman kan akeekan yoo ta’u sararoonni daayimandii irraa tolfaman ammoo kasaaraa teeknikaa (yoo nagatiivii ta’e) hojii gara qaama addaatti geeddaruu akeeku.,Sararoonni kun namoota poostaa ergan mara bira walgargaarsi hammam akka jiru akeeku.,entailment
+"Madaallii balaa kana irratti hundaa’uun, Seenterliinki maloota ittisaa adda addaa kan fayyadamtootaa fi hojjechiistota ulaagaalee gabaasa galii irratti hubachiisuu irratti xiyyeeffatan qopheessera.",Seenterliinki akkamitti rakkoon kun akka furmaata argatu hin goone.,contradiction
+"Madaallii balaa kana irratti hundaa’uun, Seenterliinki maloota ittisaa adda addaa kan fayyadamtootaa fi hojjechiistota ulaagaalee gabaasa galii irratti hubachiisuu irratti xiyyeeffatan qopheessera.",Mootummaan dogoggoraan maallaqa guddaa dhabaa waan tureef Seenterliinki akkaataa galii itti gabaasan namoota hubachiisuuf maloota baay'ee qaba ture.,neutral
+"Madaallii balaa kana irratti hundaa’uun, Seenterliinki maloota ittisaa adda addaa kan fayyadamtootaa fi hojjechiistota ulaagaalee gabaasa galii irratti hubachiisuu irratti xiyyeeffatan qopheessera.",Seenterliinki haala galii itti gabaasan namoota hubachiisuuf maloota baay'ee qaba ture.,entailment
+Kunis waajjiraaleen marsaa agarsiisaaf piroototaayipoota bakka bu’oota oomishaa ijaaruuf meeshaalee omishaa fi meeshaalee irratti invastimantii baasii guddaa baasu osoo hin godhin jalqaba agarsiisa wixinichaa kan dandeessise ture.,Achiis wixineen sun akkamitti akka dalagu muldhisuu dandaʼu turan.,entailment
+Kunis waajjiraaleen marsaa agarsiisaaf piroototaayipoota bakka bu’oota oomishaa ijaaruuf meeshaalee omishaa fi meeshaalee irratti invastimantii baasii guddaa baasu osoo hin godhin jalqaba agarsiisa wixinichaa kan dandeessise ture.,Warshaalee haaraa ijaaruun ogummaa akka hin taane dhaabbatichatti muldhisu danda'u turan.,neutral
+Kunis waajjiraaleen marsaa agarsiisaaf piroototaayipoota bakka bu’oota oomishaa ijaaruuf meeshaalee omishaa fi meeshaalee irratti invastimantii baasii guddaa baasu osoo hin godhin jalqaba agarsiisa wixinichaa kan dandeessise ture.,Dhiibbaa invastimantiiwwan akkamitti akka muldhisan yaada homaa hin qaban turan.,contradiction
+Tattaaffiin walta’iinsaa Kaarolinaa Kibbaa waggaa dhufutti galma ga'insa biraa muldhiseera.,Kaarolinaa Kibbaa keessatti namni waliin hin dalagu ture.,contradiction
+Tattaaffiin walta’iinsaa Kaarolinaa Kibbaa waggaa dhufutti galma ga'insa biraa muldhiseera.,SC waliin dalaganiiru.,entailment
+Tattaaffiin walta’iinsaa Kaarolinaa Kibbaa waggaa dhufutti galma ga'insa biraa muldhiseera.,Dimookiraatonni fi rippabilikaanonni Kaarolinaa Kibbaa waliin dalagaa jiru.,neutral
+"Akka qondaalli Boordii tokko jedhanitti, mirkaneessi Boordichaa kwt 605(b) Gorsaa Olaanaa Abukaatummaa Bulchiinsa Daldala Xixiqqaa (BDX)f qophaa qophaatti hin qoodamne.",Boordiin ragaa BBXf hin kennine sanas waajjira madaalliif dhiisan.,neutral
+"Akka qondaalli Boordii tokko jedhanitti, mirkaneessi Boordichaa kwt 605(b) Gorsaa Olaanaa Abukaatummaa Bulchiinsa Daldala Xixiqqaa (BDX)f qophaa qophaatti hin qoodamne.",Boordiin ragaa BBXf hin kennine.,entailment
+"Akka qondaalli Boordii tokko jedhanitti, mirkaneessi Boordichaa kwt 605(b) Gorsaa Olaanaa Abukaatummaa Bulchiinsa Daldala Xixiqqaa (BDX)f qophaa qophaatti hin qoodamne.",Boordiin kun yeroo yeroon ragaa BBX nama gaafateef kenna ture.,contradiction
+"Hoteelaa fi kaffaltiiwwan biroo muraasaaf walsimsiisni yeroo uumamu, imala qabatamaa sanaa mirkaneessuun ni godhama ture.",Sanasalatoonni Hoteeloota biyyoolessaa irra caalaan isaanii kaffaltii kirediit kaardii ni fudhatu.,neutral
+"Hoteelaa fi kaffaltiiwwan biroo muraasaaf walsimsiisni yeroo uumamu, imala qabatamaa sanaa mirkaneessuun ni godhama ture.",Imalli mataan isaa kaffaltii hoteelaa itti dhimma bahuun ragga'ama ture.,entailment
+"Hoteelaa fi kaffaltiiwwan biroo muraasaaf walsimsiisni yeroo uumamu, imala qabatamaa sanaa mirkaneessuun ni godhama ture.",Imalli tokko dhuguma uumamuu fi dhiisuu isaa karaan itti raggaasisan hin jiru.,contradiction
+"Fakkeenyaaf, magaalaan guddoo naannoo tokko kan nuti ilaalle dhaabbilee moosaajii 600 ol kan qabdudha.",Magaalonni gurguddoon dhaabbilee moosaajiidhaaf bakkeewwan mararra mijatoo ta’aniidha.,neutral
+"Fakkeenyaaf, magaalaan guddoo naannoo tokko kan nuti ilaalle dhaabbilee moosaajii 600 ol kan qabdudha.",Magaalli tokko dhaabbilee moosaajii toonii tokko qaba.,entailment
+"Fakkeenyaaf, magaalaan guddoo naannoo tokko kan nuti ilaalle dhaabbilee moosaajii 600 ol kan qabdudha.",Dhaabbileen moosaajii ijaa seeraatiin magaala irraa fagaatu.,contradiction
+Bu’a qabeessummaa madaaluu keessatti mudaa kan hin qabne ta'uun hin danda'amu.,Yoo carraaqqii gahaa goote mudaa kan hin qabne taʼuu dandeessa.,contradiction
+Bu’a qabeessummaa madaaluu keessatti mudaa kan hin qabne ta'uun hin danda'amu., Gonkumaa mudaa kan hin qabne taʼuu hin dandeessu.,entailment
+Bu’a qabeessummaa madaaluu keessatti mudaa kan hin qabne ta'uun hin danda'amu.,Marti keenya namoota gadi fageenyaan fafa qabnu waan taaneef nama mudaa hin qabne ta'uu hin dandeessu.,neutral
+"Hiriyyaan manaa bara 2000 keessa kutaa kana Hazmii fi Mihidhariif kireeffate kun lammii seera kabaju yoo ta'u, poolisii naannoo fi hojjettoota FBI gidduutti yeroo hedduuf hariiroo michuu kan qabudha.",Hazmii fi Mihidhar mana bitatanii nama kam faanayyuu hariiroo hin qaban turan.,contradiction
+"Hiriyyaan manaa bara 2000 keessa kutaa kana Hazmii fi Mihidhariif kireeffate kun lammii seera kabaju yoo ta'u, poolisii naannoo fi hojjettoota FBI gidduutti yeroo hedduuf hariiroo michuu kan qabudha.",Hazmi fi Mihidhar waggaa guutuu guyyaatti $500n kutaa tokko kireeffatan.,neutral
+"Hiriyyaan manaa bara 2000 keessa kutaa kana Hazmii fi Mihidhariif kireeffate kun lammii seera kabaju yoo ta'u, poolisii naannoo fi hojjettoota FBI gidduutti yeroo hedduuf hariiroo michuu kan qabudha.",Hazmii fi Mihidhar kutaa tokko kireeffatan.,entailment
+"Deemsa gara Bosniyaatti gootaniif,  gabaasa odeeffannoo, gaaffii fi deebii miseensa al-Qaayidaa Sa’uudii, Onkoloolessa 3, 2001 ilaali.",Miseensi al Qaayidaa tokko bara 2001 si'a 18 gara Bosniyaa dhaqe.,neutral
+"Deemsa gara Bosniyaatti gootaniif,  gabaasa odeeffannoo, gaaffii fi deebii miseensa al-Qaayidaa Sa’uudii, Onkoloolessa 3, 2001 ilaali.",Miseensi al Qaayidaa tokko Bosniyaa dhaqe.,entailment
+"Deemsa gara Bosniyaatti gootaniif,  gabaasa odeeffannoo, gaaffii fi deebii miseensa al-Qaayidaa Sa’uudii, Onkoloolessa 3, 2001 ilaali.",Miseensi al Qaayidaa tokko gara Bosniyaa akka dhaqe ragaan hin jiru.,contradiction
+Jeen bakka bu’aan Niiw Yoorki sakatta’iinsa Mihidhar irratti ajajame unka beekamtii FISA kan iddoo bu’aan sun odeeffannoo FISA akkamitti akka ilaaluu qabu beekuu isaa akeeku akka mallatteessuu gaafatte.,Jeen unka beekamtii FISA abbaa murtii federaalaatiin akka mallattaa'u gaafatte.,neutral
+Jeen bakka bu’aan Niiw Yoorki sakatta’iinsa Mihidhar irratti ajajame unka beekamtii FISA kan iddoo bu’aan sun odeeffannoo FISA akkamitti akka ilaaluu qabu beekuu isaa akeeku akka mallatteessuu gaafatte.,Jeen unka beekamtii FISA akka mallattaa'u gaafatte.,entailment
+Jeen bakka bu’aan Niiw Yoorki sakatta’iinsa Mihidhar irratti ajajame unka beekamtii FISA kan iddoo bu’aan sun odeeffannoo FISA akkamitti akka ilaaluu qabu beekuu isaa akeeku akka mallatteessuu gaafatte.,Jeen beekamtiin FISA kennuu homaallee akka hin barbaachifne himteetti.,contradiction
+Sadarkaan nageenyaa tokkicha sakatta’iinsa buufata sakatta’iinsaa qabatamaa wajjin walitti dufeenya qabu ture ilaalchisee wanti isaan keessaa tokko illee adda ta’e hin jiru.,Sakatta'iinsa buufata sakatta'iinsaa irratti ragaan sodaachisaa argameera.,contradiction
+Sadarkaan nageenyaa tokkicha sakatta’iinsa buufata sakatta’iinsaa qabatamaa wajjin walitti dufeenya qabu ture ilaalchisee wanti isaan keessaa tokko illee adda ta’e hin jiru.,Sakatta’iinsi iddoo sakatta’iinsaa waliigalatti hubannoo iddoo bu’aan gumurukaa sakatta’iinsa raawwatu irratti hundaa’a.,neutral
+Sadarkaan nageenyaa tokkicha sakatta’iinsa buufata sakatta’iinsaa qabatamaa wajjin walitti dufeenya qabu ture ilaalchisee wanti isaan keessaa tokko illee adda ta’e hin jiru.,Sakatta'iinsi buufata sakatta'iinsaa ragaa tokkollee isaan irratti argachuu hin dandeenye.,entailment
+"Khallad vershinii lammaffaa dhiyeessee jira, innis sadan isaanii waliin gara Karachi akka imalan.",Khallad waa'ee sadan isaanii homaa akka hin beekne himeera.,contradiction
+"Khallad vershinii lammaffaa dhiyeessee jira, innis sadan isaanii waliin gara Karachi akka imalan.",Khallad akka dubbatetti sadan isaanii waliin deemuu danda'u turan.,entailment
+"Khallad vershinii lammaffaa dhiyeessee jira, innis sadan isaanii waliin gara Karachi akka imalan.",Khallad akka jedhetti carraan sadan isaanii Onkoloolessa keessa gara Karaachii waliin deemuu isaanii %50 dha.,neutral
+"Gabaasa basaasaa, gaaffii fi deebii Binalshibhi, Onkoloolessa 1, 2002.",Binalshibhi tuuta hojii FBIn gaafatame.,neutral
+"Gabaasa basaasaa, gaaffii fi deebii Binalshibhi, Onkoloolessa 1, 2002.",Binalshibhi bara 2002 gaafatamee ture.,entailment
+"Gabaasa basaasaa, gaaffii fi deebii Binalshibhi, Onkoloolessa 1, 2002.","Binalshibhi tasumaa itti hin dubbatamne, innis bade.",contradiction
+Mihidhar viizaa Ameerikaa haaraa kan argate walgahii CIA-FBI New York keessatti gaggeeffameen guyyaa lama booda.,Mihidhar biyya galuuf Viizaa Ameerikaa qaba ture.,entailment
+Mihidhar viizaa Ameerikaa haaraa kan argate walgahii CIA-FBI New York keessatti gaggeeffameen guyyaa lama booda.,Mihidhar viizaa waan hin arganneef gara keenya dhufee hin beeku.,contradiction
+Mihidhar viizaa Ameerikaa haaraa kan argate walgahii CIA-FBI New York keessatti gaggeeffameen guyyaa lama booda.,Mihidhar sodaachisaa waan hin taaneef Viizaan laatameef.,neutral
+"Qor'nnoon waggoota lamaaf adeemsifamus, FBIn nama waliin hojjetu kana argachuus ta'e eenyummaa isaa isa dhugaa adda baasuu hin dandeenye.",FBIn nama kana bara 2001 Filooriidaa gadhiisee erga deemee booda illee argachuu tasuma hin dandeenye.,neutral
+"Qor'nnoon waggoota lamaaf adeemsifamus, FBIn nama waliin hojjetu kana argachuus ta'e eenyummaa isaa isa dhugaa adda baasuu hin dandeenye.",FBIn eenyummaa nama kanaa baruu hin dandeenye.,entailment
+"Qor'nnoon waggoota lamaaf adeemsifamus, FBIn nama waliin hojjetu kana argachuus ta'e eenyummaa isaa isa dhugaa adda baasuu hin dandeenye.",FBIn eenyu akka ta'e qulqulleessee mana sirreessaatti darbate.,contradiction
+"Ameerikaadhaan 11 irratti, hariiroon idilee xiyyaara irraa kan raawwate sa'aatii 8:13 AMtti ture.",Hariiroon Ameerikaa 11 irraa dhufaa ture.,entailment
+"Ameerikaadhaan 11 irratti, hariiroon idilee xiyyaara irraa kan raawwate sa'aatii 8:13 AMtti ture.",Quunnamtiin Amerikan 11 faana yeroo hunda daqiiqaa shan shaniin ture. ,neutral
+"Ameerikaadhaan 11 irratti, hariiroon idilee xiyyaara irraa kan raawwate sa'aatii 8:13 AMtti ture.",Ameerikaan 11 irraa hariiroon homtillee hin turre.,contradiction
+"Isa argachuuf mootummaa Jarmanii irraa tumsa saffisaa fi hedduu guddaa barbaada ture, kunis argachuun rakkisaa ta’uu danda’a ture.",Qorannoon kun yoo raawwatame iddoo namoonni sadii itti dhokatan baramu danda'a ture.,neutral
+"Isa argachuuf mootummaa Jarmanii irraa tumsa saffisaa fi hedduu guddaa barbaada ture, kunis argachuun rakkisaa ta’uu danda’a ture.",Mootummaan Jarmanii qorannoo saffisaa fi gadi fageenya qabu gochuuf rakkachuu danda'a ture.,entailment
+"Isa argachuuf mootummaa Jarmanii irraa tumsa saffisaa fi hedduu guddaa barbaada ture, kunis argachuun rakkisaa ta’uu danda’a ture.",Qorannoon kun mootummaa gaggeessuuf hedduu salphaa fi salphaa ta'a.,contradiction
+"Dandeettiin kun gahaa miti ture, garuu babal’isuuf ykn haaromsuuf hojiin raawwatame bicuu dha.",Beellama hordoffii isaanii hedduu hin geeddarre.,neutral
+"Dandeettiin kun gahaa miti ture, garuu babal’isuuf ykn haaromsuuf hojiin raawwatame bicuu dha.",Waantota geeddaruuf waan guddaa hin dalagne.,entailment
+"Dandeettiin kun gahaa miti ture, garuu babal’isuuf ykn haaromsuuf hojiin raawwatame bicuu dha.",Waan maraa aanjessuuf tattaaffii hedduu taasisaniiru.,contradiction
+Iimeeliin xinxaltuu kun garuu of eeggannoowwan hedduu fi danqaawwan seeraa odeeffannoo waliif hiruu fi seera ergamtoonni yakkaa odeeffannoo karaa basaasaa walitti qabame itti fayyadaman bulchan burjaajessaa akka turte ibsa.,Xiinxalaan kun xiinxala gutummaatti ifaa ta'e dhiyeesse.,contradiction
+Iimeeliin xinxaltuu kun garuu of eeggannoowwan hedduu fi danqaawwan seeraa odeeffannoo waliif hiruu fi seera ergamtoonni yakkaa odeeffannoo karaa basaasaa walitti qabame itti fayyadaman bulchan burjaajessaa akka turte ibsa.,Xiinxalaan kun waan hedduu irratti ifa hin turre.,entailment
+Iimeeliin xinxaltuu kun garuu of eeggannoowwan hedduu fi danqaawwan seeraa odeeffannoo waliif hiruu fi seera ergamtoonni yakkaa odeeffannoo karaa basaasaa walitti qabame itti fayyadaman bulchan burjaajessaa akka turte ibsa.,Gabaasni xiinxala kanaa hedduu waan booraheef namni dubbisuu hin dandeenye.,neutral
+"Achii booda qondaalli tokko tokko sadarkaa sadarkaa irraa ba'uuf akka deeggaran ramadamanii ture, kaan immoo pilaazaa, konkoorsii fi buufata PATH gadhiisisuu saffisiisuuf ramadamaniiru.",Qondaaltonni gita hojii isaanii argataniiru.,entailment
+"Achii booda qondaalli tokko tokko sadarkaa sadarkaa irraa ba'uuf akka deeggaran ramadamanii ture, kaan immoo pilaazaa, konkoorsii fi buufata PATH gadhiisisuu saffisiisuuf ramadamaniiru.",Qondaaltonni iddoo barbaachisanitti akka tasaa qofa fiigan.,contradiction
+"Achii booda qondaalli tokko tokko sadarkaa sadarkaa irraa ba'uuf akka deeggaran ramadamanii ture, kaan immoo pilaazaa, konkoorsii fi buufata PATH gadhiisisuu saffisiisuuf ramadamaniiru.",Qondaaltonni tajaajila olaanaa qabaachuu irratti dhaabbatanii ramadamaniiru.,neutral
+Fulbaana 9 Afgaanistaan ​​irraa oduu dinqisiisaan dhufe.,Afgaanistaan ​​irraa oduu arganne.,entailment
+Fulbaana 9 Afgaanistaan ​​irraa oduu dinqisiisaan dhufe.,Hamma Onkololeessatti Afgaanistaan ​​irraa homaayyuu hin dhageenye.,contradiction
+Fulbaana 9 Afgaanistaan ​​irraa oduu dinqisiisaan dhufe.,Haleellaan Fulbaana 9 godhamuuf jiru nutti himameera.,neutral
+"Walqunnamtii dadhabuun bakka balaan kun itti qaqqabe Giddugala Daldala Addunyaa, Pentagon fi Somerset Koontii, Pennisyilvania, bakka ejensiiwwan baay'ee fi aangoo murtii baay'ee deebii kennanitti waan murteessaa ture.",Qunnamtiin 9/11 irratti sirruma haalaan hojjete.,contradiction
+"Walqunnamtii dadhabuun bakka balaan kun itti qaqqabe Giddugala Daldala Addunyaa, Pentagon fi Somerset Koontii, Pennisyilvania, bakka ejensiiwwan baay'ee fi aangoo murtii baay'ee deebii kennanitti waan murteessaa ture.","Namoonni Giddugala Daldala Addunyaa keessatti humni ibsaa waan badeef, sararri bilbilaa waan citeef walitti dhufeenya uumuuf cinqatan.",neutral
+"Walqunnamtii dadhabuun bakka balaan kun itti qaqqabe Giddugala Daldala Addunyaa, Pentagon fi Somerset Koontii, Pennisyilvania, bakka ejensiiwwan baay'ee fi aangoo murtii baay'ee deebii kennanitti waan murteessaa ture.",Namoonni Giddugala Daldala Addunyaa keessatti wal qunnamuuf rakkatani ture.,entailment
+"Kuusaawwan odeeffannoo salphaatti muldhatan sakattaʼuun eeyyema konkolaachisummaa, galmee konkolaataa fi sarara bilbilaa argachuun dandaʼama ture.",Qorattoonni kuusaawwan odeeffannoo ogummaas akka argatan gaafataniiru.,neutral
+"Kuusaawwan odeeffannoo salphaatti muldhatan sakattaʼuun eeyyema konkolaachisummaa, galmee konkolaataa fi sarara bilbilaa argachuun dandaʼama ture.",Odeeffannoowwan gosa baay'ee kuusaawwan daataa jiran irraa argamuu danda’aniiru.,entailment
+"Kuusaawwan odeeffannoo salphaatti muldhatan sakattaʼuun eeyyema konkolaachisummaa, galmee konkolaataa fi sarara bilbilaa argachuun dandaʼama ture.",Maddoota jiran tajaajilamuun waa’ee dhimmoota kanaa odeeffannoo homaallee karaan itti argatan hin turre.,contradiction
+"Bulchaan kun daldala kana mara mameera jechuun Hazmii fi Mihidhar irraa of fageesse, garuu deeggarsa isaan barbaachisu osoo hin argatiin dura miti.",Bulchaan kun yoggisuma aanga'oota haasosiisee dhimma kana irratti deeggarsa gochuu dide.,contradiction
+"Bulchaan kun daldala kana mara mameera jechuun Hazmii fi Mihidhar irraa of fageesse, garuu deeggarsa isaan barbaachisu osoo hin argatiin dura miti.",Bulchaan kun mufii qabaatus deeggarsa godheera.,entailment
+"Bulchaan kun daldala kana mara mameera jechuun Hazmii fi Mihidhar irraa of fageesse, garuu deeggarsa isaan barbaachisu osoo hin argatiin dura miti.",Deeggarsi kun maallaqaa fi deeggarsa sanadoota imalaa bitachuuf kan of keessaa qabu ture.,neutral
+"Bara 2003tti maqaaleen kunniin balleeffamaniiru; waa'een shororkeessummaa idil-addunyaa marri amma maqaa walfakkaataa argataniiru, 315.",Waa'een shororkeessummaa marti barbaachisummaa isaaf mallattoon guddaan kennamaaf.,neutral
+"Bara 2003tti maqaaleen kunniin balleeffamaniiru; waa'een shororkeessummaa idil-addunyaa marri amma maqaa walfakkaataa argataniiru, 315.",Waa'een shororkeessummaa marti mallattoo wal fakkaatu argatu.,entailment
+"Bara 2003tti maqaaleen kunniin balleeffamaniiru; waa'een shororkeessummaa idil-addunyaa marri amma maqaa walfakkaataa argataniiru, 315.",Waa'een shororkeessummaa hundi qofa qofaan murtaa'ee sadarkaan kennama.,contradiction
+"Qondaalli kun, kan caccabuu Masaraa Kibbaa ilaale, qajeelfama gad dhiisuu kutaalee ESU Masaraa Kaabaa keessa jiraniif beeksise.",Erga Masaraan Kibbaa caccabee as namni Masaraa Kaabaa keessatti hafe hin jiru.,contradiction
+"Qondaalli kun, kan caccabuu Masaraa Kibbaa ilaale, qajeelfama gad dhiisuu kutaalee ESU Masaraa Kaabaa keessa jiraniif beeksise.",Qondaalli kun garee ESU Masaraa Kaabaa keessa jiran faana dubbachuu isaa daqiiqaa 30 dura masaraan Kibbaa jige.,neutral
+"Qondaalli kun, kan caccabuu Masaraa Kibbaa ilaale, qajeelfama gad dhiisuu kutaalee ESU Masaraa Kaabaa keessa jiraniif beeksise.",Qondaalli kun caccabuu Masaraa Kibbaa ragga'eera.,entailment
+Indiyaanaapoolis dhuguma iddoo taatonni namoota baay'eedhaaf dalagan keessaa isa tokkodha.,Taatonni Indiyaanaapoolis kan fedhan ijaa dhaabbilee tamsaasaa hundi achi jiraniifi.,neutral
+Indiyaanaapoolis dhuguma iddoo taatonni namoota baay'eedhaaf dalagan keessaa isa tokkodha.,Yoo taatoo taate gara Indiyaanaapoolis dhaquuf yaaduu qabda.,entailment
+Indiyaanaapoolis dhuguma iddoo taatonni namoota baay'eedhaaf dalagan keessaa isa tokkodha.,"Yoo daldala fiilmii fi tiyaatiraa keessa jirta ta'e Indiyaanaapoolis keessatti dalagaa argachuun rakkisaadha, sababiin isaas irra jireessi magaalaa teeknooloojii waan taateef.",contradiction
+"Deeggarsa bilbilaan sa’aatii 24, torbanitti guyyaa 7 karaa sarara deeggarsa warraa Giddugala Qabeenya Odeeffannoo Ittisaa ni laanna.",Namoonni bifa poostaa ykn iimeelii qofaan nu argachuu danda'u.,contradiction
+"Deeggarsa bilbilaan sa’aatii 24, torbanitti guyyaa 7 karaa sarara deeggarsa warraa Giddugala Qabeenya Odeeffannoo Ittisaa ni laanna.","Bilbilaan nu argattu, guyyaa keessaa sa'aatii hundayyuu ni argamna.",entailment
+"Deeggarsa bilbilaan sa’aatii 24, torbanitti guyyaa 7 karaa sarara deeggarsa warraa Giddugala Qabeenya Odeeffannoo Ittisaa ni laanna.",Wiixataa fi Jimaata yeroo hunda bilbila dhibbaa keessummeessina.,neutral
+Saanduqonni kun kennaawwan kaan marti erga banamanii booda yeroo baay'eef haguuggii isaanii keessaatti ni hafu.,Sanduuqonni kun boombii hamaa of keessaa qabu.,neutral
+Saanduqonni kun kennaawwan kaan marti erga banamanii booda yeroo baay'eef haguuggii isaanii keessaatti ni hafu.,Sanduuqonni kun kennaawwan kaan dura ni banamu.,contradiction
+Saanduqonni kun kennaawwan kaan marti erga banamanii booda yeroo baay'eef haguuggii isaanii keessaatti ni hafu.,Sanduuqonni kunneen yeroof osoo hin saaqamiin ni turu.,entailment
+"Yoo gatii keenya gadi aanaa goone, ergama kana akka galmaan geenyu nu deeggaruuf gara keessan, dhaggeeffattoota keenyatti dhaqnee gumaacha xinnoo gaafachuu qabna.","Gatiin tikkeettii keenyaa doolaara 10 gad akka ta’uuf, dhaggeeffattoonni keenya hundi doolaara 25 akka arjooman nu barbaachisa.",neutral
+"Yoo gatii keenya gadi aanaa goone, ergama kana akka galmaan geenyu nu deeggaruuf gara keessan, dhaggeeffattoota keenyatti dhaqnee gumaacha xinnoo gaafachuu qabna.","Yoo dhuguma feene gatii keenya gad bu'aa gochuu dandeenya, maallaqa keessan malee, garuu dura ta'aan keenya qananii isaa ni jaallata.",contradiction
+"Yoo gatii keenya gadi aanaa goone, ergama kana akka galmaan geenyu nu deeggaruuf gara keessan, dhaggeeffattoota keenyatti dhaqnee gumaacha xinnoo gaafachuu qabna.",Hirmaannaan keessan gatiin gadi bu'aa akka ta'u nu gargaareera.,entailment
+"00 ijoolleen naannoo Indiyaanaapoolis gara 400 ta’aniif qajeelfama, jajjabinaa fi bashannana akka kenninuuf nu gargaareera.","Arjooma arjummaa keenyaaf galata, Biyoonseen daa’imman Indiyaanaapoolis abbaa fi haadha hin qabnef konsartii akka gootu affeeruu dandeenyeerra.",neutral
+"00 ijoolleen naannoo Indiyaanaapoolis gara 400 ta’aniif qajeelfama, jajjabinaa fi bashannana akka kenninuuf nu gargaareera.","Ijoollee kanaaf ayyaana Qilee kabajuuf abdii goonee turre, garuu homaa isaaniif gochuu hin dandeenyee.",contradiction
+"00 ijoolleen naannoo Indiyaanaapoolis gara 400 ta’aniif qajeelfama, jajjabinaa fi bashannana akka kenninuuf nu gargaareera.",Ijoollee Indiyaanaapoolis baay'ee deeggaruu dandeenyeerra.,entailment
+"Jalqabarraa namoonni dhuunfaa waggaatti kennaa baay'ee hedduu $1,000 ykn isaa ol hiriyyaa Chaansileraa, ykn $500 fi isaa ol Gita Chaansileraaf kennuudhaan hirmaachuu danda’u.",Namoonni dhuunfaa arjooma muraasa doolaara 50 erga taasisanii booda hirmaachuu danda’u.,contradiction
+"Jalqabarraa namoonni dhuunfaa waggaatti kennaa baay'ee hedduu $1,000 ykn isaa ol hiriyyaa Chaansileraa, ykn $500 fi isaa ol Gita Chaansileraaf kennuudhaan hirmaachuu danda’u.",Namoonni dhuunfaa deeggarsa guddaa gahaa yoo taasisan hirmaachuu dandaʼu.,entailment
+"Jalqabarraa namoonni dhuunfaa waggaatti kennaa baay'ee hedduu $1,000 ykn isaa ol hiriyyaa Chaansileraa, ykn $500 fi isaa ol Gita Chaansileraaf kennuudhaan hirmaachuu danda’u.",Namoonni dhuunfaa baay'een isaanii Gita Chaansileraa jedhamuuf arjooma taasisuu filatu.,neutral
+Kennaan amma kennitan bu'aa gibira xumura waggaa dabalataa siniif laachuu danda’a.,"Yoo xiqqaate gumaata doolaara 1,000 yoo gumaachite, bu'aa gibiraa argachuu akka dandeessu jala muramaadha.",neutral
+Kennaan amma kennitan bu'aa gibira xumura waggaa dabalataa siniif laachuu danda’a.,Kan nama dhibu gorsitoonni gibira keenyaa gumaata homaallee akka hin taasisne isin gorsu turan.,contradiction
+Kennaan amma kennitan bu'aa gibira xumura waggaa dabalataa siniif laachuu danda’a.,Buusii keessan irraa gibira hir’ifame fudhachuu dandeessu ta’a.,entailment
+"Akkuma hubattan miseensummaan garee kanaa hiriyyootaa fi barattoota duraanii waggaatti doolaara 1,000 fi isaa ol mana barumsaa seeraa kanaaf kennan kan hammatudha.",Miseensonni garee kanaa muraasni mana barumsichaaf doolaara kuma 100 ol gumaachaniiru.,neutral
+"Akkuma hubattan miseensummaan garee kanaa hiriyyootaa fi barattoota duraanii waggaatti doolaara 1,000 fi isaa ol mana barumsaa seeraa kanaaf kennan kan hammatudha.","Garee kana keessatti namoota mana barumsaa seeraa kanaaf doolaara 1,000 ol kennan qabna.",entailment
+"Akkuma hubattan miseensummaan garee kanaa hiriyyootaa fi barattoota duraanii waggaatti doolaara 1,000 fi isaa ol mana barumsaa seeraa kanaaf kennan kan hammatudha.","Gareen kun mana barumsichaaf kennaa maallaqaa akka taasisu gaafachuuf karoorfannee jirra, garuu kanaan dura tasuma hin taasifne.",contradiction
+"Ijoollummaa kootti yeroo 5O keessatti guddachaa turetti, yaadannoowwan natti tolan keessaa tokko oomisha Tiyaatira Siivikii irratti qooda fudhachuu ture.","Yeroo ijoollummaakootti agarsiisa tiyaatiraa dhaquu waanan jibbeef, kanaafan saayintistii ta'e.",contradiction
+"Ijoollummaa kootti yeroo 5O keessatti guddachaa turetti, yaadannoowwan natti tolan keessaa tokko oomisha Tiyaatira Siivikii irratti qooda fudhachuu ture.",Yeroo ijoollummaa kootti gara tiyaatiraa deemuun hedduu na gammachiisa ture.,entailment
+"Ijoollummaa kootti yeroo 5O keessatti guddachaa turetti, yaadannoowwan natti tolan keessaa tokko oomisha Tiyaatira Siivikii irratti qooda fudhachuu ture.",Oomisha Tiyaatira Siivikii ani baay'ee jaalladhu Bareedinaa fi Yeeyyii ture.,neutral
+Namni xalayaa kana fudhate hundi isaa doolaara 18 qofa yoo kenne.,"Namni xalayaa kana argate marti: qarshii keessan hin kenniinaa, gowwoomsaa dha.",contradiction
+Namni xalayaa kana fudhate hundi isaa doolaara 18 qofa yoo kenne.,Yoo $18 kennitan kennaa isiniif laanna.,neutral
+Namni xalayaa kana fudhate hundi isaa doolaara 18 qofa yoo kenne.,Namoonni xalayaa fudhatan hundi $18 kennuu akka danda'an hin shakkinu.,entailment
+"Kutaa jalaa salphaatti addaan baasuu qofa, filannoo dalagaarra jiru mirkaneessaa, yoo barbaachise teessoo kee irratti jijjiirama kamiyyuu taasisaati fi postaa cufame keessatti ergaa.",Maaloo teessoo keessan irratti jijjiirama homaallee hin taasisiinaa.,contradiction
+"Kutaa jalaa salphaatti addaan baasuu qofa, filannoo dalagaarra jiru mirkaneessaa, yoo barbaachise teessoo kee irratti jijjiirama kamiyyuu taasisaati fi postaa cufame keessatti ergaa.",Poostaa adiin golgame kan teessoon kee irratti barreeffamee jira.,neutral
+"Kutaa jalaa salphaatti addaan baasuu qofa, filannoo dalagaarra jiru mirkaneessaa, yoo barbaachise teessoo kee irratti jijjiirama kamiyyuu taasisaati fi postaa cufame keessatti ergaa.","Teessoo kee irratti fooyya'insa taasisuuf bilisa dha, yoo si gammachiise.",entailment
+Manni Barumsaa Narsiingii gahumsa barnootaa isaa itti fufuu fi kabachiisuuf gargaarsa arjummaa keessan fedha.,"Maaloo Mana Barumsaa Narsiingiif doolaara miiliyoona 100 arjooma, yookaan siidaa yaadannoo keessan ni dhabdu.",neutral
+Manni Barumsaa Narsiingii gahumsa barnootaa isaa itti fufuu fi kabachiisuuf gargaarsa arjummaa keessan fedha.,Manni Barumsaa Narsiingii galma faayinaansii isaa hunda waan guuteef kana booda maallaqa hin barbaadu.,contradiction
+Manni Barumsaa Narsiingii gahumsa barnootaa isaa itti fufuu fi kabachiisuuf gargaarsa arjummaa keessan fedha.,Mana Barumsaa Narsiingiif akka tola ooltan hin shakkinu.,entailment
+Hirmaattonni %80 dandeettii waldiddaa furuu dabaluu ni gabaasu.,Hirmaattonni walakkaa ol ta’an dandeettii waldhabdee furuu dabaluu ni gabaasu.,entailment
+Hirmaattonni %80 dandeettii waldiddaa furuu dabaluu ni gabaasu.,Hirmaattota keessaa parsentaa afurtama qofatu dandeettii waldhabdee furuu dabaluu isaanii dubbatu.,contradiction
+Hirmaattonni %80 dandeettii waldiddaa furuu dabaluu ni gabaasu.,Hirmaattonni dhuunfaa 100 ol turan.,neutral
+Maaloo gara tarree arjoomtoota keenyaa dogongora ta'eetti hin lixiinaa.,Osoo arjooma dhiiftan qaanii ta'a.,entailment
+Maaloo gara tarree arjoomtoota keenyaa dogongora ta'eetti hin lixiinaa.,"Tarreen arjoomtoota keenyaa darbanii addunyaan akka ilaaltuuf maxxanfama, kanaaf na amanaa, akkasitti qaana'uu hin barbaaddan!",neutral
+Maaloo gara tarree arjoomtoota keenyaa dogongora ta'eetti hin lixiinaa.,"Arjoomtoota hedduu qabna, kanaaf arjooma taasisuu dhiisaa.",contradiction
+Nama kompiwuuteraa fi moodemii qabatee mooraa keenya dhufu kamiifuu mooraan keenya banama dha.,Namoonni mooraa argachuuf homaa hin barbaachisu.,contradiction
+Nama kompiwuuteraa fi moodemii qabatee mooraa keenya dhufu kamiifuu mooraan keenya banama dha.,Namoonni mooraa keessa seenuuf kompuuteraa fi moodemii lamaanuu isaan barbaachisa.,entailment
+Nama kompiwuuteraa fi moodemii qabatee mooraa keenya dhufu kamiifuu mooraan keenya banama dha.,"Namoonni yeroo gara mooraa seenan kompuuteraa fi moodemii isaanii qabatanii deemuu qabu, akka isaan qaqqabuuf.",neutral
+Gurgurtaan tikkeettii fi galmeewwan miseensummaan maallaqa galchuun bara keenya guutuu dorgommii kana maallaqaan gargaaruu hin danda'u.,Hamma gurgurtaa tikkeettii qabnutti bara guutuu keenya faayinaansiidhaan deeggaramna.,contradiction
+Gurgurtaan tikkeettii fi galmeewwan miseensummaan maallaqa galchuun bara keenya guutuu dorgommii kana maallaqaan gargaaruu hin danda'u.,"Barri dorgommii keenya guutuun maallaqaan gargaaruuf waan caalu fedha, ergasii gurgurtaa tikkeettii fi maallaqa galchuu qofa.",entailment
+Gurgurtaan tikkeettii fi galmeewwan miseensummaan maallaqa galchuun bara keenya guutuu dorgommii kana maallaqaan gargaaruu hin danda'u.,Gurgurtaan tikkeettii fi maallaqa galchuu baasii faayinaansii bara keenya guutuuf %70 qofa uwwisa.,neutral
+GAHINSOONNI HAARAAN KENNAAN HUNDI GARAAGARTEE NI UUUMA.,Kennaan marti galmaa’ee barruu keenyaan baatii baatiin ni beeksifama.,neutral
+GAHINSOONNI HAARAAN KENNAAN HUNDI GARAAGARTEE NI UUUMA.,Kennaan kennamu marti waan ta'eef heerregama.,entailment
+GAHINSOONNI HAARAAN KENNAAN HUNDI GARAAGARTEE NI UUUMA.,Kennaa doolaara 100 ol qofatu jijjiirama fida.,contradiction
+"Galma keenya $365,000 bira ga'uuf hiriyyootaa fi maamiloota akka keessanii irraa argachuu keenya dura karaa dheeraa qabna.",Galmi maallaqa keenyaa doolaara kuma 300 ol ta'a.,entailment
+"Galma keenya $365,000 bira ga'uuf hiriyyootaa fi maamiloota akka keessanii irraa argachuu keenya dura karaa dheeraa qabna.",Dhugumatti galma maallaqa keenyaa dachaa sadiin guddisuuf abdii qabna.,neutral
+"Galma keenya $365,000 bira ga'uuf hiriyyootaa fi maamiloota akka keessanii irraa argachuu keenya dura karaa dheeraa qabna.",Maallaqa ilaalchisee ulaagaa madaallii hin qabnu.,contradiction
+"Kilinikiin Hojii Siivilii keenya waggoota baay'eedhaaf kan hojjete yoo ta’u, dhiheenya kana Kilinika Ittisa yakkaa idaanee jirra.",Kilinikiin Hojii Siiviilii keenyaa waggoota saddeetiif dalagaa ture.,neutral
+"Kilinikiin Hojii Siivilii keenya waggoota baay'eedhaaf kan hojjete yoo ta’u, dhiheenya kana Kilinika Ittisa yakkaa idaanee jirra.",Kilinikiin Hojii Siivilii keenyaa baatii dhufu waggaa guutuu jalqaba isaa hojiirra ture kabajata.,contradiction
+"Kilinikiin Hojii Siivilii keenya waggoota baay'eedhaaf kan hojjete yoo ta’u, dhiheenya kana Kilinika Ittisa yakkaa idaanee jirra.",Kilinikiin Hojii Siivilii kun erga dalagaa jalqabee waggaa tokkoo ol dabarseera.,entailment
+Galiin tikkeettii baasii sagantaalee kanaa cufuu hin eegalle.,Baasiin sagantaalee kanaa galii tikkeettiitiin waan hin cufamne fakkaata.,entailment
+Galiin tikkeettii baasii sagantaalee kanaa cufuu hin eegalle.,Baasiin sagantaalee kanaa hedduu guddaa dha.,neutral
+Galiin tikkeettii baasii sagantaalee kanaa cufuu hin eegalle.,Galiin tikkeettii kanaa baasii sagantaalee kanaa akka cufu hin mamsiisu.,contradiction
+Jaalalli hunda ni mo'ata (yoo istandardii torbaaniif hojjettan malee): Brit Hume (Sagantaa Sanbataa Fox News ) maaliif Lewinsky hin ta'u jedhee tilmaamti Ammallee pirezidaanticha irratti jaalala abdii hin qabne qabdi.,Brit Hume rippoortara olaanaa Fox dha.,neutral
+Jaalalli hunda ni mo'ata (yoo istandardii torbaaniif hojjettan malee): Brit Hume (Sagantaa Sanbataa Fox News ) maaliif Lewinsky hin ta'u jedhee tilmaamti Ammallee pirezidaanticha irratti jaalala abdii hin qabne qabdi.,Brit Hume CNN keessaa hojjetti.,contradiction
+Jaalalli hunda ni mo'ata (yoo istandardii torbaaniif hojjettan malee): Brit Hume (Sagantaa Sanbataa Fox News ) maaliif Lewinsky hin ta'u jedhee tilmaamti Ammallee pirezidaanticha irratti jaalala abdii hin qabne qabdi.,Brit Hume Fox keessaa hojjetti.,entailment
+Mikaa'el Aptewdi qacaruun tuqa namaa caalaa tapha walduraa duubaa kanaaf fiduuf waan hedduun dalagameera.,Mikaa'el Aptewdii ho'a isa kamiyyuu fi namaa ta'an hundayyuu akka baasan cichuudhaan tapha walduraa duubaa kana balleesse.,contradiction
+Mikaa'el Aptewdi qacaruun tuqa namaa caalaa tapha walduraa duubaa kanaaf fiduuf waan hedduun dalagameera.,Mikaa'el Aptewdi qulqullina dhuunfaa tapha walduraa duubaa kanaaf akka ida'uuf miindeffame.,entailment
+Mikaa'el Aptewdi qacaruun tuqa namaa caalaa tapha walduraa duubaa kanaaf fiduuf waan hedduun dalagameera.,"Taphni walduraa duubaa kun qorraa fi nuffisiisaa ta'ee waan yaadameef, sadarkaa fooyyessuuf tuqa ho'aa, dhuunfaa akka itti dabaluuf Mikaa'el Aptewdi qacaruun barbaachisaa ture.",neutral
+Shamarree jakkeettii furdaa adii qoobii qabu  fi boottii uffatte ilaaluuf,Shamarreen tokko cabbiirra sigigaachuuf uffattee jirti.,neutral
+Shamarree jakkeettii furdaa adii qoobii qabu  fi boottii uffatte ilaaluuf,Shamarreen tokko huccuu adii uffatti.,entailment
+Shamarree jakkeettii furdaa adii qoobii qabu  fi boottii uffatte ilaaluuf,Shamarreen uffanni uffatte hundi diimaa dha.,contradiction
+Waan fiilmiin kun ibsuu dhiise Kaa'ufman yeroo hedduu akkamitti du'a ofii isaatii ofirraa fageessuu akka barbaadu dubbatee ture.,Fiilmiin kun Kaa'ufman du'a ofii isaa irratti mari'achuu isaa hin caqasne.,entailment
+Waan fiilmiin kun ibsuu dhiise Kaa'ufman yeroo hedduu akkamitti du'a ofii isaatii ofirraa fageessuu akka barbaadu dubbatee ture.,Fiilmiin kun waa'ee du'a isaa Kaa'ufman waliin af-gaaffii gadi fageenya qabu godheera.,contradiction
+Waan fiilmiin kun ibsuu dhiise Kaa'ufman yeroo hedduu akkamitti du'a ofii isaatii ofirraa fageessuu akka barbaadu dubbatee ture.,"Fiilmiin kun waa'ee Kaa'ufman ibsa barbaachisaa tokko tokko dhiisus, baay'ee guddaa ture.",neutral
+Rookfeelar kennaa gidiraa kanaan qabamee yeroo Avenjiingi Anjeel Taarbeel foon isaa keessa Misikiluretti cicciruu eegale.,Rookfeelar qo'annoo kaansariif kenne.,neutral
+Rookfeelar kennaa gidiraa kanaan qabamee yeroo Avenjiingi Anjeel Taarbeel foon isaa keessa Misikiluretti cicciruu eegale.,Rookfeelar kennaa ture.,entailment
+Rookfeelar kennaa gidiraa kanaan qabamee yeroo Avenjiingi Anjeel Taarbeel foon isaa keessa Misikiluretti cicciruu eegale.,Rookfeelar sassataa ture.,contradiction
+"Dhiheenya kana dhimma daldalaa Niiw Yoorkitti raawwatameen, Kilaaymaan himannaa loogii sabaatiin himatame irratti of argate.",Kilaaymaan himannaa loogii sabaatiin Kaalifoorniyaatti himatameera.,contradiction
+"Dhiheenya kana dhimma daldalaa Niiw Yoorkitti raawwatameen, Kilaaymaan himannaa loogii sabaatiin himatame irratti of argate.",Kilaaymaan loogii sabaatiin himatama jedhee hin eegne.,neutral
+"Dhiheenya kana dhimma daldalaa Niiw Yoorkitti raawwatameen, Kilaaymaan himannaa loogii sabaatiin himatame irratti of argate.",Himannaan loogii sabaa Kilaaymaan irratti dhiyaatee ture.,entailment
+"Namni tokko bakka bu'oonni dhaabbilee kutaa tokko guutuu barreessaa hojii Ameerikaa taa'ee jiru tokkotti foolichuu, iyyuudhaaf fi akka iyyan eeguu hin danda'u. Barreessituu hojjettoota.",Bakka bu'oonni dhaabbilee uffatoota uffatu.,neutral
+"Namni tokko bakka bu'oonni dhaabbilee kutaa tokko guutuu barreessaa hojii Ameerikaa taa'ee jiru tokkotti foolichuu, iyyuudhaaf fi akka iyyan eeguu hin danda'u. Barreessituu hojjettoota.",Namni tokko bakka bu'oonni dhaabbilee foolican jedhee  tilmaama.,contradiction
+"Namni tokko bakka bu'oonni dhaabbilee kutaa tokko guutuu barreessaa hojii Ameerikaa taa'ee jiru tokkotti foolichuu, iyyuudhaaf fi akka iyyan eeguu hin danda'u. Barreessituu hojjettoota.",Namni tokko iddoo bu'oonni jaarmiyaalee ni foolicu jedhee hin eegu.,entailment
+"Haa ta'u malee, guddinni ga'umsa atileetiksii irratti dhiibbaa guddaa waan qabuuf uumamni rafaa dha jechuu miti.",Atileetonni dandeettii ga’umsa isaanii mara waliigalatti dhugoomsanii dhalatan.,contradiction
+"Haa ta'u malee, guddinni ga'umsa atileetiksii irratti dhiibbaa guddaa waan qabuuf uumamni rafaa dha jechuu miti.",Gahumsi atileetiksii sanyiidhaan irra caalaa leenjiidhaan dhiibbaa guddaa qaba.,entailment
+"Haa ta'u malee, guddinni ga'umsa atileetiksii irratti dhiibbaa guddaa waan qabuuf uumamni rafaa dha jechuu miti.",Atileetonni jajjaboon hedduun isaanii torbanitti yoo xiqqaate sa'aatii saddeet leenji'u.,neutral
+Yeroon gara manaatti deebi'ee Ameerikaan dhiyeessii karaa lama akka addaan kuttu hubadhe.,Siyaasaaf fedhii qaba.,neutral
+Yeroon gara manaatti deebi'ee Ameerikaan dhiyeessii karaa lama akka addaan kuttu hubadhe.,Ani waahee Ameerikaa baradhe.,entailment
+Yeroon gara manaatti deebi'ee Ameerikaan dhiyeessii karaa lama akka addaan kuttu hubadhe.,Ameerikaan karaa lama dhiyeessii akka adda kuttu osoo gara biyyaatti hin deebi'in duran hubadhe.,contradiction
+Pireesiin yunivarsiitii addunyaa inni dulloomaa fi guddaan--Oxfordi--toora walaloo isaa haquu isaa ammma beeksiseera.,Toorri walaloo Oksifoordi jiru kana booda itti fufee hin argamu.,entailment
+Pireesiin yunivarsiitii addunyaa inni dulloomaa fi guddaan--Oxfordi--toora walaloo isaa haquu isaa ammma beeksiseera.,Yuunivarsiitiin kabajamaa kun toora walaloo kana sochiirra akka turuuf qarshii hin qabu.,neutral
+Pireesiin yunivarsiitii addunyaa inni dulloomaa fi guddaan--Oxfordi--toora walaloo isaa haquu isaa ammma beeksiseera.,"Yuunivarsiitichi toora walaloo kunuunsuuf kan of kenne yoo ta'u, tasuma akka hin haqne dhaadateera.",contradiction
+Badhaasni jajjabina dhala namaaf kennamu garuu jira.,Badhaasni jajjabinaa kun nama hundaaf tolaan saffisa lama walitti dabaludha.,neutral
+Badhaasni jajjabina dhala namaaf kennamu garuu jira.,Haala kana keessatti dhala namaaf Jijjiiramni hin jiru.,contradiction
+Badhaasni jajjabina dhala namaaf kennamu garuu jira.,Kun marti namaaf oduu badaa miti.,entailment
+Marsariitiiwwan kanarratti qabsiisuun kan taphatamu taatee ispoortii irratti qofa miti.,Qabsiisuun dorgommii siyaasaa fi filannoo irratti tahu marsariitiiwwan sana irratti fudhatama qaba.,neutral
+Marsariitiiwwan kanarratti qabsiisuun kan taphatamu taatee ispoortii irratti qofa miti.,Marsariitiiwwan kun taateewwan ispoortii irratti qofa qabsiisuu fudhatu.,contradiction
+Marsariitiiwwan kanarratti qabsiisuun kan taphatamu taatee ispoortii irratti qofa miti.,Marsariitiiwwan kun sochiiwwan hedduu irratti filatamoo kan ta'anidha.,entailment
+"Hagayya 25, walgahiin paartii Dimookiraatotaa Atlaantiik Siitii, NJ keessatti erga banamee booda, Joonsan, si'a sanatti umuriin isaa ganna 56, haasawa waraabame sadii irratti dorgommii pirezidaantummaa irraa akka bahu sodaachise.",Joonsan gargaarsa dhabuun itti dhaga'ame.,neutral
+"Hagayya 25, walgahiin paartii Dimookiraatotaa Atlaantiik Siitii, NJ keessatti erga banamee booda, Joonsan, si'a sanatti umuriin isaa ganna 56, haasawa waraabame sadii irratti dorgommii pirezidaantummaa irraa akka bahu sodaachise.",Joonsan gadhiisuuf yaadee hin beeku.,contradiction
+"Hagayya 25, walgahiin paartii Dimookiraatotaa Atlaantiik Siitii, NJ keessatti erga banamee booda, Joonsan, si'a sanatti umuriin isaa ganna 56, haasawa waraabame sadii irratti dorgommii pirezidaantummaa irraa akka bahu sodaachise.",Joonsan akka gadhiisee ba'uuf dhaaddateera.,entailment
+Lamar Aleeksaandar dorgommii caalbaasii pirezidaantummaa isaa kuffiseera.,Yoo xiqqaate namni tokko yaalii pirezidaantii ta'uuf taasiseen abdii kutateera.,entailment
+Lamar Aleeksaandar dorgommii caalbaasii pirezidaantummaa isaa kuffiseera.,Lamar Aleeksaandar duula filannoo pirezidaantummaa isaa dhiisuuf eyyamamaa hin taane.,contradiction
+Lamar Aleeksaandar dorgommii caalbaasii pirezidaantummaa isaa kuffiseera.,Obbo Aleeksaandar suuraan isa saalfachiisu erga maxxanfamee booda addaan kutuuf dirqame.,neutral
+"Galmee bilisummaa siiviilii gaddisiisaa kana irratti qo'annoo waajjira imala jalqabaa Waayit Haawus mataa isaa keessatti FBIn dogoggoraan tajaajilamuu isaa, fi wanti Faayilgeet jedhamuun beekamuu dhufe.",Waayit Haawus FBI kaadhimamoota siyaasaa irratti basaasaan qaba.,neutral
+"Galmee bilisummaa siiviilii gaddisiisaa kana irratti qo'annoo waajjira imala jalqabaa Waayit Haawus mataa isaa keessatti FBIn dogoggoraan tajaajilamuu isaa, fi wanti Faayilgeet jedhamuun beekamuu dhufe.",Waayit Haawus FBI dogoggoraan fayyadama.,entailment
+"Galmee bilisummaa siiviilii gaddisiisaa kana irratti qo'annoo waajjira imala jalqabaa Waayit Haawus mataa isaa keessatti FBIn dogoggoraan tajaajilamuu isaa, fi wanti Faayilgeet jedhamuun beekamuu dhufe.",Waayit Haawus FBI haalaan fayyadama.,contradiction
+"Taangii namoota qabeenya tilmaaman irratti tarkaanfii fudhachuuf dhaadateera, garuu namoonni baay'een dunni isaa ciniinnaa isaarra daran hamaa ta'a jedhanii tilmaamu.",Waa'een tilmaama qabeenyaa Taangiin hin ilaallatu.,contradiction
+"Taangii namoota qabeenya tilmaaman irratti tarkaanfii fudhachuuf dhaadateera, garuu namoonni baay'een dunni isaa ciniinnaa isaarra daran hamaa ta'a jedhanii tilmaamu.",Taangi tilmaamtoonni qabeenyaa naamusa malee hojjechaa jiru jedhee yaada.,neutral
+"Taangii namoota qabeenya tilmaaman irratti tarkaanfii fudhachuuf dhaadateera, garuu namoonni baay'een dunni isaa ciniinnaa isaarra daran hamaa ta'a jedhanii tilmaamu.",Taangi tilmaama qabeenyaa irratti dhiibbaa uumuu barbaada.,entailment
+"Komiin dhiyaatan kun rakkoo mi'aa, cinqamuu hojjettoota balallii, balallii dhoksaadhaan haqame, yakkoota kaffaltii kan hammatan ture. ",Namoonni 10 mi'a gatanii turan.,neutral
+"Komiin dhiyaatan kun rakkoo mi'aa, cinqamuu hojjettoota balallii, balallii dhoksaadhaan haqame, yakkoota kaffaltii kan hammatan ture. ",Namoonni dhimma mi'aa komataniiru.,entailment
+"Komiin dhiyaatan kun rakkoo mi'aa, cinqamuu hojjettoota balallii, balallii dhoksaadhaan haqame, yakkoota kaffaltii kan hammatan ture. ",Komiin sirumaa hin turre.,contradiction
+"Gudeeddaa maqaa gaarii qabu kan harka duraa miidhamtuu isaa irraa micciiree booda ganna saddeet qofa hidhaa keessa ture Laawureensi Siingileetan, Filooriidaatti dubartii biraa waraanee ajjeese irratti to'annoo jala ooleera.",Erga harka duraa miidhamtoota isaa irraa micciiree booda balfa keessa dhoksuuf yaale.,neutral
+"Gudeeddaa maqaa gaarii qabu kan harka duraa miidhamtuu isaa irraa micciiree booda ganna saddeet qofa hidhaa keessa ture Laawureensi Siingileetan, Filooriidaatti dubartii biraa waraanee ajjeese irratti to'annoo jala ooleera.",Yeroon mana sirreessaa keessa ture guutummaatti akka isa deebise maraaf ifa ture.,contradiction
+"Gudeeddaa maqaa gaarii qabu kan harka duraa miidhamtuu isaa irraa micciiree booda ganna saddeet qofa hidhaa keessa ture Laawureensi Siingileetan, Filooriidaatti dubartii biraa waraanee ajjeese irratti to'annoo jala ooleera.",Obbo Siingileetan nama gudeeddii raawwatee jedhamee Filooriidaatti itti murta'eedha.,entailment
+Chaarlis Leeniin Niiw Rippaablikii akka jedhutti Oduun buttaa galmee gaazexeessummaa amanamummaa hin qabne Gabri'eel Garcaa Markuu'ez dheeressa.,Chaarlis Leen rippoortara dha.,entailment
+Chaarlis Leeniin Niiw Rippaablikii akka jedhutti Oduun buttaa galmee gaazexeessummaa amanamummaa hin qabne Gabri'eel Garcaa Markuu'ez dheeressa.,Chaarlis Leen konkolaataa gurguraa ture.,contradiction
+Chaarlis Leeniin Niiw Rippaablikii akka jedhutti Oduun buttaa galmee gaazexeessummaa amanamummaa hin qabne Gabri'eel Garcaa Markuu'ez dheeressa.,Chaarlis Leen dorgommii Puuliitzer moo'ate.,neutral
+Manni murtii kun ganama har'aa Waashingitan keessatti agarsiisa siyaasaa qofa miti.,Manni murtii kun Waashingitan keessatti iddoo siyaasaa qofa miti.,entailment
+Manni murtii kun ganama har'aa Waashingitan keessatti agarsiisa siyaasaa qofa miti.,Guyyaan siyaasaa ganama eegaluu hin oolu.,neutral
+Manni murtii kun ganama har'aa Waashingitan keessatti agarsiisa siyaasaa qofa miti.,Dhaddacha mana murtii sanatti agarsiisni qoosaa qabu jira.,contradiction
+"Namni buuldoozarii oofu tokko misooma haaraadhaaf daandii tokko yeroo qulqulleessu tilmaamuun ni danda'ama, misoomsaan Hey, Loyd ...",Namni buuldoozerii oofu tokko buuldoozerii eegaluu isaa tilmaamuun ni danda'ama.,neutral
+"Namni buuldoozarii oofu tokko misooma haaraadhaaf daandii tokko yeroo qulqulleessu tilmaamuun ni danda'ama, misoomsaan Hey, Loyd ...",Nama buuldoozerii oofu tokko tilmaamuun ni danda'ama.,entailment
+"Namni buuldoozarii oofu tokko misooma haaraadhaaf daandii tokko yeroo qulqulleessu tilmaamuun ni danda'ama, misoomsaan Hey, Loyd ...",Nama buuldoozerii oofu tilmaamuun hin danda'amu.,contradiction
+"Xalayaatiin kana gabaaseen ture Dr'f. waan isa bashannansiise fakkaata, inni immoo ayyaana Qillee sana irraatti keekii fuduraa xiqqoo naaf erge.",Xalayaa ani itti erge doktorichi akka fudhate mirkanaa'aa dha.,entailment
+"Xalayaatiin kana gabaaseen ture Dr'f. waan isa bashannansiise fakkaata, inni immoo ayyaana Qillee sana irraatti keekii fuduraa xiqqoo naaf erge.",Ayyaana Qillee sana irratti keekii doktorri naaf erge hin nyaanne.,neutral
+"Xalayaatiin kana gabaaseen ture Dr'f. waan isa bashannansiise fakkaata, inni immoo ayyaana Qillee sana irraatti keekii fuduraa xiqqoo naaf erge.",Doktarri kun Ayyaana Qillee sana irratti qaruuraa wayinii tokko naaf erge.,contradiction
+"Gareen kun kanaan dura maqaa yaadatamuu danda'u Biiniitersi jedhamuun kan beekamu yoo ta'u, kunis, haala nama dinquun, maqaa masoo Hindootaa ta'ee fudhatamuu danda'a.",Gareen kun maqaa isaa kan jijjiireef beekamaa waan hin taaneef.,neutral
+"Gareen kun kanaan dura maqaa yaadatamuu danda'u Biiniitersi jedhamuun kan beekamu yoo ta'u, kunis, haala nama dinquun, maqaa masoo Hindootaa ta'ee fudhatamuu danda'a.",Gareen kun maqaa kana dura maqaa masoo Hindootaa jedhamee yaadamuu danda'u qaba ture.,entailment
+"Gareen kun kanaan dura maqaa yaadatamuu danda'u Biiniitersi jedhamuun kan beekamu yoo ta'u, kunis, haala nama dinquun, maqaa masoo Hindootaa ta'ee fudhatamuu danda'a.",Gareen kun maqaa tokko qofa qabaatee beeka.,contradiction
+Hiika akkasii kitaaba jechoota hiika walfakkootaa qabu keessatti argachuu hin dandeenye.,Hiika isaa kitaaba jechoota hiika walfakkootaa qabu keessatti argadhe.,contradiction
+Hiika akkasii kitaaba jechoota hiika walfakkootaa qabu keessatti argachuu hin dandeenye.,Kitaaba jechoota hiika walfakkootaa qabu keessa ilaaleen hiika hin arganne.,entailment
+Hiika akkasii kitaaba jechoota hiika walfakkootaa qabu keessatti argachuu hin dandeenye.,Kitaabni jechoota hiika walfakkootaa qabu ani fayyadame kitaaba sadarkaa isaa eege ture.,neutral
+Namni tokko akkamitti akkas dalaguu danda’a?,Namoonni hedduun akkamitti homaa raawwachuu hin danda'an?,contradiction
+Namni tokko akkamitti akkas dalaguu danda’a?,Namni tokko akkamitti waan badaa akkasii gochuu danda’a?,neutral
+Namni tokko akkamitti akkas dalaguu danda’a?,Namni tokko akkas dalaguun kan dandaʼamu akkamitti?,entailment
+"Kana malees, jechoota Jaarraa Digdamaffaa keessa akka ka’an beekaman qofa of keessaa qaba, akka Seensaatti, garuu jechoota waraanaa jaarraa 20ffaa duraa dhiisa.","Akka seensaatti jechoota jaarraa digdamaffaa keessa ka’an kan of keessaa qabu yoo ta’u, jechoota loqoda kanaan dura ka’an garuu ni dhiisa.",entailment
+"Kana malees, jechoota Jaarraa Digdamaffaa keessa akka ka’an beekaman qofa of keessaa qaba, akka Seensaatti, garuu jechoota waraanaa jaarraa 20ffaa duraa dhiisa.",Yeroo jalqabaa irraa kaasee loqoda hunda of keessaa qaba.,contradiction
+"Kana malees, jechoota Jaarraa Digdamaffaa keessa akka ka’an beekaman qofa of keessaa qaba, akka Seensaatti, garuu jechoota waraanaa jaarraa 20ffaa duraa dhiisa.",Jaarraa digdamaffaa dura kan ture loqoda gosa gosaa hedduu dha.,neutral
+"Namni tokko maxxansa bara 1984 utuu qabaatee, kitaaba gabaabaa kan dabalataa (fi gatii rakasaa) ta’e bitachuu caalaa aarii guddaa qabaachuu danda’a.",Maxxansi bara 1984 maxxanfame hedduu gaarii dha.,neutral
+"Namni tokko maxxansa bara 1984 utuu qabaatee, kitaaba gabaabaa kan dabalataa (fi gatii rakasaa) ta’e bitachuu caalaa aarii guddaa qabaachuu danda’a.",Kitaabni kun gurgurtaaf miti.,contradiction
+"Namni tokko maxxansa bara 1984 utuu qabaatee, kitaaba gabaabaa kan dabalataa (fi gatii rakasaa) ta’e bitachuu caalaa aarii guddaa qabaachuu danda’a.",Kitaabicha caalaa isa dabalataatu rakasaa dha.,entailment
+Bernisteen seensa irratti ibsa.,Bernisteen gadi fageenyaan hin ibsu.,neutral
+Bernisteen seensa irratti ibsa.,Bernisteen raawwii irratti qofa ibseera.,contradiction
+Bernisteen seensa irratti ibsa.,Seensi ibsa of keessaa qaba.,entailment
+"Dhimmoonni kun akka gidduu galan hin gorfaman, gara waggaa digdamaa boodas, namni biyya alaa ta’e tokko waa’ee isaanii waan hedduu nama kofalchiisu adda baasuun ulfaataa ta’uu isaa qofa.",Namoonni afaan dhalootaa dubbatan illee darbee darbee qoosaa irratti rakkatu.,neutral
+"Dhimmoonni kun akka gidduu galan hin gorfaman, gara waggaa digdamaa boodas, namni biyya alaa ta’e tokko waa’ee isaanii waan hedduu nama kofalchiisu adda baasuun ulfaataa ta’uu isaa qofa.",Qoosaan akka waliigalaatti wantoota salphaatti namoonni biyya alaa hubachuu danda’an keessaa isa tokkodha.,contradiction
+"Dhimmoonni kun akka gidduu galan hin gorfaman, gara waggaa digdamaa boodas, namni biyya alaa ta’e tokko waa’ee isaanii waan hedduu nama kofalchiisu adda baasuun ulfaataa ta’uu isaa qofa.",Dhimmoonni kun namoota alaaf hubachuun rakkisaadha.,entailment
+"Dhumarratti, namni tokko dheerina hiika adda ta’e of keessaa qabu irraa of qusachuu qaba.",Gulaaltonni akka idileetti dogongora akkanaa to'achuuf miindeffamu.,neutral
+"Dhumarratti, namni tokko dheerina hiika adda ta’e of keessaa qabu irraa of qusachuu qaba.",Dheeressuun hiikni hima tokkoo akka ifaa ta'uuf karaa guddaadha.,contradiction
+"Dhumarratti, namni tokko dheerina hiika adda ta’e of keessaa qabu irraa of qusachuu qaba.",Hiikni isaa yeroo ibsa tokko dheeressuuf yaallu geeddaramuu danda’a.,entailment
+Mataan kee ho'aan akka nannaa'u godhi.,Ho'a mataa namaa irratti dibuun xiyyeeffannoo fi qalbeeffannoo isaa fooyyessuuf karaa gaarii dha.,contradiction
+Mataan kee ho'aan akka nannaa'u godhi.,Ho’i garmalee darbee darbee mataa naannessaa fiduu danda’a.,entailment
+Mataan kee ho'aan akka nannaa'u godhi.,Har'a giddu galeessa waqtii irraa digrii shan ol ture.,neutral
+Ogummaan biraa duudhaa oftuffachuun akkas badhaadhaa hin qabu.,Ogeeyyiin biroo hedduun ofii isaaniitiif ol’aantummaadhaan yaadu.,neutral
+Ogummaan biraa duudhaa oftuffachuun akkas badhaadhaa hin qabu.,Ogeeyyiin baay'een duudhaa of tuffachuu qabu.,contradiction
+Ogummaan biraa duudhaa oftuffachuun akkas badhaadhaa hin qabu.,Hojiin biraa duudhaa cimaa waa’ee ofii isaa qeequu hin qabu.,entailment
+"Akkasumas yaadannoo boonsaa wajjin, bututtuuwwan kanneen maqaa gaarii afoola naannoo sanaa keessatti argatan sun masoo sana xalayaa dhuunfaa, saalon chaat, fi reezumee seerawaa hin taane keessatti fayyadamu.",Waraqaaleen sun tasuma beekamtii hin qaban.,contradiction
+"Akkasumas yaadannoo boonsaa wajjin, bututtuuwwan kanneen maqaa gaarii afoola naannoo sanaa keessatti argatan sun masoo sana xalayaa dhuunfaa, saalon chaat, fi reezumee seerawaa hin taane keessatti fayyadamu.",Waraqaaleen sun maqaa bareedaa hin qaban.,entailment
+"Akkasumas yaadannoo boonsaa wajjin, bututtuuwwan kanneen maqaa gaarii afoola naannoo sanaa keessatti argatan sun masoo sana xalayaa dhuunfaa, saalon chaat, fi reezumee seerawaa hin taane keessatti fayyadamu.",Waraqaaleen sun haadhotii manaa irraa odeessa baay'ee qabu.,neutral
+Yoo lite/light salphaatti amala biiraa tokkoo ibse (fkn.,Biiraan mallattoo lite ykn light qabaachuu danda'a.,entailment
+Yoo lite/light salphaatti amala biiraa tokkoo ibse (fkn.,Lite fi light wayinii fi wiiskii ibsuuf qofa fayyadu.,contradiction
+Yoo lite/light salphaatti amala biiraa tokkoo ibse (fkn.,Biiraan Lite alkoolii dhibbeentaa ol'aanaa hin qabu.,neutral
+Maqaan hiyyeessaa irratti dalagame bakka innis ta’e iddoo bu’aan homaallee hin barbaachifnetti illee itti fayyadamaa ture.,Namoonni maqaa filannoo argachuuf rakkatu.,neutral
+Maqaan hiyyeessaa irratti dalagame bakka innis ta’e iddoo bu’aan homaallee hin barbaachifnetti illee itti fayyadamaa ture.,Maqaan akka malee itti fayyadamama.,entailment
+Maqaan hiyyeessaa irratti dalagame bakka innis ta’e iddoo bu’aan homaallee hin barbaachifnetti illee itti fayyadamaa ture.,Maqaan irra caalaatti fayyadamuu qaba.,contradiction
+"Kana mara irra darbee, barreeffamni dubbii bareedaa ta’e dhuguma darbee darbee yaadatamuu kan danda’u ta’uu isaa, rakkinicha irra caalaa kan hammaatu ta’uu isaa dhugaa nama hin gammachiifne qabna.",Namoonni barreeffama badaa yaadachuuf carraan isaanii hedduu guddaadha.,contradiction
+"Kana mara irra darbee, barreeffamni dubbii bareedaa ta’e dhuguma darbee darbee yaadatamuu kan danda’u ta’uu isaa, rakkinicha irra caalaa kan hammaatu ta’uu isaa dhugaa nama hin gammachiifne qabna.",Barreeffamni akka gaariitti barreeffame yeroo hedduu barreeffama haala yaraa hin taaneen barreeffame caalaa yaadachuun baay’ee salphaadha.,entailment
+"Kana mara irra darbee, barreeffamni dubbii bareedaa ta’e dhuguma darbee darbee yaadatamuu kan danda’u ta’uu isaa, rakkinicha irra caalaa kan hammaatu ta’uu isaa dhugaa nama hin gammachiifne qabna.",Barreeffamni akka gaariitti barreeffame baay’inaan baay'isuuf baay’ee qaala’aa dha.,neutral
+Ilaalcha kanaan wal-qabatee fi hanga tokko kan ajaadhibsiifaman Ingilizoonnis jecha kana qubee guddaadhaan barreessuudhaan kabaja isaaniif beekamtii kennaniiru.,Ingilizoonnis ulfina hin qaban turan.,contradiction
+Ilaalcha kanaan wal-qabatee fi hanga tokko kan ajaadhibsiifaman Ingilizoonnis jecha kana qubee guddaadhaan barreessuudhaan kabaja isaaniif beekamtii kennaniiru.,Ingilizoonnis diinagdee addunyaa dhuunfatan.,neutral
+Ilaalcha kanaan wal-qabatee fi hanga tokko kan ajaadhibsiifaman Ingilizoonnis jecha kana qubee guddaadhaan barreessuudhaan kabaja isaaniif beekamtii kennaniiru.,Ingilizoonnis addunyaa guutuutti hedduu daldalaa turan.,entailment
+"Takka takka hamataa dha, innis.",Takka takka adda baasuun hedduu rakkisaa ta’uu danda’a.,entailment
+"Takka takka hamataa dha, innis.",Sagalee hedduu xiqqaa dhageessisa karaa motora of eeggannoodhaan golgameen ta'een.,neutral
+"Takka takka hamataa dha, innis.",Yeroo mara fageenya kamirraayyuu adda baasuun hedduu salphaa ture.,contradiction
+"Akkuma ta’utti, Ameerikaa Kaabaa caalaa loqoda Ingiliffaa adda ta’e Biriiteen keessatti akka jiru beekamaadha, namni yeroo kamiyyuu isaan dhaggeeffachuuf dabarse tokko tokko wal-hubachuu akka hin dandeenye ni beeka.",Biriiteen loqoda Ingiliffaa adda ta’e kan lakkoofsi isaanii kanneen Ameerikaa Kaabaa caalaa hedduu ta'an  baay'ee qabdi.,entailment
+"Akkuma ta’utti, Ameerikaa Kaabaa caalaa loqoda Ingiliffaa adda ta’e Biriiteen keessatti akka jiru beekamaadha, namni yeroo kamiyyuu isaan dhaggeeffachuuf dabarse tokko tokko wal-hubachuu akka hin dandeenye ni beeka.","Loqodni Ameerikaa Kaabaa fi Ingilizii sirriitti wal fakkaata, namoonni garaagarummaa isaan gidduu jiru adda baasuu hin danda'an.",contradiction
+"Akkuma ta’utti, Ameerikaa Kaabaa caalaa loqoda Ingiliffaa adda ta’e Biriiteen keessatti akka jiru beekamaadha, namni yeroo kamiyyuu isaan dhaggeeffachuuf dabarse tokko tokko wal-hubachuu akka hin dandeenye ni beeka.",Namoonni Ameerikaa Kaabaa irraa dhufan walakkaa loqoda Biriiteeniin dubbatamu hubachuun rakkisaadha.,neutral
+"Odeeffataan Teeneesii tokko haala qilleensaa saree `haala ho'aa, rooba hin qabneef fayyadame, kunis ibsa guyyoota saree jedhu irraa kan maddu ta'uu danda'a, kunis haala qilleensaa goggogaa Hagayyaa kan agarsiisuu danda'a.","Akka odeeffataan kun jedhutti, haalli qilleensaa saree rooba waqtii roobaa ibsuuf itti fayyadameera.",contradiction
+"Odeeffataan Teeneesii tokko haala qilleensaa saree `haala ho'aa, rooba hin qabneef fayyadame, kunis ibsa guyyoota saree jedhu irraa kan maddu ta'uu danda'a, kunis haala qilleensaa goggogaa Hagayyaa kan agarsiisuu danda'a.",Waxabajjii fi Adoolessa akkasumas Tennessee keessatti baayyee ho'aa dha.,neutral
+"Odeeffataan Teeneesii tokko haala qilleensaa saree `haala ho'aa, rooba hin qabneef fayyadame, kunis ibsa guyyoota saree jedhu irraa kan maddu ta'uu danda'a, kunis haala qilleensaa goggogaa Hagayyaa kan agarsiisuu danda'a.",Haalli qilleensaa baatii Hagayyaa keessa guyyoota hedduu ho'aa fi rooba kan hin qabnedha.,entailment

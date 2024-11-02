@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Ó dáa, mi ò tiẹ̀ ronú nípa ìyẹn, ṣùgbọ́n inúù mi bàjẹ́ , àtiwípé, mo tún pada tún bá a sọ̀rọ̀.",Mi ò tún tíì bá a sọ̀rọ̀.,contradiction
+"Ó dáa, mi ò tiẹ̀ ronú nípa ìyẹn, ṣùgbọ́n inúù mi bàjẹ́ , àtiwípé, mo tún pada tún bá a sọ̀rọ̀.",Inú bí ni débi wí pé mo tún bẹ̀rẹ̀ sí ní báa sọ̀rọ̀.,entailment
+"Ó dáa, mi ò tiẹ̀ ronú nípa ìyẹn, ṣùgbọ́n inúù mi bàjẹ́ , àtiwípé, mo tún pada tún bá a sọ̀rọ̀.",A ṣe ìfọ̀rọ̀wérọ̀ tó dára.,neutral
+"Wọ́n sọ fún mi wí pé, uh, pé wọn ó pe ọkùnrin kan wọlé fún mi nígbẹ̀yìn láti pàde rẹ̀.",Wọn ò sọ nǹkankan fún mi pé mà á pàde ẹnìkankan.,contradiction
+"Wọ́n sọ fún mi wí pé, uh, pé wọn ó pe ọkùnrin kan wọlé fún mi nígbẹ̀yìn láti pàde rẹ̀.",Wọ́n sọ fún mi pé wọn ó pe ọkùnrin kan wọlé fún mi láti pàde rẹ̀.,entailment
+"Wọ́n sọ fún mi wí pé, uh, pé wọn ó pe ọkùnrin kan wọlé fún mi nígbẹ̀yìn láti pàde rẹ̀.",Ọkùnrin náà pẹ́ díẹ̀ kí ó tó dé.,neutral
+Ọ̀pọ̀lọpọ̀ ǹkan wà tí o lè sọ nípa rẹ̀ tí mà á kàn fojú fo ìyẹn.,Mo fẹ́ sọ gbogbo ǹkan tí mo mọ̀ nípa ìyẹn fún ẹ!,contradiction
+Ọ̀pọ̀lọpọ̀ ǹkan wà tí o lè sọ nípa rẹ̀ tí mà á kàn fojú fo ìyẹn.,"Mi ò ní sọ̀rọ̀ nípa ìyẹn, bó tilẹ̀ jẹ́ wí pé ọ̀pọ̀lọpọ̀ ǹkan wà tí a fẹ́ wò. ",entailment
+Ọ̀pọ̀lọpọ̀ ǹkan wà tí o lè sọ nípa rẹ̀ tí mà á kàn fojú fo ìyẹn.,Mi ò ní sọ̀rọ̀ nípa ìtàn ìlú náà nítorí pé nǹkan pọ̀ tí a fẹ́ sọ.,neutral
+Torí náà mi ò mọ ìdí rẹ̀.,Mo ní ìdánilójú nǹkan tó fà á.,contradiction
+Torí náà mi ò mọ ìdí rẹ̀.,Mi ò mọ ìdí tó fi pààrọ ilé-ẹ̀kọ́.,neutral
+Torí náà mi ò mọ ìdí rẹ̀.,Mi ò mọ ìdí tí ìyẹn fi ṣẹlẹ̀.,entailment
+"Èmi nìkan ni mo uh, tíì bá wọn lo ẹ̀rọ ìṣàkóso fún, àyẹ̀wò nínú ìyẹ̀wù afarajọ òfurufú kékèké. ",Mi ò nífẹ̀ sí kó jẹ́ pé èmi nìkan ni mà á máa lo ẹ̀rọ ìṣàkóso fún àyẹ̀wò náà.,neutral
+"Èmi nìkan ni mo uh, tíì bá wọn lo ẹ̀rọ ìṣàkóso fún, àyẹ̀wò nínú ìyẹ̀wù afarajọ òfurufú kékèké. ",Wọ́n ṣe àyẹ̀wò ní ìyẹ̀wù afarajọ òfurufú kékèké náà.,entailment
+"Èmi nìkan ni mo uh, tíì bá wọn lo ẹ̀rọ ìṣàkóso fún, àyẹ̀wò nínú ìyẹ̀wù afarajọ òfurufú kékèké. ",Àwa díẹ̀ kan wà tí a máa ń lo ẹ̀rọ ìṣàkóso náà fún àyẹ̀wò.,contradiction
+"Èmi ni uh, Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì, tó ti fẹ̀yìntì, gẹ́gẹ́ bí Rick ṣe sọ. ",Mo ṣì ń ṣiṣẹ́ títí di òní.,contradiction
+"Èmi ni uh, Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì, tó ti fẹ̀yìntì, gẹ́gẹ́ bí Rick ṣe sọ. ",Mo fẹ̀yìntì ní ọdún 2002.,neutral
+"Èmi ni uh, Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì, tó ti fẹ̀yìntì, gẹ́gẹ́ bí Rick ṣe sọ. ",Rick sọ fún ẹ wí pé mo ti fẹ̀yìntì.,entailment
+"Àwọn àsọtẹ́lẹ̀ ìpawó wọlé kan wà lórí pẹpẹ ìkọ̀wé mi, um, uh, ó sì wà fún irúu àti irúu Cutty, orúkọ oníbàárà yẹn nìyẹn.",Oníbàárà tí orúkọ rẹ̀ ń jẹ́ Cutty máa ń pa $10000 ní oṣù kan. ,neutral
+"Àwọn àsọtẹ́lẹ̀ ìpawó wọlé kan wà lórí pẹpẹ ìkọ̀wé mi, um, uh, ó sì wà fún irúu àti irúu Cutty, orúkọ oníbàárà yẹn nìyẹn.",Oníbàárà kan wà tí orúkọ rẹ̀ ń jẹ́ Cutty.,entailment
+"Àwọn àsọtẹ́lẹ̀ ìpawó wọlé kan wà lórí pẹpẹ ìkọ̀wé mi, um, uh, ó sì wà fún irúu àti irúu Cutty, orúkọ oníbàárà yẹn nìyẹn.",A ò ní oníbàárà kankan tí wọ́n ń pè ní Cutty. ,contradiction
+Ọmọbìnrin tí ó lè ràn mí lọ́wọ́ ti wà ní òdì kejì ilú.,Ọmọbìnrin tí mo nílò ìrànlọ́wọ́ lọ́dọ rẹ̀ ń gbé ní ọ̀nà jíjìn síbí.,entailment
+Ọmọbìnrin tí ó lè ràn mí lọ́wọ́ ti wà ní òdì kejì ilú.,Ọmọbìnrin tó máa ràn mí lọ́wọ́ wà ní máìlì 5 síbí.,neutral
+Ọmọbìnrin tí ó lè ràn mí lọ́wọ́ ti wà ní òdì kejì ilú.,Kò sí ẹnìkankan tó lè ràn mí lọ́wọ́. ,contradiction
+"Ṣùgbọ́n ìmọ wọn ò jọ nípa bíi àwọn wo ni òṣìṣẹ́ orí oko àwọn wo sì ni ọmọ ilé, ó kàn dàbi--",Gbogbo wọn fẹnukò wí pé àwọn ó jọ ṣiṣẹ́ ní orí pápá náà.,contradiction
+"Ṣùgbọ́n ìmọ wọn ò jọ nípa bíi àwọn wo ni òṣìṣẹ́ orí oko àwọn wo sì ni ọmọ ilé, ó kàn dàbi--",Wọn ò lè fẹnukò nípa ta ni òṣìṣẹ́ orí oko ta ni ó sì tọ́ sí láti wà nínú ilé.,entailment
+"Ṣùgbọ́n ìmọ wọn ò jọ nípa bíi àwọn wo ni òṣìṣẹ́ orí oko àwọn wo sì ni ọmọ ilé, ó kàn dàbi--",Wọn ò lè fẹnukò lórí ta ló yẹ kó ṣiṣẹ́ ní oko òwú ta ló sì yẹ kó nu ilẹ̀. ,neutral
+"Mo ní wọ́n kàn ní, bíi, wọ́n ní ọmọ márùn-ún, ọ̀kan nínú wọn kú.",Gbogbo àwọn ọmọ wọn ló yè.,contradiction
+"Mo ní wọ́n kàn ní, bíi, wọ́n ní ọmọ márùn-ún, ọ̀kan nínú wọn kú.",Ọmọ kan kú nínú àwọn márùn-ún náà. ,entailment
+"Mo ní wọ́n kàn ní, bíi, wọ́n ní ọmọ márùn-ún, ọ̀kan nínú wọn kú.",Wọ́n bí ọmọ tó kú náà pẹ̀lú òkùnù.,neutral
+"Ó ní omijé kàn ń jábọ́ láti ojú òun ó sì sọ wí pé, ó wá sọ wí pé Joe gun iwájú ìta wá.",Bí ó ṣe sọ fún-un pé kó gun iwájú ilé wá omijé wà ní ojúu rẹ̀.,entailment
+"Ó ní omijé kàn ń jábọ́ láti ojú òun ó sì sọ wí pé, ó wá sọ wí pé Joe gun iwájú ìta wá.",Ó sáré nu omijé rẹ̀ nù lẹ́yìn tí ó ti Joe kúrò ní iwájú ilé.,contradiction
+"Ó ní omijé kàn ń jábọ́ láti ojú òun ó sì sọ wí pé, ó wá sọ wí pé Joe gun iwájú ìta wá.",Inúu rẹ̀ dùn láti rí Joe débi wí pé ó bẹ̀rẹ̀ sí sunkún. ,neutral
+"Kódà tí ọkọ̀ òfurufú náà bá ń Jóná, kí ló dé tí, ó máa uh, jóná ó sì máa yọ́ gba ara èya àlùrọ irin kan fún ìgbì láti jọ̀ síta. ",Ìgbì náà ṣe é dènà lásíkò ìṣẹ̀lẹ̀ iná bákan náà. ,neutral
+"Kódà tí ọkọ̀ òfurufú náà bá ń Jóná, kí ló dé tí, ó máa uh, jóná ó sì máa yọ́ gba ara èya àlùrọ irin kan fún ìgbì láti jọ̀ síta. ",Ìgbì náà máa jọ̀ síta láti àlùrọ irin láti ibi lẹ́yìn tí ọkọ̀ òfurufú náà bá jóná.,entailment
+"Kódà tí ọkọ̀ òfurufú náà bá ń Jóná, kí ló dé tí, ó máa uh, jóná ó sì máa yọ́ gba ara èya àlùrọ irin kan fún ìgbì láti jọ̀ síta. ",Ìgbì náà máa jò síta lásíkò ìṣẹ̀lẹ̀ iná. ,contradiction
+"Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì Clem Francis rè é, ó fẹ́yìntì lẹ́nu iṣẹ́ Ọmọ Ogun Òfurufú orílẹ̀-ède US.",Ọ̀gá Àgbà náà ti fẹ̀yìntì lẹ́nu iṣẹ́ Ọmọ Ogun Òfurufú orílẹ̀-ède US.,entailment
+"Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì Clem Francis rè é, ó fẹ́yìntì lẹ́nu iṣẹ́ Ọmọ Ogun Òfurufú orílẹ̀-ède US.",Ọ̀gá Àgbà náà ṣẹ̀ fẹ̀yìntì láìpẹ́ yìí ní ọ̀sẹ̀ mélòó kan sẹ́yìn ni.,neutral
+"Ọ̀gá Àgbà Olórí Àwọn Sájẹ́ntì Clem Francis rè é, ó fẹ́yìntì lẹ́nu iṣẹ́ Ọmọ Ogun Òfurufú orílẹ̀-ède US.",Ọ̀gá Àgbà Ilé-iṣẹ́ Ọmọ Ogun Òfurufú orílẹ̀-ède US náà ṣẹ̀ bẹ̀rẹ̀ iṣẹ́ ìríjúu rẹ̀ ní ọ̀sẹ̀ yìí ni.,contradiction
+Ó dáa ó débi tí àwọn ọkọ̀ òfurufú méjì tàbí mẹ́ta ti wọlé ní ọ̀sẹ̀ kan mi ò sì mọ ibi tí wọ́n ń fò lọ.,Ọkọ̀ òfurufú tó lé ní ẹyọ̀kan ló máa ń wọlé lọ́sọ̀ọ̀sẹ̀.,entailment
+Ó dáa ó débi tí àwọn ọkọ̀ òfurufú méjì tàbí mẹ́ta ti wọlé ní ọ̀sẹ̀ kan mi ò sì mọ ibi tí wọ́n ń fò lọ.,Àlékún ìrìnkèrindò ọkọ̀ òfurufú náà ní ìdàmú nínú.,neutral
+Ó dáa ó débi tí àwọn ọkọ̀ òfurufú méjì tàbí mẹ́ta ti wọlé ní ọ̀sẹ̀ kan mi ò sì mọ ibi tí wọ́n ń fò lọ.,Kò sí ọkọ̀ òfurufú kankan tó ń wọlé.,contradiction
+Wọ́n ti ṣe ìgbaradì nínú aṣọ alátẹ́gùn kíkún nínú ó sì ti gbà mí ní àkókò díẹ̀ tí o bá wọ aṣọ alátẹ́gùn kíkún.,Ó máa ń gbà tó oṣù mẹ́ta láti parí ìgbaradì lóri bí a ṣe ń lo aṣọ alátẹ́gùn kíkún.,neutral
+Wọ́n ti ṣe ìgbaradì nínú aṣọ alátẹ́gùn kíkún nínú ó sì ti gbà mí ní àkókò díẹ̀ tí o bá wọ aṣọ alátẹ́gùn kíkún.,Gbígbaradì láti lo aṣọ alátẹ́gùn kíkún máa ń gba àkókò.,entailment
+Wọ́n ti ṣe ìgbaradì nínú aṣọ alátẹ́gùn kíkún nínú ó sì ti gbà mí ní àkókò díẹ̀ tí o bá wọ aṣọ alátẹ́gùn kíkún.,A lè kọ́ ẹ bí wọ́n wọ́n ṣe ń lo aṣọ alátẹ́gùn kíkún nígbà tí ilẹ̀ èní yóò fi ṣú.,contradiction
+"Mo fẹ́ sọ wí pé kò sí ewu kankan nínú wíwọlé pẹ̀lú àdó olóró náà nítorí kò ní bú gbàmù, kò sí bí ó ṣe lè gbálẹ̀ gidi gan tó.",Awakọ̀ òfurufú náà ti sọ àdo olóró náà domi.,neutral
+"Mo fẹ́ sọ wí pé kò sí ewu kankan nínú wíwọlé pẹ̀lú àdó olóró náà nítorí kò ní bú gbàmù, kò sí bí ó ṣe lè gbálẹ̀ gidi gan tó.",Kò sí bí àdó olóró náà ṣe lè bú gbàmù.,entailment
+"Mo fẹ́ sọ wí pé kò sí ewu kankan nínú wíwọlé pẹ̀lú àdó olóró náà nítorí kò ní bú gbàmù, kò sí bí ó ṣe lè gbálẹ̀ gidi gan tó.",Ewu ńlá wà pé àdó olóró náà lè bú gbàmù.,contradiction
+Tó bá wá jẹ́ wí pé ó rí gẹ́lẹ́ bí ǹkan tí mò ń gbìyànjú láti ṣe ńkọ́.,Mi ò mọ nǹkan tí eléyìí jọ lójú ẹ.,contradiction
+Tó bá wá jẹ́ wí pé ó rí gẹ́lẹ́ bí ǹkan tí mò ń gbìyànjú láti ṣe ńkọ́.,"Mò ń gbìyànjú láti ṣe eléyìí, dandan ni. ",entailment
+Tó bá wá jẹ́ wí pé ó rí gẹ́lẹ́ bí ǹkan tí mò ń gbìyànjú láti ṣe ńkọ́.,Mò ń gbìyànjú láti parí iṣẹ́ àkànṣe mi ní ọ̀sẹ̀ tó ń bọ̀.,neutral
+"Ṣùgbọ́n ṣá, àwọn ẹranko náà ń jákùn ní gbogbo ìgbà, pàápàá jùlọ àwọn ewúrẹ́ náà.",Àwọn ewúrẹ́ náà máa ń sálọ kúrò nínú abà náà lójoojúmọ́.,neutral
+"Ṣùgbọ́n ṣá, àwọn ẹranko náà ń jákùn ní gbogbo ìgbà, pàápàá jùlọ àwọn ewúrẹ́ náà.",Àwọn ewúrẹ́ náà máa ń sálọ ní gbogbo ìgbà.,entailment
+"Ṣùgbọ́n ṣá, àwọn ẹranko náà ń jákùn ní gbogbo ìgbà, pàápàá jùlọ àwọn ewúrẹ́ náà.",Wọ́n kó àwọn ewúrẹ́ náà pamọ́ láìsí ewu. ,contradiction
+Àwọn ilẹ̀kùn náà wà ní títìpa nígbà tí a wọlé.,Gbogbo ilẹ̀kùn náà ló wà ní ṣíṣí.,contradiction
+Àwọn ilẹ̀kùn náà wà ní títìpa nígbà tí a wọlé.,Kọ́kọ́rọ́ náà wà pẹ̀lu wa.,neutral
+Àwọn ilẹ̀kùn náà wà ní títìpa nígbà tí a wọlé.,A wọlé bó tilẹ̀ jẹ́ wí pé àwọn ilẹ̀kùn náà wà ní títìpa. ,entailment
+Torí náà mo kàn ní láti ṣí gbogbo rẹ̀ kí n sì gbìyànjú láti ronú sí i bẹ́ẹ̀. ,Mo ní ìdánilójú pé àpapọ̀ gbogbo rẹ̀ ni mo nílò láti wá ìyanjú sí eléyìí.,neutral
+Torí náà mo kàn ní láti ṣí gbogbo rẹ̀ kí n sì gbìyànjú láti ronú sí i bẹ́ẹ̀. ,Mi ò mọ ohun tí mo lè ṣe pẹ̀lú àpapọ̀ gbogbo rẹ̀ nìkan jọ̀wọ́ fún mi ní ìròyìn si láti wá ìyanjú sí eléyìí.,contradiction
+Torí náà mo kàn ní láti ṣí gbogbo rẹ̀ kí n sì gbìyànjú láti ronú sí i bẹ́ẹ̀. ,Mà á ṣe ìṣirò rẹ̀ pẹ̀lú àpapọ̀ gbogbo rẹ̀. ,entailment
+ìyẹn sì ti pọ̀jù nítorí wí pé àwọn ìyá náà ń lo òògùn olóró,Olóógùn olóró ni àwọn ìyá náà.,neutral
+ìyẹn sì ti pọ̀jù nítorí wí pé àwọn ìyá náà ń lo òògùn olóró,Àwọn ìyá náà ò ní ìwé ìlànà òògùn kankan tàbí òògùn olóró kankan. ,contradiction
+ìyẹn sì ti pọ̀jù nítorí wí pé àwọn ìyá náà ń lo òògùn olóró,Àwọn ìyá náà ń lo òògùn olóró. ,entailment
+bẹ́ẹ̀ni ó dára ṣé òjò ń rọ̀ ni ,Mi ò bìkítà tí òjò bá rọ̀.,neutral
+bẹ́ẹ̀ni ó dára ṣé òjò ń rọ̀ ni ,Ó dára ó sì ń rọ̀jò.,entailment
+bẹ́ẹ̀ni ó dára ṣé òjò ń rọ̀ ni ,Ó burú gidi gan pẹ̀lú arọ̀ọ̀ràn tán òrùn náà.,contradiction
+oh ìwọ̀n tí ẹ̀mí ènìyàn wọ̀n àti bóyá ẹ lè tún ènìyàn rọ àbí bẹ́ẹ̀ kọ́,Gbogbo ẹ̀mí ni àtúnrọ àti ànfàní ẹlẹ́ẹ̀kejì tọ́ sí.,neutral
+oh ìwọ̀n tí ẹ̀mí ènìyàn wọ̀n àti bóyá ẹ lè tún ènìyàn rọ àbí bẹ́ẹ̀ kọ́,Kò sí ènìyàn kankan tí àtúnrọ tọ́ sí.,contradiction
+oh ìwọ̀n tí ẹ̀mí ènìyàn wọ̀n àti bóyá ẹ lè tún ènìyàn rọ àbí bẹ́ẹ̀ kọ́,Kò níṣe pẹ̀lú àtúnrọ nǹkan tí ilé ayé jẹ́ tó bẹ́ẹ̀.,entailment
+oh arákùnrin o ní ìṣòro àsopọ̀ wáyà tó ṣàjòjì níbẹ̀ yẹn,Mi ò tíì rí irú ìṣòro àsopọ̀ wáyà yìí rí tẹ́lẹ̀.,neutral
+oh arákùnrin o ní ìṣòro àsopọ̀ wáyà tó ṣàjòjì níbẹ̀ yẹn,Àsopọ̀ wáyà kọ́ ni ìṣòro náà. ,contradiction
+oh arákùnrin o ní ìṣòro àsopọ̀ wáyà tó ṣàjòjì níbẹ̀ yẹn,Ìṣòro kan wà tí àsopọ̀ wáyà àjòjì yìí fà.,entailment
+ó dàbí ọ̀pọ̀lọpọ̀ aríyá bẹ́ẹ̀ni ìyàlẹ́nu ló jẹ́ fún mi iye iye nǹkan tí wọ́n máa gbà wọlé,Kò yàmílẹ́nu bó wulẹ̀ ó mọ pé wọ́n jẹ́ aláànú. ,contradiction
+ó dàbí ọ̀pọ̀lọpọ̀ aríyá bẹ́ẹ̀ni ìyàlẹ́nu ló jẹ́ fún mi iye iye nǹkan tí wọ́n máa gbà wọlé,Ó yàmílẹ́nu pé wọ́n jẹ́ kí o gbé oúnjẹ àti omi wọlé síbẹ̀ yẹn.,neutral
+ó dàbí ọ̀pọ̀lọpọ̀ aríyá bẹ́ẹ̀ni ìyàlẹ́nu ló jẹ́ fún mi iye iye nǹkan tí wọ́n máa gbà wọlé,Ó yàmílẹ́nu wí pé wọ́n lè mú u jẹ.,entailment
+oh ṣùgbọ́n síbẹ̀síbẹ̀ síbẹ̀síbẹ̀ um àwọn ọmọ mi ti pé ọdún mọ́kànlẹ̀lógún àti mẹ́rìnlélógún torí náà mi ò nílò láti ṣe bẹ́ẹ̀,Mi ò nílò láti ṣe bẹ́ẹ̀ nítorí pé àwọn ọmọ mi ti kọjá ogún ọdún. ,entailment
+oh ṣùgbọ́n síbẹ̀síbẹ̀ síbẹ̀síbẹ̀ um àwọn ọmọ mi ti pé ọdún mọ́kànlẹ̀lógún àti mẹ́rìnlélógún torí náà mi ò nílò láti ṣe bẹ́ẹ̀,Mo lè nílò láti ṣe bẹ́ẹ̀ nígbà tí ọjọ́ orí wọn sún mọ́ra.  ,neutral
+oh ṣùgbọ́n síbẹ̀síbẹ̀ síbẹ̀síbẹ̀ um àwọn ọmọ mi ti pé ọdún mọ́kànlẹ̀lógún àti mẹ́rìnlélógún torí náà mi ò nílò láti ṣe bẹ́ẹ̀,Mo gbọ́dọ̀ ṣe bẹ́ẹ̀ nígbà tí àwọn méjèjì ti jẹ́ ọmọ ọdún méwàá àti ọdún mọ́kànlá.,contradiction
+Bẹ́ẹ̀ni àwọn ènìyàn tí tí wọ́n lè lọ síbi iṣẹ́ nígbàkígbà tàbí tí ìpinnu wọn lè ṣókúnkùn tí wọ́n bá ní láti ṣe ìpinnu ,"bẹ́ẹ̀ni, àwọn ènìyàn tí wọ́n lè má lè ṣe ìpinnu ìrírí tó dára jùlọ.",entailment
+Bẹ́ẹ̀ni àwọn ènìyàn tí tí wọ́n lè lọ síbi iṣẹ́ nígbàkígbà tàbí tí ìpinnu wọn lè ṣókúnkùn tí wọ́n bá ní láti ṣe ìpinnu ,"Bẹ́ẹ̀ni, àwọn ènìyàn tí ebi lè má pa.",neutral
+Bẹ́ẹ̀ni àwọn ènìyàn tí tí wọ́n lè lọ síbi iṣẹ́ nígbàkígbà tàbí tí ìpinnu wọn lè ṣókúnkùn tí wọ́n bá ní láti ṣe ìpinnu ,"Bẹ́ẹ̀ni, àwọn ènìyàn tí àpò ìrònúu wọn ò ní ìpèníjà. ",contradiction
+rárá wọ́n ṣì wọ́n ṣì wà lórí ìrìnàjò afẹ́ wọ́n ti ń rìnrìnàjò afẹ́ láti ìparí sísítísì,Wọ́n ti ń rìnrìnàjò afẹ́ láti ṣíwáju ọdún 1970.,entailment
+rárá wọ́n ṣì wọ́n ṣì wà lórí ìrìnàjò afẹ́ wọ́n ti ń rìnrìnàjò afẹ́ láti ìparí sísítísì,Wọ́n fẹ́ràn ìrìnàjò afẹ́. ,neutral
+rárá wọ́n ṣì wọ́n ṣì wà lórí ìrìnàjò afẹ́ wọ́n ti ń rìnrìnàjò afẹ́ láti ìparí sísítísì,Wọ́n ṣẹ̀ṣẹ̀ parí ìrìnàjò afẹ́ẹ wọn láìpẹ́ yìí ni.,contradiction
+báwo lo ṣe máa ṣe eré ìdárayá ọkàn,Ṣé o lè ṣàlàyé bí o ṣe máa ṣe eré ìdárayá ọkàn?,entailment
+báwo lo ṣe máa ṣe eré ìdárayá ọkàn,Mo nífẹ̀ sí eré ìdárayá ọkàn nítorí mo nílò àwọn ìṣesí ajẹmọ́ ọkàn àti òpó ẹ̀jẹ̀. ,neutral
+báwo lo ṣe máa ṣe eré ìdárayá ọkàn,Jọ̀wọ́ yé sọ̀rọ̀ nípa eré ìdárayá ọkàn.,contradiction
+ó dáa ìyẹn náà dára mi ò ronú nípa ìyẹn tẹ́lẹ̀ bẹ́ẹ̀ni,Èrò òpònú ni ìyẹn mo yọ ọ́ kúrò ní ọ̀sẹ̀ tó kọjá.,contradiction
+ó dáa ìyẹn náà dára mi ò ronú nípa ìyẹn tẹ́lẹ̀ bẹ́ẹ̀ni,Kókó ọ̀rọ̀ tó dára nìyẹn.,entailment
+ó dáa ìyẹn náà dára mi ò ronú nípa ìyẹn tẹ́lẹ̀ bẹ́ẹ̀ni,Ìfọ̀rọ̀gbeọ̀rọ̀ tí o dárúkọ́ náà jẹ́ kókó ọ̀rọ̀ tó dára. ,neutral
+ilé ẹkọ́ jẹ́léósimi ní ọjọ́ mejì lọ́sẹ̀ wọ́n ń pè é ní ilé ẹkọ́ jẹ́léósimi àwọn òṣìṣẹ́ fẹ̀yìntì ṣùgbọ́n ó máa ń lọ sí ààyè àwọn òṣìṣẹ́ fẹ̀yìntì,Ilé ẹkọ́ Jẹ́léósimi náà máa ń ṣí lójoojúmó fún àwọn ọmọdé tí wọ́n wà lábẹ́ ọdún márùn-ún nìkan.,contradiction
+ilé ẹkọ́ jẹ́léósimi ní ọjọ́ mejì lọ́sẹ̀ wọ́n ń pè é ní ilé ẹkọ́ jẹ́léósimi àwọn òṣìṣẹ́ fẹ̀yìntì ṣùgbọ́n ó máa ń lọ sí ààyè àwọn òṣìṣẹ́ fẹ̀yìntì,Wọn ò jẹ́ kí wọ́n lọ ju ẹ̀ẹ̀mejì láàrín ọ̀sẹ̀ lọ tí àwọn òṣìṣẹ́ fẹ̀yìntì náà bá ṣetán fún-un.,neutral
+ilé ẹkọ́ jẹ́léósimi ní ọjọ́ mejì lọ́sẹ̀ wọ́n ń pè é ní ilé ẹkọ́ jẹ́léósimi àwọn òṣìṣẹ́ fẹ̀yìntì ṣùgbọ́n ó máa ń lọ sí ààyè àwọn òṣìṣẹ́ fẹ̀yìntì,Wọ́n máa ń tọ́ka sí i gẹ́gẹ́ bi ilé ẹ̀kọ́ Jẹ́léósimi àwọn àgbàlagbà ṣùgbọ́n wọ́n ń pè é ní ààyè àwọn àgbàlagbà. ,entailment
+èròngbà wọn nìyẹn oh,Nǹkan tí wọ́n ti ń làkàkà fún nìyẹn.,entailment
+èròngbà wọn nìyẹn oh,Ìyẹn kì í ṣe nǹkan tí wọ́n fẹ́ rárá.,contradiction
+èròngbà wọn nìyẹn oh,Wọ́n mú èròngbà wọn ṣẹ.,neutral
+dídarí ìbọn túnmọ̀ sí lílo ọwọ́ méjèèjì ,Ààbọ̀ gbogbo ìṣẹ̀lẹ̀ àṣìta ìbọn ló wáyé látara lílo ọwọ́ kan.,neutral
+dídarí ìbọn túnmọ̀ sí lílo ọwọ́ méjèèjì ,Ọ̀nà àbáyọ tó dára jùlọ fún dídarí ìbọn ni láti lo ẹsẹ̀ méjèèjì.,contradiction
+dídarí ìbọn túnmọ̀ sí lílo ọwọ́ méjèèjì ,Lo ọwọ́ méjèèjì tí o bá fẹ́ ṣe ìfikọ́ra ìdarí ìbọn.,entailment
+àti uh ṣùgbọ́n ó wá láti ibìkan lójiji mi ò mọ ibi tí ó ti jáde wá ṣùgbọ́n ,Mi ò mọ ibi tí ó ti wá ṣùgbọ́n ó yára. ,entailment
+àti uh ṣùgbọ́n ó wá láti ibìkan lójiji mi ò mọ ibi tí ó ti jáde wá ṣùgbọ́n ,Ó sáré ṣe àbẹ̀wò ṣùgbọ́n ó jọ bí ẹni pé mo mọ ibi tó lè ti máa bọ̀.,neutral
+àti uh ṣùgbọ́n ó wá láti ibìkan lójiji mi ò mọ ibi tí ó ti jáde wá ṣùgbọ́n ,Ó wá bíi oyin oní ṣúgà mo sì mọ pàtó ìgbà tí yóò wá.,contradiction
+rárá kódà mi ò tíẹ̀ mọ̀ ọ́ mi ò rò bẹ́ẹ̀,Mi ò mọ púpọ̀ nípa rẹ̀. ,entailment
+rárá kódà mi ò tíẹ̀ mọ̀ ọ́ mi ò rò bẹ́ẹ̀,Mi ò kí ń ṣe aláìmọ̀kan níbi ọ̀rọ̀ ìfẹ́. ,neutral
+rárá kódà mi ò tíẹ̀ mọ̀ ọ́ mi ò rò bẹ́ẹ̀,Mo ti ń ṣe ìwádìí rẹ̀ fún àìmọye ọdún.,contradiction
+bẹ́ẹ̀ni ó dára o mọ̀ pé ó ,Mo lérò wí pé ó mọ̀ wí pé òún ṣe dáadáa. ,neutral
+bẹ́ẹ̀ni ó dára o mọ̀ pé ó ,Rárá ó búrú jáì.,contradiction
+bẹ́ẹ̀ni ó dára o mọ̀ pé ó ,Bẹ́ẹ̀ni ó ṣe dáadáa godi gidi gan.,entailment
+bẹ́ẹ̀ni ó dábàá wíwá uh um a uh ìnulẹ̀ kan tí o máa lò,Ó dábàá ríra ẹ̀rọ ìgbálẹ̀. ,contradiction
+bẹ́ẹ̀ni ó dábàá wíwá uh um a uh ìnulẹ̀ kan tí o máa lò,Ó dábàá wíwá ìnulẹ̀.,entailment
+bẹ́ẹ̀ni ó dábàá wíwá uh um a uh ìnulẹ̀ kan tí o máa lò,Ó fẹ́ nu ẹ̀jẹ̀ náà nù pẹ̀lú ìnulẹ̀.,neutral
+ibí yìí burú gidi gan ni ìbọn yíyìn nírónà ṣẹ̀ ṣẹlẹ̀ ní bíi ilé mẹ́ta sí ilée wa ni,Ìró ìbọn yíyìn náà jínà ní bíi ó kéré jù máílì 100 láti ibi tí mò ń gbé.,contradiction
+ibí yìí burú gidi gan ni ìbọn yíyìn nírónà ṣẹ̀ ṣẹlẹ̀ ní bíi ilé mẹ́ta sí ilée wa ni,Ìró ìbọn yíyìn náà súnmọ́ ilé mi ó sì jẹ́ kí àyà mi já láti bọ́ síta. ,neutral
+ibí yìí burú gidi gan ni ìbọn yíyìn nírónà ṣẹ̀ ṣẹlẹ̀ ní bíi ilé mẹ́ta sí ilée wa ni,"Ìró ìbọn yíyìn kan ṣẹlẹ̀ ní agbègbè ilé mi, àdúgbò yìí ò da rárá.",entailment
+uh-huh òótọ́ ni kò kò fi bẹ́ẹ̀ uh ṣe déédé,"Mi ò gbà pẹ̀lú ẹ, ó ń ṣe déédé gidi gan. ",contradiction
+uh-huh òótọ́ ni kò kò fi bẹ́ẹ̀ uh ṣe déédé,Mo rò wí òótọ́ ni ò ń sọ nípa ìṣe déédé rẹ̀.,neutral
+uh-huh òótọ́ ni kò kò fi bẹ́ẹ̀ uh ṣe déédé,Òótọ́ lo sọ nípa pé kò ṣe déédé.,entailment
+mò ń gbìyànjú gidi gan láti tirika ni,Mò ń gbìyànjú láti tiraka.,entailment
+mò ń gbìyànjú gidi gan láti tirika ni,Mò ń gbìyànjú agbára mi.,neutral
+mò ń gbìyànjú gidi gan láti tirika ni,Mà á fi sílẹ̀ mi ò sì ní bojú wẹ̀yìn. ,contradiction
+A ti tilẹ̀kùn mọ́ ìwọlée wa sí ọjọ́ iwájú onímọ̀ ẹ̀rọ. ,À ń ṣe àgbékalẹ̀ àwọn aṣáájú tó ṣe pàtàkì fún ọjọ́ iwájú onímọ̀ ẹ̀rọ.,entailment
+A ti tilẹ̀kùn mọ́ ìwọlée wa sí ọjọ́ iwájú onímọ̀ ẹ̀rọ. ,"A ṣe àgbékalẹ̀ ẹ̀rọ ìtanná kéjeré, torí náà AI ló máa ṣàkóso ọjọ́ iwájú wa.",neutral
+A ti tilẹ̀kùn mọ́ ìwọlée wa sí ọjọ́ iwájú onímọ̀ ẹ̀rọ. ,A fẹ́ dénà ìmọ̀ ẹ̀rọ níbi àṣeyọrí.,contradiction
+"Fún àpẹẹrẹ, ní ìpele tó gajù, gbogbo ẹ̀yọ́-ìran ló máa ń di pọ́pù.","Ní ìpele tí ó ga jùlọ, àbọ̀ ẹ̀yọ́-ìran nìkan ló lè di pọ́pù.",contradiction
+"Fún àpẹẹrẹ, ní ìpele tó gajù, gbogbo ẹ̀yọ́-ìran ló máa ń di pọ́pù.",Ó ṣeéṣe fún àwọn ẹ̀yọ́ ìran náà láti pààrọ àwọ̀. ,entailment
+"Fún àpẹẹrẹ, ní ìpele tó gajù, gbogbo ẹ̀yọ́-ìran ló máa ń di pọ́pù.",Nígbà míràn àwọn ẹ̀yọ́-ìran náà lè di àwọ aró bákan náà.,neutral
+Daniel Yamins jẹ́ ọ̀dọ́ onímọ̀ ìṣirò ọlọ́pọlọ pípé.,Eni ńlá ni Ọ̀gbẹ́ni Yamins jẹ́ nínú ìṣirò.,entailment
+Daniel Yamins jẹ́ ọ̀dọ́ onímọ̀ ìṣirò ọlọ́pọlọ pípé.,Àdojúkọ Ọ̀gbẹ́ni Yamins ni ìṣirò onígun.,neutral
+Daniel Yamins jẹ́ ọ̀dọ́ onímọ̀ ìṣirò ọlọ́pọlọ pípé.,"Ọ̀gbẹ́ni Yamins jẹ́ ayàwòrán ńlá, ṣùgbọ́n onímọ̀ ìṣirò tó burú.",contradiction
+"Tó bá sì rí bẹ́ẹ̀, ṣé wọ́n máa ń súnmọ́ ẹnu ààlà yẹn ní gbogbo ìgbà? ",Mo mọ̀ wí pé wọn ò tíì rìnrìnàjò súnmọ́ ẹnu ààlà náà.,contradiction
+"Tó bá sì rí bẹ́ẹ̀, ṣé wọ́n máa ń súnmọ́ ẹnu ààlà yẹn ní gbogbo ìgbà? ","Mo fẹ́ mọ̀, ṣé wọ́n máa ń wà ní ilẹ̀ England ní gbogbo ìgbà?",neutral
+"Tó bá sì rí bẹ́ẹ̀, ṣé wọ́n máa ń súnmọ́ ẹnu ààlà yẹn ní gbogbo ìgbà? ",Abẹnugan náà ń fẹ́ àlàyé nípa iye ìgbà tí wọ́n máa ń súnmọ́ ẹnu ààlà náà.,entailment
+"Mo lérò wí pé, mọ́lékù wà tí ààyè ìṣẹ̀mí lágbàyé fi ń ṣe àtúntò ara rẹ̀ léraléra nínú òfin ìgbáyé fún ìṣẹ̀dá àwọn ìran kan.",Ààyè ìṣẹ̀mí lágbàyé máa ń yí padà lọ́pọ̀lọpọ̀. ,entailment
+"Mo lérò wí pé, mọ́lékù wà tí ààyè ìṣẹ̀mí lágbàyé fi ń ṣe àtúntò ara rẹ̀ léraléra nínú òfin ìgbáyé fún ìṣẹ̀dá àwọn ìran kan.",Ààyè ìṣẹ̀mí lágbàyé máa ń yí padà gẹ́gẹ́ bí ìgbóná ojú ọjọ́ bá ṣe rí.,neutral
+"Mo lérò wí pé, mọ́lékù wà tí ààyè ìṣẹ̀mí lágbàyé fi ń ṣe àtúntò ara rẹ̀ léraléra nínú òfin ìgbáyé fún ìṣẹ̀dá àwọn ìran kan.",Ààyè ìṣẹ̀mí lágbàyé ò kí ń yí padà. ,contradiction
+"Pẹ̀lú eré yẹn, kírísítà ojoojúmọ́ ò lè ṣe àkósódù irú ìròyìn tó pọ̀ bẹ́ẹ̀. ",Àwọn kírísítà ojoojúmọ́ jẹ́ ibi ìpamọ́ àkójọpọ̀ ìròyìn tó pọ̀.,contradiction
+"Pẹ̀lú eré yẹn, kírísítà ojoojúmọ́ ò lè ṣe àkósódù irú ìròyìn tó pọ̀ bẹ́ẹ̀. ",Àwọn kírísítà ojoojúmọ́ ò fi bẹ́ẹ̀ wúlò fún ṣíṣe àkósódù ìròyìn.,entailment
+"Pẹ̀lú eré yẹn, kírísítà ojoojúmọ́ ò lè ṣe àkósódù irú ìròyìn tó pọ̀ bẹ́ẹ̀. ",Àwọn oríṣi ẹ̀ya kírísítà kan tún wà tí wọ́n wúlò gidi gan fún àkósódù ìròyìn nípa ìrísí àgbáyé pẹ̀lu lílo iná lésà.,neutral
+"Nítorí náà, àwọn àgbàlagbà ò nílò láti kọ àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ láti máa dínbọ́n, gẹ́gẹ́ bí wọ́n ṣe máa ń ṣe nígbà míràn nígbà tí wọ́n bá ń ràn wọ́n lọ́wọ́ láti mọ adojúrú tàbí àwọn iṣẹ́ tó jọ mọ́ ọ. ",Àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ máa ń ṣe dáadáa núnú àdojúrú láìkọ́ ju ṣíṣe eré ìdárayá ìdínbọ́n lọ.,contradiction
+"Nítorí náà, àwọn àgbàlagbà ò nílò láti kọ àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ láti máa dínbọ́n, gẹ́gẹ́ bí wọ́n ṣe máa ń ṣe nígbà míràn nígbà tí wọ́n bá ń ràn wọ́n lọ́wọ́ láti mọ adojúrú tàbí àwọn iṣẹ́ tó jọ mọ́ ọ. ",Àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ ò nílò ìrànlọ́wọ́ púpọ̀ láti kọ́ bí wọ́n ṣe ń díbọ́n.,entailment
+"Nítorí náà, àwọn àgbàlagbà ò nílò láti kọ àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ láti máa dínbọ́n, gẹ́gẹ́ bí wọ́n ṣe máa ń ṣe nígbà míràn nígbà tí wọ́n bá ń ràn wọ́n lọ́wọ́ láti mọ adojúrú tàbí àwọn iṣẹ́ tó jọ mọ́ ọ. ",Àwọn ọmọ ilé-ẹ̀kọ́ alákọ̀ọ́bẹ̀rẹ̀ ò ní ìmọ̀ọ́ṣe ìyànàná ààyè láti mọ adojúrú funra wọn. ,neutral
+[Orílẹ̀-èdè yìí] wáyé látara òmìnira wọ́n sì fi orí rẹ̀ sọ àròsọ wí pé ìbí ò ju ìbí. ,Àwọn àkọsílẹ̀ nípa àròsọ yìí ni wọ́n ká sílẹ̀ nínú ọ̀pọ̀lọpọ̀ àfikún ìwé.,neutral
+[Orílẹ̀-èdè yìí] wáyé látara òmìnira wọ́n sì fi orí rẹ̀ sọ àròsọ wí pé ìbí ò ju ìbí. ,Àwọn ènìyàn kan gbàgbọ́ wí pé ìbí ò ju ìbí.,entailment
+[Orílẹ̀-èdè yìí] wáyé látara òmìnira wọ́n sì fi orí rẹ̀ sọ àròsọ wí pé ìbí ò ju ìbí. ,Wọ́n dá orílẹ̀-èdè yìí sílẹ̀ lórí ìgbàgbọ́ wí pé àwọn ènìyàn kan dára ju àwọn tó kù lọ.,contradiction
+Ṣé kí n túbọ̀ máa yìn-ín sí i?,Ó dámilójú gbangba pé mo nílò láti nà á fún àwọn ìjákulẹ̀ rẹ̀.,contradiction
+Ṣé kí n túbọ̀ máa yìn-ín sí i?,Mò ń rò ó wí pé bóyá ó nílò ìmọrírì sí i láti ọ̀dọ̀ mi. ,entailment
+Ṣé kí n túbọ̀ máa yìn-ín sí i?,Ṣé kí n máa yìn-ín sí i fún iṣẹ́ dùùrù tí ó tẹ̀? ,neutral
+Àròsọ àwòrán ìbáṣepọ̀ kẹ́míkà lè di gbígbékalẹ̀ ní oríṣiríṣi ọ̀nà. ,Ìlànà mìíràn ṣe é lò láti ya àròsọ àwòrán ìbáṣepọ̀ kẹ́míkà.,entailment
+Àròsọ àwòrán ìbáṣepọ̀ kẹ́míkà lè di gbígbékalẹ̀ ní oríṣiríṣi ọ̀nà. ,Àwòrán ìbáṣepọ̀ kẹ́míkà wúlò gidi gan fún fún àwọn ìmọ̀ ẹ̀rọ àká dátà. ,neutral
+Àròsọ àwòrán ìbáṣepọ̀ kẹ́míkà lè di gbígbékalẹ̀ ní oríṣiríṣi ọ̀nà. ,Àwòrán ìbáṣepọ̀ kẹ́míkà ò ṣe é rò ní oríṣiríṣi ọ̀nà.,contradiction
+"(pẹ̀lú ìbẹ̀rù) Rárá, rárá, mi ò fẹ́ kí o kú!",Mi ò fẹ́ kí o kú!,entailment
+"(pẹ̀lú ìbẹ̀rù) Rárá, rárá, mi ò fẹ́ kí o kú!",Mi ò bìkítà tí o bá kú!,contradiction
+"(pẹ̀lú ìbẹ̀rù) Rárá, rárá, mi ò fẹ́ kí o kú!",Inú mi ò ní dùn rárá tí o bá kú!,neutral
+"Wọ́n yẹgi fún-un ní gbangba ní ọjọ́ 19 oṣù Èrenà, ọdún 1875, ní ìlu San Jose, California.",Ìlu California ń yẹgi fún ènìyàn ní gbangba títí di òpin ọdún 1875.,entailment
+"Wọ́n yẹgi fún-un ní gbangba ní ọjọ́ 19 oṣù Èrenà, ọdún 1875, ní ìlu San Jose, California.",Wọ́n bọ́ okùn gbogbo àṣìṣe kúrò lọ́run rẹ̀ wọ́n sì dá a sílẹ̀.,contradiction
+"Wọ́n yẹgi fún-un ní gbangba ní ọjọ́ 19 oṣù Èrenà, ọdún 1875, ní ìlu San Jose, California.",Wọ́n yẹgi fún-un fún ọ̀tẹ̀ ṣíṣe àti jíjí ẹṣin.,neutral
+"Lásíkò ìṣesí aláìlápèjúwe, omi òkun aláwọ̀ ewé tó ń dan náà máa ń ṣàn lọ.",Àwọ aró dúdú ni omi òkun náà ó sì ń dán bíi gílásì.,contradiction
+"Lásíkò ìṣesí aláìlápèjúwe, omi òkun aláwọ̀ ewé tó ń dan náà máa ń ṣàn lọ.",Omi òkun náà kún fún ẹja kéékèèkéé tí wọ́n máa ń ṣàn sí ara ọkọ̀ ojú omi.,neutral
+"Lásíkò ìṣesí aláìlápèjúwe, omi òkun aláwọ̀ ewé tó ń dan náà máa ń ṣàn lọ.",Àwọ̀ ewé ni omi òkun náà ó sì máa ń yọ bíi fòfó.,entailment
+Ìwé ìdájọ́ Ilé-ẹjọ́ tuntun pátápátá kan ń pòngbẹ láti ṣiṣẹ́ lọ́nà tó yàtọ̀ sí ti rògbòdìyàn àwọn ọdún 1860s. ,Ní àwọn ọdún 1870s gbogbo ìwé ìdájọ́ Ilé-ẹjọ́ ti wó orílẹ̀-èdè náà sì wà nínú ìdàrúdàpọ̀.,contradiction
+Ìwé ìdájọ́ Ilé-ẹjọ́ tuntun pátápátá kan ń pòngbẹ láti ṣiṣẹ́ lọ́nà tó yàtọ̀ sí ti rògbòdìyàn àwọn ọdún 1860s. ,Àsìkò ariwo ni àwọn ọdún 1860s jẹ́.,entailment
+Ìwé ìdájọ́ Ilé-ẹjọ́ tuntun pátápátá kan ń pòngbẹ láti ṣiṣẹ́ lọ́nà tó yàtọ̀ sí ti rògbòdìyàn àwọn ọdún 1860s. ,Ìwé ìdájọ́ Ilé-ẹjọ́ tuntun náà ń gbèrò láti fẹ ẹ̀tọ́ àwọn òṣìṣẹ́ lójú.,neutral
+"Èyíkéyìí ẹ̀ya ìrònú tó ga, tí ó tọ́ka sí, kọ́kọ́ jẹyọ nínú ọ̀rọ̀ àwùjọ, láàrín ọmọ náà àti àwọn aṣojú àṣà rẹ̀ gẹ́gẹ́ bí wọ́n ṣe ń kópa nínú iṣẹ́ àjọṣe.",Àwọn ọmọdé ò ní agbára láti ní ẹ̀ya ìrònú tó ga kan náà. ,contradiction
+"Èyíkéyìí ẹ̀ya ìrònú tó ga, tí ó tọ́ka sí, kọ́kọ́ jẹyọ nínú ọ̀rọ̀ àwùjọ, láàrín ọmọ náà àti àwọn aṣojú àṣà rẹ̀ gẹ́gẹ́ bí wọ́n ṣe ń kópa nínú iṣẹ́ àjọṣe.",Ẹja pípa jẹ́ iṣẹ́ kan tó gbajúmọ̀ tí ó jẹ́ àjọni láàrín ọ̀pọ̀lọpọ̀ oríṣiríṣi àṣà.,neutral
+"Èyíkéyìí ẹ̀ya ìrònú tó ga, tí ó tọ́ka sí, kọ́kọ́ jẹyọ nínú ọ̀rọ̀ àwùjọ, láàrín ọmọ náà àti àwọn aṣojú àṣà rẹ̀ gẹ́gẹ́ bí wọ́n ṣe ń kópa nínú iṣẹ́ àjọṣe.",Ṣíṣe iṣẹ́ àjọni máa ń ran ènìyàn lọ́wọ́ nígbà míràn fún àjọni àwọn ẹ̀ya ìrònú kan tó ga.,entailment
+"Àwọn àdúgbò kan ní àwọn aládùra tàbí aládùúrà, àwọn adarí ẹ̀sìn tí wọ́n ń darí àwùjọ nínú àdúrà fún ìsìnkú, ayẹyẹ ọjọ́ àwọn ènìyàn mímọ́ àti ìgbàkúgbà tí àlùfáà ìjọ ò bá sí nílé. ",Kò sí ìkankan nínú àwọn àdúgbò náà tó ní àwọn adarí ẹ̀sìn tí wọn kì í ṣe àlùfáà ìjọ. ,contradiction
+"Àwọn àdúgbò kan ní àwọn aládùra tàbí aládùúrà, àwọn adarí ẹ̀sìn tí wọ́n ń darí àwùjọ nínú àdúrà fún ìsìnkú, ayẹyẹ ọjọ́ àwọn ènìyàn mímọ́ àti ìgbàkúgbà tí àlùfáà ìjọ ò bá sí nílé. ",Àwọn àdúgbò kan ní àwọn adarí ẹ̀sìn tí wọn kì í ṣe àlùfáà ìjọ. ,entailment
+"Àwọn àdúgbò kan ní àwọn aládùra tàbí aládùúrà, àwọn adarí ẹ̀sìn tí wọ́n ń darí àwùjọ nínú àdúrà fún ìsìnkú, ayẹyẹ ọjọ́ àwọn ènìyàn mímọ́ àti ìgbàkúgbà tí àlùfáà ìjọ ò bá sí nílé. ",Àwọn kan nínú àwọn adarí ẹ̀sìn náà ní irun dúdú.,neutral
+"Nínú eré orí ìtàgé àwọn ọmọdé bákan náà, ànfàní láti kópa àti láti darí oríṣiríṣi ojúṣe ṣe é ṣe kó ran àwọn ọmọdé lọ́wọ́ láti mo ìjọra àti ìyàtọ̀ láàrín àwọn ènìyàn nínú ìfẹ́kúfẹ̀, ìgbàgbọ́ àti ìmọ̀lára. ",Àwọn ọmọdé lè kẹ́kọ̀ọ́ nípa bí àwọn ènìyàn ṣe jọra àti bí wọ́n ṣe yàtọ̀.,entailment
+"Nínú eré orí ìtàgé àwọn ọmọdé bákan náà, ànfàní láti kópa àti láti darí oríṣiríṣi ojúṣe ṣe é ṣe kó ran àwọn ọmọdé lọ́wọ́ láti mo ìjọra àti ìyàtọ̀ láàrín àwọn ènìyàn nínú ìfẹ́kúfẹ̀, ìgbàgbọ́ àti ìmọ̀lára. ",Àwọn ọmọdé rí bí oríṣiríṣi ìran ṣe yàtọ̀.,neutral
+"Nínú eré orí ìtàgé àwọn ọmọdé bákan náà, ànfàní láti kópa àti láti darí oríṣiríṣi ojúṣe ṣe é ṣe kó ran àwọn ọmọdé lọ́wọ́ láti mo ìjọra àti ìyàtọ̀ láàrín àwọn ènìyàn nínú ìfẹ́kúfẹ̀, ìgbàgbọ́ àti ìmọ̀lára. ",Àwọn ọmọdé ò lè kọ́ ǹkankan.,contradiction
+"Nǹkan tó dára jùlọ nínú àṣẹ ìwé òfin orílẹ̀-ède Germany lẹ́yìn ogun, nígbà náà, ni pàtó ni ìpànìyàn alágbára ti ìjọba Nazi.",Ìjọba Nazi fi ààyè gbà á.,contradiction
+"Nǹkan tó dára jùlọ nínú àṣẹ ìwé òfin orílẹ̀-ède Germany lẹ́yìn ogun, nígbà náà, ni pàtó ni ìpànìyàn alágbára ti ìjọba Nazi.",Ìjọba Nazi pa gbogbo ènìyàn tó lọ́wọ́ nínú ẹ̀.,neutral
+"Nǹkan tó dára jùlọ nínú àṣẹ ìwé òfin orílẹ̀-ède Germany lẹ́yìn ogun, nígbà náà, ni pàtó ni ìpànìyàn alágbára ti ìjọba Nazi.",Ìjọba Nazi ló mú u wá sí òpin.,entailment
+Sonja ọmọ náà bẹ̀rẹ̀ sí sín ìbínú ọmọbìnrin rẹ̀ jẹ.,Kò sí ẹnìkankan tí inú ń bí. ,contradiction
+Sonja ọmọ náà bẹ̀rẹ̀ sí sín ìbínú ọmọbìnrin rẹ̀ jẹ.,Ọmọdé ni Sonja.,entailment
+Sonja ọmọ náà bẹ̀rẹ̀ sí sín ìbínú ọmọbìnrin rẹ̀ jẹ.,Inu ń bí Sonja.,neutral
+"6 Nínú ọdún márùnléláàdọ́ta tó yọrí sí Ogun Àgbáyé náà, Ilé-ẹjọ́ náà lo agbára yìí lẹ́kọ̀ọ̀kan. ",Ilé-ẹjọ́ náà lo agbára yìí ní ọdún mẹ́wàá tó yọrí sí Ogun Àgbáyé náà.,entailment
+"6 Nínú ọdún márùnléláàdọ́ta tó yọrí sí Ogun Àgbáyé náà, Ilé-ẹjọ́ náà lo agbára yìí lẹ́kọ̀ọ̀kan. ",Ilé-ẹjọ́ náà lo agbára yìí ní ìgbà 4 ní ọdún márùnléláàdọ́ta tó yọrí sí Ogun Àgbáyé náà.,neutral
+"6 Nínú ọdún márùnléláàdọ́ta tó yọrí sí Ogun Àgbáyé náà, Ilé-ẹjọ́ náà lo agbára yìí lẹ́kọ̀ọ̀kan. ",Ilé-ẹjọ́ náà lo agbára yìí ní ìgba 5 mílíọ̀nù ní ọdún márùnléláàdọ́ta tó yọrí sí Ogun Àgbáyé náà.,contradiction
+"Mo fi dá a yín lójú sà, wí pé wọ́n fún mi ní ìròyìn kíkún nípa gbogbo rẹ̀. ",Mò ń sọ fún ẹ wí pé wọ́n fún mi ní ìmọ̀ nípa gbogbo rẹ̀.,entailment
+"Mo fi dá a yín lójú sà, wí pé wọ́n fún mi ní ìròyìn kíkún nípa gbogbo rẹ̀. ",Ikú ọ̀tẹlẹ̀múyẹ́ náà ni wọ́n sọ fún mi nípa rẹ̀.,neutral
+"Mo fi dá a yín lójú sà, wí pé wọ́n fún mi ní ìròyìn kíkún nípa gbogbo rẹ̀. ",Ọ̀pọ̀lọpọ̀ ìròyìn ni wọ́n fi pamọ́ fún mi.,contradiction
+Ìró náà dí Captain Blood lọ́wọ́ níbi èrò àìnítẹ̀lọ́rùn rẹ̀. ,Captain Blood rí ààyè ronú èrò àìnítẹ̀lọ́rùn rẹ̀ láìsí ìdíwọ́.,contradiction
+Ìró náà dí Captain Blood lọ́wọ́ níbi èrò àìnítẹ̀lọ́rùn rẹ̀. ,Àwọn ariwo kan ló ba ìrònu Captain Blood jẹ́.,entailment
+Ìró náà dí Captain Blood lọ́wọ́ níbi èrò àìnítẹ̀lọ́rùn rẹ̀. ,Ariwo ọmọ ajá náà jí awakọ̀ ojú omi náà níbi ìrònu rẹ̀.,neutral
+"Ṣùgbọ́n mi ò lè gbàgbé ìgbà tí mi ò jọ ẹrú ní ilé ẹ̀gbọ́n rẹ ní Barbados, ìwọ́ lò mí pẹ̀lú irúfẹ́ ojú àánú kan.",O tọ́jú mi dáadáa nígbà tí mo jẹ́ ẹrú ní ìlú Barbados.,entailment
+"Ṣùgbọ́n mi ò lè gbàgbé ìgbà tí mi ò jọ ẹrú ní ilé ẹ̀gbọ́n rẹ ní Barbados, ìwọ́ lò mí pẹ̀lú irúfẹ́ ojú àánú kan.","O burú sí mi gan, o sì ṣemí bí ò ṣe dáa ju ìdọ̀tí lọ. ",contradiction
+"Ṣùgbọ́n mi ò lè gbàgbé ìgbà tí mi ò jọ ẹrú ní ilé ẹ̀gbọ́n rẹ ní Barbados, ìwọ́ lò mí pẹ̀lú irúfẹ́ ojú àánú kan.",Ẹ̀gbọ́n rẹ máa ń nà mí gidi gan lójoojúmọ́ nígbà tí ó jẹ́ olówó mi. ,neutral
+"Níbẹ̀, tí ò ju máìlì mẹ́ta lọ síbí, ilẹ̀ wà--ògiri tí ò dọ́gba aláwọ̀ ewé tó gba agbègbè ìwọ̀ oòrùn kan.",Ilẹ̀ tó ní koríko tútù náà ti di àfojúrí. ,entailment
+"Níbẹ̀, tí ò ju máìlì mẹ́ta lọ síbí, ilẹ̀ wà--ògiri tí ò dọ́gba aláwọ̀ ewé tó gba agbègbè ìwọ̀ oòrùn kan.",Erékùṣù tí wọ́n ń lọ ò ní àwọn olùgbé.,neutral
+"Níbẹ̀, tí ò ju máìlì mẹ́ta lọ síbí, ilẹ̀ wà--ògiri tí ò dọ́gba aláwọ̀ ewé tó gba agbègbè ìwọ̀ oòrùn kan.","Wọn kò rí ilẹ̀ kankan fún ọ̀pọ̀lọpọ̀ máílì, yàtọ̀ sí omi tí ò lópin.",contradiction
+"Èmi ni oníṣe Ọlọ́lá Jùlọ sí àwọn apá ìbi tí ò sí ọ̀làjú yìí, àti àwọn iyèkan Lord Sunderland mi. ","Ọlọ́lá jùlọ ní àwọn oníṣẹ́, mo sì jẹ́ ọ̀kan lára wọn. ",entailment
+"Èmi ni oníṣe Ọlọ́lá Jùlọ sí àwọn apá ìbi tí ò sí ọ̀làjú yìí, àti àwọn iyèkan Lord Sunderland mi. ",Ọlọ́lá jùlọ rán mi wá síbí ní nǹkan bí ọ̀sẹ̀ kan sẹ́yìn.,neutral
+"Èmi ni oníṣe Ọlọ́lá Jùlọ sí àwọn apá ìbi tí ò sí ọ̀làjú yìí, àti àwọn iyèkan Lord Sunderland mi. ",Mi ò kì ń gba àṣẹ láti ọwọ́ Ọlọ́lá Jùlọ.,contradiction
+"Ìwọ ni mo jẹ ní gbèse ẹ̀--tàbí mo rò wí pé mo jẹ ẹ́, ó sọ bẹ́ẹ̀.",Kò rò wí pé òún jẹ ẹ́ ní nǹkankan.,contradiction
+"Ìwọ ni mo jẹ ní gbèse ẹ̀--tàbí mo rò wí pé mo jẹ ẹ́, ó sọ bẹ́ẹ̀.",Ó jẹ ẹ́ ní gbèsè fún ìrànlọ́wọ́ tí o ṣe fún- nígbà tó jẹ́ atẹ́wọ́gbọrẹ tí ò lówó.,neutral
+"Ìwọ ni mo jẹ ní gbèse ẹ̀--tàbí mo rò wí pé mo jẹ ẹ́, ó sọ bẹ́ẹ̀.",Ó rò wí pé òún jẹ ẹ́ ní nǹkan ni.,entailment
+Ó yẹ kí n ti mọ̀ tẹ́lẹ̀ ju pé kí n súnmọ́ orílẹ̀-èdè Jamaica pẹ́kípẹ́kí ní alẹ́ lọ.,Mo rìnrìnàjò súnmọ́ orílẹ̀-èdè Jamaica lẹ́yìn tí oòrùn ti wọ̀.,entailment
+Ó yẹ kí n ti mọ̀ tẹ́lẹ̀ ju pé kí n súnmọ́ orílẹ̀-èdè Jamaica pẹ́kípẹ́kí ní alẹ́ lọ.,Mo rìnrìnàjò lọ sí orílẹ̀-èdè Jamaica nínú ọkọ̀ ojú omi ńlá.,neutral
+Ó yẹ kí n ti mọ̀ tẹ́lẹ̀ ju pé kí n súnmọ́ orílẹ̀-èdè Jamaica pẹ́kípẹ́kí ní alẹ́ lọ.,Èmi àti ìyàwó mi dé sí orílẹ̀-èdè Jamaica ní ojúmọmọ.,contradiction
+Èrò Blood dá lórí eléyìí àti àwọn nǹkan mìíràn bó ṣe jókòó ìdẹ̀ra sórí àga oníbùsùn náà. ,Blood sun ó sì lá àlá àìròtẹ́lẹ̀ lórí àga oníbùsùn náà.,contradiction
+Èrò Blood dá lórí eléyìí àti àwọn nǹkan mìíràn bó ṣe jókòó ìdẹ̀ra sórí àga oníbùsùn náà. ,Blood ń ronú nígbà tí ó fara lélẹ̀.,entailment
+Èrò Blood dá lórí eléyìí àti àwọn nǹkan mìíràn bó ṣe jókòó ìdẹ̀ra sórí àga oníbùsùn náà. ,Blood ń ronú kíkankíkan nípa ìgbà tó rí ìya rẹ̀ gbẹ̀yìn.,neutral
+"Bẹ́ẹ̀ni, nígbà náà, mà á máa sọ fún ẹ.","Ó dáa nígbà náà, mà á sọ fún ẹ nípa rẹ̀.",entailment
+"Bẹ́ẹ̀ni, nígbà náà, mà á máa sọ fún ẹ.",Mi ò ní bá ẹ sọ̀rọ̀ kankan. ,contradiction
+"Bẹ́ẹ̀ni, nígbà náà, mà á máa sọ fún ẹ.",Nítorí o ṣe ìlérí wí pé o kò ní ṣe irú rẹ̀ èyí tí mò ń sọ fún ẹ.,neutral
+Ah! Ọ̀nà wo ni ìyẹn lè jẹ́?,Ẹnìkan ń bèrè ọ̀nà tí yóò gbà.,entailment
+Ah! Ọ̀nà wo ni ìyẹn lè jẹ́?,Aṣèbéèrè náà dá wà ni kò sì ní ẹnìkan ní àyíká rẹ̀ láti bá sọ̀rọ̀. ,contradiction
+Ah! Ọ̀nà wo ni ìyẹn lè jẹ́?,Aṣèbéèrè náà ń kánjú ó sì nílò láti mọ ọ̀nà tí yóò gbà lẹ́sẹ̀kẹsẹ̀.,neutral
+Mi ò kí ń gba ìwé ìyanisípò Ọba pẹ̀lú eré. ,Gbígba ìwé ìyanisípò Ọba tako ìwà mi.,neutral
+Mi ò kí ń gba ìwé ìyanisípò Ọba pẹ̀lú eré. ,Mo ti ronú dáadáa lórí ìwé ìyanisípò Ọba náà. ,entailment
+Mi ò kí ń gba ìwé ìyanisípò Ọba pẹ̀lú eré. ,Mo bu ọwọ́ lu ìwé àṣe náà láti gba ìwé ìyanisípò Ọba láìṣe iyè méjì.,contradiction
+Ó rí i wípé òún nílò láti padà ní kíákíá.,Ó rí i wí pé òún ní gbogbo ọjọ́ láti padà.,contradiction
+Ó rí i wípé òún nílò láti padà ní kíákíá.,Ó rí i wí pé òún ní láti gbé ìgbésẹ̀ ní kíákíá.,entailment
+Ó rí i wípé òún nílò láti padà ní kíákíá.,"Tí ó bá dúró sójú kan ṣoṣo, wọn yóò rí i.",neutral
+"Síbẹ̀síbẹ̀ ó ti jẹ́ ǹkan tó jẹ́ ó sì ti ṣe nǹkan tó ṣe ní bíi ọdún mẹ́ta sẹ́yìn yìí, ó sọ bẹ́ẹ̀, ṣùgbọ́n ó ń sọ ọ́ pẹ̀lú ìbànújẹ́ báyìí, láìsí èyíkéyìí àrínfín rẹ̀ tó ti kọjá.",Kò fẹ́ràn bí ó ṣe jẹ́ wí pé ó ti pa ọ̀pọ̀lọpọ̀ ọkùnrin ní bíi ọdún mẹ́ta sẹ́yìn.,neutral
+"Síbẹ̀síbẹ̀ ó ti jẹ́ ǹkan tó jẹ́ ó sì ti ṣe nǹkan tó ṣe ní bíi ọdún mẹ́ta sẹ́yìn yìí, ó sọ bẹ́ẹ̀, ṣùgbọ́n ó ń sọ ọ́ pẹ̀lú ìbànújẹ́ báyìí, láìsí èyíkéyìí àrínfín rẹ̀ tó ti kọjá.",Ó sọ̀rọ̀ pẹ̀lú ìdùnnú lórí ìrìnàjò rẹ̀ àti ìwa rẹ̀.,contradiction
+"Síbẹ̀síbẹ̀ ó ti jẹ́ ǹkan tó jẹ́ ó sì ti ṣe nǹkan tó ṣe ní bíi ọdún mẹ́ta sẹ́yìn yìí, ó sọ bẹ́ẹ̀, ṣùgbọ́n ó ń sọ ọ́ pẹ̀lú ìbànújẹ́ báyìí, láìsí èyíkéyìí àrínfín rẹ̀ tó ti kọjá.",Ó sọ̀rọ̀ pẹ̀lú ohùn ìbànújẹ́.,entailment
+Mo rò wí pé ìyẹn wà lẹ́yìn oge irú àwọn ènìyàn bíi tìẹ.,Mo fẹ́ gbà wí pé ohun tí àwọn ènìyàn bíi tìẹ máa ń ṣe nìyìí.,entailment
+Mo rò wí pé ìyẹn wà lẹ́yìn oge irú àwọn ènìyàn bíi tìẹ.,"Mo ti kà nípa àwọn ènìyàn bíi tìẹ, àti àṣà wọn.",neutral
+Mo rò wí pé ìyẹn wà lẹ́yìn oge irú àwọn ènìyàn bíi tìẹ.,Mà á rí i gẹ́gẹ́ bí ẹni wí pé èyí kò wọ́pọ̀ láàrin irú àwọn ènìyàn bíi tìẹ.,contradiction
+Ìbínú jẹ́ kí ojú rẹ̀ hunjọ.,Ẹ̀rìn-ín ńlá gba ojú rẹ̀ kan.,contradiction
+Ìbínú jẹ́ kí ojú rẹ̀ hunjọ.,Ó ní ìmọ̀lára àìsàn nínú ikùn rẹ̀.,neutral
+Ìbínú jẹ́ kí ojú rẹ̀ hunjọ.,Ìbínú hàn ní ojúu rẹ̀. ,entailment
+"Ó tí ń ṣàkíyèsi rẹ̀ pẹ̀lú ẹ̀dọ ojú ṣùgbọ́n lógán tó rí ìbànújẹ tó wà lójú rẹ̀, àti ìfajúro tó dẹ́rùba iwájú orí rẹ̀, ojú tiẹ̀ náà yí padà.",Ojú rẹ̀ yípadà lẹ́yìn tí ó rí ojú rẹ̀.,entailment
+"Ó tí ń ṣàkíyèsi rẹ̀ pẹ̀lú ẹ̀dọ ojú ṣùgbọ́n lógán tó rí ìbànújẹ tó wà lójú rẹ̀, àti ìfajúro tó dẹ́rùba iwájú orí rẹ̀, ojú tiẹ̀ náà yí padà.",Ojú rẹ̀ mọ́lẹ̀ nígbà tí ó rí ìbínú lójú rẹ̀.,contradiction
+"Ó tí ń ṣàkíyèsi rẹ̀ pẹ̀lú ẹ̀dọ ojú ṣùgbọ́n lógán tó rí ìbànújẹ tó wà lójú rẹ̀, àti ìfajúro tó dẹ́rùba iwájú orí rẹ̀, ojú tiẹ̀ náà yí padà.",Kò mọ bóyá ó ń bínú sí i. ,neutral
+"Ó rìn gbẹndẹ́kẹ, ó pé ògiri tó ní ìpèníjà náà kọjá, ó sì gba àwọn ẹnu ìloro ńlá náà wọlé sínú ọgbà náà.","Nígbà tí ẹnu ìloro ńlá náà tí wà ní títì pa, o fo ìgànná, wọ inú ọgbà. ",contradiction
+"Ó rìn gbẹndẹ́kẹ, ó pé ògiri tó ní ìpèníjà náà kọjá, ó sì gba àwọn ẹnu ìloro ńlá náà wọlé sínú ọgbà náà.",Ẹnu ìloro ńlá náà nìkan ni ẹnu ọ̀nà àbáwọlé sínú ọgbà náà.,neutral
+"Ó rìn gbẹndẹ́kẹ, ó pé ògiri tó ní ìpèníjà náà kọjá, ó sì gba àwọn ẹnu ìloro ńlá náà wọlé sínú ọgbà náà.",Ẹnu ìloro ńlá kan wà tó wọ inú ọgbà náà.,entailment
+"Wà á rún-un mọ́ ọ débi igi ìsonirọ̀ náà, kò sí àní àní, ó sọ bẹ́ẹ̀ pẹ̀lú àrífín.",Ó rò wí pé ẹnìkan yóò lọ sí ibi igi ìsonirọ̀ náà ni.,entailment
+"Wà á rún-un mọ́ ọ débi igi ìsonirọ̀ náà, kò sí àní àní, ó sọ bẹ́ẹ̀ pẹ̀lú àrífín.",Adájọ́ tó ti mú olè rí ni.,neutral
+"Wà á rún-un mọ́ ọ débi igi ìsonirọ̀ náà, kò sí àní àní, ó sọ bẹ́ẹ̀ pẹ̀lú àrífín.",Ó sọ ni ọ̀nà tí wọn lè gbà sá jáde ní ìlú kẹ́lẹ́kẹ́lẹ́ láti má lọ sí ẹ̀wọ̀n.,contradiction
+Báwo ni mo ṣe lè mọ̀ọ́mọ̀ tì wọ́n mọ́lé? Ó wà nínú ọ̀rọ̀ àjosọ.,Mi ò ní ìgboyà láti tì wọ́n mọ́lé.,entailment
+Báwo ni mo ṣe lè mọ̀ọ́mọ̀ tì wọ́n mọ́lé? Ó wà nínú ọ̀rọ̀ àjosọ.,Bí mo ṣe ti rí wọn ni mo ti tì wọ́n mọ́lé.,contradiction
+Báwo ni mo ṣe lè mọ̀ọ́mọ̀ tì wọ́n mọ́lé? Ó wà nínú ọ̀rọ̀ àjosọ.,"Mi ò bá ti í dáríjì ara mi, tó bá jẹ́ wí pé mo tì wọ́n mọ́lé ni.",neutral
+Mo ti ń dọdẹ rẹ̀ láti ọdún tó kọjá.,Mo ti n tẹ̀le pẹ́kípẹ́kí fún bíi ọdún kan tí kò sì mọ̀.,neutral
+Mo ti ń dọdẹ rẹ̀ láti ọdún tó kọjá.,Mo tí ń tẹ̀le fún bíi ọ̀sẹ̀ kan.,contradiction
+Mo ti ń dọdẹ rẹ̀ láti ọdún tó kọjá.,Láti bíi ọdún tó kọjá ni mo ti ń dọdẹ rẹ̀. ,entailment
+Mùsíọ́mù náà kò fẹsẹ̀ múlẹ̀ lórí ìwé orúkọ tàbí ìwé ìsàmì ǹkan,Mùsíọ́mù náà ò fẹ́ràn kí wọ́n máa sàmì sí òun.,neutral
+Mùsíọ́mù náà kò fẹsẹ̀ múlẹ̀ lórí ìwé orúkọ tàbí ìwé ìsàmì ǹkan,Mùsíọ́mù náà ò fẹ́ràn ìwé ìpolówó.,entailment
+Mùsíọ́mù náà kò fẹsẹ̀ múlẹ̀ lórí ìwé orúkọ tàbí ìwé ìsàmì ǹkan,Ohun ìṣura mùsíọ́mù náà ni ìwe orúkọ.,contradiction
+Àwọn ọjà ìta gbangba náà ni àwọn ààyè tó dára jùlọ láti ra nǹkan ní ìlu Beijing.,Ìlú Beijing ni àwọn ọjà ìta gbangba tó ní àwọn ilé ìtajà tó dára. ,entailment
+Àwọn ọjà ìta gbangba náà ni àwọn ààyè tó dára jùlọ láti ra nǹkan ní ìlu Beijing.,Àwọn ọjà ìta gbangba ní ìlú Beijing ni ó dára jùlọ ní àgbáyé.,neutral
+Àwọn ọjà ìta gbangba náà ni àwọn ààyè tó dára jùlọ láti ra nǹkan ní ìlu Beijing.,Òfin líle ìlu Beijing kò fi ààyè gba ọjà ìta gbangba láàrin òpin ìlú náà.,contradiction
+"Adágún omi tó tóbi jù ní àríwá ìwọ̀ oòrun jẹ́ ibi àbò tó dára, ṣùgbọ́n àpapọ̀ omi àti etí òkun náà lè dọ̀tí.",Omi àti etí òkun náà máa ń mọ́ ní gbogbo ìgbà. ,contradiction
+"Adágún omi tó tóbi jù ní àríwá ìwọ̀ oòrun jẹ́ ibi àbò tó dára, ṣùgbọ́n àpapọ̀ omi àti etí òkun náà lè dọ̀tí.",Omi àti etí òkun náà lè dọ̀tí.,entailment
+"Adágún omi tó tóbi jù ní àríwá ìwọ̀ oòrun jẹ́ ibi àbò tó dára, ṣùgbọ́n àpapọ̀ omi àti etí òkun náà lè dọ̀tí.",Omi náà dọ̀tí nítorí ìbomijẹ́.,neutral
+"Ilé ìfowópamọ́ ni àwọn ilé gogoro náà, ìrònà tí wọ́n sì dúró sí ni wọ́n ti sọ àpèjẹ́ rẹ̀ di Milla de Oro, tàbí Golden mile.",Kò sí ìkankan nínú àwọn ilé gogoro tó wà ní Golden mile tó jẹ́ ilé ìfowópamọ́.,contradiction
+"Ilé ìfowópamọ́ ni àwọn ilé gogoro náà, ìrònà tí wọ́n sì dúró sí ni wọ́n ti sọ àpèjẹ́ rẹ̀ di Milla de Oro, tàbí Golden mile.",Ilé ìfowópamọ́ ni àwọn ilé gogoro tó wà ní Golden Mile.,entailment
+"Ilé ìfowópamọ́ ni àwọn ilé gogoro náà, ìrònà tí wọ́n sì dúró sí ni wọ́n ti sọ àpèjẹ́ rẹ̀ di Milla de Oro, tàbí Golden mile.","Àwọn ilé gogoro tó wà ní Golden Mile jẹ́ ti oríṣìíríṣìí ìṣòwò, tó fi mọ́ ilé ìfowópamọ́.",neutral
+"Ó jọ àìṣẹ̀dá lóòtọ́, lẹ́yìn náà, dídá sí ogun àgbáyé II yẹn bẹ̀rẹ̀ pẹ̀lú Ìpinnu Ìgbaradì Ọkọ̀ Òfurufú Àwọn Orílẹ̀-èdè Olómìnira Britain, lílo ojú òfurufú Canada tí ò léwu láti ṣe ìgbaradì fún àwọn awakọ̀ òfurufú fún ìjàkadì. ",Orílẹ̀-èdè Canada ní ojú òfurufú tí kò léwu.,entailment
+"Ó jọ àìṣẹ̀dá lóòtọ́, lẹ́yìn náà, dídá sí ogun àgbáyé II yẹn bẹ̀rẹ̀ pẹ̀lú Ìpinnu Ìgbaradì Ọkọ̀ Òfurufú Àwọn Orílẹ̀-èdè Olómìnira Britain, lílo ojú òfurufú Canada tí ò léwu láti ṣe ìgbaradì fún àwọn awakọ̀ òfurufú fún ìjàkadì. ",Ojú òfurufú orílẹ̀-èdè Canada ò ní àdó olóró ojú òfurufú.,neutral
+"Ó jọ àìṣẹ̀dá lóòtọ́, lẹ́yìn náà, dídá sí ogun àgbáyé II yẹn bẹ̀rẹ̀ pẹ̀lú Ìpinnu Ìgbaradì Ọkọ̀ Òfurufú Àwọn Orílẹ̀-èdè Olómìnira Britain, lílo ojú òfurufú Canada tí ò léwu láti ṣe ìgbaradì fún àwọn awakọ̀ òfurufú fún ìjàkadì. ",Ojú òfurufú orílẹ̀-èdè Canada tún léwu gidi gan.,contradiction
+"Wọn sì tún ní ìfaradà wọ́n sì ń ṣàánú, bó tilẹ̀ jẹ́ wí pé wọ́n mọ̀ pé etí odò wọn tó rẹwà kì í ṣe tiwọn nìkan mọ́.",Inú wọn bàjẹ́ wọ́n sì ń bínú sí gbogbo ènìyàn báyìí tí wọ́n ní láti ṣe alábàpín etí odò náà.,contradiction
+"Wọn sì tún ní ìfaradà wọ́n sì ń ṣàánú, bó tilẹ̀ jẹ́ wí pé wọ́n mọ̀ pé etí odò wọn tó rẹwà kì í ṣe tiwọn nìkan mọ́.",Wọ́n ní láti ṣe alábàpín etí odò náà pẹ̀lú àwọn ènìyàn míràn báyìí.,entailment
+"Wọn sì tún ní ìfaradà wọ́n sì ń ṣàánú, bó tilẹ̀ jẹ́ wí pé wọ́n mọ̀ pé etí odò wọn tó rẹwà kì í ṣe tiwọn nìkan mọ́.",Àwọn ni wọ́n ni ẹ̀dẹ́gbẹ̀ta máílì níwájú etí odò náà tẹ́lẹ̀ rí. ,neutral
+"Kublai Khan dá olú ìlú tiẹ̀ sílẹ̀ ní odún 1279 ní etí odò Beijing Beihai Lake, níbi tí àwọn ohun àlùmọ́nì ọba rẹ̀ wà fún ìpàtẹ lóni. ",Kublai Khan dá olú ìlú kan sílẹ̀ ní ìlú Taiwan.,contradiction
+"Kublai Khan dá olú ìlú tiẹ̀ sílẹ̀ ní odún 1279 ní etí odò Beijing Beihai Lake, níbi tí àwọn ohun àlùmọ́nì ọba rẹ̀ wà fún ìpàtẹ lóni. ",Kublai Khan ní àwọn ohun àlùmọ́nì ní ìlú Beijing.,entailment
+"Kublai Khan dá olú ìlú tiẹ̀ sílẹ̀ ní odún 1279 ní etí odò Beijing Beihai Lake, níbi tí àwọn ohun àlùmọ́nì ọba rẹ̀ wà fún ìpàtẹ lóni. ",Kublai Khan jẹ́ ọkùnrin kan tí wọ́n bọ̀wọ̀ fún dáadáa.,neutral
+"Níní àjọṣepọ̀ tó rọrùn pẹ̀lú àwọn àwùjọ Gẹ̀ẹ́sì nìkan Àwọn ilé-ẹ̀kọ́ kìrìsìtẹ́nì gba àwọn ọmọ wọn Àwọn Júù tí wọ́n wà ní Ìlà-oòrun Euroopu ti kẹ́kọ̀ọ́ jáde lọ sí ilé ẹ̀kọ́ kọ olówó Westmount tàbí kó jáde lọ, lẹ́ẹ̀kan sí i, sí Toronto.",Àwọn Júù tí wọ́n wà ní Ìlà-oòrun Euroopu máa ń ní àjọṣepọ̀ dáadáa pẹ̀lú gbogbo ènìyàn.,contradiction
+"Níní àjọṣepọ̀ tó rọrùn pẹ̀lú àwọn àwùjọ Gẹ̀ẹ́sì nìkan Àwọn ilé-ẹ̀kọ́ kìrìsìtẹ́nì gba àwọn ọmọ wọn Àwọn Júù tí wọ́n wà ní Ìlà-oòrun Euroopu ti kẹ́kọ̀ọ́ jáde lọ sí ilé ẹ̀kọ́ kọ olówó Westmount tàbí kó jáde lọ, lẹ́ẹ̀kan sí i, sí Toronto.",Àwọn ará ìlú tó kù kò fẹ́ àwọn ará Júù.,neutral
+"Níní àjọṣepọ̀ tó rọrùn pẹ̀lú àwọn àwùjọ Gẹ̀ẹ́sì nìkan Àwọn ilé-ẹ̀kọ́ kìrìsìtẹ́nì gba àwọn ọmọ wọn Àwọn Júù tí wọ́n wà ní Ìlà-oòrun Euroopu ti kẹ́kọ̀ọ́ jáde lọ sí ilé ẹ̀kọ́ kọ olówó Westmount tàbí kó jáde lọ, lẹ́ẹ̀kan sí i, sí Toronto.",Àwọn Júù máa ń ní àjọṣepọ̀ nírọ̀rùn pẹ̀lú àwọn àwùjọ Gẹ̀ẹ́sì.,entailment
+"Tó bá ṣe é ṣe, fi ojúù rẹ mọ ìpìlẹ̀ rẹ̀ ṣíwájú.",Má ṣe bẹ̀rẹ̀ ìpìlẹ̀ náà ṣíwájú; ó máa ba adùn rẹ̀ jẹ́ nígbẹ́yìn.,contradiction
+"Tó bá ṣe é ṣe, fi ojúù rẹ mọ ìpìlẹ̀ rẹ̀ ṣíwájú.","Gbìyànjú láti mọ ìpìlẹ̀ náà ṣíwájú, tí o bá lè ṣe é.",entailment
+"Tó bá ṣe é ṣe, fi ojúù rẹ mọ ìpìlẹ̀ rẹ̀ ṣíwájú.",Ẹ̀kọ́ náà máa rọrùn fún ẹ tí o bá mọ ìpìlẹ̀ ìwé náà.,neutral
+"Pósí rẹ̀, ní 27 m (88 ft) nínú ilẹ̀, ni wọ́n ṣe pẹ̀lú òkúta dídán tó sì tóbi tó 1,200sq m(13,000 sq ft).",Wọ́n sin-ín sí 20m sí ìsàlẹ̀ ilẹ̀.,entailment
+"Pósí rẹ̀, ní 27 m (88 ft) nínú ilẹ̀, ni wọ́n ṣe pẹ̀lú òkúta dídán tó sì tóbi tó 1,200sq m(13,000 sq ft).",Ó jẹ́ ènìyàn pàtàkì láàrín ìlú.,neutral
+"Pósí rẹ̀, ní 27 m (88 ft) nínú ilẹ̀, ni wọ́n ṣe pẹ̀lú òkúta dídán tó sì tóbi tó 1,200sq m(13,000 sq ft).",Igi ni wọ́n fi kan pósí rẹ̀.,contradiction
+Rántí láti fi gbogbo àwọn ohun ìní rẹ kékeré pamọ́ fún àwọn ọ̀bọ náà.,Fi ohun ìní rẹ̀ pamọ́ fún àwọn ọ̀bọ náà.,entailment
+Rántí láti fi gbogbo àwọn ohun ìní rẹ kékeré pamọ́ fún àwọn ọ̀bọ náà.,"Àwọn ọ̀bọ náà nífẹ̀ẹ́ sí oríṣiríṣi nǹkan, tó fi mọ́ àwọn ohun ìní rẹ.",neutral
+Rántí láti fi gbogbo àwọn ohun ìní rẹ kékeré pamọ́ fún àwọn ọ̀bọ náà.,O kò nílò láti fi àwọn ohun ìní rẹ̀ pamọ́ fún àwọn ọ̀bọ náà.,contradiction
+"Ní i bíi 1,400 ọdún ṣíwájú kí wọ́n tó kọ́ Ààfín Estei, Milreu náà jẹ́ ilé olówó ńlá ènìyàn pàtàkì kan. ",Milreu fi máìlí 10 jìnnà sí nǹkankan. ,neutral
+"Ní i bíi 1,400 ọdún ṣíwájú kí wọ́n tó kọ́ Ààfín Estei, Milreu náà jẹ́ ilé olówó ńlá ènìyàn pàtàkì kan. ",Milreu wà ní inú ìlú náà.,entailment
+"Ní i bíi 1,400 ọdún ṣíwájú kí wọ́n tó kọ́ Ààfín Estei, Milreu náà jẹ́ ilé olówó ńlá ènìyàn pàtàkì kan. ",Milreu wà ní àárín gbùngbùn ìlú náà.,contradiction
+Ìgbọ́ná omí okùn náà wà láàrin 18e àti 24e C(64-75 F).,"Ìgbóná omi okùn máa ń yí padà, ṣùgbọ́n wọn kì í kọjá ìwọ̀n dídì.",entailment
+Ìgbọ́ná omí okùn náà wà láàrin 18e àti 24e C(64-75 F).,Ìgbóná omi okùn máa ń wà ní ojú kan ní gbogbo ìgbà yípo ọdún.,contradiction
+Ìgbọ́ná omí okùn náà wà láàrin 18e àti 24e C(64-75 F).,Wò ìgbóná ojú ọjọ́ máa lọ sókè ní ojúmọmọ nígbà tí ó bá lọ́ wọ́ọ́rọ́.,neutral
+Ọgbà ìgbafẹ́ àpapọ̀ Kinabalu kàn jẹ́ ọ̀kan nínú àwọn agbègbè mẹ́fà tí wọ́n ń dábòbò ní ìpínlẹ̀ náà. ,Ọgbà ìgbafẹ́ àpapọ̀ Kinabalu ní erin mẹ́wàá àti àgbánrèeré mẹ́fà.,neutral
+Ọgbà ìgbafẹ́ àpapọ̀ Kinabalu kàn jẹ́ ọ̀kan nínú àwọn agbègbè mẹ́fà tí wọ́n ń dábòbò ní ìpínlẹ̀ náà. ,"Ìpínlẹ̀ náà ní àwọn agbègbè tí wọ́n dáábòbò, tó fi mọ́ ọgbà ìgbafẹ́ àpapọ̀ Kinabalu.",entailment
+Ọgbà ìgbafẹ́ àpapọ̀ Kinabalu kàn jẹ́ ọ̀kan nínú àwọn agbègbè mẹ́fà tí wọ́n ń dábòbò ní ìpínlẹ̀ náà. ,Àpapọ̀ agbègbè mẹ́ta ni wọ́n dáábòbò ní ìpínlẹ̀ náà.,contradiction
+Wà á rí àkàálẹ̀ aláwòrán ìtàn Anne àti ti Amsterdam lábẹ́ iṣẹ́ pẹ̀lú àwọn àwòrán àti àwọn ohun ìṣẹ̀nbáyé ìgbà náà. ,O kò ní rí àwọn àwòrán.,contradiction
+Wà á rí àkàálẹ̀ aláwòrán ìtàn Anne àti ti Amsterdam lábẹ́ iṣẹ́ pẹ̀lú àwọn àwòrán àti àwọn ohun ìṣẹ̀nbáyé ìgbà náà. ,Wà á rí àwọn àwòrán.,entailment
+Wà á rí àkàálẹ̀ aláwòrán ìtàn Anne àti ti Amsterdam lábẹ́ iṣẹ́ pẹ̀lú àwọn àwòrán àti àwọn ohun ìṣẹ̀nbáyé ìgbà náà. ,Wà á rí díẹ̀ nínú àwọn àwòrán àkọ́kọ́.,neutral
+"Treasure Beach nìkan ni agbègbè ìgbafẹ́ tí wọ́n ń sọ nípa rẹ̀, pẹ̀lú àwọn ilé ìtura díẹ̀ tí wọ́n tan káàkiri orí àwọn adágún omi mẹ́ta. ",Kò fi bẹ́ẹ̀ sí ọ̀pọ̀lọpọ̀ ilé ìtura fún àwọn ènìyàn tó ń wá sí Treasure Beach láti mú.,entailment
+"Treasure Beach nìkan ni agbègbè ìgbafẹ́ tí wọ́n ń sọ nípa rẹ̀, pẹ̀lú àwọn ilé ìtura díẹ̀ tí wọ́n tan káàkiri orí àwọn adágún omi mẹ́ta. ",Ilé ìtura oníràwò mẹ́rin kan wà fún àwọn arinrinàjò tó wá sí Treasure Beach.,neutral
+"Treasure Beach nìkan ni agbègbè ìgbafẹ́ tí wọ́n ń sọ nípa rẹ̀, pẹ̀lú àwọn ilé ìtura díẹ̀ tí wọ́n tan káàkiri orí àwọn adágún omi mẹ́ta. ",Treasure Beach jẹ́ ọ̀kan nínú ọ̀pọ̀lọpọ̀ àwọn ilé ìgbafẹ́ tó wà ní agbègbè náà.,contradiction
+"Ìgbà ẹ̀rùn máa ń mú ojú ọjọ́ tó lọ́ wọ́rọ́ dání (ṣùgbọ́n kì í gbóná) àti ìgbọ́ná omi ọ̀sà tó lọ́ wọ́rọ́, tó jẹ́ kí ó dára fún lílọ ìsàlẹ̀ odò, lílo ohun èlò tí a fi ń mí lábẹ́ omi, àti àwọn eré ìdárayá inú omi mìíràn.",Ìwọ̀n 100 ló máa ń jẹ́ ní gbogbo ìgbà tàbí kó gbóná jù bẹ́ẹ̀ lọ nígbà ẹ̀rùn.,contradiction
+"Ìgbà ẹ̀rùn máa ń mú ojú ọjọ́ tó lọ́ wọ́rọ́ dání (ṣùgbọ́n kì í gbóná) àti ìgbọ́ná omi ọ̀sà tó lọ́ wọ́rọ́, tó jẹ́ kí ó dára fún lílọ ìsàlẹ̀ odò, lílo ohun èlò tí a fi ń mí lábẹ́ omi, àti àwọn eré ìdárayá inú omi mìíràn.",75 ló máa ń jẹ́ lọ́pọ̀ ìgbà ní ìgbà ẹ̀ẹ̀rùn.,neutral
+"Ìgbà ẹ̀rùn máa ń mú ojú ọjọ́ tó lọ́ wọ́rọ́ dání (ṣùgbọ́n kì í gbóná) àti ìgbọ́ná omi ọ̀sà tó lọ́ wọ́rọ́, tó jẹ́ kí ó dára fún lílọ ìsàlẹ̀ odò, lílo ohun èlò tí a fi ń mí lábẹ́ omi, àti àwọn eré ìdárayá inú omi mìíràn.",Ìgbọ́ná ojú ọjọ́ máa ń lọ́ wọ́ọ́rọ́ ní àsìkò ẹ̀rùn.,entailment
+"Lára àwọn akérémọdò náà ni ọ̀kan tí àwọn ń gbé  Àwọn àlejò máa ń ju owó onírin sínú ẹ̀ ní ìrètí wí pé àwọn ó ju ọ̀kàn ba ìjàpá kan lórí, ọ̀nà kan tó dájú láti ṣe orí ire.",Àwọn ènìyàn ò ju owó sínú ẹ̀ nítorí orí burúkú ni.,contradiction
+"Lára àwọn akérémọdò náà ni ọ̀kan tí àwọn ń gbé  Àwọn àlejò máa ń ju owó onírin sínú ẹ̀ ní ìrètí wí pé àwọn ó ju ọ̀kàn ba ìjàpá kan lórí, ọ̀nà kan tó dájú láti ṣe orí ire.",Àwọn ènìyàn ń ju owó onírin sínú ẹ̀ bó tilẹ̀ jẹ́ wí pé pátákó náà sọ wí pé kí wọ́n má ṣe bẹ́ẹ̀.,neutral
+"Lára àwọn akérémọdò náà ni ọ̀kan tí àwọn ń gbé  Àwọn àlejò máa ń ju owó onírin sínú ẹ̀ ní ìrètí wí pé àwọn ó ju ọ̀kàn ba ìjàpá kan lórí, ọ̀nà kan tó dájú láti ṣe orí ire.",Àwọn ènìyàn ń ju owó onírin sínú omi náà.,entailment
+"Agbègbè ibùdókọ̀ Nafplio jẹ́ ààyè tó dára fún ìrìnàjò afẹ́, tàbí bóyá ààyè láti jẹ oúnjẹ ọ̀sán tí o bá ń rìnrìnàjò afẹ́. ",Nafplio dùn-ún wò lójú.,neutral
+"Agbègbè ibùdókọ̀ Nafplio jẹ́ ààyè tó dára fún ìrìnàjò afẹ́, tàbí bóyá ààyè láti jẹ oúnjẹ ọ̀sán tí o bá ń rìnrìnàjò afẹ́. ",Nafplio jẹ́ ààyè tó burú.,contradiction
+"Agbègbè ibùdókọ̀ Nafplio jẹ́ ààyè tó dára fún ìrìnàjò afẹ́, tàbí bóyá ààyè láti jẹ oúnjẹ ọ̀sán tí o bá ń rìnrìnàjò afẹ́. ",Nafplio jẹ́ ààyè tó dára jùlọ.,entailment
+"Ní Prinsengracht, Otto Frank àti àwọn ẹbíi rẹ̀ sápamọ́ sínú àjà tó wà ní agbègbè ilé ìtàjà wọn fún ọdún méjìí lé kí wọ́n tó rí wọn.",Wọ́n mú Otto Frank ní ọjọ́ kejì.,contradiction
+"Ní Prinsengracht, Otto Frank àti àwọn ẹbíi rẹ̀ sápamọ́ sínú àjà tó wà ní agbègbè ilé ìtàjà wọn fún ọdún méjìí lé kí wọ́n tó rí wọn.",Otto Frank sápamọ́ fún oṣù 25 lé.,entailment
+"Ní Prinsengracht, Otto Frank àti àwọn ẹbíi rẹ̀ sápamọ́ sínú àjà tó wà ní agbègbè ilé ìtàjà wọn fún ọdún méjìí lé kí wọ́n tó rí wọn.",Otto Frank sápamọ́ títí tí àwọn Nazis fi rí i. ,neutral
+Àwọn ìjọba-agbègbè ní ètò àyẹ̀wò síi.,Àwọn ìjọba-agbègbè ní àǹfààní láti ṣe òfin ti wọn.,neutral
+Àwọn ìjọba-agbègbè ní ètò àyẹ̀wò síi.,Àwọn ìjọba-àgbègbè ò ní òfin ti wọn.,contradiction
+Àwọn ìjọba-agbègbè ní ètò àyẹ̀wò síi.,Àwọn ètò àyẹ̀wò kọ̀ọ̀kan sì wà láti ọ̀dọ̀ àwọn ìjọba-àgbègbè.,entailment
+Àwọn ẹgbẹ́-àbò-òfin máa ní ìpéjọ láàrín oṣù 8 àti 12.,Àwọn ẹgbẹ́-àbò ní ìpéjọ tí ó tó ìdajì 9 ní oṣù kan.,neutral
+Àwọn ẹgbẹ́-àbò-òfin máa ní ìpéjọ láàrín oṣù 8 àti 12.,Àwọn ẹgbẹ́-àbò máa ń ní ìpéjọ ní ojoojúmọ́ oṣù náà.,contradiction
+Àwọn ẹgbẹ́-àbò-òfin máa ní ìpéjọ láàrín oṣù 8 àti 12.,Ẹgbẹ́-àbò náà máa ń ní ìpéjọ ní ọ̀pọ̀ ìgbà ní ọdún.,entailment
+Ìfilọ́lẹ̀ ni a ti ṣe ní ìbẹ̀rẹ̀.,Ìfilọ́lẹ̀ ní àsìkò ìfárá.,entailment
+Ìfilọ́lẹ̀ ni a ti ṣe ní ìbẹ̀rẹ̀.,Ìfilọ́lẹ̀ máa ń jẹ́ ipele tó gbẹ̀yìn.,contradiction
+Ìfilọ́lẹ̀ ni a ti ṣe ní ìbẹ̀rẹ̀.,"Láìsí àsìkò ìfárá, Ìfilọ́lẹ̀ máa fi orí sán pọ́n ní ìgbẹ̀yìn ni.",neutral
+"Fún ìdí èyí, àwọn tó ṣe òfin tí wọ́n sì ń darí ìjọba ń gbà ọ̀nà ìrònú tuntun láàyè, wíwà ọ̀nà púpọ̀ láti fi ṣe àwọn àfojúsùn wọn àti lílo àwọn ọ̀rọ̀ láti fi ṣe ìtọ́sọ́nà èrò pípa.",Àwọn aṣojú ìjọba tí ń yí ọ̀nà wọn padà.,entailment
+"Fún ìdí èyí, àwọn tó ṣe òfin tí wọ́n sì ń darí ìjọba ń gbà ọ̀nà ìrònú tuntun láàyè, wíwà ọ̀nà púpọ̀ láti fi ṣe àwọn àfojúsùn wọn àti lílo àwọn ọ̀rọ̀ láti fi ṣe ìtọ́sọ́nà èrò pípa.",Àwọn aṣojú ìjọba ti ń gbìyànjú láti ru agbára wọn sókè nípa ríronú lọ́nà ọ̀tọ̀.,neutral
+"Fún ìdí èyí, àwọn tó ṣe òfin tí wọ́n sì ń darí ìjọba ń gbà ọ̀nà ìrònú tuntun láàyè, wíwà ọ̀nà púpọ̀ láti fi ṣe àwọn àfojúsùn wọn àti lílo àwọn ọ̀rọ̀ láti fi ṣe ìtọ́sọ́nà èrò pípa.",Àwọn aṣojú ìjọba kọ̀ láti yí ìgbésí ayé wọn padà.,contradiction
+A ó nílò láti kọ ẹ̀dà èdè mìíràn yàtọ̀ sí gẹ̀ẹ́sì fún àwọn olùfisùn tó gbé àwọn ẹ̀rí ẹjọ́ wá.,Èdè gẹ̀ẹ́sì nìkan ni a gbà kí àwọn ẹ̀rí ẹjọ́ wà.,contradiction
+A ó nílò láti kọ ẹ̀dà èdè mìíràn yàtọ̀ sí gẹ̀ẹ́sì fún àwọn olùfisùn tó gbé àwọn ẹ̀rí ẹjọ́ wá.,A lè ní àwọn ẹ̀rí ẹjọ́ ní èdè Chinese tàbí Russian.,neutral
+A ó nílò láti kọ ẹ̀dà èdè mìíràn yàtọ̀ sí gẹ̀ẹ́sì fún àwọn olùfisùn tó gbé àwọn ẹ̀rí ẹjọ́ wá.,A lè kọ ẹ̀rí ẹjọ́ ní àwọn èdè mìíràn.,entailment
+"Ìgbìyànjú tí a ń pèto pèrò ń bọ̀ lọ́nà, èyí sì ní.",Púpọ̀ nínú àwọn ètò wa lati bẹ̀rẹ̀.,neutral
+"Ìgbìyànjú tí a ń pèto pèrò ń bọ̀ lọ́nà, èyí sì ní.",A kò ní ètò kankan fún ọjọ́ iwájú.,contradiction
+"Ìgbìyànjú tí a ń pèto pèrò ń bọ̀ lọ́nà, èyí sì ní.",A pètò ǹkan.,entailment
+"Fi bíi àkókò kúkúrú, pípàdánù àwọn ojúlówó fáìlì kọ̀mpútà, àti àìríàyè sí àwọn ìwé tí a ó nílò.",A yọ àwọn fáìlì kọ̀mpútà lórí IBM.,neutral
+"Fi bíi àkókò kúkúrú, pípàdánù àwọn ojúlówó fáìlì kọ̀mpútà, àti àìríàyè sí àwọn ìwé tí a ó nílò.",Wọ́n yọ àwọn fáìlì kọ̀mpútà àtilẹ̀bá.,entailment
+"Fi bíi àkókò kúkúrú, pípàdánù àwọn ojúlówó fáìlì kọ̀mpútà, àti àìríàyè sí àwọn ìwé tí a ó nílò.",Wọ́n fi gbogbo fáìlì kọ̀mpútà àtilẹ̀bá pa mọ́.,contradiction
+"Lẹ́yìn náà, àwọn aṣojú kan náà tí wọ́n ti kọ́kọ́ wá padà wá ṣe àyẹ̀wò ǹkan tó ń pèsè láti dáhùn ìbéèrè àti láti jomitoro ọ̀rọ̀ ìṣòro tí ó ti wà ní inú àpẹẹrẹ àkọsílẹ̀ náà.",Àwọn aṣojú ṣe ìbẹ̀wò fún bíi wákàtí kan.,neutral
+"Lẹ́yìn náà, àwọn aṣojú kan náà tí wọ́n ti kọ́kọ́ wá padà wá ṣe àyẹ̀wò ǹkan tó ń pèsè láti dáhùn ìbéèrè àti láti jomitoro ọ̀rọ̀ ìṣòro tí ó ti wà ní inú àpẹẹrẹ àkọsílẹ̀ náà.",Àwọn aṣojú ní ìbẹ̀wò kan.,entailment
+"Lẹ́yìn náà, àwọn aṣojú kan náà tí wọ́n ti kọ́kọ́ wá padà wá ṣe àyẹ̀wò ǹkan tó ń pèsè láti dáhùn ìbéèrè àti láti jomitoro ọ̀rọ̀ ìṣòro tí ó ti wà ní inú àpẹẹrẹ àkọsílẹ̀ náà.",A kò ní ìbẹ̀wò.,contradiction
+"Kìí ṣe pé fífi fi owó pamọ́ máa ń ní ipa lórí owó ọ̀rọ̀ nìkan kọ́, ọ̀rọ̀ fúnra rẹ̀ máa ń jẹ́ kí èèyàn fi owó pa mọ́.",Pé ẹni yẹn máa fi owó pá mọ́ dà lórí ọrọ̀ wọn.,entailment
+"Kìí ṣe pé fífi fi owó pamọ́ máa ń ní ipa lórí owó ọ̀rọ̀ nìkan kọ́, ọ̀rọ̀ fúnra rẹ̀ máa ń jẹ́ kí èèyàn fi owó pa mọ́.",Ìfowópamọ́ àti ọrọ̀ ò ní ǹkankan papọ̀.,contradiction
+"Kìí ṣe pé fífi fi owó pamọ́ máa ń ní ipa lórí owó ọ̀rọ̀ nìkan kọ́, ọ̀rọ̀ fúnra rẹ̀ máa ń jẹ́ kí èèyàn fi owó pa mọ́.",Ó ṣeé ṣe kí àwọn ọlọ́rọ̀ fi owó oṣù wọn tó ga jù pamọ́.,neutral
+"Fún àpẹẹrẹ, ilé-isé kan tí a ṣiṣẹ́ lé lórí ti ní ìfimọ́ tí ó sọ ọ́ di tipátipá fún wọn láti fi òwò àti ìṣàkóso náà mọ́ wọn kí wọ́n lè bá ìdàgbàsókè tí òwò náà nílò.","Bótilẹ̀jẹ́ pé ìfimọ́ méjì ló wà, ìdí gidi ló wà fún wọn láti ṣe àtúnṣe ipele ìṣàkóso wọn.",contradiction
+"Fún àpẹẹrẹ, ilé-isé kan tí a ṣiṣẹ́ lé lórí ti ní ìfimọ́ tí ó sọ ọ́ di tipátipá fún wọn láti fi òwò àti ìṣàkóso náà mọ́ wọn kí wọ́n lè bá ìdàgbàsókè tí òwò náà nílò.",Síso ilé-iṣẹ́ méjì pọ̀ sí ẹyọ kan máa ń dá wàhálà sílẹ̀ ni.,neutral
+"Fún àpẹẹrẹ, ilé-isé kan tí a ṣiṣẹ́ lé lórí ti ní ìfimọ́ tí ó sọ ọ́ di tipátipá fún wọn láti fi òwò àti ìṣàkóso náà mọ́ wọn kí wọ́n lè bá ìdàgbàsókè tí òwò náà nílò.",A ṣe àyẹ̀wò òwò tí ó ti so pọ̀ kan tí wọ́n sì nílò láti ṣe àtúnṣe ìṣàkóso wọn kí wọ́n lè bá ìdàgbàsókè òwò wọn. ,entailment
+A tiẹ̀ ń rò pé sísan owó náà yíò nílò láti gba òhùntẹ̀ kí wọ́n tó fi ọwọ́ síi pé a ó le rin ìrìn-àjò wa. ,A mọ̀ pé owó sísan náà yíò pẹ́ kí ó tó dé.,contradiction
+A tiẹ̀ ń rò pé sísan owó náà yíò nílò láti gba òhùntẹ̀ kí wọ́n tó fi ọwọ́ síi pé a ó le rin ìrìn-àjò wa. ,A rò pé owó náà yíò wọlé kó tó di ìgbà ìṣàmúdájú.,entailment
+A tiẹ̀ ń rò pé sísan owó náà yíò nílò láti gba òhùntẹ̀ kí wọ́n tó fi ọwọ́ síi pé a ó le rin ìrìn-àjò wa. ,"A rò pé owó náà yíò wọlé, àti pé wọn ó jà wá ní olè.",neutral
+"Ìmọ̀ ẹ̀rọ ni a ti fi sínú rẹ̀ pẹ̀lú ọ̀nà òwò ṣíṣe ní gbogbo ilé-iṣẹ́ nítorí pé a ti mọ̀ pé ìmọ̀-ẹ̀rọ jẹ́ ǹkan pàtàkì ti iṣẹ́ náà, kìí ṣe èròjà lásán.",Èlò-ìṣiṣẹ́ tó gbòòrò jẹ́ nǹkan gbòógì tí òwò lè dá lé lórí.,neutral
+"Ìmọ̀ ẹ̀rọ ni a ti fi sínú rẹ̀ pẹ̀lú ọ̀nà òwò ṣíṣe ní gbogbo ilé-iṣẹ́ nítorí pé a ti mọ̀ pé ìmọ̀-ẹ̀rọ jẹ́ ǹkan pàtàkì ti iṣẹ́ náà, kìí ṣe èròjà lásán.",Irinṣẹ́ lásán ni ìmọ̀-ẹ̀rọ jẹ́ kìí ṣe ìgbé lárugẹ òwò.,contradiction
+"Ìmọ̀ ẹ̀rọ ni a ti fi sínú rẹ̀ pẹ̀lú ọ̀nà òwò ṣíṣe ní gbogbo ilé-iṣẹ́ nítorí pé a ti mọ̀ pé ìmọ̀-ẹ̀rọ jẹ́ ǹkan pàtàkì ti iṣẹ́ náà, kìí ṣe èròjà lásán.",Àwọn òwò wọ̀nyí tẹra mọ́ ìmọ̀-ẹ̀rọ.,entailment
+Èrò méjì kan tó ti wà nínú àtẹ̀ jáde máa wúlò fún iṣẹ́ ọjọ́ iwájú.,Lítírésọ̀ lè sọ bí a ó ti ṣe àwọn àpẹẹrẹ náà.,neutral
+Èrò méjì kan tó ti wà nínú àtẹ̀ jáde máa wúlò fún iṣẹ́ ọjọ́ iwájú.,Lítírésọ̀ lè yí ìfìmọ́-dọ̀tun padà ní ọjọ́ iwajú.,entailment
+Èrò méjì kan tó ti wà nínú àtẹ̀ jáde máa wúlò fún iṣẹ́ ọjọ́ iwájú.,Kò sí nǹkan tó wà láti ṣe nípa yíyí ìfìmọ́-dọ̀tun padà.,contradiction
+Àwọn ìlà náà kún fún àpótí to sọ nípa bí àwọn tó ń fi ímeèlì sọwọ́ ṣe ń gbé pẹ̀lú ìlà náà sì ní òkúta iyebíye sọ nípa èyí tí a sọ nù (tí ó bá jẹ́ ìdàkejì ni) láti yí iṣẹ́ náà padà sí òde mìíràn.,Àwọn ìlà náà sọ nípa ìṣirò ìgbé ayé àwọn akọ-ímeèlì wà ní ipele 10%.,neutral
+Àwọn ìlà náà kún fún àpótí to sọ nípa bí àwọn tó ń fi ímeèlì sọwọ́ ṣe ń gbé pẹ̀lú ìlà náà sì ní òkúta iyebíye sọ nípa èyí tí a sọ nù (tí ó bá jẹ́ ìdàkejì ni) láti yí iṣẹ́ náà padà sí òde mìíràn.,Kò sí nǹkan tí ìlà náà fi hàn ju ọ̀nà lọ.,contradiction
+Àwọn ìlà náà kún fún àpótí to sọ nípa bí àwọn tó ń fi ímeèlì sọwọ́ ṣe ń gbé pẹ̀lú ìlà náà sì ní òkúta iyebíye sọ nípa èyí tí a sọ nù (tí ó bá jẹ́ ìdàkejì ni) láti yí iṣẹ́ náà padà sí òde mìíràn.,Ìlà náà sọ nípa ìgbé ayé gbogbo àwọn akọ-ímeèlì.,entailment
+"Gẹ́gẹ́ bí ìwádìí ewu yìí, Centrelink ṣe ọ̀nà kọ̀ọ̀kan láti ṣe ìdíwọ́ láti kọ́ àwọn tó kópa àti àwọn òṣìṣẹ́ láti ṣe àkọsílẹ̀ ǹkan tó gbà láti ṣiṣẹ́.",Centrelink ò mọ ọ̀nà àti kọjú ìṣòro náà.,contradiction
+"Gẹ́gẹ́ bí ìwádìí ewu yìí, Centrelink ṣe ọ̀nà kọ̀ọ̀kan láti ṣe ìdíwọ́ láti kọ́ àwọn tó kópa àti àwọn òṣìṣẹ́ láti ṣe àkọsílẹ̀ ǹkan tó gbà láti ṣiṣẹ́.",Centrelink ṣe ọ̀nà tó pọ̀ láti kọ́ àwọn ènìyàn bí wọ́n ṣe lè sọ nípa owó oṣù wọn nítorí pé ìjọba ń pàdánù owó sí àṣìṣe wọn.,neutral
+"Gẹ́gẹ́ bí ìwádìí ewu yìí, Centrelink ṣe ọ̀nà kọ̀ọ̀kan láti ṣe ìdíwọ́ láti kọ́ àwọn tó kópa àti àwọn òṣìṣẹ́ láti ṣe àkọsílẹ̀ ǹkan tó gbà láti ṣiṣẹ́.",Centrelink ní ọ̀nà láti kọ́ àwọn ènìyàn bí wọ́n ṣe lè sọ nípa owó oṣù wọn.,entailment
+Èyí fi àyè gba fífi àpẹẹrẹ náà hàn kí àwọn ilé-iṣẹ́ tó ṣe ìdóko-òwò tó wọ́n tí ó wọ́n nínú èròjà tí a fi ń ṣẹ̀dá ǹkan àti irinṣẹ́ láti ṣe aṣojú ẹ̀dà fún ipele ìfihàn.,Wọ́n le fi bí àpẹẹrẹ náà ṣe ń ṣiṣẹ́ hàn.,entailment
+Èyí fi àyè gba fífi àpẹẹrẹ náà hàn kí àwọn ilé-iṣẹ́ tó ṣe ìdóko-òwò tó wọ́n tí ó wọ́n nínú èròjà tí a fi ń ṣẹ̀dá ǹkan àti irinṣẹ́ láti ṣe aṣojú ẹ̀dà fún ipele ìfihàn.,Wọ́n le fi han ilé-iṣẹ́ pé kò kún ojú òṣùwọ̀n tó láti kọ́ àwọn ilé-iṣẹ́ tuntun.,neutral
+Èyí fi àyè gba fífi àpẹẹrẹ náà hàn kí àwọn ilé-iṣẹ́ tó ṣe ìdóko-òwò tó wọ́n tí ó wọ́n nínú èròjà tí a fi ń ṣẹ̀dá ǹkan àti irinṣẹ́ láti ṣe aṣojú ẹ̀dà fún ipele ìfihàn.,Wọ́n kò mọ bí wọ́n ṣe lè fi bí Ìfowópamọ́ náà ṣe ń ṣiṣẹ́ hàn.,contradiction
+Ìfọwọ́sowọ́pọ̀ ti South Carolina já sí yíyege ní ọdún tó tẹ̀ lé e.,Kò sí ẹnì kankan ní South Carolina tó fi ọwọ́ sowọ́pọ̀ ṣiṣẹ́.,contradiction
+Ìfọwọ́sowọ́pọ̀ ti South Carolina já sí yíyege ní ọdún tó tẹ̀ lé e.,SC ṣiṣẹ́ papọ̀.,entailment
+Ìfọwọ́sowọ́pọ̀ ti South Carolina já sí yíyege ní ọdún tó tẹ̀ lé e.,Àwọn democrat àti republican ṣiṣẹ́ papọ̀ ní South Carolina.,neutral
+"Gẹ́gẹ́ bíi ọ̀kan lára àwọn òṣìṣẹ́, ìyẹn ti Board section 605(b) àwọn ìwé-ẹ̀rí ni a kò fún Small Business Administration (SBA) yàtọ̀ olùdámọ̀ràn àgbà fún àgbàwí.","Àwọn ìgbìmọ̀ fífúnni ni ìwé-ẹ̀rí SBA ò fún ẹnì kankan ní ìwé-ẹ̀rí, wọ́n fi lé àwọn ilé-iṣẹ́ tó ń ṣe àkóso ìdánwò.",neutral
+"Gẹ́gẹ́ bíi ọ̀kan lára àwọn òṣìṣẹ́, ìyẹn ti Board section 605(b) àwọn ìwé-ẹ̀rí ni a kò fún Small Business Administration (SBA) yàtọ̀ olùdámọ̀ràn àgbà fún àgbàwí.",Àwọn ìgbìmọ̀ fífúnni ni ìwé-ẹ̀rí SBA ò fún ẹnì kankan ní ìwé-ẹ̀rí.,entailment
+"Gẹ́gẹ́ bíi ọ̀kan lára àwọn òṣìṣẹ́, ìyẹn ti Board section 605(b) àwọn ìwé-ẹ̀rí ni a kò fún Small Business Administration (SBA) yàtọ̀ olùdámọ̀ràn àgbà fún àgbàwí.",Àwọn ìgbìmọ̀ fífúnni ni ìwé-ẹ̀rí SBA fún gbogbo àwọn tó béèrè ní ìwé-ẹ̀rí ní ojoojúmọ́.,contradiction
+"Tí ìfẹsẹ̀hansẹ̀ bá wáyé fún ilé-ìtura àti àwọn owó kọ̀ọ̀kan, a ó nílò láti ṣe ìṣàmúdájú.",Púpọ̀ nínú àwọn ilé-ìtura ló ń gbà káàdì kírẹ́dìtì fún owó sísan.,neutral
+"Tí ìfẹsẹ̀hansẹ̀ bá wáyé fún ilé-ìtura àti àwọn owó kọ̀ọ̀kan, a ó nílò láti ṣe ìṣàmúdájú.",A ó ṣe ìṣàmúdájú lílọ ilé-ìtura pẹ̀lú owó sísan ilé-ìtura.,entailment
+"Tí ìfẹsẹ̀hansẹ̀ bá wáyé fún ilé-ìtura àti àwọn owó kọ̀ọ̀kan, a ó nílò láti ṣe ìṣàmúdájú.",Kò sí ọ̀nà láti mọ̀ bóyá ìlọ ilé-ìtura náà ṣẹlẹ̀ tàbí kò ṣẹlẹ̀.,contradiction
+"Fún àpẹẹrẹ, olú ńlá ìlú kan tí a lọ ní ju 600 ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà.",Àwọn olú ìlú ńlá ní ó dára fún ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà.,neutral
+"Fún àpẹẹrẹ, olú ńlá ìlú kan tí a lọ ní ju 600 ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà.",Olú ìlú ńlá kan ní ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà tó pọ̀.,entailment
+"Fún àpẹẹrẹ, olú ńlá ìlú kan tí a lọ ní ju 600 ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà.",Àwọn ilé-iṣẹ́ ẹ̀rọ-èlò kọ̀mpútà máa ń sá fún olú ìlú ńlá torí òfin.,contradiction
+"Ní wíwọn owó iye, a kò lè rí pípé níbẹ̀.",Ó lè jẹ́ pípé tí ó bá gbìyànjú dáadáa.,contradiction
+"Ní wíwọn owó iye, a kò lè rí pípé níbẹ̀.",O kò le jẹ́ pípé láíláí.,entailment
+"Ní wíwọn owó iye, a kò lè rí pípé níbẹ̀.",O kò le pé torí gbogbo ló ní àbààwọ́n ti wa.,neutral
+Ará ilé tí ó gba Hazmi àti Mihdhar ní 2000 jẹ́ ọmọ orílẹ̀-èdè rere tí ó ní Ìfọ̀rọ̀wérọ̀ àwọn ọlọ́ọ̀pá agbegbe àti àwọn ọmọ FBI.,"Hazmi àti Mihdhar ra ilé, wọn kò sì bá ẹni kankan sọ̀rọ̀.",contradiction
+Ará ilé tí ó gba Hazmi àti Mihdhar ní 2000 jẹ́ ọmọ orílẹ̀-èdè rere tí ó ní Ìfọ̀rọ̀wérọ̀ àwọn ọlọ́ọ̀pá agbegbe àti àwọn ọmọ FBI.,"Hazmi àti Mihdhar gba ilé fún ọdún kan, wọ́n san $500 ní ọjọ́ kọ̀ọ̀kan.",neutral
+Ará ilé tí ó gba Hazmi àti Mihdhar ní 2000 jẹ́ ọmọ orílẹ̀-èdè rere tí ó ní Ìfọ̀rọ̀wérọ̀ àwọn ọlọ́ọ̀pá agbegbe àti àwọn ọmọ FBI.,Hazmi àti Mihdhar gba ilé kan.,entailment
+"Fún ìrìn-àjò wọn lọ sí Bosnia, wo ìwé-ẹ̀rí tí onímọ̀ ìjìnlẹ̀, Ìfọ̀rọ̀wánilẹ́nuwò ọmọ ẹgbẹ́ al Qaeda ti Saudi ní Oct. 3, 2001.",Ọmọ ẹgbẹ́ al Qaeda lọ sí Bosnia fún ìgbà 18 ni 2001.,neutral
+"Fún ìrìn-àjò wọn lọ sí Bosnia, wo ìwé-ẹ̀rí tí onímọ̀ ìjìnlẹ̀, Ìfọ̀rọ̀wánilẹ́nuwò ọmọ ẹgbẹ́ al Qaeda ti Saudi ní Oct. 3, 2001.",Ọmọ ẹgbẹ́ al Qaeda lọ sí Bosnia.,entailment
+"Fún ìrìn-àjò wọn lọ sí Bosnia, wo ìwé-ẹ̀rí tí onímọ̀ ìjìnlẹ̀, Ìfọ̀rọ̀wánilẹ́nuwò ọmọ ẹgbẹ́ al Qaeda ti Saudi ní Oct. 3, 2001.",Kò sí ẹ̀rí pé ọmọ ẹgbẹ́ al Qaeda lọ sí Bosnia.,contradiction
+Jane sọ fún olùṣewádìí ti New York tó wà fún wíwá Mihdhar pé kí ó ti ọwọ́ bọ ìwé FISA pé òun mọ láti ṣe ọ̀rọ̀ tó wà nínú FISA.,Jane bèrè pé kí adájọ́ ìjọba-àpapọ̀ fi ọwọ́ sí ìwé ẹ̀rí FISA.,neutral
+Jane sọ fún olùṣewádìí ti New York tó wà fún wíwá Mihdhar pé kí ó ti ọwọ́ bọ ìwé FISA pé òun mọ láti ṣe ọ̀rọ̀ tó wà nínú FISA.,Jane bèrè fún fífi ọwọ́ sí ìwé ẹ̀rí FISA.,entailment
+Jane sọ fún olùṣewádìí ti New York tó wà fún wíwá Mihdhar pé kí ó ti ọwọ́ bọ ìwé FISA pé òun mọ láti ṣe ọ̀rọ̀ tó wà nínú FISA.,Jane sọ pé kò sí ìwúlò fún ìwé ẹ̀rí FISA.,contradiction
+Kò sí nǹkan tó dá yàtọ̀ nínú ipele àwọn ẹ̀ṣọ́ tó wúlò ní ibi ìdánwò àyẹ̀wò.,Àwọn ẹ̀rí tó lágbára ni a rí níbi ìṣe ìdánwò àyẹ̀wò.,contradiction
+Kò sí nǹkan tó dá yàtọ̀ nínú ipele àwọn ẹ̀ṣọ́ tó wúlò ní ibi ìdánwò àyẹ̀wò.,Ṣíṣe àyẹ̀wò ìdánwò dá lé lórí àwọn ẹgbẹ́ tí rí sí àyẹ̀wò ṣíṣe tó ń ṣe ìdánwò náà. ,neutral
+Kò sí nǹkan tó dá yàtọ̀ nínú ipele àwọn ẹ̀ṣọ́ tó wúlò ní ibi ìdánwò àyẹ̀wò.,Àyẹ̀wò náà ò ní ẹ̀rí kankan láti dá wọn dúró.,entailment
+"Khallad ti fún wa ní ẹ̀dà kejì, tí ó wí pé gbogbo àwọn mẹ́tẹ̀ta ní ó lọ sí Karachi.",Khallad sọ pé òun ò mọ nǹkankan nípa àwọn mẹ́tẹ̀ta.,contradiction
+"Khallad ti fún wa ní ẹ̀dà kejì, tí ó wí pé gbogbo àwọn mẹ́tẹ̀ta ní ó lọ sí Karachi.",Khallad sọ pé àwọn mẹ́tẹ̀ta ti lè rìn ìrìn-àjò papọ̀.,entailment
+"Khallad ti fún wa ní ẹ̀dà kejì, tí ó wí pé gbogbo àwọn mẹ́tẹ̀ta ní ó lọ sí Karachi.",Khallad sọ pé àyè tí ó tó 50% wà pé àwọn mẹ́tẹ̀ta ní ó rin ìrìnàjò lọ sí Karachi ní oṣù kẹwàá.,neutral
+"Èsì ọlọ́gbọ́n, Ìfọ̀rọ̀wánilẹ́nuwò ti Binalshibh, ní Oct. 1, 2002.",Àwọn àjọ FBI fi ọ̀rọ̀ wá Binalshibh lẹ́nu wò.,neutral
+"Èsì ọlọ́gbọ́n, Ìfọ̀rọ̀wánilẹ́nuwò ti Binalshibh, ní Oct. 1, 2002.",A fi ọ̀rọ̀ wá Binalshibh lẹ́nu wò ní ọdún 2002.,entailment
+"Èsì ọlọ́gbọ́n, Ìfọ̀rọ̀wánilẹ́nuwò ti Binalshibh, ní Oct. 1, 2002.",A kò sọ̀rọ̀ sí Binalshibh nígbà tí ó pòórá.,contradiction
+Mihdhar gba ìwé-ìwọlẹ̀ ìlú U.S ọjọ́ méjì sí ìgbà ti àwọn CIA-FBI ní ìpàdé wọn ní New York.,Mihdhar ní ìwé-ìwọlẹ̀ àlejò ìlú U.S láti wọ ìlú náà.,entailment
+Mihdhar gba ìwé-ìwọlẹ̀ ìlú U.S ọjọ́ méjì sí ìgbà ti àwọn CIA-FBI ní ìpàdé wọn ní New York.,"Mihdhar ò rí ìwé-ìwọlẹ̀ kankan, torí bẹ́ẹ̀ kò wá sí US.",contradiction
+Mihdhar gba ìwé-ìwọlẹ̀ ìlú U.S ọjọ́ méjì sí ìgbà ti àwọn CIA-FBI ní ìpàdé wọn ní New York.,Wọ́n fún Mihdhar ní ìwé-ìwọlẹ̀ nítorí pé kìí ṣe jàǹdùkú.,neutral
+"Pẹ̀lú ìṣèwádìí ọdún méjì, àwọn FBI ò leè sọ ẹni tí abániṣiṣẹ́ náà jẹ́ tàbí mọ ibi tó ti wá. ",Àwọn FBI ò tiẹ̀ lè wá ọmọkùnrin tí ó kúrò ní Florida ní ọdún 2001 náà.,neutral
+"Pẹ̀lú ìṣèwádìí ọdún méjì, àwọn FBI ò leè sọ ẹni tí abániṣiṣẹ́ náà jẹ́ tàbí mọ ibi tó ti wá. ",FBI ò tiẹ̀ lè mọ ẹni tí ọmọkùnrin náà jẹ́.,entailment
+"Pẹ̀lú ìṣèwádìí ọdún méjì, àwọn FBI ò leè sọ ẹni tí abániṣiṣẹ́ náà jẹ́ tàbí mọ ibi tó ti wá. ","FBI mọ ẹni tí ó jẹ́ tán, wọ́n sọ ọ́ sínú ẹ̀wọ̀n ni.",contradiction
+"Ní ti ìṣẹ̀lẹ̀ Amerika 11, Ìfọ̀rọ̀wérọ̀ tó dájú tí ó wà láti orí ọkọ̀-òfurufú náà ṣẹlẹ̀ ní ago 8:13 A.M.",Ìbánisọ̀rọ̀ wà láti ọ̀dọ̀ àwọn Amerika 11.,entailment
+"Ní ti ìṣẹ̀lẹ̀ Amerika 11, Ìfọ̀rọ̀wérọ̀ tó dájú tí ó wà láti orí ọkọ̀-òfurufú náà ṣẹlẹ̀ ní ago 8:13 A.M.",Ìbánisọ̀rọ̀ wà láti ọ̀dọ̀ àwọn Amerika 11 fún ìṣẹ́jú 5 kọ̀ọ̀kan.,neutral
+"Ní ti ìṣẹ̀lẹ̀ Amerika 11, Ìfọ̀rọ̀wérọ̀ tó dájú tí ó wà láti orí ọkọ̀-òfurufú náà ṣẹlẹ̀ ní ago 8:13 A.M.",Kò sí ìbánisọ̀rọ̀ kankan láti ọ̀dọ̀ àwọn Amerika 11.,contradiction
+"Wíwá rí kò bá ti nílò àsìkò kékeré àti Ìfọwọ́sowọ́pọ̀ tó le láti ọ̀dọ̀ ìjọba Germany, èyí tí yí ó sì le láti gbà.","Tí ó bá ṣe tán, ìṣèwádìí náà ò bá sọ ibi tí àwọn tó ń sáré àsálà wà.",neutral
+"Wíwá rí kò bá ti nílò àsìkò kékeré àti Ìfọwọ́sowọ́pọ̀ tó le láti ọ̀dọ̀ ìjọba Germany, èyí tí yí ó sì le láti gbà.",Àwọn ìjọba Germany ti máa ní ìṣòro láti ṣe ìwádìí tó kúrú tó sì jinlẹ̀.,entailment
+"Wíwá rí kò bá ti nílò àsìkò kékeré àti Ìfọwọ́sowọ́pọ̀ tó le láti ọ̀dọ̀ ìjọba Germany, èyí tí yí ó sì le láti gbà.",Ìṣèwádìí náà yíò rọrùn yíò sì rọsẹ̀ fún ìjọba láti ṣe.,contradiction
+Àwọn agbára yìí ò le tó ṣùgbọ́n wọn ò ṣe ǹkankan láti ríi pé ó dára síi.,Wọn ò yí eto ìsọ́ wọn padà púpọ̀.,neutral
+Àwọn agbára yìí ò le tó ṣùgbọ́n wọn ò ṣe ǹkankan láti ríi pé ó dára síi.,Wọn ò ṣe púpọ̀ láti yí ǹkan padà.,entailment
+Àwọn agbára yìí ò le tó ṣùgbọ́n wọn ò ṣe ǹkankan láti ríi pé ó dára síi.,Wọn ṣiṣẹ́ gan-an kí wọ́n tó le yí ǹkan padà.,contradiction
+"Ímeèlì olùṣewádìí náà, bí ó tilẹ̀ jẹ́ pé òun ń gbé àwọn àkíyèsí àti ìdíwọ́ òfin sí ọ̀rọ̀ títàn ká àti àwọn òfin tó de ẹ̀sùn lílo àwọn àkọsílẹ̀ olùrànlọ́wọ́ nlowo olè ti wọ́n ti kó jọ láti ọwọ́ àwọn tó ní ìmọ̀.",Olùṣèwádìí náà fi ìwádìí tó yanrantí múlẹ̀.,contradiction
+"Ímeèlì olùṣewádìí náà, bí ó tilẹ̀ jẹ́ pé òun ń gbé àwọn àkíyèsí àti ìdíwọ́ òfin sí ọ̀rọ̀ títàn ká àti àwọn òfin tó de ẹ̀sùn lílo àwọn àkọsílẹ̀ olùrànlọ́wọ́ nlowo olè ti wọ́n ti kó jọ láti ọwọ́ àwọn tó ní ìmọ̀.",Olùṣèwádìí náà ò sọ àwọn ǹkan tó pọ̀. ,entailment
+"Ímeèlì olùṣewádìí náà, bí ó tilẹ̀ jẹ́ pé òun ń gbé àwọn àkíyèsí àti ìdíwọ́ òfin sí ọ̀rọ̀ títàn ká àti àwọn òfin tó de ẹ̀sùn lílo àwọn àkọsílẹ̀ olùrànlọ́wọ́ nlowo olè ti wọ́n ti kó jọ láti ọwọ́ àwọn tó ní ìmọ̀.",Èsì ìwádìí náà ò dára kódà kò sí ẹnì kankan tí ó leè kà á. ,neutral
+"Wọ́n wá fún àwọn ológun kọ̀ọ̀kan ní iṣẹ́ ní kíkó ẹni jáde àtẹ̀gùn, a gba àwọn èyí tó kú láti kó ǹkan kúrò ní ibi ìtajà, àpéjọ àti ọ̀nà ibùdó.",Àwọn ológun rí iṣẹ́ wọn.,entailment
+"Wọ́n wá fún àwọn ológun kọ̀ọ̀kan ní iṣẹ́ ní kíkó ẹni jáde àtẹ̀gùn, a gba àwọn èyí tó kú láti kó ǹkan kúrò ní ibi ìtajà, àpéjọ àti ọ̀nà ibùdó.",Àwọn kàn máa ń sá lọ ibi tí wọ́n bá ti nílò wọn ni.,contradiction
+"Wọ́n wá fún àwọn ológun kọ̀ọ̀kan ní iṣẹ́ ní kíkó ẹni jáde àtẹ̀gùn, a gba àwọn èyí tó kú láti kó ǹkan kúrò ní ibi ìtajà, àpéjọ àti ọ̀nà ibùdó.",Ipò ni wọ́n fi máa ń fún àwọn ológun ní iṣẹ́ wọn.,neutral
+"Ní September 9, a gba ìpè tó lágbára láti Afghanistan.",A gba ìpè láti Afghanistan.,entailment
+"Ní September 9, a gba ìpè tó lágbára láti Afghanistan.",A kò gbọ́ ǹkankan láti Afghanistan kí ó tó di October.,contradiction
+"Ní September 9, a gba ìpè tó lágbára láti Afghanistan.",Wọ́n sọ fún wa nípa ìkọlù tó ń bọ̀ ni September 9.,neutral
+"Àì le bániṣọ̀rọ̀ jẹ́ ǹkan gbòógì ní World Trade Centre, Pentagon àti Somerset County, Pennsylvania, àwọn ibi tó ti dàrú ní ibi tí ìbẹ̀wẹ̀ àti  àwọn agbẹjọ́rò ti fọhùn.",Ìbánisọ̀rọ̀ ṣiṣẹ́ dáadáa ní ọjọ́ 9/11.,contradiction
+"Àì le bániṣọ̀rọ̀ jẹ́ ǹkan gbòógì ní World Trade Centre, Pentagon àti Somerset County, Pennsylvania, àwọn ibi tó ti dàrú ní ibi tí ìbẹ̀wẹ̀ àti  àwọn agbẹjọ́rò ti fọhùn.","Àwọn ènìyàn ò rí bi ti bára wọn sọ̀rọ̀ nínú World Trade Centre torí pé kò sí iná, wọ́n sì ti pa àwọn ẹ̀rọ-àgbéléwọ́.",neutral
+"Àì le bániṣọ̀rọ̀ jẹ́ ǹkan gbòógì ní World Trade Centre, Pentagon àti Somerset County, Pennsylvania, àwọn ibi tó ti dàrú ní ibi tí ìbẹ̀wẹ̀ àti  àwọn agbẹjọ́rò ti fọhùn.",Àwọn èèyàn ní ìṣòro láti bára wọn sọ̀rọ̀ nínú World Trade Centre.,entailment
+"Wíwá ibi-ìpamọ́ détà tí ó wà le fi ìwé-awakọ̀ náà hàn, ibi tí a ti fi orúkọ rẹ̀ sílẹ̀ àti nọ́mbà ẹ̀rọ-àgbéléwọ́ rẹ̀ náà.",Àwọn olùṣewádìí náà ni àyè sí ibi-ìpamọ́ tí ó dára.,neutral
+"Wíwá ibi-ìpamọ́ détà tí ó wà le fi ìwé-awakọ̀ náà hàn, ibi tí a ti fi orúkọ rẹ̀ sílẹ̀ àti nọ́mbà ẹ̀rọ-àgbéléwọ́ rẹ̀ náà.",Àwọn ọ̀rọ̀ púpọ̀ ló wà láti ibi-ìpamọ́ tó wà ńlẹ̀. ,entailment
+"Wíwá ibi-ìpamọ́ détà tí ó wà le fi ìwé-awakọ̀ náà hàn, ibi tí a ti fi orúkọ rẹ̀ sílẹ̀ àti nọ́mbà ẹ̀rọ-àgbéléwọ́ rẹ̀ náà.",Kò sí bí a ṣe lè rí ǹkankan nípa ọ̀rọ̀ tó wà ńlẹ̀ láti àwọn ibi ìwádìí tí à ń lò.,contradiction
+"Sísọ pé ará ti fún ọ́ sí gbogbo ọjà títa náà, olùṣàkóso náà jìnà sí Hazmi àti Mihdhar ṣùgbọ́n èyí ṣẹlẹ̀ lẹ́yìn ìgbà tí wọ́n ti rí ìrànlọ́wọ́ gbà.","Alábòójútó náà pe àwọn ìjọba, ó sì kọ̀ láti ṣe ìrànlọ́wọ́ lórí ọ̀rọ̀ náà.",contradiction
+"Sísọ pé ará ti fún ọ́ sí gbogbo ọjà títa náà, olùṣàkóso náà jìnà sí Hazmi àti Mihdhar ṣùgbọ́n èyí ṣẹlẹ̀ lẹ́yìn ìgbà tí wọ́n ti rí ìrànlọ́wọ́ gbà.",Alábòójútó náà ṣe ìrànlọ́wọ́ bótilẹ̀jẹ́ pé ó ní àbààwọ́n tirẹ̀. ,entailment
+"Sísọ pé ará ti fún ọ́ sí gbogbo ọjà títa náà, olùṣàkóso náà jìnà sí Hazmi àti Mihdhar ṣùgbọ́n èyí ṣẹlẹ̀ lẹ́yìn ìgbà tí wọ́n ti rí ìrànlọ́wọ́ gbà.",Ìrànlọ́wọ́ náà kún fún owó àti gbígba àwọn ìwé ìrìn-àjò. ,neutral
+"Ní 2003, a ti ibi iṣẹ́ yìí, gbogbo ibi tó ń rí sí ìwà ìpànìyàn ti wà ní ibi kan.",Àwọn ọ̀rọ̀ lórí ìwà ìpànìyàn ní àmì ìdánimọ̀ tó ṣe pàtàkì.,neutral
+"Ní 2003, a ti ibi iṣẹ́ yìí, gbogbo ibi tó ń rí sí ìwà ìpànìyàn ti wà ní ibi kan.",Gbogbo ọ̀rọ̀ lórí ìwà ìpànìyàn ní àmì kan náà.,entailment
+"Ní 2003, a ti ibi iṣẹ́ yìí, gbogbo ibi tó ń rí sí ìwà ìpànìyàn ti wà ní ibi kan.",A máa ń dá ẹjọ́ ìwà ìpànìyàn ní ipele yàtọ̀ sí ara wọn.,contradiction
+Ológun yìí tó ti rí sàkun ìṣubú South Tower sọ nípa rẹ̀ fún ìhà ESU tó wà ní North Tower.,Kò sí ẹnì kankan mọ́ ní North Tower lẹ́yìn ìṣubú South Tower. ,contradiction
+Ológun yìí tó ti rí sàkun ìṣubú South Tower sọ nípa rẹ̀ fún ìhà ESU tó wà ní North Tower.,Kí ó tó di ìṣẹ́jú ọgbọ̀n tí South Tower yíò ṣubú ni ológun náà ti sọ fún ihà ESU ní North Tower.,neutral
+Ológun yìí tó ti rí sàkun ìṣubú South Tower sọ nípa rẹ̀ fún ìhà ESU tó wà ní North Tower.,Ológun náà fi ojú rí ìṣubú South Tower.,entailment
+Indianapolis jẹ́ ibi tó dára jù fún ọ̀pọ̀ nínú àwọn òṣeré láti ṣiṣẹ́.,Àwọn òṣeré ní Indianapolis torí àwọn òwò tó ń gbani ṣeré tó wà níbẹ̀.,neutral
+Indianapolis jẹ́ ibi tó dára jù fún ọ̀pọ̀ nínú àwọn òṣeré láti ṣiṣẹ́.,Tí o bá jẹ́ òṣèré rí pé o lọ gbé ní Indianapolis.,entailment
+Indianapolis jẹ́ ibi tó dára jù fún ọ̀pọ̀ nínú àwọn òṣeré láti ṣiṣẹ́.,Ó ṣòro láti rí iṣẹ́ gẹ́gẹ́ bí òṣèré ní Indianapolis nítorí pé ó jẹ́ ìlú tí wọ́n mọ̀ sí ìmọ̀-ẹ̀rọ.,contradiction
+"A máa ń ṣe ìrànlọ́wọ́ fún wákàtí 24, ní ọjọ́ 7 ní ọ̀sẹ̀ láti Prevention Information Resource Center &amp: ìpè ti Parent Help.",Àwọn èèyàn lè kàn sí wa lati tàbí lílo ímeèlì. ,contradiction
+"A máa ń ṣe ìrànlọ́wọ́ fún wákàtí 24, ní ọjọ́ 7 ní ọ̀sẹ̀ láti Prevention Information Resource Center &amp: ìpè ti Parent Help.",Ẹ lè pè wá sórí ago nígbàkigbà.,entailment
+"A máa ń ṣe ìrànlọ́wọ́ fún wákàtí 24, ní ọjọ́ 7 ní ọ̀sẹ̀ láti Prevention Information Resource Center &amp: ìpè ti Parent Help.",A máa ń gbà ìpè tó ju ọgọ́rùn-ún lọ ní Monday àti Friday.,neutral
+Àwọn àpótí yìí yíò wà ní ìhámọ́ wọn nígbà tí a bá ti ṣí gbogbo ẹ̀bùn tán.,Àwọn àpótí yìí ní àwọn àádó-olóró tó lágbára.,neutral
+Àwọn àpótí yìí yíò wà ní ìhámọ́ wọn nígbà tí a bá ti ṣí gbogbo ẹ̀bùn tán.,A ó ṣí àwọn àpótí yìí kí a tó ṣí àwọn ẹ̀bùn ìyókù.,contradiction
+Àwọn àpótí yìí yíò wà ní ìhámọ́ wọn nígbà tí a bá ti ṣí gbogbo ẹ̀bùn tán.,A ò ní ṣí àpótí yìí fún ìgbà díẹ̀.,entailment
+"Tí a bá dín iye owó náà, a ó ní láti wá bá ẹ̀yin àpéjọ wa pé kí ẹ dá owó fún wa ká lè yanjú iṣẹ́ yìí.","Láti rí wípé tíkẹ̀tì wa ò ju $10 lọ, a máa nílò àwọn àpéjọ láti dá owó tí ó tó $25.",neutral
+"Tí a bá dín iye owó náà, a ó ní láti wá bá ẹ̀yin àpéjọ wa pé kí ẹ dá owó fún wa ká lè yanjú iṣẹ́ yìí.","A lè dín iye owó wa bí ó ṣe wà, ṣùgbọ́n ọ̀gá wa fẹ́ràn ayé jíjẹ.",contradiction
+"Tí a bá dín iye owó náà, a ó ní láti wá bá ẹ̀yin àpéjọ wa pé kí ẹ dá owó fún wa ká lè yanjú iṣẹ́ yìí.",Àwọn owó tí ẹ dá á le jẹ́ kí a dín iye owó wa.,entailment
+"00 ràn wá lọ́wọ́ láti pèsè ìtọ́sọ́nà, ìwúrí àti ìdùnnú fún àwọn ọmọdé tó tó 400 tó wá láti Indianapolis.","Ẹ ṣé fún ìdáwó yín, a rí bi pé Beyoncé wà fún ìpéjọ àwọn ọmọ aláìní ti Indianapolis náà.",neutral
+"00 ràn wá lọ́wọ́ láti pèsè ìtọ́sọ́nà, ìwúrí àti ìdùnnú fún àwọn ọmọdé tó tó 400 tó wá láti Indianapolis.",A ti rò pé a ó le dá eré kérésìmesì kalẹ̀ fún àwọn ọmọdé náà ṣùgbọ́n a kò tíì rí ǹkankan ṣe fún wọn.,contradiction
+"00 ràn wá lọ́wọ́ láti pèsè ìtọ́sọ́nà, ìwúrí àti ìdùnnú fún àwọn ọmọdé tó tó 400 tó wá láti Indianapolis.",A rí bi rán àwọn ọmọde tí Indianapolis lọ́wọ́.,entailment
+"Ní ìbẹ̀rẹ̀ pẹ̀pẹ̀, ọlọ́danni lè kó apá kan nípa fífi ẹ̀bùn tí kò ṣeé dá dúró ti $1,000 àbí jù bẹ́ẹ̀ lọ sílẹ̀ fún àwùjọ Chancellor tàbí ti $500 àbí jù bẹ́ẹ̀ lọ fún àwọn akẹgbẹ́ Chancellor.",Àwọn ọlọ́danni leè kópa lẹ́yìn ìgbà tí wọ́n bá ti dá owó kékeré bíi $50.,contradiction
+"Ní ìbẹ̀rẹ̀ pẹ̀pẹ̀, ọlọ́danni lè kó apá kan nípa fífi ẹ̀bùn tí kò ṣeé dá dúró ti $1,000 àbí jù bẹ́ẹ̀ lọ sílẹ̀ fún àwùjọ Chancellor tàbí ti $500 àbí jù bẹ́ẹ̀ lọ fún àwọn akẹgbẹ́ Chancellor.",Àwọn ọlọ́danni leè kópa tí wọ́n bá ti dá owó tó pọ̀ kalẹ̀.,entailment
+"Ní ìbẹ̀rẹ̀ pẹ̀pẹ̀, ọlọ́danni lè kó apá kan nípa fífi ẹ̀bùn tí kò ṣeé dá dúró ti $1,000 àbí jù bẹ́ẹ̀ lọ sílẹ̀ fún àwùjọ Chancellor tàbí ti $500 àbí jù bẹ́ẹ̀ lọ fún àwọn akẹgbẹ́ Chancellor.",Púpọ̀ nínú àwọn ọlọ́danni ló fẹ́ láti dá owó sí Chancellors Associates.,neutral
+Ẹ̀bùn rẹ lásìkò yìí leè fún ọ ní àǹfààní owó-orí ọlọ́dún sísan. ,"Tí o bá fi bíi ẹ̀bùn tó tó, ó kéré jù lọ $1,000, wà á ní àwọn àǹfààní owó-orí  sísan.",neutral
+Ẹ̀bùn rẹ lásìkò yìí leè fún ọ ní àǹfààní owó-orí ọlọ́dún sísan. ,Ó ṣe ni láàánú pé olùdámọ̀ràn yíò sọ pé kí o má fi àwọn ẹ̀bùn kankan sílẹ̀. ,contradiction
+Ẹ̀bùn rẹ lásìkò yìí leè fún ọ ní àǹfààní owó-orí ọlọ́dún sísan. ,O yẹ ki o le yọ owó-orí láti owó tí o dá.,entailment
+"Gẹ́gẹ́ bí o ti mọ̀, jíjẹ́ ọmọ ẹgbẹ́ yìí kún fún àwọn ọ̀rẹ́ yẹn àti àwọn ọmọ ẹgbẹ́ tẹ́lẹ̀ tí wọ́n dá owó $1,000 tàbí ní ọdọọdún ní ilé-ìwé òfin.","Díẹ̀ nínú àwọn ọmọ ẹgbẹ́ yìí ni wọ́n ti dá ju $1,000 sí ilé-ìwé náà. ",neutral
+"Gẹ́gẹ́ bí o ti mọ̀, jíjẹ́ ọmọ ẹgbẹ́ yìí kún fún àwọn ọ̀rẹ́ yẹn àti àwọn ọmọ ẹgbẹ́ tẹ́lẹ̀ tí wọ́n dá owó $1,000 tàbí ní ọdọọdún ní ilé-ìwé òfin.","A ní àwọn èèyàn tí wọ́n ti dá ju $1,000 sí ilé-ìwé òfin náà.",entailment
+"Gẹ́gẹ́ bí o ti mọ̀, jíjẹ́ ọmọ ẹgbẹ́ yìí kún fún àwọn ọ̀rẹ́ yẹn àti àwọn ọmọ ẹgbẹ́ tẹ́lẹ̀ tí wọ́n dá owó $1,000 tàbí ní ọdọọdún ní ilé-ìwé òfin.",A gbìmọ̀ láti bẹ ẹgbẹ́ yìí pé kí wọ́n dá owó sí ilé-ìwé ṣùgbọ́n kò sí ẹnì kankan tí ó ti dá a. ,contradiction
+"Gẹ́gẹ́ bí ọmọ tó ń dàgbà ní 50's, ìgbà tí inú mi dùn jù ni ìgbà tí mo ṣe eré Civic Theatre.","Nígbà tí mo wà ní ọmọdé, mo kórìíra lílọ wo eré orí ìtàgé torí bẹ́ẹ̀ ni mo ṣe di onímọ̀-sáyẹ́ǹsì.",contradiction
+"Gẹ́gẹ́ bí ọmọ tó ń dàgbà ní 50's, ìgbà tí inú mi dùn jù ni ìgbà tí mo ṣe eré Civic Theatre.","Nígbà tí mo wà ní ọmọdé, mo fẹ́ràn lílọ wo eré orí ìtàgé.",entailment
+"Gẹ́gẹ́ bí ọmọ tó ń dàgbà ní 50's, ìgbà tí inú mi dùn jù ni ìgbà tí mo ṣe eré Civic Theatre.",Eré orí ìtàgé tí mo fẹ́ràn ju láti ọwọ́ Civic ni Beauty and the Beast.,neutral
+Èèyàn kọ̀ọ̀kan tó gba lẹ́tà yìí lo fi $18 kalẹ̀.,"Èèyàn kọ̀ọ̀kan tó gba lẹ́tà yìí: ẹ má dá owó, wọ́n fẹ́ gbáa yín ní.",contradiction
+Èèyàn kọ̀ọ̀kan tó gba lẹ́tà yìí lo fi $18 kalẹ̀.,A ó fún ọ ní ẹ̀bùn tí o bá dá $18.,neutral
+Èèyàn kọ̀ọ̀kan tó gba lẹ́tà yìí lo fi $18 kalẹ̀.,A ní ìrètí pé gbogbo àwọn tó gba lẹ́tà le dá $18.,entailment
+"Kan yọ ìdí rẹ̀, wo èyí tí yí ó ṣiṣẹ́, ṣe àyípadà kankan sí àdírẹ̀sì rẹ kí o sì fi ṣ'ọwọ́ padà sí wa ninu àpò lẹ́tà náà.","Jọ̀wọ́, má yí àdírẹ̀sì rẹ padà.",contradiction
+"Kan yọ ìdí rẹ̀, wo èyí tí yí ó ṣiṣẹ́, ṣe àyípadà kankan sí àdírẹ̀sì rẹ kí o sì fi ṣ'ọwọ́ padà sí wa ninu àpò lẹ́tà náà.",Àpò lẹ́tà funfun kan wà tí àdírẹ̀sì rẹ wà lórí rẹ̀.,neutral
+"Kan yọ ìdí rẹ̀, wo èyí tí yí ó ṣiṣẹ́, ṣe àyípadà kankan sí àdírẹ̀sì rẹ kí o sì fi ṣ'ọwọ́ padà sí wa ninu àpò lẹ́tà náà.","Ó ní òmìnira láti yí àdírẹ̀sì rẹ padà, tí o bá rò pé ó tọ̀nà.",entailment
+Ilé-ìwé ìtọ́jú nílò ẹ̀bùn yín kí ó lè tẹ̀síwájú ìgbélárugẹ ẹ̀kọ́ tó péye.,Ẹ jọ̀wọ́ ẹ gbé owó tí ó tó mílíọ̀nù $100 kalẹ̀ fún Ilé-ìwé ìtọ́jú bí bẹ́ẹ̀ kọ̀ ẹ ó pàdánù sìgìdì ìrántí yín.,neutral
+Ilé-ìwé ìtọ́jú nílò ẹ̀bùn yín kí ó lè tẹ̀síwájú ìgbélárugẹ ẹ̀kọ́ tó péye.,"Ilé-ìwé ìtọ́jú ti ní owó ìfojúsùn rẹ̀, torí náà kò nílò owó kankan má.",contradiction
+Ilé-ìwé ìtọ́jú nílò ẹ̀bùn yín kí ó lè tẹ̀síwájú ìgbélárugẹ ẹ̀kọ́ tó péye.,A ní ìgbàgbọ́ pé ẹ ó gbé owó sílẹ̀ fún ilé-ìwé ìtọ́jú.,entailment
+80% àwọn olùkópa ni yí ó sọ nípa ìdàgbàsókè ìmọ̀ ìfòpin sí ogún.,Púpọ̀ lé ní ìdajì àwọn olùkópa ni yí ó sọ nípa ìdàgbàsókè ìmọ̀ ìfòpin sí ogún.,entailment
+80% àwọn olùkópa ni yí ó sọ nípa ìdàgbàsókè ìmọ̀ ìfòpin sí ogún.,Ìdámẹ́rin àwọn olùkópa wa ni yí ó sọ nípa ìmọ̀ ìfòpin sí ogún.,contradiction
+80% àwọn olùkópa ni yí ó sọ nípa ìdàgbàsókè ìmọ̀ ìfòpin sí ogún.,Àwọn olùkópa tó ju 100 lọ ló wà.,neutral
+Jọ̀wọ́ má ṣí ìwé dé àkójọ orúkọ àwọn olùgbówósílẹ̀ tó kẹ́yìn wa.,Ìtìjú ni yí ó jẹ́ tí o kò bá gbé owó sílẹ̀ má.,entailment
+Jọ̀wọ́ má ṣí ìwé dé àkójọ orúkọ àwọn olùgbówósílẹ̀ tó kẹ́yìn wa.,"Àkójọ orúkọ àwọn olùgbówósílẹ̀ tó kẹ́yìn ni a ti lẹ̀ kí gbogbo ènìyàn lè rí i, torí náà, gbẹ́kẹ́lẹ́ mi, o kò fẹ́ ní ìtìjú bá yẹn.",neutral
+Jọ̀wọ́ má ṣí ìwé dé àkójọ orúkọ àwọn olùgbówósílẹ̀ tó kẹ́yìn wa.,"A ní àwọn olùgbówósílẹ̀, torí náà jọ̀wọ́ má fi owó sílẹ̀ má.",contradiction
+Ẹnikẹ́ni tí ó bá ní kọ̀mpútà àti ẹ̀rọ-tí-wọ́n-fi-somá-ayélujara kan yí ó le dé ìsàlẹ̀.,Àwọn èèyàn ò nílò ǹkankan láti dé ìsàlẹ̀.,contradiction
+Ẹnikẹ́ni tí ó bá ní kọ̀mpútà àti ẹ̀rọ-tí-wọ́n-fi-somá-ayélujara kan yí ó le dé ìsàlẹ̀.,Àwọn èèyàn nílò kọ̀mpútà àti ẹ̀rọ-tí-wọ́n-fi-somá-ayélujara láti lọ inú ìsàlẹ̀.,entailment
+Ẹnikẹ́ni tí ó bá ní kọ̀mpútà àti ẹ̀rọ-tí-wọ́n-fi-somá-ayélujara kan yí ó le dé ìsàlẹ̀.,Àwọn èèyàn nílò láti gbé kọ̀mpútà àti ẹ̀rọ-tí-wọ́n-fi-somá-ayélujara tí wọ́n bá ń lọ ìsàlẹ̀.,neutral
+Tíkẹ̀tì títà àti níní àwọn alábàápín ò lè sanwó ìnáwó wa.,"Níwọ̀n ìgbà tí a bá rí tíkẹ̀tì tà, ìnáwó wa ṣe ara rẹ̀ nìyẹn.",contradiction
+Tíkẹ̀tì títà àti níní àwọn alábàápín ò lè sanwó ìnáwó wa.,Ìnáwó wa nílò owó síi pẹ̀lú tíkẹ̀tì títà àti àwọn alábàápín.,entailment
+Tíkẹ̀tì títà àti níní àwọn alábàápín ò lè sanwó ìnáwó wa.,Àwọn tíkẹ̀tì tí a tà àti àwọn alábàápín kàn dí bíi 70% iye tí a ná fún ìgbà yìí.,neutral
+Ẹ̀bùn tuntun kọ̀ọ̀kan ló ní ipa!,Ẹ̀bùn kọ̀ọ̀kan ni a kọ tí a sì polongo nínú àtẹ̀-jáde wa.,neutral
+Ẹ̀bùn tuntun kọ̀ọ̀kan ló ní ipa!,Ẹ̀bùn kọ̀ọ̀kan ló kà sọ́dọ̀ ǹkan kan pàtó.,entailment
+Ẹ̀bùn tuntun kọ̀ọ̀kan ló ní ipa!,Ẹ̀bùn tó ju $100 lọ nìkan ló ní ipa.,contradiction
+"Ọ̀nà tí a ń lọ jìn láti dé ibi àfojúsùn ti $365,000 wa láti ọ̀dọ̀ àwọn ọ̀rẹ́ àti ojúlúmọ̀ wa bíi tìrẹ.","Ètò-owó àfojúsùn wa ju $300,000 lọ.",entailment
+"Ọ̀nà tí a ń lọ jìn láti dé ibi àfojúsùn ti $365,000 wa láti ọ̀dọ̀ àwọn ọ̀rẹ́ àti ojúlúmọ̀ wa bíi tìrẹ.",A ń gbìyànjú láti ṣe ètò-owó wa lọ́pọ̀.,neutral
+"Ọ̀nà tí a ń lọ jìn láti dé ibi àfojúsùn ti $365,000 wa láti ọ̀dọ̀ àwọn ọ̀rẹ́ àti ojúlúmọ̀ wa bíi tìrẹ.",A kò ní gbèǹdéke ní ti owó.,contradiction
+"Ibi àgọ́-ìwòsàn ìṣe-ìlú wa ti wà fún ọdún pípẹ́, a sì ti fi àgọ́-ìwòsàn wíwo-ọ̀daràn pẹ̀lú rẹ̀.",Ibi àgọ́-ìwòsàn ìṣe-ìlú wa ti wà fún bíi ọdún mẹ́jọ.,neutral
+"Ibi àgọ́-ìwòsàn ìṣe-ìlú wa ti wà fún ọdún pípẹ́, a sì ti fi àgọ́-ìwòsàn wíwo-ọ̀daràn pẹ̀lú rẹ̀.",Ibi àgọ́-ìwòsàn ìṣe-ìlú wa ń ṣe àjọyọ̀ ọdún kan gbáko tí ó tí ń ṣiṣẹ́ ní oṣù tó ń bọ̀.,contradiction
+"Ibi àgọ́-ìwòsàn ìṣe-ìlú wa ti wà fún ọdún pípẹ́, a sì ti fi àgọ́-ìwòsàn wíwo-ọ̀daràn pẹ̀lú rẹ̀.",Àgọ́-ìwòsàn ìṣe-ìlú náà ti ń ṣiṣẹ́ ju ọdún kan lọ.,entailment
+Iye owó tí yí ó wọlé láti tíkẹ̀tì títà kò ní bẹ̀rẹ̀ láti tó fún àwọn ètò wọ̀nyí.,Ó jọ pé iye tí a ó rí láti tíkẹ̀tì ò ní tó iye àwọn ètò wọ̀nyí.,entailment
+Iye owó tí yí ó wọlé láti tíkẹ̀tì títà kò ní bẹ̀rẹ̀ láti tó fún àwọn ètò wọ̀nyí.,Iye àwọn ètò yìí gara.,neutral
+Iye owó tí yí ó wọlé láti tíkẹ̀tì títà kò ní bẹ̀rẹ̀ láti tó fún àwọn ètò wọ̀nyí.,Iye tíkẹ̀tì náà yí ó tó fún iye àwọn ètò wọ̀nyí.,contradiction
+Ìfẹ́ làkọjá òfin (àfi tí ó bá jẹ́ pé ó ń ṣiṣẹ́ fún Weekly Standard): Brit Hume (Fox News Sunday) rò lórí ìdí tí Lewinsky ò lè jẹ́ bẹ́ẹ̀. Ó sì ní ìfẹ́ ààrẹ lọ́kàn.,Brit Hume jẹ́ àgbà oníròyìn ní Fox.,neutral
+Ìfẹ́ làkọjá òfin (àfi tí ó bá jẹ́ pé ó ń ṣiṣẹ́ fún Weekly Standard): Brit Hume (Fox News Sunday) rò lórí ìdí tí Lewinsky ò lè jẹ́ bẹ́ẹ̀. Ó sì ní ìfẹ́ ààrẹ lọ́kàn.,Brit Hume ṣiṣẹ́ fún CNN.,contradiction
+Ìfẹ́ làkọjá òfin (àfi tí ó bá jẹ́ pé ó ń ṣiṣẹ́ fún Weekly Standard): Brit Hume (Fox News Sunday) rò lórí ìdí tí Lewinsky ò lè jẹ́ bẹ́ẹ̀. Ó sì ní ìfẹ́ ààrẹ lọ́kàn.,Brit Hume ṣiṣẹ́ fún Fox.,entailment
+Ǹkan tó pọ̀ ni a ṣe láti gba Michael Apted kó fi ọwọ́ èèyàn tó gbajúmọ̀ sí àwọn eré-ìdárayá-nípele.,Michael Apted ba àwọn eré-ìdárayá-nípele náà jẹ́ nígbà tí ó pinu pé kí wọ́n yọ àwọn èèyàn tútù kúrò nínú rẹ̀. ,contradiction
+Ǹkan tó pọ̀ ni a ṣe láti gba Michael Apted kó fi ọwọ́ èèyàn tó gbajúmọ̀ sí àwọn eré-ìdárayá-nípele.,A gba Michael Apted láti fi èèyàn tó pé sí àwọn eré-ìdárayá-nípele.,entailment
+Ǹkan tó pọ̀ ni a ṣe láti gba Michael Apted kó fi ọwọ́ èèyàn tó gbajúmọ̀ sí àwọn eré-ìdárayá-nípele.,"Àwọn eré-ìdárayá-nípele ni wọ́n sọ pé kò dùn, ó sì ṣú yàn, nítorí náà a ní láti gba Michael Apted láti fi ru ú sókè ni wọ́n sọ pé kò dùn, ó sì ṣú yàn, nítorí náà a ní láti gba Michael Apted láti fi ru ú sókè.",neutral
+Láti wo ọmọbìnrin tó wọ aṣọ àti bàtà òtútù.,Ọmọbìnrin tó múra láti yọ̀ nínú yìnyín.,neutral
+Láti wo ọmọbìnrin tó wọ aṣọ àti bàtà òtútù.,Ọmọbìnrin kan wọ àwọn aṣọ funfun.,entailment
+Láti wo ọmọbìnrin tó wọ aṣọ àti bàtà òtútù.,Ọmọbìnrin náà wọ aṣọ pupa.,contradiction
+Ǹkan tí eré náà kùnà láti sọ ní pé Kaufman ti sọ bí òun ó ṣe díbán nípa ikú òun.,Eré náà ò sọ pé Kaufman sọ nípa ikú rẹ̀ fúnra rẹ̀.,entailment
+Ǹkan tí eré náà kùnà láti sọ ní pé Kaufman ti sọ bí òun ó ṣe díbán nípa ikú òun.,Eré náà ní Ìfọ̀rọ̀wánilẹ́nuwò pẹ̀lú Kaufman nípa ikú rẹ̀.,contradiction
+Ǹkan tí eré náà kùnà láti sọ ní pé Kaufman ti sọ bí òun ó ṣe díbán nípa ikú òun.,Eré náà tà gidi bótilẹ̀jẹ́ pé ó kùnà nínú àwọn nǹkan kọ̀ọ̀kan nípa Kaufman.,neutral
+Ọwọ́ pálámbá Rockefeller ṣé'gi nínú ìbínú rẹ̀ nígbà tí ó ń olùgbẹ̀san Angel Tarbell bẹ̀rẹ̀ sí ní fi ẹran ara rẹ̀ sí ti McClure.,Rockefeller fún olùṣewádìí ààrùn-jẹjẹrẹ ní owó.,neutral
+Ọwọ́ pálámbá Rockefeller ṣé'gi nínú ìbínú rẹ̀ nígbà tí ó ń olùgbẹ̀san Angel Tarbell bẹ̀rẹ̀ sí ní fi ẹran ara rẹ̀ sí ti McClure.,Rockefeller ń fún ni.,entailment
+Ọwọ́ pálámbá Rockefeller ṣé'gi nínú ìbínú rẹ̀ nígbà tí ó ń olùgbẹ̀san Angel Tarbell bẹ̀rẹ̀ sí ní fi ẹran ara rẹ̀ sí ti McClure.,Rockefeller ní ahun.,contradiction
+"Ní àìpẹ́ yìí, nínú ọ̀rọ̀ lórí ìtajà ní New York, Klayman rí ara rẹ̀ ní ìdàkejì ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà.",A gbé Klayman fún ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà.,contradiction
+"Ní àìpẹ́ yìí, nínú ọ̀rọ̀ lórí ìtajà ní New York, Klayman rí ara rẹ̀ ní ìdàkejì ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà.",Klayman ò mọ̀ pé wọ́n á fi ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà kan òun.,neutral
+"Ní àìpẹ́ yìí, nínú ọ̀rọ̀ lórí ìtajà ní New York, Klayman rí ara rẹ̀ ní ìdàkejì ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà.",Àwọn ẹ̀sùn wà lórí ẹ̀sùn ojúsàájú ẹlẹ́yàmẹ̀yà sí Klayman.,entailment
+"Kò sí ẹnì kankan tí ó rò pé òsé, èébú àti pípariwo yí ó wà láti ọ̀dọ̀ aṣojú akọ̀wé òṣìṣẹ́ ti U.S.",Àwọn aṣojú àjọṣepọ̀ máa ń wọ kóòtù.,neutral
+"Kò sí ẹnì kankan tí ó rò pé òsé, èébú àti pípariwo yí ó wà láti ọ̀dọ̀ aṣojú akọ̀wé òṣìṣẹ́ ti U.S.",Èèyàn a rò pé aṣojú àjọṣepọ̀ yí ó wọ́ òsé.,contradiction
+"Kò sí ẹnì kankan tí ó rò pé òsé, èébú àti pípariwo yí ó wà láti ọ̀dọ̀ aṣojú akọ̀wé òṣìṣẹ́ ti U.S.",Èèyàn ò ní rò pé aṣojú àjọṣepọ̀ yí ó wọ́ òsé.,entailment
+Pé ìtọ́jú ní ipa tó ga lórí ẹni tó ń sáré kò ní pé àyíká ò ní ipa kankan lórí wọn.,A bí àwọn eléré-ìje pẹ̀lú agbára àti mọ eré sá ni.,contradiction
+Pé ìtọ́jú ní ipa tó ga lórí ẹni tó ń sáré kò ní pé àyíká ò ní ipa kankan lórí wọn.,Kíkọ́ àti sáré ní ipa nínú eré ìje ju pé abínibí ni lọ.,entailment
+Pé ìtọ́jú ní ipa tó ga lórí ẹni tó ń sáré kò ní pé àyíká ò ní ipa kankan lórí wọn.,Púpọ̀ nínú àwọn eléré-ìje tó yege ju máa ń gbáradì fún wákàtí mẹ́jọ lọ́sọ̀ọ̀sẹ̀.,neutral
+"Ní ilé, mo gbọ́ pé ọ̀nà méjì ni U.S. fi dá fífi ǹkan ránsẹ́ dúró.",Mo ní ìfẹ́ sí òṣèlú.,neutral
+"Ní ilé, mo gbọ́ pé ọ̀nà méjì ni U.S. fi dá fífi ǹkan ránsẹ́ dúró.",Mo kọ́ nípa United States náà.,entailment
+"Ní ilé, mo gbọ́ pé ọ̀nà méjì ni U.S. fi dá fífi ǹkan ránsẹ́ dúró.",Mo gbọ́ pé United States dá fífi ǹkan ránsẹ́ dúró ní ọ̀nà méjì kí ń tó wálé.,contradiction
+Ilé-iṣẹ́ tó dàgbà jù lọ tó ń sì tóbi jù ní ti gbogbo ilé-ìwé ẹ̀kọ́ gíga - - Oxford--tó ń gbé ìwé jade sọ pé òun ó dá títẹ àkójọpọ̀ ewì rẹ̀ dúró.,Títẹ àkójọpọ̀ ewì náà ò tẹ̀síwájú má ní Oxford.,entailment
+Ilé-iṣẹ́ tó dàgbà jù lọ tó ń sì tóbi jù ní ti gbogbo ilé-ìwé ẹ̀kọ́ gíga - - Oxford--tó ń gbé ìwé jade sọ pé òun ó dá títẹ àkójọpọ̀ ewì rẹ̀ dúró.,Ilé-ìwé tó dára nì ó ní owó láti tẹ̀síwájú pẹ̀lú títẹ àkójọpọ̀ ewì náà jáde mọ́.,neutral
+Ilé-iṣẹ́ tó dàgbà jù lọ tó ń sì tóbi jù ní ti gbogbo ilé-ìwé ẹ̀kọ́ gíga - - Oxford--tó ń gbé ìwé jade sọ pé òun ó dá títẹ àkójọpọ̀ ewì rẹ̀ dúró.,"Ojúṣe ilé-ìwé ẹ̀kọ́ gíga ni láti pa títẹ àkójọpọ̀ ewì náà jáde, wọn kò gbọ́dọ̀ dá a dúró.",contradiction
+Ẹ̀bùn ìtùnú náà wà fún gbogbo ènìyàn ní ṣá.,Ẹ̀bùn ìtùnú náà jẹ́ irin tí ń gé ǹkan fún gbogbo ènìyàn kọ̀ọ̀kan.,neutral
+Ẹ̀bùn ìtùnú náà wà fún gbogbo ènìyàn ní ṣá.,Kò sí ìdoríkodò fún gbogbo ènìyàn lórí ọ̀rọ̀ yìí.,contradiction
+Ẹ̀bùn ìtùnú náà wà fún gbogbo ènìyàn ní ṣá.,Gbogbo èyí kìí ṣe ìròyìn búburú fún gbogbo ènìyàn.,entailment
+Eré-ìdárayá nìkan kọ́ ló wà lórí ààyè ayélujára tẹ́tẹ́ títa wọ̀nyí.,Tẹ́tẹ́ lórí ìdíje òṣèlú àti ìdìbò náà wà lórí ààyè ayélujára yìí.,neutral
+Eré-ìdárayá nìkan kọ́ ló wà lórí ààyè ayélujára tẹ́tẹ́ títa wọ̀nyí.,Àwọn ààyè ayélujára gba tẹ́tẹ́ lórí eré-ìdárayá nìkan.,contradiction
+Eré-ìdárayá nìkan kọ́ ló wà lórí ààyè ayélujára tẹ́tẹ́ títa wọ̀nyí.,Ààyè ayélujára yìí gba tẹ́tẹ́ lórí iṣẹ́ tó pọ̀.,entailment
+"Ní Aug. 25, nígbà tí a ti ṣí ìpéjọ ìjọba-àwarawa ní ìlú Atlantic, N.J., Johnson, ẹni tí ó jẹ́ ọmọ'dún 56 nígbà yẹn, ṣe ìlérí ní ọ̀nà mẹ́ta tí a ká sílẹ̀ ọ̀tọ̀ọ̀tọ̀ pé òun ò ní du ipò ààrẹ má.",Johnson lérò pé òun ó ní àtìlẹyìn mọ́.,neutral
+"Ní Aug. 25, nígbà tí a ti ṣí ìpéjọ ìjọba-àwarawa ní ìlú Atlantic, N.J., Johnson, ẹni tí ó jẹ́ ọmọ'dún 56 nígbà yẹn, ṣe ìlérí ní ọ̀nà mẹ́ta tí a ká sílẹ̀ ọ̀tọ̀ọ̀tọ̀ pé òun ò ní du ipò ààrẹ má.",Johnson ò rò pé òun ó dáwọ́ dúró.,contradiction
+"Ní Aug. 25, nígbà tí a ti ṣí ìpéjọ ìjọba-àwarawa ní ìlú Atlantic, N.J., Johnson, ẹni tí ó jẹ́ ọmọ'dún 56 nígbà yẹn, ṣe ìlérí ní ọ̀nà mẹ́ta tí a ká sílẹ̀ ọ̀tọ̀ọ̀tọ̀ pé òun ò ní du ipò ààrẹ má.",Johnson ṣèlérí pé òun ó dáwọ́ dúró.,entailment
+Lamar Alexander kúrò nínú eré ìdíje ààrẹ.,"Ó kéré tán, èèyàn kan ti sọ pé òun ó díje má sí ipò ààrẹ.",entailment
+Lamar Alexander kúrò nínú eré ìdíje ààrẹ.,Lamar Alexander kọ̀ láti fi ìpolongo sí ipò ààrẹ rẹ̀ sílẹ̀.,contradiction
+Lamar Alexander kúrò nínú eré ìdíje ààrẹ.,Ọ̀gbẹ́ni Alexander fi ipá fi ìdíje náà sílẹ̀ nígbà tí àwọn àwòrán adojú ti ni rẹ̀ náà tàn káàkiri.,neutral
+"Pẹ̀lú èyí, pẹ̀lẹ́, àwọn FBI ló ṣi ìkọsílẹ̀ òmíràn-agbègbè lò jù nínú ìṣèwádìí White House náà èyí tí a sì ti wá mọ̀ sí Filegate.",White House náà fi alamí kó ṣọ́ àwọn olùdíje.,neutral
+"Pẹ̀lú èyí, pẹ̀lẹ́, àwọn FBI ló ṣi ìkọsílẹ̀ òmíràn-agbègbè lò jù nínú ìṣèwádìí White House náà èyí tí a sì ti wá mọ̀ sí Filegate.",White House náà ò kín lo àwọn FBI dáadáa.,entailment
+"Pẹ̀lú èyí, pẹ̀lẹ́, àwọn FBI ló ṣi ìkọsílẹ̀ òmíràn-agbègbè lò jù nínú ìṣèwádìí White House náà èyí tí a sì ti wá mọ̀ sí Filegate.",White House náà máa ń lo àwọn FBI dáadáa.,contradiction
+"Tung ti pinu pé òun ó ṣe ìkọlù sí àwọn aṣàyẹ̀wò dúkìá, ṣùgbọ́n púpọ̀ nínú àwọn èèyàn rò pé èpo ẹ̀yìn rẹ̀ yíò burú ju gígé èèyàn jẹ lọ. ",Tung ò tiẹ̀ fẹ́ mọ̀ nípa àwọn tó ń ṣe àyẹ̀wò dúkìá.,contradiction
+"Tung ti pinu pé òun ó ṣe ìkọlù sí àwọn aṣàyẹ̀wò dúkìá, ṣùgbọ́n púpọ̀ nínú àwọn èèyàn rò pé èpo ẹ̀yìn rẹ̀ yíò burú ju gígé èèyàn jẹ lọ. ",Tung rò pé àwọn tó ń ṣe àyẹ̀wò dúkìá ṣe bíi ẹni tí ó ní àìṣòótọ́.,neutral
+"Tung ti pinu pé òun ó ṣe ìkọlù sí àwọn aṣàyẹ̀wò dúkìá, ṣùgbọ́n púpọ̀ nínú àwọn èèyàn rò pé èpo ẹ̀yìn rẹ̀ yíò burú ju gígé èèyàn jẹ lọ. ",Tung fẹ́ fi agbára han àwọn tó ń ṣe àyẹ̀wò dúkìá.,entailment
+"Àwọn ẹdù-ọkàn náà kún fún ẹrù sísọnù, àwọn òṣìṣẹ́ ọkọ̀-òfurufú tó burú, ìfagilé ètò ọkọ̀-òfurufú àti ìṣẹ̀lẹ̀ owó níná. ",Èèyàn 10 ló sọ ẹrù wọn nù.,neutral
+"Àwọn ẹdù-ọkàn náà kún fún ẹrù sísọnù, àwọn òṣìṣẹ́ ọkọ̀-òfurufú tó burú, ìfagilé ètò ọkọ̀-òfurufú àti ìṣẹ̀lẹ̀ owó níná. ",Àwọn èèyàn sọ nípa ẹrù.,entailment
+"Àwọn ẹdù-ọkàn náà kún fún ẹrù sísọnù, àwọn òṣìṣẹ́ ọkọ̀-òfurufú tó burú, ìfagilé ètò ọkọ̀-òfurufú àti ìṣẹ̀lẹ̀ owó níná. ",Kò sí ìkùnsínú rárá.,contradiction
+"Lawrence Singleton, afipábánilòpọ̀ tó gbajúmọ̀ kan gé apá àwọn tó ṣe ìkọlù sí tí ó sì lo ọdún mẹ́jọ péré ní àtìmọ́lé, ní ọwọ́ ti tẹ̀ lórí gígún ọmọbìnrin mìíràn ní Florida.","Tí ó bá ti gé ọwọ́ àwọn tí ó ṣe ìkọlù sí tán, yó gbìyànjú láti kó wọn sínú agolo ìdọ̀tí.",neutral
+"Lawrence Singleton, afipábánilòpọ̀ tó gbajúmọ̀ kan gé apá àwọn tó ṣe ìkọlù sí tí ó sì lo ọdún mẹ́jọ péré ní àtìmọ́lé, ní ọwọ́ ti tẹ̀ lórí gígún ọmọbìnrin mìíràn ní Florida.",Ó hàn gbangba pé orúkọ rẹ̀ ní ìhámọ́ ti yìí padà tán yányán.,contradiction
+"Lawrence Singleton, afipábánilòpọ̀ tó gbajúmọ̀ kan gé apá àwọn tó ṣe ìkọlù sí tí ó sì lo ọdún mẹ́jọ péré ní àtìmọ́lé, ní ọwọ́ ti tẹ̀ lórí gígún ọmọbìnrin mìíràn ní Florida.",Ọ̀gbẹ́ni Singleton afipábánilòpọ̀ tí a ti dájọ́ fún ní orílẹ̀-èdè Florida. ,entailment
+New Republic Charles Lane ni ó sọ pé ìròyìn ìjínigbé kàn fi díẹ̀ tàn ju àkọsílẹ̀ àìsòótọ́ oníròyìn Gabriel Garcaa Marquez.,Oníròyìn ni Charles Lane jẹ́.,entailment
+New Republic Charles Lane ni ó sọ pé ìròyìn ìjínigbé kàn fi díẹ̀ tàn ju àkọsílẹ̀ àìsòótọ́ oníròyìn Gabriel Garcaa Marquez.,Charles Lane ta àwọn ọkọ̀.,contradiction
+New Republic Charles Lane ni ó sọ pé ìròyìn ìjínigbé kàn fi díẹ̀ tàn ju àkọsílẹ̀ àìsòótọ́ oníròyìn Gabriel Garcaa Marquez.,Charles Lane jẹ Pulitzer kan.,neutral
+Ilé-ẹjọ́ náà ìí ṣe agbègbè òṣèlú tó wà ní Washington ní àárọ̀ yìí.,Ilé-ẹjọ́ náà ìí ṣe ibi òṣèlú nìkan ní Washington.,entailment
+Ilé-ẹjọ́ náà ìí ṣe agbègbè òṣèlú tó wà ní Washington ní àárọ̀ yìí.,Ọjọ́ ìdìbò máa ń bẹ̀rẹ̀ láti òwúrọ̀.,neutral
+Ilé-ẹjọ́ náà ìí ṣe agbègbè òṣèlú tó wà ní Washington ní àárọ̀ yìí.,Àgbègbè ìdárayá kan wà ní ilé-ẹjọ́ tó kún fún àwọn aláwàdà.,contradiction
+"Èèyàn lè ro awa katakata bí ó ti ṣe wú ọ̀nà fún iṣẹ́ tuntun bí ọ̀gá òṣìṣẹ́ ṣe ń yìn ín, káre Loyd.",O lè ro ẹni tó ń wa katakata tó ṣíná sí katakata.,neutral
+"Èèyàn lè ro awa katakata bí ó ti ṣe wú ọ̀nà fún iṣẹ́ tuntun bí ọ̀gá òṣìṣẹ́ ṣe ń yìn ín, káre Loyd.",O le ro ẹni tó ń wa katakata kan.,entailment
+"Èèyàn lè ro awa katakata bí ó ti ṣe wú ọ̀nà fún iṣẹ́ tuntun bí ọ̀gá òṣìṣẹ́ ṣe ń yìn ín, káre Loyd.",O ò leè ro ẹni tó ń wa katakata kan.,contradiction
+"Mo sọ èyí fún Dr., ó jọ pé ó yà wọ́n lẹ́nu, wọ́n sì fi àkàrà-òyìnbó ṣọwọ́ sí mi ní ọdún kérésìmesì ìgbà yẹn.",Ó dá mi lójú pé dókítà náà gba lẹ́tà tí mo kọ sí wọn.,entailment
+"Mo sọ èyí fún Dr., ó jọ pé ó yà wọ́n lẹ́nu, wọ́n sì fi àkàrà-òyìnbó ṣọwọ́ sí mi ní ọdún kérésìmesì ìgbà yẹn.",N kò jẹ àkàrà-òyìnbó tí dókítà náà fi ránsẹ́ sí mi ní ọdún kérésìmesì nígbà yẹn. ,neutral
+"Mo sọ èyí fún Dr., ó jọ pé ó yà wọ́n lẹ́nu, wọ́n sì fi àkàrà-òyìnbó ṣọwọ́ sí mi ní ọdún kérésìmesì ìgbà yẹn.",Dókítà náà fi wáìnì ránsẹ́ sí mi ní ọdún Kérésìmesì yẹn.,contradiction
+"A ti mọ̀ ẹgbẹ́ náà tẹ́lẹ̀ rí pẹ̀lú ètò àwọn Beaneater tí ó jẹ́, ká sọ pé titi ẹni tó fẹ́ mọ̀, ó lè jẹ́ ìnagijẹ India náà.",Ẹgbẹ́ náà yìí orúkọ wọn padà torí kò tàn ká.,neutral
+"A ti mọ̀ ẹgbẹ́ náà tẹ́lẹ̀ rí pẹ̀lú ètò àwọn Beaneater tí ó jẹ́, ká sọ pé titi ẹni tó fẹ́ mọ̀, ó lè jẹ́ ìnagijẹ India náà.","Ẹgbẹ́ náà ti ní orúkọ kí ó tó ní èyí, a sì le pe orúkọ náà ní ti àwọn ìnagijẹ India.",entailment
+"A ti mọ̀ ẹgbẹ́ náà tẹ́lẹ̀ rí pẹ̀lú ètò àwọn Beaneater tí ó jẹ́, ká sọ pé titi ẹni tó fẹ́ mọ̀, ó lè jẹ́ ìnagijẹ India náà.",Orúkọ kan ṣoṣo ni ẹgbẹ́ náà ti ní. ,contradiction
+N kò rí aláyè irú èyí nínú ìwé-ìtúmọ̀ náà.,Mo rí aláyè rẹ̀ nínú ìwé-ìtúmọ̀ náà.,contradiction
+N kò rí aláyè irú èyí nínú ìwé-ìtúmọ̀ náà.,Mo wo ìwé-ìtúmọ̀ ṣùgbọ́n mi ò rí aláyè kankan.,entailment
+N kò rí aláyè irú èyí nínú ìwé-ìtúmọ̀ náà.,Ìwé-ìtúmọ̀ tí mo lò jẹ́ èyí tó ṣe gbèǹdéke.,neutral
+Báwo ni èèyàn ó ṣe ṣe irú nǹkan bá yẹn? ,Èèyàn mélòó ni kò ṣe ǹkankan? ,contradiction
+Báwo ni èèyàn ó ṣe ṣe irú nǹkan bá yẹn? ,Báwo ni èèyàn ó ṣe ṣe nǹkan tí ò dára bá yẹn? ,neutral
+Báwo ni èèyàn ó ṣe ṣe irú nǹkan bá yẹn? ,Báwo ni èèyàn ṣe le ṣe ìyẹn? ,entailment
+"Pẹ̀lúpẹ̀lú, ó ní àwọn ọ̀rọ̀ kọ̀ọ̀kan tó jáde ní ọ̀ọ́dúnrún ogún, gẹ́gẹ́ bí afárá rẹ̀ ti sọ, ṣùgbọ́n ó yọ àwọn ọ̀rọ̀ àwọn ológun àsé tí ọ̀ọ́dúnrún 20th tó jáde tẹ́lẹ̀ kúrò.","Gẹ́gẹ́ bí afárá, ó ní àwọn ọ̀rọ̀ kọ̀ọ̀kan tó jáde ní ọ̀ọ́dúnrún ogún ṣùgbọ́n ó sì yọ àwọn àsé ọ̀rọ̀ tí ó jẹyọ tẹ́lẹ̀ kúrò.",entailment
+"Pẹ̀lúpẹ̀lú, ó ní àwọn ọ̀rọ̀ kọ̀ọ̀kan tó jáde ní ọ̀ọ́dúnrún ogún, gẹ́gẹ́ bí afárá rẹ̀ ti sọ, ṣùgbọ́n ó yọ àwọn ọ̀rọ̀ àwọn ológun àsé tí ọ̀ọ́dúnrún 20th tó jáde tẹ́lẹ̀ kúrò.",Ó ní gbogbo ọ̀rọ̀ ìsọkúsọ tí àti ìbẹ̀rẹ̀ wá.,contradiction
+"Pẹ̀lúpẹ̀lú, ó ní àwọn ọ̀rọ̀ kọ̀ọ̀kan tó jáde ní ọ̀ọ́dúnrún ogún, gẹ́gẹ́ bí afárá rẹ̀ ti sọ, ṣùgbọ́n ó yọ àwọn ọ̀rọ̀ àwọn ológun àsé tí ọ̀ọ́dúnrún 20th tó jáde tẹ́lẹ̀ kúrò.",Àwọn ọ̀rọ̀ ìsọkúsọ tó yàtọ̀ pọ̀ ní ọ̀ọ́dúnrún ogún.,neutral
+"Tí èèyàn bá ní ẹ̀dà 1984 rẹ̀, ó lè fi ìbínú ra èyí dípò elérèfé (tí kò wọ́n) fi dí ra wọn.",Ẹ̀dà ti 1984 jẹ́ èyí tó ṣe jù nínú gbogbo ìpín náà.,neutral
+"Tí èèyàn bá ní ẹ̀dà 1984 rẹ̀, ó lè fi ìbínú ra èyí dípò elérèfé (tí kò wọ́n) fi dí ra wọn.",A kò ta ìwé náà.,contradiction
+"Tí èèyàn bá ní ẹ̀dà 1984 rẹ̀, ó lè fi ìbínú ra èyí dípò elérèfé (tí kò wọ́n) fi dí ra wọn.",Àfikún-ìwé náà ò wán tó ìwé náà.,entailment
+Bernstein ṣàlàyé ní àfihàn.,Bernstein ò ṣàlàyé rẹ̀ ní kíkún.,neutral
+Bernstein ṣàlàyé ní àfihàn.,Bernstein kàn ṣàlàyé rẹ̀ ní ìparí náà ni.,contradiction
+Bernstein ṣàlàyé ní àfihàn.,Àfihàn náà ní àlàyé.,entailment
+"Wọn kò sọ pé kí èyí di èèwọ̀ látàrí pé ó le kódà lẹ́yìn ogún ọdún tí wọ́n fi ń mọ́ra wọn, kí àwọn àlejò le mọ ohun tí ó jẹ́ eré láàárín wa.",Kódà àwọn tó ń sọ èdè náà gan-an máa ń ní ìṣòro pẹ̀lú ìpanilẹ́ẹ̀rín.,neutral
+"Wọn kò sọ pé kí èyí di èèwọ̀ látàrí pé ó le kódà lẹ́yìn ogún ọdún tí wọ́n fi ń mọ́ra wọn, kí àwọn àlejò le mọ ohun tí ó jẹ́ eré láàárín wa.",Ìpanilẹ́ẹ̀rín jẹ́ nǹkan tí àwọn àlejò ìlú lè tètè mọ̀. ,contradiction
+"Wọn kò sọ pé kí èyí di èèwọ̀ látàrí pé ó le kódà lẹ́yìn ogún ọdún tí wọ́n fi ń mọ́ra wọn, kí àwọn àlejò le mọ ohun tí ó jẹ́ eré láàárín wa.",Ẹ̀kọ́ yìí le fún ará ìta láti mọ̀,entailment
+"Ní ìparí, èèyàn ní láti yẹra fún ṣíṣe gbólóhùn ní gígùn tí yíò mú kí ó sọ ìtúmọ̀ nù.",A máa ń gba àwọn olóòtú láti rí àwọn àṣìkọ wọ̀nyí ni.,neutral
+"Ní ìparí, èèyàn ní láti yẹra fún ṣíṣe gbólóhùn ní gígùn tí yíò mú kí ó sọ ìtúmọ̀ nù.",Ṣíṣe gbólóhùn ní gígùn lè jẹ́ ọ̀nà láti ríi pé ó ní ìtúmọ̀ tó gbòòrò.,contradiction
+"Ní ìparí, èèyàn ní láti yẹra fún ṣíṣe gbólóhùn ní gígùn tí yíò mú kí ó sọ ìtúmọ̀ nù.",Ìtumọ̀ rẹ̀ lè yí padà tí o bá ń kọ gbólóhùn gígùn.,entailment
+"Fi oru má orí, ṣe ìgbé lárugẹ sí òyì kíkọ́ rẹ. ",Fífi oru má orí èèyàn le ṣe ìgbé lárugẹ sí ìdojúkọ àti ìfọkànsí wọn.,contradiction
+"Fi oru má orí, ṣe ìgbé lárugẹ sí òyì kíkọ́ rẹ. ",Àpọ̀jù oru lè fa kí ojú máa pòyì lẹ́ẹ̀kọ̀kan.,entailment
+"Fi oru má orí, ṣe ìgbé lárugẹ sí òyì kíkọ́ rẹ. ","Lónìí, ìwọ̀n jẹ́ márùn-ún ju iye tí a ń ní fún ojú-ọjọ́ ní àsìkò yìí lọ.",neutral
+Kò sí iṣẹ́ tó ní ìfojúdi-ara-ẹni àtọwọ́dọ́wọ́ jù.,Ọ̀pọ̀ nínú iṣẹ́ ló gbéraga ju ara wọn lọ.,neutral
+Kò sí iṣẹ́ tó ní ìfojúdi-ara-ẹni àtọwọ́dọ́wọ́ jù.,Ọ̀pọ̀ nínú iṣẹ́ ló ní ìfojúdi-ara-ẹni àtọwọ́dọ́wọ́.,contradiction
+Kò sí iṣẹ́ tó ní ìfojúdi-ara-ẹni àtọwọ́dọ́wọ́ jù.,Kò sí iṣẹ́ tó lódì àtọwọ́dọ́wọ́ síi tó ara rẹ̀.,entailment
+"Àti pẹ̀lú ọ̀rọ̀ ìgbéraga, àwọn aláṣọ àkísà yẹn tí ó ti ní ipò ní àdúgbò máa lò orúkọ náà ní ìkọ̀kọ̀, Ìbánisọ̀rọ̀ ibi irun ṣíṣe àti àwọn ibi tí kò jẹ́ ti òṣìṣẹ́.",Ìwé náà ò gbajúmọ̀ rárá.,contradiction
+"Àti pẹ̀lú ọ̀rọ̀ ìgbéraga, àwọn aláṣọ àkísà yẹn tí ó ti ní ipò ní àdúgbò máa lò orúkọ náà ní ìkọ̀kọ̀, Ìbánisọ̀rọ̀ ibi irun ṣíṣe àti àwọn ibi tí kò jẹ́ ti òṣìṣẹ́.",Àwọn ìwé ìròyìn náà ò gbajúmọ̀ tó bẹ́ẹ̀. ,entailment
+"Àti pẹ̀lú ọ̀rọ̀ ìgbéraga, àwọn aláṣọ àkísà yẹn tí ó ti ní ipò ní àdúgbò máa lò orúkọ náà ní ìkọ̀kọ̀, Ìbánisọ̀rọ̀ ibi irun ṣíṣe àti àwọn ibi tí kò jẹ́ ti òṣìṣẹ́.",Àwọn ìwé ìròyìn náà ní àwọn àyọnusọ àwọn ìyálénlé.,neutral
+Tí Lite tàbí Light bá ṣàpèjúwe ọtí náà (fún àpẹẹrẹ.,Ọtí lè ní àmì Lite tàbí Light.,entailment
+Tí Lite tàbí Light bá ṣàpèjúwe ọtí náà (fún àpẹẹrẹ.,A fi Lite àti Light ṣàpèjúwe àwọn ọtí wáìnì àti ọtí òyìnbó.,contradiction
+Tí Lite tàbí Light bá ṣàpèjúwe ọtí náà (fún àpẹẹrẹ.,Ọtí Lite ò ní nǹkan tó pá ni tó bẹ́ẹ̀.,neutral
+"Káì, a lo ọ̀rọ̀-orúkọ tó wà jẹ́jẹ́ rẹ̀ nígbà tí a ò nílò ẹ̀dà rẹ̀. ",Àwọn èèyàn ò kín rí ẹ̀dà ọ̀rọ̀-orúkọ kan. ,neutral
+"Káì, a lo ọ̀rọ̀-orúkọ tó wà jẹ́jẹ́ rẹ̀ nígbà tí a ò nílò ẹ̀dà rẹ̀. ",A ti lo ọrọ-orúkọ náà jù.,entailment
+"Káì, a lo ọ̀rọ̀-orúkọ tó wà jẹ́jẹ́ rẹ̀ nígbà tí a ò nílò ẹ̀dà rẹ̀. ",Ó yẹ kí a lo ọ̀rọ̀-orúkọ náà síi.,contradiction
+"Pẹ̀lú èyí, a ní àkọsílẹ̀ burúkú tó dára tí a le rántí, èyí jẹ́ kí ìṣòro náà pọ̀ síi.",Àwọn èèyàn á tètè rántí àkọsílẹ̀ tí ò dára.,contradiction
+"Pẹ̀lú èyí, a ní àkọsílẹ̀ burúkú tó dára tí a le rántí, èyí jẹ́ kí ìṣòro náà pọ̀ síi.",A ó tètè rántí ìwé tí a kọ sílẹ dáadáa ju èyí tí a kò kọ dáadáa.,entailment
+"Pẹ̀lú èyí, a ní àkọsílẹ̀ burúkú tó dára tí a le rántí, èyí jẹ́ kí ìṣòro náà pọ̀ síi.",Ìwé tí a kọ dáadáa ò ṣeé tẹ̀ jáde ní ọ̀pọ̀.,neutral
+"Bí ìwà yìí ti dojú kọ wọn, tí ẹnu yà wọ́n, àwọn Bìrìtó gbà pé ọ̀gá ni wọ́n nípa agbára ọ̀rọ̀ ẹnu. ",Àwọn Bìrìtó ò tilẹ̀ ní ìtẹríba.,contradiction
+"Bí ìwà yìí ti dojú kọ wọn, tí ẹnu yà wọ́n, àwọn Bìrìtó gbà pé ọ̀gá ni wọ́n nípa agbára ọ̀rọ̀ ẹnu. ",Àwọn Bìrìtó gba ètò ìjọba owó nínà àgbáyé.,neutral
+"Bí ìwà yìí ti dojú kọ wọn, tí ẹnu yà wọ́n, àwọn Bìrìtó gbà pé ọ̀gá ni wọ́n nípa agbára ọ̀rọ̀ ẹnu. ",Àwọn Bìrìtó ṣe owó káàkiri àgbáyé gan-an.,entailment
+"Ní ìgbà mìíràn, òun ló pa kẹ́kẹ́ jù.",Ó le ṣòro láti rí ní ẹ̀kọ̀ọ̀kan.,entailment
+"Ní ìgbà mìíràn, òun ló pa kẹ́kẹ́ jù.","Kò pariwo púpọ̀ mọ́, a dúpẹ́ fún ìdábòòbò irinṣẹ́ náà.",neutral
+"Ní ìgbà mìíràn, òun ló pa kẹ́kẹ́ jù.",Ó rọrùn láti ríi láti òkè réré.,contradiction
+"Bí ó ṣe ti ṣẹlẹ̀, dájúdájú, ẹ̀dà èdè gẹ̀ẹ́sì ti Bìrìtó tí ó dá yàtọ̀ pọ̀ ní North America ẹnikẹ́ni tí ó bá sì ti tẹ́tí sílẹ̀ gbọ́ wọn yí ó mọ̀ pé èèyàn le mọ ohun tí wọ́n sọ.","Orílẹ̀-èdè Bìrìtó ní èdè gẹ̀ẹ́sì tó pọ̀, iye rẹ̀ ju ti èyí tó wà ní Àríwá Amẹ́ríkà lọ. ",entailment
+"Bí ó ṣe ti ṣẹlẹ̀, dájúdájú, ẹ̀dà èdè gẹ̀ẹ́sì ti Bìrìtó tí ó dá yàtọ̀ pọ̀ ní North America ẹnikẹ́ni tí ó bá sì ti tẹ́tí sílẹ̀ gbọ́ wọn yí ó mọ̀ pé èèyàn le mọ ohun tí wọ́n sọ.","Ọ̀kan èdè gẹ̀ẹ́sì ti Àríwá Amẹ́ríkà àti ti Bìrìtó, àwọn èèyàn ò mọ ìyàtọ̀ wọn. ",contradiction
+"Bí ó ṣe ti ṣẹlẹ̀, dájúdájú, ẹ̀dà èdè gẹ̀ẹ́sì ti Bìrìtó tí ó dá yàtọ̀ pọ̀ ní North America ẹnikẹ́ni tí ó bá sì ti tẹ́tí sílẹ̀ gbọ́ wọn yí ó mọ̀ pé èèyàn le mọ ohun tí wọ́n sọ.",Àwọn èèyàn tó wá láti àwọn orílè-èdè Àríwá Amẹ́ríkà ò gbọ́ ìdajì èdè gẹ̀ẹ́sì ti Bìrìtó.,neutral
+"Olùṣàlàyé ti Tennessee kan fi ọjọ́ tí kò gbóná kò tutù fún 'gbígbóná, àìrọ̀jò ojú-ọjọ́ tí a le rò bíi wípé a yọ ọ́ láti gbólóhùn ìgbà oru tó gbóná jù ìyẹn ojú ọjọ́ August tó gbẹ jù.","Bí olùṣàlàyé ṣe sọ, ọjọ́ tí kò gbóná kò tutù ni a fi ń ṣe àpèjúwe ìgbà òjò-wẹliwẹli.",contradiction
+"Olùṣàlàyé ti Tennessee kan fi ọjọ́ tí kò gbóná kò tutù fún 'gbígbóná, àìrọ̀jò ojú-ọjọ́ tí a le rò bíi wípé a yọ ọ́ láti gbólóhùn ìgbà oru tó gbóná jù ìyẹn ojú ọjọ́ August tó gbẹ jù.",Oṣù Kẹ́fà àti ìkeèje gbóná gaan ní Tennessee.,neutral
+"Olùṣàlàyé ti Tennessee kan fi ọjọ́ tí kò gbóná kò tutù fún 'gbígbóná, àìrọ̀jò ojú-ọjọ́ tí a le rò bíi wípé a yọ ọ́ láti gbólóhùn ìgbà oru tó gbóná jù ìyẹn ojú ọjọ́ August tó gbẹ jù.","Ojú-ọjọ́ náà kún fún oru, òjò ò sì rọ̀ ní gbogbo ọjọ́ oṣù Kẹ́jọ.",entailment

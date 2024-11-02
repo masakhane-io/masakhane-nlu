@@ -1,0 +1,601 @@
+premise,hypothesis,label
+"Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.",Sijaongea na yeye tena.,contradiction
+"Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.",Nilikasirika sana kwamba nikaanza kuzungumza naye tena.,entailment
+"Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.",Tulikuwa na majadiliano mazuri.,neutral
+Walinieleza ya kwamba mwishowe ningeitiwa jamaa fulani ambaye tungepatana naye.,Sikuambiwa chochote kuhusu kukutana na mtu yeyote.,contradiction
+Walinieleza ya kwamba mwishowe ningeitiwa jamaa fulani ambaye tungepatana naye.,Niliambiwa mtu angeitwa aje ili nikutane naye.,entailment
+Walinieleza ya kwamba mwishowe ningeitiwa jamaa fulani ambaye tungepatana naye.,Alikuja akiwa amechelewa.,neutral
+Kuna mengi ambayo unaweza kuzungumzia kuhusu hilo lakini  nitaachana nayo tu.,Nataka kukuambia kila kitu ninachokijua kuhusu mambo hayo,contradiction
+Kuna mengi ambayo unaweza kuzungumzia kuhusu hilo lakini  nitaachana nayo tu.,"Sitaongelea mambo hayo, ingawa kuna mengi ya kuficha.",entailment
+Kuna mengi ambayo unaweza kuzungumzia kuhusu hilo lakini  nitaachana nayo tu.,Siwezi ongelea histroria ya mji maana kuna mengi ya kusema.,neutral
+"Hivyo, sijui kwa kweli nu kwa nini.",Nina uhakika wa sababu.,contradiction
+"Hivyo, sijui kwa kweli nu kwa nini.",Sijui kwa nini alihamisha shule.,neutral
+"Hivyo, sijui kwa kweli nu kwa nini.",Sijui ni kwa nini hilo lilitendeka.,entailment
+"Ni mimi pekee nilikua nayo uh, ushawahi endeleza dhibiti za majaribio katika chumba cha 'miniature altitude'.",Sikupenda kuwa wa pekee kwa kuendesha wasimamizi wa vipimo.,neutral
+"Ni mimi pekee nilikua nayo uh, ushawahi endeleza dhibiti za majaribio katika chumba cha 'miniature altitude'.",Majaribio yalifanyiwa kwa miniature altitude chambers.,entailment
+"Ni mimi pekee nilikua nayo uh, ushawahi endeleza dhibiti za majaribio katika chumba cha 'miniature altitude'.",Kulikuwa na wachache wetu waliokimbiza wasimamizi kwa ajili ya mtihani.,contradiction
+"Mstaafu sergenti mkuu, kama alivyosma Rick.",Bado nafanya kazi hadi leo hii.,contradiction
+"Mstaafu sergenti mkuu, kama alivyosma Rick.",Nilistaafu mwaka wa 2002.,neutral
+"Mstaafu sergenti mkuu, kama alivyosma Rick.",Rick alikuambia kuwa nilikuwa nimestaafu.,entailment
+"Kuna makadirio ya mtiririko wa fedha kwenye dawati yangu na, um, uh, ni kwa na kama vile Cutty, ndiyo jina la mteja.",Mteja aitwaye Cutty hufanya $ 10000 kwa mwezi.,neutral
+"Kuna makadirio ya mtiririko wa fedha kwenye dawati yangu na, um, uh, ni kwa na kama vile Cutty, ndiyo jina la mteja.",Kuna mteja aitwaye Cutty.,entailment
+"Kuna makadirio ya mtiririko wa fedha kwenye dawati yangu na, um, uh, ni kwa na kama vile Cutty, ndiyo jina la mteja.",Hatuna wateja wowote walioitwa Cutty.,contradiction
+Huyu msichana anaweza kukusaidia kuenda popote utakapo mjini.,Msichana ninayehitaji msaada kutoka kwake anaishi mbali.,entailment
+Huyu msichana anaweza kukusaidia kuenda popote utakapo mjini.,Msichana ambaye atanisaidia ako maili 5 mbali.,neutral
+Huyu msichana anaweza kukusaidia kuenda popote utakapo mjini.,Hakuna mtu anayeweza kunisaidia.,contradiction
+walipingana kuhusa ni akina nani walikuwa vijana wa mikono na ni akina nani walikuwa vijana wa kushinda nyumbani. Ilikuwa...,Walikubaliana wote watafanya kazi kwenye viwanja,contradiction
+walipingana kuhusa ni akina nani walikuwa vijana wa mikono na ni akina nani walikuwa vijana wa kushinda nyumbani. Ilikuwa...,Hawakukubalia nani alikuwa kwenye ukumbi na nyumbali.,entailment
+walipingana kuhusa ni akina nani walikuwa vijana wa mikono na ni akina nani walikuwa vijana wa kushinda nyumbani. Ilikuwa...,Hawakuweza kukubaliana nani anayetakiwa kufanya kazi katika shamba la pamba na nani anapaswa kupiga sakafu deki.,neutral
+"Namaanisha kwamba walikuwa na wana watano, mmoja wao akafa.",Watoto wao wote walinusurika.,contradiction
+"Namaanisha kwamba walikuwa na wana watano, mmoja wao akafa.",Mtoto mmoja alikiufa kati ya wale watano.,entailment
+"Namaanisha kwamba walikuwa na wana watano, mmoja wao akafa.",Mtoto aliyekufa alizaliwa akiwa mgonjwa-mgonjwa.,neutral
+Alisema kwamba machozi ylikuwa yanamtiririka kutoka usoni. Alafu akasema pia Joe alishuka kutoka ukumbini.,Alipokuwa akimwambia aje kwenye ukumbi alikuwa na machozi machoni mwake.,entailment
+Alisema kwamba machozi ylikuwa yanamtiririka kutoka usoni. Alafu akasema pia Joe alishuka kutoka ukumbini.,Kwa haraka alipanguza machozi baada ya kumtupa Joe kutoka kwenye ukumbi.,contradiction
+Alisema kwamba machozi ylikuwa yanamtiririka kutoka usoni. Alafu akasema pia Joe alishuka kutoka ukumbini.,Alifurahi sana kuona Joe kwamba alianza kulia.,neutral
+"Hata kama ndege ile ilikuwa inateketea, kwa nini, ingekuwa uh, teketea and ingeweza kuyeyuka kwa sehemu ya risasi ili mionzi kuvuja.",Mionzi inaweza dhibitiwa wakati wa moto pia.,neutral
+"Hata kama ndege ile ilikuwa inateketea, kwa nini, ingekuwa uh, teketea and ingeweza kuyeyuka kwa sehemu ya risasi ili mionzi kuvuja.",Mionzi ingeweza kuvuja kutoka sehemu ya uongozi baada ya ndege kuchomeka.,entailment
+"Hata kama ndege ile ilikuwa inateketea, kwa nini, ingekuwa uh, teketea and ingeweza kuyeyuka kwa sehemu ya risasi ili mionzi kuvuja.",Mionzi haiwezi kuvuja wakati wa moto.,contradiction
+Mkuu wa Jeshi Clem Francis astaafu kutoka kitengo cha majeshi ya hewani ya Marekani.,Chifu amestaafu kutoka Jeshi la Anga la Marekani.,entailment
+Mkuu wa Jeshi Clem Francis astaafu kutoka kitengo cha majeshi ya hewani ya Marekani.,Chifu alistaafu hivi karibuni wiki kadhaa zilizopita,neutral
+Mkuu wa Jeshi Clem Francis astaafu kutoka kitengo cha majeshi ya hewani ya Marekani.,Mkuu wa Jeshi la Jeshi la US amenza kazi yake wiki hii.,contradiction
+Basi ilifikia mahali kuna ndege mbili ama tatu zinazofika kila wiki na sikujua kwenye zinapaa zikienda.,Zaidi ya ndege moja huwasili kila wiki.,entailment
+Basi ilifikia mahali kuna ndege mbili ama tatu zinazofika kila wiki na sikujua kwenye zinapaa zikienda.,Ujao wa ndege ni shida tupu.,neutral
+Basi ilifikia mahali kuna ndege mbili ama tatu zinazofika kila wiki na sikujua kwenye zinapaa zikienda.,Hakuna ndege yoyote inayowasili.,contradiction
+Na tayari walikuwa na mazoezi yao katika mkazo mkuu wa suti na imenichukua muda kama utaenda kwa mkazo mzima wa suti.,Inachukua miezi mitatu kukamilisha mafunzo juu ya matumizi ya suti kamili ya shinikizo.,neutral
+Na tayari walikuwa na mazoezi yao katika mkazo mkuu wa suti na imenichukua muda kama utaenda kwa mkazo mzima wa suti.,Mafunzo ya kutumia suti kamili ya shinikizo huchukua muda.,entailment
+Na tayari walikuwa na mazoezi yao katika mkazo mkuu wa suti na imenichukua muda kama utaenda kwa mkazo mzima wa suti.,Tungeweza kukufunza kutumia suti kamili ya shinikizo mwishoni mwa siku.,contradiction
+"Nataka kusema ya kwamba hakuwa na hatari yoyote ya kuingia na bomu kwa sababu haiwezi kulipuka, licha ya vile ingeanguka kwenye ardhi.",Bomu hilo lilikuwa limezimwa na rubani.,neutral
+"Nataka kusema ya kwamba hakuwa na hatari yoyote ya kuingia na bomu kwa sababu haiwezi kulipuka, licha ya vile ingeanguka kwenye ardhi.",Bomu hiyo haikuwa na nafasi ya kulipuka.,entailment
+"Nataka kusema ya kwamba hakuwa na hatari yoyote ya kuingia na bomu kwa sababu haiwezi kulipuka, licha ya vile ingeanguka kwenye ardhi.",Kulikuwa na hatari kubwa ya kulipuka bomu.,contradiction
+Na jinsi gani inavyofanana hasa na ninachojaribu kufanya.,Sina yakini hii inaonekana kama nini kwako.,contradiction
+Na jinsi gani inavyofanana hasa na ninachojaribu kufanya.,"Najaribu kufanya hivi, kwa wazi.",entailment
+Na jinsi gani inavyofanana hasa na ninachojaribu kufanya.,Ninajaribu kumaliza mradi wangu kwenye wiki ijayo.,neutral
+"Lakini hata hivyo, wanyama wangekuwa huru wakati wote, hasa mbuzi.",",Mbuzi alitoroka alipofungiwa kila siku.",neutral
+"Lakini hata hivyo, wanyama wangekuwa huru wakati wote, hasa mbuzi.",Mbuzi zilitoroka mara kwa mara.,entailment
+"Lakini hata hivyo, wanyama wangekuwa huru wakati wote, hasa mbuzi.",Mbuzi walikuwa wamewekwa salama.,contradiction
+Milango ilifungwa wakati tuliingia.,Milango yote ilikuwa wazi.,contradiction
+Milango ilifungwa wakati tuliingia.,Tulikuwa na funguo nasi.,neutral
+Milango ilifungwa wakati tuliingia.,Tuliingia hata ingawa milango ilifungwa.,entailment
+Kwa hivyo nilihitaji tu kuchukua jumla na kujaribu na kuiona kama hiyo.,Ninahisi tumaini kwamba jumla ni yote ninayohitaji kutatua hili.,neutral
+Kwa hivyo nilihitaji tu kuchukua jumla na kujaribu na kuiona kama hiyo.,Sina kidokezo cha kufanya na jumla pekee tafadhali nipatie maelezo zaidi ya kutatua fujo hili.,contradiction
+Kwa hivyo nilihitaji tu kuchukua jumla na kujaribu na kuiona kama hiyo.,Mimi nitahesabu kwa msingi wa jumla.,entailment
+Mengi yanasababaishwa na kwamba mama mzazi ni mlevi wa dawa za kulevya.,Mama zao ni waraibu wa midadharati.,neutral
+Mengi yanasababaishwa na kwamba mama mzazi ni mlevi wa dawa za kulevya.,Mama hatatumii maagizo yoyote ya dawa au madawa ya kulevya,contradiction
+Mengi yanasababaishwa na kwamba mama mzazi ni mlevi wa dawa za kulevya.,Wamama hutumia madawa ya kulevya.,entailment
+Ni vizuri mno kwamba kumekuwa kukinyesha.,Sijali mvua.,neutral
+Ni vizuri mno kwamba kumekuwa kukinyesha.,Ni kuzuri na kunanyesha.,entailment
+Ni vizuri mno kwamba kumekuwa kukinyesha.,Kunatisha kutokomeshwa kwa miale ya jua.,contradiction
+Kuhusu hamini ya moyo wa binadamu na kama kwamba waweza kurekebisha mtu.,Maisha yote yahitaji kurekebishwa nakupatiwa nafasi ya pili.,neutral
+Kuhusu hamini ya moyo wa binadamu na kama kwamba waweza kurekebisha mtu.,Hakuna binadamu wanaostahili kurekebishwa.,contradiction
+Kuhusu hamini ya moyo wa binadamu na kama kwamba waweza kurekebisha mtu.,Bila kujali ukarabati ni maisha gani yenye thamana.,entailment
+"Jameni, uko na shinda ya pekee ulivyoundwa.",Sijawahi kuona tatizo la uunganishaji wa nyaya kama hili.,neutral
+"Jameni, uko na shinda ya pekee ulivyoundwa.",Mwandiko siyo hoja.,contradiction
+"Jameni, uko na shinda ya pekee ulivyoundwa.",Kuna tatizo lililosababishwa namtandao huu usio wa kawaida.,entailment
+"Inaonekana kama ni furaha sana, ndio ni ajabu kwangu jinsi ni mambo mengi waliyoyaruhusu.",Sijashangazwa hata kidogo kuwa walikuwa na huruma.,contradiction
+"Inaonekana kama ni furaha sana, ndio ni ajabu kwangu jinsi ni mambo mengi waliyoyaruhusu.",Nilishangaa kwa kuwa walikuruhusu ule na unywe humo ndani.,neutral
+"Inaonekana kama ni furaha sana, ndio ni ajabu kwangu jinsi ni mambo mengi waliyoyaruhusu.",Nashangaa nini wanaweza kufanya bila ya kuulizwa.,entailment
+"oh lakini hata hivyo watoto wangu sasa wana miaka ishirini na ishirini na nne, hivyo sihitaji",Sihitaji kwa sababu watoto wangu wana zaidi ya umri wa miaka ishirini.,entailment
+"oh lakini hata hivyo watoto wangu sasa wana miaka ishirini na ishirini na nne, hivyo sihitaji",Inaweza nibidi kwa sababu wamekaribiana kimiaka.,neutral
+"oh lakini hata hivyo watoto wangu sasa wana miaka ishirini na ishirini na nne, hivyo sihitaji","Ni lazima ,sasa vile wako miaka kuni na kuni na moja  wote.",contradiction
+Ndio watu ambao wanaweza kuwa na kazi wakati wowote au ambao maamuzi yao yanaweza kufungwa kama walipaswa kufanya uamuzi,"Ndio, watu ambao hawawezi maamuzi bora.",entailment
+Ndio watu ambao wanaweza kuwa na kazi wakati wowote au ambao maamuzi yao yanaweza kufungwa kama walipaswa kufanya uamuzi,"Naam, watu ambao hawana njaa.",neutral
+Ndio watu ambao wanaweza kuwa na kazi wakati wowote au ambao maamuzi yao yanaweza kufungwa kama walipaswa kufanya uamuzi,"Naam, watu ambao ufasaha wao wa maamuzi haujawahi kutiliwa shaka.",contradiction
+"Hapana, bado wako, bado wako katika ziara. Wamekuwa katika ziara kuanzia miaka ya 1960 hapo mwisho.",Wamekuwa wakitalii tangu mwaka wa 1970.,entailment
+"Hapana, bado wako, bado wako katika ziara. Wamekuwa katika ziara kuanzia miaka ya 1960 hapo mwisho.",Wanapenda ziara,neutral
+"Hapana, bado wako, bado wako katika ziara. Wamekuwa katika ziara kuanzia miaka ya 1960 hapo mwisho.",Walikamilisha ziara yao hivi karibuni.,contradiction
+Ungefanya tizi vipi?,Unaweza eleza jinsi ya kufanya aerobics?,entailment
+Ungefanya tizi vipi?,Mimi huvutiwa na aerobics kwa sababu nahitaji mazoezi ya cardiovascular.,neutral
+Ungefanya tizi vipi?,Tafadhali wacha kuongea juu ya mazoezi.,contradiction
+"vyema hivyo ni vyema sikuwa nimefikiria kuhusu hivyo, ndiyo",Hilo ni wazo bubu nililoachana nalo wiki iliyopita.,contradiction
+"vyema hivyo ni vyema sikuwa nimefikiria kuhusu hivyo, ndiyo",Hiyo ni hatua nzuri.,entailment
+"vyema hivyo ni vyema sikuwa nimefikiria kuhusu hivyo, ndiyo",Kitengo hicho unachotaja ni hatua nzuri.,neutral
+huduma ya siku mbili siku mbili kwa wiki wanaiita kuwa huduma ya siku za wazee wa kijiji lakini anaenda kituo cha raia mwandamizi,Huduma ya siku ni wazi kila siku kwa watoto chini ya umri wa miaka mitano tu.,contradiction
+huduma ya siku mbili siku mbili kwa wiki wanaiita kuwa huduma ya siku za wazee wa kijiji lakini anaenda kituo cha raia mwandamizi,Wanaruhusu wanende zaidi ya mara mbili kwa wiki kama wananchi walioedelea na miaka wanataka.,neutral
+huduma ya siku mbili siku mbili kwa wiki wanaiita kuwa huduma ya siku za wazee wa kijiji lakini anaenda kituo cha raia mwandamizi,Wanasema kama huduma ya siku ya mwandamizi lakini inaitwa kituo cha mwandamizi.,entailment
+Hilo lilikuwa lengo lao!,Hiyo ndiyo waliyokuwa wakitamania.,entailment
+Hilo lilikuwa lengo lao!,Hilo halikuwa kamwe walilotaka.,contradiction
+Hilo lilikuwa lengo lao!,Walifikia lengo lao.,neutral
+Kuzuia utumizi wa bunduki yamaanisha kutumia mikono yote miwili.,Nusu ya makosa yote ya bunduki yanayotokana na matumizi ya mkono mmoja.,neutral
+Kuzuia utumizi wa bunduki yamaanisha kutumia mikono yote miwili.,Njia bora zaidi ya udhibiti wa bunduki ni kutumia miguu miwili.,contradiction
+Kuzuia utumizi wa bunduki yamaanisha kutumia mikono yote miwili.,Tumia mikono yote ikiwa unataka kujifunza kudhibiti bunduki.,entailment
+"Inatokea mahali ghafla, lakini sijui haswa inatokea wapi.",Sijui kule ambako kimetokea lakini ni haraka.,entailment
+"Inatokea mahali ghafla, lakini sijui haswa inatokea wapi.",Inakuja kwa haraka lakini mimi ninajua wapi inaweza kuwa inatoka.,neutral
+"Inatokea mahali ghafla, lakini sijui haswa inatokea wapi.",Inakuja kama sukuri na najua wakati itakapokuja,contradiction
+Hapana. Sidhani naifahamu vizuri hata.,Sijui zaidi kuihusu.,entailment
+Hapana. Sidhani naifahamu vizuri hata.,Mimi sina ujuzi katika masuala ya mapenzi.,neutral
+Hapana. Sidhani naifahamu vizuri hata.,Nimekuwa nikiisoma kwa miaka,contradiction
+"Ndio, alikuwa wa ajabu, si unamjua.",Nadhani anajua kwamba alipendeza.,neutral
+"Ndio, alikuwa wa ajabu, si unamjua.",Hapana alikuwa mbaya.,contradiction
+"Ndio, alikuwa wa ajabu, si unamjua.",Ndio alikuwa mzuri sana.,entailment
+"Ndio, alitoa wazo la kupata uh um jinsi ungetumia.",Alipendekeza kununua ombwe.,contradiction
+"Ndio, alitoa wazo la kupata uh um jinsi ungetumia.",Alipendekeza kutafuta deki.,entailment
+"Ndio, alitoa wazo la kupata uh um jinsi ungetumia.",Anataka kusafisha damu kwa kutumia koroga.,neutral
+ni mbaya huko nje tulikuwa na ufyatulinaji wa risasi  sehemu tatu kutoka nyumbani kwetu,Mauaji hayo kwa bunduki ilikuwa takriban maili mia kutoka ninakoishi.,contradiction
+ni mbaya huko nje tulikuwa na ufyatulinaji wa risasi  sehemu tatu kutoka nyumbani kwetu,Risasi zilikua karibu na nyumba yangu na sasa nina woga wa kutoka nje.,neutral
+ni mbaya huko nje tulikuwa na ufyatulinaji wa risasi  sehemu tatu kutoka nyumbani kwetu,"Kulikuwa na risasi karibu na nyumba yangu, eneo hili si zuri.",entailment
+Ni kweli sio thabiti,"SIKUbaliani nawe, ni thabiti sana.",contradiction
+Ni kweli sio thabiti,Nadhani unaweza kuwa sahihi juu ya usawa wake.,neutral
+Ni kweli sio thabiti,Uko sahihi kuhusu jambo hili kutokuwa sambamba.,entailment
+Ninajaribu kuvumilia tu hapo.,Najaribu kuvumilia.,entailment
+Ninajaribu kuvumilia tu hapo.,Kwa kweli ninafanya bora.,neutral
+Ninajaribu kuvumilia tu hapo.,Nitaacha na kamwe sitatazama nyuma.,contradiction
+Tutafungua mlango wetu kwenye teknolojia ya baadaye.,Tunajenga watangulizi muhimu kwa ajili ya siku za usoni zenye teknolojia.,entailment
+Tutafungua mlango wetu kwenye teknolojia ya baadaye.,"Tunajenga transistors, hivyo hali yetu baadaye itatekelezwa na AI.",neutral
+Tutafungua mlango wetu kwenye teknolojia ya baadaye.,Tunataka kuzuia teknolojia kutofaulu.,contradiction
+"Kwa mfano, kwa kiwango cha juu kabisa, jeni zote hugeuka zambarau.","Katika upeo, ni nusu tu ya jeni ambazo zinaweza badilika na kuwa zambarau.",contradiction
+"Kwa mfano, kwa kiwango cha juu kabisa, jeni zote hugeuka zambarau.",Kuna uwezekano kwa chembe za urithi kugeuza rangi.,entailment
+"Kwa mfano, kwa kiwango cha juu kabisa, jeni zote hugeuka zambarau.",Wakati mwingine jeni inaweza kugeuka samawati pia.,neutral
+Daniel Yamins ni mtaalamu mchanga wa hisabati.,Bwana Yamins ni mzuri katika hesabu.,entailment
+Daniel Yamins ni mtaalamu mchanga wa hisabati.,Lengo la Bwana Yasmin ni jiometri ya algebraic.,neutral
+Daniel Yamins ni mtaalamu mchanga wa hisabati.,Bw. Yasim ni msanii mzuri lakini mtaalamu mbaya wa hisabati,contradiction
+"Na ikiwa ni hivyo, wao huwa mara nyingi huwa karibu na mipaka hiyo?",Najua hawajawi kusafiri kamwe karibu na mipaka.,contradiction
+"Na ikiwa ni hivyo, wao huwa mara nyingi huwa karibu na mipaka hiyo?","Nataka kujua, wao huwa mara nyingi Uingereza?",neutral
+"Na ikiwa ni hivyo, wao huwa mara nyingi huwa karibu na mipaka hiyo?",Msemaji alitaka ufafanuzi kuhusu mara ngapi walipokaribia mipaka.,entailment
+"Na kuna, nadhani, kidokezo cha molekuli ambacho hifadhi cha maumbile kinaendelea kujishughulisha na utawala unaoweza kuendeleza kwa seti inayoenea ya mstari.",Bayongahewa yenyewe hubadilika sana.,entailment
+"Na kuna, nadhani, kidokezo cha molekuli ambacho hifadhi cha maumbile kinaendelea kujishughulisha na utawala unaoweza kuendeleza kwa seti inayoenea ya mstari.",Tabaka la uhai hubadilika kulingana na halijoto.,neutral
+"Na kuna, nadhani, kidokezo cha molekuli ambacho hifadhi cha maumbile kinaendelea kujishughulisha na utawala unaoweza kuendeleza kwa seti inayoenea ya mstari.",bayongahewa haijabadilika.,contradiction
+"Kwa hilo hatua, chembechembe ya kawaida haiwezi weka habari nyingi.",Fuwele mara kwa mara ni kati ya uhifadhi wa taarifa za juu sana.,contradiction
+"Kwa hilo hatua, chembechembe ya kawaida haiwezi weka habari nyingi.",Fuwele za kawaida huwa sio muhimu kwa kupata habari.,entailment
+"Kwa hilo hatua, chembechembe ya kawaida haiwezi weka habari nyingi.",Kuna aina zingine za chembechembe ambazo ni muhimu sana katika kuchambua habari za jiografia kwa kutumia mihimili ya laser.,neutral
+"Kwa hiyo, watu wazima hawana haja ya kufundisha watoto wa shule ya kwanza katika kujifanya, kama wanavyofanya wakati wa kuwasaidia puzzles au kazi nyingine zinazofanana.",Wanachekechea wanajua kutatua mafumbo zaidi ya wanavyojua kucheza michezo ya kujifanya.,contradiction
+"Kwa hiyo, watu wazima hawana haja ya kufundisha watoto wa shule ya kwanza katika kujifanya, kama wanavyofanya wakati wa kuwasaidia puzzles au kazi nyingine zinazofanana.",Wanafunzi wa shule ya kwanza hawana haja ya msaada sana kujifunza jinsi ya kujifanya.,entailment
+"Kwa hiyo, watu wazima hawana haja ya kufundisha watoto wa shule ya kwanza katika kujifanya, kama wanavyofanya wakati wa kuwasaidia puzzles au kazi nyingine zinazofanana.",Preschoolers hawana anga muhimu za kuigwa ku master puzzles wenyewe.,neutral
+[ Hii nchi imekuwa] iliyozaliwa katika Uhuru na kuwekwa wakfu kwa pendekezo kwamba watu wote wameumbwa sawa.,Maelezo juu ya pendekezo hili yalirekodiwa katika nyaraka kadhaa za nyongeza,neutral
+[ Hii nchi imekuwa] iliyozaliwa katika Uhuru na kuwekwa wakfu kwa pendekezo kwamba watu wote wameumbwa sawa.,Watu wengine waliamini kuwa watu wote ni sawa.,entailment
+[ Hii nchi imekuwa] iliyozaliwa katika Uhuru na kuwekwa wakfu kwa pendekezo kwamba watu wote wameumbwa sawa.,Hili taifa lilijengwa kwa msingi unaoamini kwamba baadhi ya watu wako sawa kuliko wengine.,contradiction
+Nafaa kumsifu zaidi?,Nina uhakika nahitaji kumpiga kwa sababu ya kushindwa kwake.,contradiction
+Nafaa kumsifu zaidi?,Ninajiuliza kama anahitaji shukrani zaidi kutoka kwangu.,entailment
+Nafaa kumsifu zaidi?,"Je, ni lazima nimsifu zaidi kwa ajili ya utendaji wake kwa piano?",neutral
+Nadharia za mtandao zinaweza kuundwa kwa vipimo tofauti.,Vipimo vingine vinaweza kutumiwa kujenga nadharia za mtandao wa spin.,entailment
+Nadharia za mtandao zinaweza kuundwa kwa vipimo tofauti.,Mitandao ya Spin ni muhimu sana kwa teknolojia za kuhifadhi data.,neutral
+Nadharia za mtandao zinaweza kuundwa kwa vipimo tofauti.,Mitandao ya kusokota haiwezi dhaniwa kwa namna tofauti.,contradiction
+"(Kwa hasira) Hapana, hapana, sitaki ufe!",Sitaki ufe!,entailment
+"(Kwa hasira) Hapana, hapana, sitaki ufe!",Sijali hata ukifa!,contradiction
+"(Kwa hasira) Hapana, hapana, sitaki ufe!",Nitasikitika mno ikiwa utakufa!,neutral
+"Alinyongwa mbele ya umma mnamo Machi 19, 1875, San Jose, California.",California ilikuwa ikifanya mauaji mbele ya umma hadi mwaka wa 1875.,entailment
+"Alinyongwa mbele ya umma mnamo Machi 19, 1875, San Jose, California.",Alihongewa makosa yake yote na akaambiwa aende zake.,contradiction
+"Alinyongwa mbele ya umma mnamo Machi 19, 1875, San Jose, California.",Alinyongwa kwa uchochezi na wizi wa farasi.,neutral
+"Katika utawala wa machafuko, bahari ya kijani ya kumetameta hupungua.",Bahari ilikuwa samawati ya ndani na laini kama kioo.,contradiction
+"Katika utawala wa machafuko, bahari ya kijani ya kumetameta hupungua.",Bahari ilijaa samaki wadogo waliopigapiga dau.,neutral
+"Katika utawala wa machafuko, bahari ya kijani ya kumetameta hupungua.",Bahari ilikuwa ya kijani na ilionekana kutoa povu.,entailment
+Mpangilio mpya wa kisheria ulipenda kutengeneza njia yake wazi kutoka katika mshtuko wa miaka ya 1860.,Katika miaka ya 1870 kila utaratibu wa kisheria alikuwa kuporomoka na nchi ilikuwa katika machafuko kamili.,contradiction
+Mpangilio mpya wa kisheria ulipenda kutengeneza njia yake wazi kutoka katika mshtuko wa miaka ya 1860.,Miaka ya 1860 ulikuwa muda wa kutisha.,entailment
+Mpangilio mpya wa kisheria ulipenda kutengeneza njia yake wazi kutoka katika mshtuko wa miaka ya 1860.,Mfumo mpya wa sheria unatumai kupanua haki za wafanyakazi.,neutral
+"Aina yoyote ya juu ya kufikiri, alisema, inaonekana katika mawasiliano ya kijamii, kati ya mtoto na wawakilishi wa utamaduni wake wakati wanafanya kazi ya pamoja.",Watoto hawawezi kushiriki aina za juu za kufikiri.,contradiction
+"Aina yoyote ya juu ya kufikiri, alisema, inaonekana katika mawasiliano ya kijamii, kati ya mtoto na wawakilishi wa utamaduni wake wakati wanafanya kazi ya pamoja.",uvuvi ni shughuli moja inayofanywa na tamaduni tofauti,neutral
+"Aina yoyote ya juu ya kufikiri, alisema, inaonekana katika mawasiliano ya kijamii, kati ya mtoto na wawakilishi wa utamaduni wake wakati wanafanya kazi ya pamoja.",Kushiriki shughuli za kawaida wakati mwingine kuna manufaa kwa kushiriki aina za juu za kufikiria.,entailment
+"Vijiji vingine vilikuwa na watumishi wa kiroho, viongozi wa kiroho ambao waliongoza jamii kwa sala kwa ajili ya mazishi, sikukuu za watakatifu na wakati wowote kuhani haukupatikana",Hakuna mitaa iliyokuwa na viongozi wa kiroho ambao hawakuwa makuhani.,contradiction
+"Vijiji vingine vilikuwa na watumishi wa kiroho, viongozi wa kiroho ambao waliongoza jamii kwa sala kwa ajili ya mazishi, sikukuu za watakatifu na wakati wowote kuhani haukupatikana",Vijiji vingine vilikuwa na viongozi wa kiroho ambao hawakuwa makuhani.,entailment
+"Vijiji vingine vilikuwa na watumishi wa kiroho, viongozi wa kiroho ambao waliongoza jamii kwa sala kwa ajili ya mazishi, sikukuu za watakatifu na wakati wowote kuhani haukupatikana",Baadhi ya viongozi wa kidini walikuwa na nywele nyeusi.,neutral
+"Katika mchezo ya kijamii, fursa za kufanya kazi na kuratibu majukumu mbalimbali huenda yanawasaidia watoto kuelewa kufanana na tofauti kati ya watu katika tamaa, imani na hisia.",Watoto wanaweza kujifunza jinsi watu wanavyofanana na tofauti.,entailment
+"Katika mchezo ya kijamii, fursa za kufanya kazi na kuratibu majukumu mbalimbali huenda yanawasaidia watoto kuelewa kufanana na tofauti kati ya watu katika tamaa, imani na hisia.",Watoto wanaweza kuona jinsi ukoo mbalimbali ni tofauti.,neutral
+"Katika mchezo ya kijamii, fursa za kufanya kazi na kuratibu majukumu mbalimbali huenda yanawasaidia watoto kuelewa kufanana na tofauti kati ya watu katika tamaa, imani na hisia.",Watoto hawawezi kujifunza kitu chochote.,contradiction
+"Ubora wa juu wa utaratibu wa kikatiba wa Ujerumani baada ya vita, basi, ulikuwa ni majeruhi makubwa zaidi ya utawala wa Nazi.",Utawala wa Nazi uliiruhusu.,contradiction
+"Ubora wa juu wa utaratibu wa kikatiba wa Ujerumani baada ya vita, basi, ulikuwa ni majeruhi makubwa zaidi ya utawala wa Nazi.",Utawala wa Nazi uliuuwa kila mtu aliyehusika.,neutral
+"Ubora wa juu wa utaratibu wa kikatiba wa Ujerumani baada ya vita, basi, ulikuwa ni majeruhi makubwa zaidi ya utawala wa Nazi.",Utawala wa Nazi uliukomesha.,entailment
+Sonja mtoto huyo alianza kuiga kelele za binti yake.,Hakuna aliyekuwa na tantrum.,contradiction
+Sonja mtoto huyo alianza kuiga kelele za binti yake.,Sonja ni mtoto.,entailment
+Sonja mtoto huyo alianza kuiga kelele za binti yake.,Sonja alikuwa amekasirika.,neutral
+"Katika miaka hamsini na mitano inayoongoza kwenye vita vya wenyewe kwa wenyewe, Mahakama ilitumia nguvu hii kwa uhaba sana.",Mahakama ilikuwa inatumia hii nguvu katika miaka iliyotangulia vita  vya wenyewe kwa wenyewe.,entailment
+"Katika miaka hamsini na mitano inayoongoza kwenye vita vya wenyewe kwa wenyewe, Mahakama ilitumia nguvu hii kwa uhaba sana.","Mahakama ilitumia mamlaka hii mara 4, kwa kipindi cha miaka hamsini na tano kabla ya vita ya wenyewe kwa wenyewe.",neutral
+"Katika miaka hamsini na mitano inayoongoza kwenye vita vya wenyewe kwa wenyewe, Mahakama ilitumia nguvu hii kwa uhaba sana.",Korti ilitumia mamlaka haya mara milioni 5 kwa miaka hamsini na mitano iliyopelekea vita vya wenyewe kwa wenyewe.,contradiction
+"Ninakuhakikishia, bwana, kwamba nilikuwa na taarifa kamili ya wote.",Ninakwambia kuwa nilijulishwa kila kitu.,entailment
+"Ninakuhakikishia, bwana, kwamba nilikuwa na taarifa kamili ya wote.",Ilikuwa kifo cha mpekuzi nilichopata ujumbe kuhusu.,neutral
+"Ninakuhakikishia, bwana, kwamba nilikuwa na taarifa kamili ya wote.",Kuna maelezo mengi yaliyofichwa kutoka kwangu.,contradiction
+Sauti zilisumbua Kapteni Blood kutoka kwa tafakari zake zenye kinyongo.,Nahodha Blood aliweza kufikiria bila  kusumbuliwa.,contradiction
+Sauti zilisumbua Kapteni Blood kutoka kwa tafakari zake zenye kinyongo.,Mafikra ya Captain Blood yaikatizwa na kelele.,entailment
+Sauti zilisumbua Kapteni Blood kutoka kwa tafakari zake zenye kinyongo.,Kupiga kelele kwa kijibwa kulimsisismua nahodha kutoka kwa ndoto zake.,neutral
+"Lakini siwezi kusahau kuwa wakati nilikuwa si bora kuliko mtumwa katika nyumba ya mjomba wako huko Barbados, ulinitumia kwa fadhili fulani.",Ulinitendea vyema nilipokuwa mtumwa Barbados.,entailment
+"Lakini siwezi kusahau kuwa wakati nilikuwa si bora kuliko mtumwa katika nyumba ya mjomba wako huko Barbados, ulinitumia kwa fadhili fulani.",Ulikuwa katili sana kwangu na ukanifanya vibaya kuliko mchanga.,contradiction
+"Lakini siwezi kusahau kuwa wakati nilikuwa si bora kuliko mtumwa katika nyumba ya mjomba wako huko Barbados, ulinitumia kwa fadhili fulani.",Mjomba wako alinichapa sana kila siku aliponimiliki.,neutral
+"Huko, sio zaidi ya maili tatu mbali, ilikuwa ardhi - ukuta usio sawa wa kijani kilichokua wazi ambao ulijaa upeo wa magharibi.",Mandhari tele yalikuwa yameonekana.,entailment
+"Huko, sio zaidi ya maili tatu mbali, ilikuwa ardhi - ukuta usio sawa wa kijani kilichokua wazi ambao ulijaa upeo wa magharibi.",Kisiwa walichokuwa wakikaribia hakikuwa na watu.,neutral
+"Huko, sio zaidi ya maili tatu mbali, ilikuwa ardhi - ukuta usio sawa wa kijani kilichokua wazi ambao ulijaa upeo wa magharibi.",Hawangeweza kuona ardhi kwa maili nyingi. bahari tu isiyoisha.,contradiction
+"Mimi ni mjumbe wa Mfalme kwa sehemu hizi zisiyosahilishawa mno, na jamaa wa karibu wa Bwana Sunderland.","Mfalme wake ana wajumbe, na mimi ni mmoja wao.",entailment
+"Mimi ni mjumbe wa Mfalme kwa sehemu hizi zisiyosahilishawa mno, na jamaa wa karibu wa Bwana Sunderland.",Mtukufu allinituma hapa karibu wiki moja iliyopita.,neutral
+"Mimi ni mjumbe wa Mfalme kwa sehemu hizi zisiyosahilishawa mno, na jamaa wa karibu wa Bwana Sunderland.",Sichukui amri kutoka kwa mtukufu.,contradiction
+"Ulinidai --au nlidhani nlifanya, alisema.",Yeye hakufikiri alikuwa na deni lako lolote.,contradiction
+"Ulinidai --au nlidhani nlifanya, alisema.",Ana deni lako kwa ajili ya msaada ambao ulimpa kama mtu wa kuombaomba asiye na pesa.,neutral
+"Ulinidai --au nlidhani nlifanya, alisema.",alidhani unamdai kitu,entailment
+Nilipaswa kujua zaidi kuliko kuja karibu sana na Jamaica usiku.,Nilisafiri karibu na Jamaika baada ya machweo.,entailment
+Nilipaswa kujua zaidi kuliko kuja karibu sana na Jamaica usiku.,nilienda Jamaica kwa mashua kubwa,neutral
+Nilipaswa kujua zaidi kuliko kuja karibu sana na Jamaica usiku.,tuliwasili Jamaika na mke wangu mchana.,contradiction
+Mawazo ya damu zilikuwa hapa na kule alipokuwa akipumzika  kitandani.,Damu ilitiririka ndotoni isiyofahamika juu ya kitanda chake cha siku.,contradiction
+Mawazo ya damu zilikuwa hapa na kule alipokuwa akipumzika  kitandani.,Damu ilikuwa inacheua akiwa amejilaza chini.,entailment
+Mawazo ya damu zilikuwa hapa na kule alipokuwa akipumzika  kitandani.,Blood alikua akifikiria  kuhusu mara ya mwisho alimwona mama yake.,neutral
+"Kweli ,watakuambia.","Sawa sawa, nitakuambia kuhusu hilo.",entailment
+"Kweli ,watakuambia.",Sitakuambia neno.,contradiction
+"Kweli ,watakuambia.",Ni kwa sababu tu uliahidi hutarudia hii ninayokuambia.,neutral
+Ah! Na hiyo inaweza kuwa njia gani?,Mtu anauliza njia anayofaa kwenda.,entailment
+Ah! Na hiyo inaweza kuwa njia gani?,Muulizaji yuko pekee yake na hamna mtu karibu wa kutoa maoni,contradiction
+Ah! Na hiyo inaweza kuwa njia gani?,Anayeuliza ana haraka kujua hivi sasa njia atakayotumia.,neutral
+Sichulii paki la mfalme kwa urahisi.,Kutoa ruhusa ya komisheni ya mfalme inakwenda kinyume na adili zangu.,neutral
+Sichulii paki la mfalme kwa urahisi.,NImepatia mawazo mazito utumishi wa mfalme.,entailment
+Sichulii paki la mfalme kwa urahisi.,Nilitia sahihi agizo la kupea mfalme komisheni bila mawazo ya pili.,contradiction
+Aligundua kuwa anaweza kuepuka kwa haraka.,Alitambua kuwa alikuwa na siku nzima ya kupumzika.,contradiction
+Aligundua kuwa anaweza kuepuka kwa haraka.,Aligundua anahitaji kuamua haraka.,entailment
+Aligundua kuwa anaweza kuepuka kwa haraka.,Angekaa mahali pamoja angepatikana.,neutral
+"Hata hivyo amekuwa kile alichokuwa  na kufanya kile alichokifanya katika miaka mitatu iliyopita, alisema, lakini alisema kwa huzuni sasa, bila dharau yake ya awali.",Yeye hakupenda kwamba alikuwa ameuawa watu wengi katika miaka mitatu iliyopita.,neutral
+"Hata hivyo amekuwa kile alichokuwa  na kufanya kile alichokifanya katika miaka mitatu iliyopita, alisema, lakini alisema kwa huzuni sasa, bila dharau yake ya awali.",aliongea kwa furaha kuhusu shani zake na utu wake.,contradiction
+"Hata hivyo amekuwa kile alichokuwa  na kufanya kile alichokifanya katika miaka mitatu iliyopita, alisema, lakini alisema kwa huzuni sasa, bila dharau yake ya awali.",Alinena kwa sauti za kusikitisha.,entailment
+Nadhani kwamba ni baada ya mtindo wa aina yako.,nafikiri wenzako hufanya hivi,entailment
+Nadhani kwamba ni baada ya mtindo wa aina yako.,"Nimesoma kuhusu aina yako, na tamaduni zao.",neutral
+Nadhani kwamba ni baada ya mtindo wa aina yako.,Naichukulia kuwa hii haiko ya kawaida kwa aina yenu.,contradiction
+Ukunjaji wa uso ulikunyanza kipaji chake.,Tabasamu kubwa ilienea kwenye uso wake.,contradiction
+Ukunjaji wa uso ulikunyanza kipaji chake.,Alikuwa na hisia ya ugonjwa tumboni.,neutral
+Ukunjaji wa uso ulikunyanza kipaji chake.,Kulikuwa  na ukunjaji kipaji ju ya uso wake.,entailment
+"Alikuwa amemtazama kwa macho yenye kuangaza, lakini alipoona uso wake wenye huzini, uliojeruhiwa  na wenye mshangao ,sure yake ilibadilika.",Sura yake ilibadilika baada ya kuona uso wake.,entailment
+"Alikuwa amemtazama kwa macho yenye kuangaza, lakini alipoona uso wake wenye huzini, uliojeruhiwa  na wenye mshangao ,sure yake ilibadilika.",Uso wake ulingaa wakati aliona alivyokuwa amekunja kipaji.,contradiction
+"Alikuwa amemtazama kwa macho yenye kuangaza, lakini alipoona uso wake wenye huzini, uliojeruhiwa  na wenye mshangao ,sure yake ilibadilika.",Hakujua kama alikuwa amemkasirikia.,neutral
+"Alipokuwa akitembea kwa raha, aliambaa ukuta wa mviringo, na  kupitia kwenye milango kubwa ndani ya ua.","Kwa kuwa milango kubwa ilikuwa imefungwa, aliruka juu ya uzio, akaingia ndani ya ua.",contradiction
+"Alipokuwa akitembea kwa raha, aliambaa ukuta wa mviringo, na  kupitia kwenye milango kubwa ndani ya ua.",Lango kuu huo ndio  ulikuwa eneo wa kipekee wa kuingia kuenda kwenye ua.,neutral
+"Alipokuwa akitembea kwa raha, aliambaa ukuta wa mviringo, na  kupitia kwenye milango kubwa ndani ya ua.",Kulikuwa na lango kubwa zilizokuwa zikielekeza kwa bustani.,entailment
+"Utatingikia kwenye kinyonga, bila shaka, alisema kwa kudharau.",Alidhani mtu angehukumiwa kunyongwa.,entailment
+"Utatingikia kwenye kinyonga, bila shaka, alisema kwa kudharau.",Alikuwa ofisa ambaye alikuwa amemshika mwizi.,neutral
+"Utatingikia kwenye kinyonga, bila shaka, alisema kwa kudharau.",Alinongóna njia ya kuepuka nchi ili kuepuka jela.,contradiction
+Ningewezaje kwa uaminifu kuwazuia? Ilikuwa katika maafikiano.,Sikuweza kuleta mwenyewe kwa kuwashikilia hao,entailment
+Ningewezaje kwa uaminifu kuwazuia? Ilikuwa katika maafikiano.,Niliwashika punde tu nilivyowaona.,contradiction
+Ningewezaje kwa uaminifu kuwazuia? Ilikuwa katika maafikiano.,"Siwezi kujisamehe mwenyewe, ikiwa ningewazuia.",neutral
+Nimekuwa nikimwinda huu mwaka na uliopita.,Nimekuwa nikimfuata karibu kwa mwaka bila yeye kugundua.,neutral
+Nimekuwa nikimwinda huu mwaka na uliopita.,Nimekuwa nikimfuatilia kwa karibu wiki hivi.,contradiction
+Nimekuwa nikimwinda huu mwaka na uliopita.,zaida ya kipindi cha mwaka nimemwandama kisirisiri,entailment
+Makumbusho hayakuwa imara kwenye orodha au lebo,Makavazi hayo hayapendi kuandikwa.,neutral
+Makumbusho hayakuwa imara kwenye orodha au lebo,Jumba la makumbusho sio shabiki wa vipeperushi.,entailment
+Makumbusho hayakuwa imara kwenye orodha au lebo,Sehemu yenye nguvu ya makumbusho hayo ni orodha yao.,contradiction
+Masoko haya ya nje Beijing pia ni yakufurahisha sana kununua bihaa.,Beijing ina masoko ya wazi ambayo yanajumuisha maduka ya kuvutia sana.,entailment
+Masoko haya ya nje Beijing pia ni yakufurahisha sana kununua bihaa.,Soko huru mingi za Beijing hufurahisha sana duniani.,neutral
+Masoko haya ya nje Beijing pia ni yakufurahisha sana kununua bihaa.,Sheria kali za Beijing zinazuia soko za wazi ndani ya mipaka ya mji.,contradiction
+"Bahari kubwa zaidi ya pwani ya kaskazini magharibi hufanya bandari nzuri, lakini maji na pwani zote zinaweza kuwa chafu.",Maji na pwani daima ni safi.,contradiction
+"Bahari kubwa zaidi ya pwani ya kaskazini magharibi hufanya bandari nzuri, lakini maji na pwani zote zinaweza kuwa chafu.",Maji na ufuko wenyewe wawezakuwa mchafu.,entailment
+"Bahari kubwa zaidi ya pwani ya kaskazini magharibi hufanya bandari nzuri, lakini maji na pwani zote zinaweza kuwa chafu.",Maji ni chafu kwa sababu ya uchafuzi wa mazingira.,neutral
+"Majengo hayo makubwa ni mabenki, na barabara ambayo yamesimama imeitwa jina la Milla de Oro, au Golden Mile.",Hakuna majumba marefu katika Golden Mile ni mabenki,contradiction
+"Majengo hayo makubwa ni mabenki, na barabara ambayo yamesimama imeitwa jina la Milla de Oro, au Golden Mile.",Vijumba vilivyo kwente Golden MIle ni benki.,entailment
+"Majengo hayo makubwa ni mabenki, na barabara ambayo yamesimama imeitwa jina la Milla de Oro, au Golden Mile.",Nyumba ndefu zilizoko katika Golden Mile ni biashara aina aina ikiwapo mabenki.,neutral
+Asili ya kutosha ya kuhusika kwa Uingereza kwa vita vya dunia vya pili ilianzia na mpango wa mafunzo wa Commonwealth Air wakitumia anga salama za Canada kutayarisha marubani kwa vita.,Canada ilikuwa na anga salama.,entailment
+Asili ya kutosha ya kuhusika kwa Uingereza kwa vita vya dunia vya pili ilianzia na mpango wa mafunzo wa Commonwealth Air wakitumia anga salama za Canada kutayarisha marubani kwa vita.,Anga ya Canada ilikuwa huru kutoka kwenye misumari.,neutral
+Asili ya kutosha ya kuhusika kwa Uingereza kwa vita vya dunia vya pili ilianzia na mpango wa mafunzo wa Commonwealth Air wakitumia anga salama za Canada kutayarisha marubani kwa vita.,Anga ya Canada ilikua hatari zaidi.,contradiction
+"Wanabaki wavumilivu na wasaidizi ,hata kama wanajua uzuri wa pwani sio wao tena.",Wana uchungu mwingi kwa kila mtu kwani lazima wagawane bei.,contradiction
+"Wanabaki wavumilivu na wasaidizi ,hata kama wanajua uzuri wa pwani sio wao tena.",Wanapaswa kushiriki pwani pamoja na watu wengine sasa.,entailment
+"Wanabaki wavumilivu na wasaidizi ,hata kama wanajua uzuri wa pwani sio wao tena.",Walikuwa wanamiliki maili mia tano ya ufuko wa pwani.,neutral
+"Kublai Khan alijenga mji mkuu wake katika mwaka wa 1279 katika pwani ya Ziwa Beihai ya Beijing, ambapo hazina zake za kifalme zimebaki leo.",Kublai Khan alijenga mji mkuu Taiwan.,contradiction
+"Kublai Khan alijenga mji mkuu wake katika mwaka wa 1279 katika pwani ya Ziwa Beihai ya Beijing, ambapo hazina zake za kifalme zimebaki leo.",Kublai Khan ana hazina huko Beijing.,entailment
+"Kublai Khan alijenga mji mkuu wake katika mwaka wa 1279 katika pwani ya Ziwa Beihai ya Beijing, ambapo hazina zake za kifalme zimebaki leo.",Kublai Khan alikuwa mtu aliyeheshimiwa sana.,neutral
+"Kuingiana kwa urahisi na wanajamii wa Uingereza , ni mashule ya makanisa yasiyo yakikatoliki ambayo yaliruhusu watoto wa Mashariki Waisraeli kutoka Uropa waliokuwa wamehitimu kuenda sehemu ya utajiri ya Westmount ama kuhama tena, kuenda Toronto.",Wayahudi wa Mashariki mwa Ulaya wanafanyika vizuri na kila mtu.,contradiction
+"Kuingiana kwa urahisi na wanajamii wa Uingereza , ni mashule ya makanisa yasiyo yakikatoliki ambayo yaliruhusu watoto wa Mashariki Waisraeli kutoka Uropa waliokuwa wamehitimu kuenda sehemu ya utajiri ya Westmount ama kuhama tena, kuenda Toronto.",Wayahudi hawatakikani na jamii iliyobaki.,neutral
+"Kuingiana kwa urahisi na wanajamii wa Uingereza , ni mashule ya makanisa yasiyo yakikatoliki ambayo yaliruhusu watoto wa Mashariki Waisraeli kutoka Uropa waliokuwa wamehitimu kuenda sehemu ya utajiri ya Westmount ama kuhama tena, kuenda Toronto.",Wayahudi walifanyika rahisi na jumuiya ya Anglo..,entailment
+"Ikiwezekana, Jifunze mchezo mbeleni.",Usingie kwa njama mwanzoni; itaharibu furaha baadae.,contradiction
+"Ikiwezekana, Jifunze mchezo mbeleni.","Jaribu kuelewa njama mapema, kama unaweza.",entailment
+"Ikiwezekana, Jifunze mchezo mbeleni.",Utapata darasa rahisi kama utaelewa njama ya kitabu,neutral
+"Vyumba vyake vya mazishi, mita 27 (futi 88) chini ya ardhi, vimetengenezwa kwa mawe ya chokaa na kifuniko 1,200 sq m (futi 13,000 sq).",Amezikwa zaidi ya mita ishirini chini ya ardhi.,entailment
+"Vyumba vyake vya mazishi, mita 27 (futi 88) chini ya ardhi, vimetengenezwa kwa mawe ya chokaa na kifuniko 1,200 sq m (futi 13,000 sq).",Alikuwa mtu muhimu kwa takwimu za umma.,neutral
+"Vyumba vyake vya mazishi, mita 27 (futi 88) chini ya ardhi, vimetengenezwa kwa mawe ya chokaa na kifuniko 1,200 sq m (futi 13,000 sq).",Kuba zake za mazishi hufanywa kwa mbao.,contradiction
+Kumbuka kuzificha vitu vyote vinavyobebwa kutoka kwa  tumbili.,Ficha mali yako kutoka kwa nyani.,entailment
+Kumbuka kuzificha vitu vyote vinavyobebwa kutoka kwa  tumbili.,"Nyani amependezwa na vitu vingi, hadi vitu vyako.",neutral
+Kumbuka kuzificha vitu vyote vinavyobebwa kutoka kwa  tumbili.,Sio lazima ufichie tumbili vitu vyako.,contradiction
+"Kama miaka elfu moja na mia nne iliyo pita kabla ukmbi wa mfalme kuelekwa,Milreu ilikuwa nyumba kubwa nchini ya mtu aliye mungwana.",Milreu alikuwa maili 10 kufikia chochote.,neutral
+"Kama miaka elfu moja na mia nne iliyo pita kabla ukmbi wa mfalme kuelekwa,Milreu ilikuwa nyumba kubwa nchini ya mtu aliye mungwana.",Milreu alikuwa nje kwenye konde.,entailment
+"Kama miaka elfu moja na mia nne iliyo pita kabla ukmbi wa mfalme kuelekwa,Milreu ilikuwa nyumba kubwa nchini ya mtu aliye mungwana.",Milreu ilikuwa sahihi katika moyo wa mji huo.,contradiction
+Bahari ya joto hutofautiana kati ya 18e na 24e C (64-75e F).,Vipimo vya joto katika bahari hubadilika kila wakati lakini haiendi chini ya kiwango cha kuganda.,entailment
+Bahari ya joto hutofautiana kati ya 18e na 24e C (64-75e F).,Joto ya bahari kila wakati iko katika kipimo fulani mwaka wote.,contradiction
+Bahari ya joto hutofautiana kati ya 18e na 24e C (64-75e F).,"Angalia temprecha ni kubwa wakati wa mchana, wakati ni joto.",neutral
+Mbuga ya wanyama ya Kinabalu ni moja ya maeneo sita yaliyolindwa katika eneo hili,Hifadhi ya Taifa ya Kinabalu ina tembo kumi na kifaru sita.,neutral
+Mbuga ya wanyama ya Kinabalu ni moja ya maeneo sita yaliyolindwa katika eneo hili,"Nchi imelinda meneo , ikiwemo mbuga ya kitaifa ya Kinabalu.",entailment
+Mbuga ya wanyama ya Kinabalu ni moja ya maeneo sita yaliyolindwa katika eneo hili,Kuna jumla ya maeneo matatu yaliyolindwa kwenye taifa.,contradiction
+Utaona video ya stori ya Anna na Amsterdam chini ya makazi pamoja na picha na shaba za wakati huo.,Hutaona picha.,contradiction
+Utaona video ya stori ya Anna na Amsterdam chini ya makazi pamoja na picha na shaba za wakati huo.,Utaona picha.,entailment
+Utaona video ya stori ya Anna na Amsterdam chini ya makazi pamoja na picha na shaba za wakati huo.,Utaona mojawapo ya picha za kwanza.,neutral
+"Treasure Beach ni eneo pekee la mapumziko la kuzungumzia, na hoteli kiasi zinazozingatia bahari tatu za mchanga.",Hakuna chagua mingi za hoteli kwa wale wenye wanazuru Treasure Beach.,entailment
+"Treasure Beach ni eneo pekee la mapumziko la kuzungumzia, na hoteli kiasi zinazozingatia bahari tatu za mchanga.",Kuna hoteli moja ya kiwango cha  four star kwa watalii wanaotembelea ufuo wa Treasure.,neutral
+"Treasure Beach ni eneo pekee la mapumziko la kuzungumzia, na hoteli kiasi zinazozingatia bahari tatu za mchanga.",Pwani ya Treasure ni mojawapo ya vivutio vingi katika eneo hilo.,contradiction
+Majira ya joto huleta hali ya hewa joto na joto la bahari na kuifanya hali kuwa sawa kwa michezo ya maji,Daima ni digrii 100 au zaidi wakati wa majira ya joto.,contradiction
+Majira ya joto huleta hali ya hewa joto na joto la bahari na kuifanya hali kuwa sawa kwa michezo ya maji,Hio huwa 75 msimu wa majira ya joto.,neutral
+Majira ya joto huleta hali ya hewa joto na joto la bahari na kuifanya hali kuwa sawa kwa michezo ya maji,Majira ya joto huwa na halijoto iliyo vuguvugu.,entailment
+"Miongoni mwa mabwawa ni moja ambalo linakaliwa na Wageni kurusha sarafu kwa tumaini la kukata kichwa cha kobe mmoja, njia ya uhakika ya kufikia bahati nzuri.",Watu kamwe hawatupi fedha kwa sababu ni bahati mbaya.,contradiction
+"Miongoni mwa mabwawa ni moja ambalo linakaliwa na Wageni kurusha sarafu kwa tumaini la kukata kichwa cha kobe mmoja, njia ya uhakika ya kufikia bahati nzuri.",Watu wanatupa mashilingi ndani ingawa ishara inasema wasifanye hivo.,neutral
+"Miongoni mwa mabwawa ni moja ambalo linakaliwa na Wageni kurusha sarafu kwa tumaini la kukata kichwa cha kobe mmoja, njia ya uhakika ya kufikia bahati nzuri.",Watu hurusha sarafu majini.,entailment
+"Mji wa bandari wa Nifplio unatengeneza msingi kamili kwa ajili ya kutembelea eneo hilo, au labda mahali pa kupata chakula cha mchana wakati wa ziara yako.",Nafplio ina mandhari mazuri.,neutral
+"Mji wa bandari wa Nifplio unatengeneza msingi kamili kwa ajili ya kutembelea eneo hilo, au labda mahali pa kupata chakula cha mchana wakati wa ziara yako.",Nafplio ni eneo mbaya.,contradiction
+"Mji wa bandari wa Nifplio unatengeneza msingi kamili kwa ajili ya kutembelea eneo hilo, au labda mahali pa kupata chakula cha mchana wakati wa ziara yako.",Nafplio ni makao kamili.,entailment
+"Katika  Prinsengracht,Otto Frank na familia yake walijificha katika darini za biashara zao kwa miaka miwili kabla hawajagunduliwa.",Otto Frank alitekwa siku ya pili.,contradiction
+"Katika  Prinsengracht,Otto Frank na familia yake walijificha katika darini za biashara zao kwa miaka miwili kabla hawajagunduliwa.",Otto Frank alificha kwa zaidi ya miezi 25.,entailment
+"Katika  Prinsengracht,Otto Frank na familia yake walijificha katika darini za biashara zao kwa miaka miwili kabla hawajagunduliwa.",Otto Frank alijificha hadi Wanazi wakampata.,neutral
+Serikali nyingi za mijii na za mitaa zina mahitaji ya ziada ya ukaguzi.,Serikali za mitaa zinaunda sheria zao wenyewe.,neutral
+Serikali nyingi za mijii na za mitaa zina mahitaji ya ziada ya ukaguzi.,Serikali za mitaa hazina mahitaji yoyote.,contradiction
+Serikali nyingi za mijii na za mitaa zina mahitaji ya ziada ya ukaguzi.,Kuna masuala ya ziada ya ukaguzi kulingana na serikali za mitaa.,entailment
+Kundi la usalama wa habari linatengeneza vikao kati ya 8 na 12 kila mwezi.,Kikundi cha usalama kina wastani wa vikao 9 kwa mwezi.,neutral
+Kundi la usalama wa habari linatengeneza vikao kati ya 8 na 12 kila mwezi.,Kundi la usalama linafanya kikao kila siku ya mwezi.,contradiction
+Kundi la usalama wa habari linatengeneza vikao kati ya 8 na 12 kila mwezi.,Kundi la usalama hufanya vikao mbalimbali kwa mwaka.,entailment
+"Hata hivyo, Uhandisi wa awali ulikamilika mapema.",mhandisi alikuwa na wakati wa awali,entailment
+"Hata hivyo, Uhandisi wa awali ulikamilika mapema.",Uhandisi ilitokea tu katika hatua ya mwisho.,contradiction
+"Hata hivyo, Uhandisi wa awali ulikamilika mapema.","Bila wakati wa matayarisho,uhandisi unaweza kuanguaka hatua za baadaye.",neutral
+"Matokeo yake, watunga uamuzi wa serikali na mameneja wanatumia njia mpya za kufikiria, kwa kuzingatia njia tofauti za kufanikisha malengo, na kutumia habari mpya kuongoza maamuzi.",Wawakilishi wa serikali wanabadilisha mbinu zao.,entailment
+"Matokeo yake, watunga uamuzi wa serikali na mameneja wanatumia njia mpya za kufikiria, kwa kuzingatia njia tofauti za kufanikisha malengo, na kutumia habari mpya kuongoza maamuzi.",Wawakilishaji wa serikali wanajaribu kuongeza mamlaka yao kwa kufikiria vitofauti.,neutral
+"Matokeo yake, watunga uamuzi wa serikali na mameneja wanatumia njia mpya za kufikiria, kwa kuzingatia njia tofauti za kufanikisha malengo, na kutumia habari mpya kuongoza maamuzi.",wawakilishi wa serikali wamekatataa kubadili mienendo yao ya maisha,contradiction
+Faili za kesi zinahitajika kutafsiriwa kwa wateja ambao wana soma lugha nyingine isiokua ya Kiingereza.,Faili za kesi zinaruhusiwa kuwa katika Kiingereza.,contradiction
+Faili za kesi zinahitajika kutafsiriwa kwa wateja ambao wana soma lugha nyingine isiokua ya Kiingereza.,Faili za kesi zinaweza kuandikwa kwenye lugha za Kichina au Kirusi.,neutral
+Faili za kesi zinahitajika kutafsiriwa kwa wateja ambao wana soma lugha nyingine isiokua ya Kiingereza.,Faili za kesi zinaweza kuwekwa katika lugha zingine.,entailment
+Jitihada zingine zilizopo sasa au zilizopangwa ni pamoja na,jitihatada za wengi ziko njiani,neutral
+Jitihada zingine zilizopo sasa au zilizopangwa ni pamoja na,Hatujapanga kitu chochote kwa siku zijazo.,contradiction
+Jitihada zingine zilizopo sasa au zilizopangwa ni pamoja na,Tuna kitu kilichopangwa.,entailment
+"Ongeza mambo kama wakati mfupi, kufutwa kwa faili hailisi za kompyuta, na kukosa kufikia hati zinazohitajika.",Walifuta faili za kompyuta kutoka kwa IBM.,neutral
+"Ongeza mambo kama wakati mfupi, kufutwa kwa faili hailisi za kompyuta, na kukosa kufikia hati zinazohitajika.",Walifuta faili asili ya kompyuta.,entailment
+"Ongeza mambo kama wakati mfupi, kufutwa kwa faili hailisi za kompyuta, na kukosa kufikia hati zinazohitajika.",Waliweka faili zote za awali.,contradiction
+"Halafu, yuyo huyo mwakilishi aliyetembea mara ya kwanza alitembelea mtoa huduma mpya kujibu maswali and kujadili shida zilizowakilishwa katika sampuli ya madai.",wawakilishi walizuru kwa saa moja,neutral
+"Halafu, yuyo huyo mwakilishi aliyetembea mara ya kwanza alitembelea mtoa huduma mpya kujibu maswali and kujadili shida zilizowakilishwa katika sampuli ya madai.",Kulikuwa na ziara ya mwakilishi.,entailment
+"Halafu, yuyo huyo mwakilishi aliyetembea mara ya kwanza alitembelea mtoa huduma mpya kujibu maswali and kujadili shida zilizowakilishwa katika sampuli ya madai.",hajawai enda kutembea,contradiction
+"Si tu kuweka akiba kunaoathiri kiwango cha akiba, bali akiba pia huathiri uchaguzi wa akiba.",Uamuzi wa ikiwa mtu atahifadhi pesa au la inadhiriwa na mali yao.,entailment
+"Si tu kuweka akiba kunaoathiri kiwango cha akiba, bali akiba pia huathiri uchaguzi wa akiba.",utajiri na akiba mara nyingi hazihusunishwi,contradiction
+"Si tu kuweka akiba kunaoathiri kiwango cha akiba, bali akiba pia huathiri uchaguzi wa akiba.",Watu tajiri wana uwezekano zaidi wa kuhifahi sehemu kubwa ya mapato yao.,neutral
+"Kwa mfano, shirika moja ambalo tulipeleleza lilikuwa na ushirikiano wa shirika mbili ambao ulitaka kampuni iweze kuunganisha biashara mpya na urekebishaji ili kufikia mahitaji ya biashara inayokua.","Ingawa kulikuwa na miungano miwili, hakukuwa na haja ya kampuni kupitia urekebishaji wa mfumo wa viwango.",contradiction
+"Kwa mfano, shirika moja ambalo tulipeleleza lilikuwa na ushirikiano wa shirika mbili ambao ulitaka kampuni iweze kuunganisha biashara mpya na urekebishaji ili kufikia mahitaji ya biashara inayokua.",Kuunganisha kampuni mbili iwe shirika moja na kutengenezwa upya ilileta mazingira ya kazi yenye vurugu.,neutral
+"Kwa mfano, shirika moja ambalo tulipeleleza lilikuwa na ushirikiano wa shirika mbili ambao ulitaka kampuni iweze kuunganisha biashara mpya na urekebishaji ili kufikia mahitaji ya biashara inayokua.",Tulichunguza kampuni iliyopata mashirikiano mawili na ilibidi urekebishaji haraka ili kukidhi mahitaji yao ya biashara.,entailment
+"mpango, tulikuwa na wasiwasi ya kwamba malipo yataidhinishwa kabla ya kuthibitisha ya kwamba usafiri kweli ulifanyika.",Tulijua malipo yangechukua milele.,contradiction
+"mpango, tulikuwa na wasiwasi ya kwamba malipo yataidhinishwa kabla ya kuthibitisha ya kwamba usafiri kweli ulifanyika.",Tulidhania malipo yatafanyika kabla ya thibitisho.,entailment
+"mpango, tulikuwa na wasiwasi ya kwamba malipo yataidhinishwa kabla ya kuthibitisha ya kwamba usafiri kweli ulifanyika.",Tulidhania malipo yaweza kuwa mapema na watulaghai.,neutral
+"Teknolojia imeunganishwa sana na mchakato wa biashara katika mashirika haya kwa sababu teknolojia inaonekana kama njia ya kuwezesha biashara, si chombo tu .",Programu ya kupanga ya kiwango cha juu ni mojawapo ya teknolojia muhimu biashara zinazingatia.,neutral
+"Teknolojia imeunganishwa sana na mchakato wa biashara katika mashirika haya kwa sababu teknolojia inaonekana kama njia ya kuwezesha biashara, si chombo tu .",Teknolojia ni kifaa tu wala si kitu cha kuwezesha biashara.,contradiction
+"Teknolojia imeunganishwa sana na mchakato wa biashara katika mashirika haya kwa sababu teknolojia inaonekana kama njia ya kuwezesha biashara, si chombo tu .",biashara hii yazingatia zaidi kwa teknolojia,entailment
+Dhana mbili zinazotokea kwa fasihi zinaweza zikawa za manufaa katika kutoa tarifa kwa utafiti wa wakati ujao.,Maandishi yanaweza badilisha vile tunachunguza sampuli,neutral
+Dhana mbili zinazotokea kwa fasihi zinaweza zikawa za manufaa katika kutoa tarifa kwa utafiti wa wakati ujao.,Vitabu vinaweza kubadilisha utafiti wa miaka zijazo,entailment
+Dhana mbili zinazotokea kwa fasihi zinaweza zikawa za manufaa katika kutoa tarifa kwa utafiti wa wakati ujao.,Hakuna kitu kingine cha kufanya katika suala la kubadili utafiti.,contradiction
+Mstari unaoandikwa na masanduku huonyesha kiwango cha ustawi wa barua pepe pamoja na mistari iliyojumuishwa na almasi inaonyesha hasara za kiufundi (kama hasi) ya kuhamisha kazi kwa chama kingine.,Mistari inahesabu kuwa kiwango cha ustawi cha watumaji wa barua ni 10%.,neutral
+Mstari unaoandikwa na masanduku huonyesha kiwango cha ustawi wa barua pepe pamoja na mistari iliyojumuishwa na almasi inaonyesha hasara za kiufundi (kama hasi) ya kuhamisha kazi kwa chama kingine.,Laini hazionyeshi lolote isipokuwa njia.,contradiction
+Mstari unaoandikwa na masanduku huonyesha kiwango cha ustawi wa barua pepe pamoja na mistari iliyojumuishwa na almasi inaonyesha hasara za kiufundi (kama hasi) ya kuhamisha kazi kwa chama kingine.,Mistari ianonyesha kiasi cha ustawi ulio katika wote wanaosafirisha barua.,entailment
+"Kulingana na tathmini hii ya hatari, Centrelink ilianzisha mikakati maalum ya kuzuia lengo la kuelimisha walengwa na waajiri juu ya mahitaji ya kuripoti mapato.",Centrelink hakujua jinsi ya kushughulikia tatizo hilo.,contradiction
+"Kulingana na tathmini hii ya hatari, Centrelink ilianzisha mikakati maalum ya kuzuia lengo la kuelimisha walengwa na waajiri juu ya mahitaji ya kuripoti mapato.",Centrelink ilikuwa na mikakati mingi ya kuwafundisha watu jinsi ya kuripoti mapato kwa sababu serikali ilipoteza pesa nyingi kwa makosa,neutral
+"Kulingana na tathmini hii ya hatari, Centrelink ilianzisha mikakati maalum ya kuzuia lengo la kuelimisha walengwa na waajiri juu ya mahitaji ya kuripoti mapato.",Centrelink ilikuwa na mikakati mingi kufundisha watu jinsi ya kuripoti mapato.,entailment
+Hii iliruhusu maandamano ya kubuni kabla ya makampuni kufanya uwekezaji wa gharama kubwa katika kutengeneza vifaa na vyombo vya  ili kujenga mwakilishi wa mfano wa uzalishaji wa awamu za maandamo.,Hivyo wangeweza kuonyesha jinsi mtindo huo ulifanya kazi.,entailment
+Hii iliruhusu maandamano ya kubuni kabla ya makampuni kufanya uwekezaji wa gharama kubwa katika kutengeneza vifaa na vyombo vya  ili kujenga mwakilishi wa mfano wa uzalishaji wa awamu za maandamo.,Wangeweza kuonyesha kampuni kuwa haikuwa busara kujenga karakana mpya.,neutral
+Hii iliruhusu maandamano ya kubuni kabla ya makampuni kufanya uwekezaji wa gharama kubwa katika kutengeneza vifaa na vyombo vya  ili kujenga mwakilishi wa mfano wa uzalishaji wa awamu za maandamo.,Hawakujua jinsi ya kuonyesha athari za uwekezaji.,contradiction
+Jitihada za kushirikiana za Carolina Kusini zilizalisha mafanikio mengine mwaka uliofuata.,Hakuna mtu huko Carolina Kusini aliyefanya kazi pamoja.,contradiction
+Jitihada za kushirikiana za Carolina Kusini zilizalisha mafanikio mengine mwaka uliofuata.,SC ilifanya kazi pamoja.,entailment
+Jitihada za kushirikiana za Carolina Kusini zilizalisha mafanikio mengine mwaka uliofuata.,Wanachama wa vyama vya Democratic na Republican wanafanya kazi pamoja.,neutral
+"Kwa mujibu wa afisa wa Bodi, kifungu cha 605 b) cha Bodi utoaji wa hati haukutolewa tofauti kwa Mshauri Mkuu wa Taasisi ya Biashara ndogo (SBA) kwa Utetezi.",Bodi haikumpa SBA hati na waliwachia jambo hilo afisi ya mkaguzi,neutral
+"Kwa mujibu wa afisa wa Bodi, kifungu cha 605 b) cha Bodi utoaji wa hati haukutolewa tofauti kwa Mshauri Mkuu wa Taasisi ya Biashara ndogo (SBA) kwa Utetezi.",Bodi haikutoa vyeti vya SBA.,entailment
+"Kwa mujibu wa afisa wa Bodi, kifungu cha 605 b) cha Bodi utoaji wa hati haukutolewa tofauti kwa Mshauri Mkuu wa Taasisi ya Biashara ndogo (SBA) kwa Utetezi.",Bodi ilitoa vyeti vya SBA kila siku kwa yeyote anayeomba kwa moja.,contradiction
+"Mchezo unapofanyika kwa hoteli na malipo mengine, uthibitishaji wa tripu halisi utafanywa.",hoteli mingi zakubali malipo kupitia kadi,neutral
+"Mchezo unapofanyika kwa hoteli na malipo mengine, uthibitishaji wa tripu halisi utafanywa.",Safari yenyewe itatibitishwa kutumia gharama za mkahawa.,entailment
+"Mchezo unapofanyika kwa hoteli na malipo mengine, uthibitishaji wa tripu halisi utafanywa.",Hakuna njia ya kuthibitisha ikiwa safari ya kweli ilitokea au la.,contradiction
+"Kwa mfano, mji mkuu mmoja tuliotembelea ni makao ya zaidi ya kampuni 600 za programu.",Miji mikuu ndiyo mahali pazuri zaidi pa kampuni za programu.,neutral
+"Kwa mfano, mji mkuu mmoja tuliotembelea ni makao ya zaidi ya kampuni 600 za programu.",Kuna mji mkuu ambalo lina kampuni nyingi za kutengeneza programu za kompyuta.,entailment
+"Kwa mfano, mji mkuu mmoja tuliotembelea ni makao ya zaidi ya kampuni 600 za programu.",Kampuni za programu hulenga miji mikuu kwa sababu za kisheria.,contradiction
+"Katika ufanisi wa kupima, ukamilifu hauwezi kupatikana.",Unaweza kuwa mkamilifu ukijaribu kwa bidii.,contradiction
+"Katika ufanisi wa kupima, ukamilifu hauwezi kupatikana.",Hauwezi kuwa mkamilifu.,entailment
+"Katika ufanisi wa kupima, ukamilifu hauwezi kupatikana.",Huwezi kuwa mkamilifu kwa sababu sisi sote tunakasoro zetu.,neutral
+Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.,Hazmi na Mihdhar walinunua nyumba bila mawasiliano na mtu yeyote.,contradiction
+Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.,"Hazmi na Mihdhar walikodisha chumba kwa mwaka mzima, kwa $500 kwa siku.",neutral
+Aliyekuwa kwenye nyumba na kumkodesha Hazmi na Mihdhar chumba mwaka wa 2000 ni mwananchi anayefuata sheria na liye na uwasiliano wa muda mrefu na polisi.,Hazmi na Mihdhar walikodisha chumba.,entailment
+"Kwa safari wao kwenda Bosnia, angalia Ripoti ya Upelelezi, kuhojiwa kwa mwanachama wa  al Qaeda kutoka Saudi, Oktoba 3, 2001.",Mwanachama wa al Qaeda ali enda Bosnia mara 18 mwaka 2001.,neutral
+"Kwa safari wao kwenda Bosnia, angalia Ripoti ya Upelelezi, kuhojiwa kwa mwanachama wa  al Qaeda kutoka Saudi, Oktoba 3, 2001.",Mshirika wa al Qaeda alienda hadi Bosnia.,entailment
+"Kwa safari wao kwenda Bosnia, angalia Ripoti ya Upelelezi, kuhojiwa kwa mwanachama wa  al Qaeda kutoka Saudi, Oktoba 3, 2001.",Hakuna ushahidi wa mwanachama wa al Quaeda kwenda Bosnia.,contradiction
+Jane alimuuliza wakala wa New York aliye pewa kazi ya utafutaji wa Mihdhar kutia sahihi fomu ya kukubali FISA inayoonyesha wakala kuelewa jinsi alipaswa kushugulikia habari za FISA.,Jane aliuliza fomu ya kukubali FISA kusainiwa na hakimu wa shirikisho.,neutral
+Jane alimuuliza wakala wa New York aliye pewa kazi ya utafutaji wa Mihdhar kutia sahihi fomu ya kukubali FISA inayoonyesha wakala kuelewa jinsi alipaswa kushugulikia habari za FISA.,Jane aliomba kwamba fomu ya FISA itiwe saini.,entailment
+Jane alimuuliza wakala wa New York aliye pewa kazi ya utafutaji wa Mihdhar kutia sahihi fomu ya kukubali FISA inayoonyesha wakala kuelewa jinsi alipaswa kushugulikia habari za FISA.,Jane alisema hakuna kukiri kwa FISA una umuhimu.,contradiction
+Hakuna kitu kinachojulikana kuhusu yeyote kati yao kuhusiana na tu safu ya usalama iliyokuwa muhimu kwa kituo cha uchunguzi halisi wa ukaguzi.,Ushahidi wa kutisha uligunduliwa wakati wa uchunguzi wa ukaguzi.,contradiction
+Hakuna kitu kinachojulikana kuhusu yeyote kati yao kuhusiana na tu safu ya usalama iliyokuwa muhimu kwa kituo cha uchunguzi halisi wa ukaguzi.,Uchunguzi wa mahali pa kuchungulia inategemea sana vile ambavyo ajenti anafikiria.,neutral
+Hakuna kitu kinachojulikana kuhusu yeyote kati yao kuhusiana na tu safu ya usalama iliyokuwa muhimu kwa kituo cha uchunguzi halisi wa ukaguzi.,Ufuatiliaji wa kuangalia haukuweza kugundua ushahidi wowote dhidi yao.,entailment
+"Khallad ametoa toleo la pili, yaani kwamba wote watatu walisafiri pamoja kuelekea Karachi.",Khallad alisema ya kwamba hakujua chochote kuhusu watatu hao.,contradiction
+"Khallad ametoa toleo la pili, yaani kwamba wote watatu walisafiri pamoja kuelekea Karachi.",Khallad alisema hao watatu wangeweza kusafiri pamoja.,entailment
+"Khallad ametoa toleo la pili, yaani kwamba wote watatu walisafiri pamoja kuelekea Karachi.",Khallad alisema kuna nafasi ya 50% hao watatu walikwenda Karachi pamoja mwezi Oktoba.,neutral
+"Ripoti ya upelelezi, uhoji wa Binalshibh, Oktoba 1, 2002.",Binalshibh alihojiwa na kikundi cha kazi cha FBI.,neutral
+"Ripoti ya upelelezi, uhoji wa Binalshibh, Oktoba 1, 2002.",Binalshibh alichunguzwa mwaka wa 2002.,entailment
+"Ripoti ya upelelezi, uhoji wa Binalshibh, Oktoba 1, 2002.",Binalshibh hakuwai ngeleshwa na akatoweka.,contradiction
+"Mihdhar alipewa viza jipya , siku mbili baada ya mkutano na CIA-FBI, New York.",Mihdhar alikuwa na viza ya Marekani ili kuingia nchini.,entailment
+"Mihdhar alipewa viza jipya , siku mbili baada ya mkutano na CIA-FBI, New York.","Mihdhar hakupata visa, kwahivyo hakukuja huku Marekani.",contradiction
+"Mihdhar alipewa viza jipya , siku mbili baada ya mkutano na CIA-FBI, New York.",Midhari alipewa Visa kwasababu hakuwa tishio.,neutral
+"Licha ya miaka miwili ya uchunguzi, FBI haikuweza kupata mfanyakazi wa ushirikiano au kujua utambulisho wake wa kweli.",FBI hawakuweza ata kumpata yule mwanaume hata baada ya yeye kutoka Florida mnamo mwaka wa 2001.,neutral
+"Licha ya miaka miwili ya uchunguzi, FBI haikuweza kupata mfanyakazi wa ushirikiano au kujua utambulisho wake wa kweli.",FBI hawangeweza kujua jamaa huyo alikuwa nani.,entailment
+"Licha ya miaka miwili ya uchunguzi, FBI haikuweza kupata mfanyakazi wa ushirikiano au kujua utambulisho wake wa kweli.",FBI ilgungua alikuwa nani na kumtupa gerezani.,contradiction
+"Katika kesi ya Amerika ya 11, mawasiliano ya mwisho ya kawaida kutoka ndege ilikuwa saa 8:13 asubuhi.",Kulikuwa na mawasiliano kutoka kwa Amerika  11.,entailment
+"Katika kesi ya Amerika ya 11, mawasiliano ya mwisho ya kawaida kutoka ndege ilikuwa saa 8:13 asubuhi.",Kulikuwa na mawasiliano kutoka American 11 kila baada ya dakika 15.,neutral
+"Katika kesi ya Amerika ya 11, mawasiliano ya mwisho ya kawaida kutoka ndege ilikuwa saa 8:13 asubuhi.",Hapakuwa na mawasiliano yoyote kutoka kwa Amerika 11.,contradiction
+"Kugundua kuwa ingehitaji usaidizi wa haraka na ushirikiano mkuu wa serikali ya Ujerumani, ambayo ingekuwa ngumu kupata.","Yakikamilishwa, uchunguzi huo unaweza kufichua mahali walipojificha wakimbizi watatu.",neutral
+"Kugundua kuwa ingehitaji usaidizi wa haraka na ushirikiano mkuu wa serikali ya Ujerumani, ambayo ingekuwa ngumu kupata.",Serikali ya Ujerumani huenda ilikuwa na wakati mgumu kufanya uchunguzi wa haraka na hakika.,entailment
+"Kugundua kuwa ingehitaji usaidizi wa haraka na ushirikiano mkuu wa serikali ya Ujerumani, ambayo ingekuwa ngumu kupata.",Uchunguzi utakuwa rahisi kwa serikali kutekeleza.,contradiction
+Uwezo wake haukuwa wa kutosha lakini kidogo kilifanywa kusahihisha hili.,Hawakubadili kwa ukubwa programu yao ya ufuatiliaji.,neutral
+Uwezo wake haukuwa wa kutosha lakini kidogo kilifanywa kusahihisha hili.,Hawakujitahidi kubadili hali.,entailment
+Uwezo wake haukuwa wa kutosha lakini kidogo kilifanywa kusahihisha hili.,Walienda viwango vya juu kurekebisha kila kitu.,contradiction
+Barua pepe ya mchambuzi yaonyesha ya kwamba alikuwa anachanganya safu pana la onyo na vizuizi vya kisheria kuhusu kusambazwa kwa habari na sheria kuhusu matumizi ya habari iliyotoka kwa vituo vya uppekuzi na wakala wa wahalifu.,Wachambuzi walitoa uchambuzi wa kueleweka kwa wazi.,contradiction
+Barua pepe ya mchambuzi yaonyesha ya kwamba alikuwa anachanganya safu pana la onyo na vizuizi vya kisheria kuhusu kusambazwa kwa habari na sheria kuhusu matumizi ya habari iliyotoka kwa vituo vya uppekuzi na wakala wa wahalifu.,Mchambuzi hakuwa wazi kwa mambo mengi.,entailment
+Barua pepe ya mchambuzi yaonyesha ya kwamba alikuwa anachanganya safu pana la onyo na vizuizi vya kisheria kuhusu kusambazwa kwa habari na sheria kuhusu matumizi ya habari iliyotoka kwa vituo vya uppekuzi na wakala wa wahalifu.,Ripoti ya mchambuzi ilikuwa imevurugika sana kwamba hakuna mtu anayeweza kuiisoma.,neutral
+"Baadhi ya maafisa waliteuliwa kusaidia katika uokoaji wa Stairwell; wengine walichaguliwa kuharakisha uokoaji ndani ya plaza, Concourse, na stesheni ya PATH.",Maafisa walipata kazi zao wenyewe.,entailment
+"Baadhi ya maafisa waliteuliwa kusaidia katika uokoaji wa Stairwell; wengine walichaguliwa kuharakisha uokoaji ndani ya plaza, Concourse, na stesheni ya PATH.",Maafisa walikimbia tu bila mpangilio kuelekea mahali walihitajika.,contradiction
+"Baadhi ya maafisa waliteuliwa kusaidia katika uokoaji wa Stairwell; wengine walichaguliwa kuharakisha uokoaji ndani ya plaza, Concourse, na stesheni ya PATH.",Maafisa walipewa kazi kulingana na ustadi.,neutral
+"Mnamo Septemba 9, habari kubwa zilifika kutoka Afghanistan.",Tulipata habari kutoka Afghastan.,entailment
+"Mnamo Septemba 9, habari kubwa zilifika kutoka Afghanistan.",Hatukusikia chochote kutoka Afuganistani hadi mwezi wa Oktoba.,contradiction
+"Mnamo Septemba 9, habari kubwa zilifika kutoka Afghanistan.",Tuliambiwa kuhusu shambulio ambalo lingefanyika Septemba 9.,neutral
+"Kutokuwa na uwezo wa kuwasiliana ulikuwa kipengele muhimu katika Kituo cha Biashara cha Dunia, Pentagon, na Somerset County, Pennsylvania, maeneo ya kupoteza, ambapo mashirika mengi na mamlaka nyingi waliitikia.",Mawasiliano yalifanya kazi vizuri sana kwenye 9/11.,contradiction
+"Kutokuwa na uwezo wa kuwasiliana ulikuwa kipengele muhimu katika Kituo cha Biashara cha Dunia, Pentagon, na Somerset County, Pennsylvania, maeneo ya kupoteza, ambapo mashirika mengi na mamlaka nyingi waliitikia.",Watu walipata wakati mgumu kuwasiliana katika Kituo cha Biashara cha Dunia kwa kuwa nguvu za umeme hazikuwa na laini za simu zilikuwa zimeharibika.,neutral
+"Kutokuwa na uwezo wa kuwasiliana ulikuwa kipengele muhimu katika Kituo cha Biashara cha Dunia, Pentagon, na Somerset County, Pennsylvania, maeneo ya kupoteza, ambapo mashirika mengi na mamlaka nyingi waliitikia.",Watu walikuwa na wakati mgumu kuwasiliana katika kituo cha Dunia cha  biashara.,entailment
+"Utafutaji wa data zilizopo kwa urahisi zinaweza kufungua leseni ya dereva, usajili wa gari, na orodha ya simu.",Wachunguzi pia waliomba ruhusa ya upatikanaji wa hifadhidata za kitaaluma.,neutral
+"Utafutaji wa data zilizopo kwa urahisi zinaweza kufungua leseni ya dereva, usajili wa gari, na orodha ya simu.",Aina kadhaa za habari zilipatikana kwa hifadhidata zilizokuwepo.,entailment
+"Utafutaji wa data zilizopo kwa urahisi zinaweza kufungua leseni ya dereva, usajili wa gari, na orodha ya simu.",Hakukuwa na njia ya kupata taarifa yeyote kuhusu masomo kwa kutumia vyanzo vilivyopo.,contradiction
+"Kwa madai kuwa alikua ameshuku shughuli zote, msimamizi alijiondoa na kutojihusisha na Hazmi na Mihdhar, lakini si kabla ya kupokea msaada waliohitaji.",Msimamazi alizungumza na walinda usalama wakati huo na kukataa kusaidia katika kesi.,contradiction
+"Kwa madai kuwa alikua ameshuku shughuli zote, msimamizi alijiondoa na kutojihusisha na Hazmi na Mihdhar, lakini si kabla ya kupokea msaada waliohitaji.",Msimamizi alitoa msaada licha ya wasi.,entailment
+"Kwa madai kuwa alikua ameshuku shughuli zote, msimamizi alijiondoa na kutojihusisha na Hazmi na Mihdhar, lakini si kabla ya kupokea msaada waliohitaji.",Msaada ulikuwa na fedha na kusaidiakupata  nyaraka za kusafiri.,neutral
+"Mnamo 2003, hizi jina ziliondolewa,; Ugaidi wa kimataifa sasa unapata jina moja, 315",Maneno yote kuhusu ughaidi unapewa taji la juu kwa umuhimu,neutral
+"Mnamo 2003, hizi jina ziliondolewa,; Ugaidi wa kimataifa sasa unapata jina moja, 315",Mambo yote ya ugaidi hupata lebo sawa.,entailment
+"Mnamo 2003, hizi jina ziliondolewa,; Ugaidi wa kimataifa sasa unapata jina moja, 315",Tukio lolote la ugaidi huhukumiwa tofauti kujitegemea.,contradiction
+"Afisa huyu, ambaye aliona kuanguka kwa Mnara wa Kusini (South Tower), aliiambia vitengo vya ESU katika Mnara wa Kaskazini (North Tower) katika mafunzo yake ya uokoaji.",Hakuna aliyebaki katika North Tower baada ya Mnara wa Kusini kuporomoka.,contradiction
+"Afisa huyu, ambaye aliona kuanguka kwa Mnara wa Kusini (South Tower), aliiambia vitengo vya ESU katika Mnara wa Kaskazini (North Tower) katika mafunzo yake ya uokoaji.",South Tower ulipungua dakika 30 kabla ya afisa akizungumza na vitengo vya ESU katika North Tower.,neutral
+"Afisa huyu, ambaye aliona kuanguka kwa Mnara wa Kusini (South Tower), aliiambia vitengo vya ESU katika Mnara wa Kaskazini (North Tower) katika mafunzo yake ya uokoaji.",Afisa alishuhudia jumba la South Tower likibomoka.,entailment
+Indianapolis ni mahali pema zaidi kwa waigizaji kufanya kazi kwa watu wengi,Waigizaji wanapenda Indianapolis kwa sababu ya mashirika yote ya filamu huko.,neutral
+Indianapolis ni mahali pema zaidi kwa waigizaji kufanya kazi kwa watu wengi,"Ikiwa wewe ni muigizaji, unapaswa kuzingatia kuhamia Indianapolis.",entailment
+Indianapolis ni mahali pema zaidi kwa waigizaji kufanya kazi kwa watu wengi,"Ni vigumu kupata kazi Indianapolis kama uko katika sanaa ya uigizaji na filamu, kwasababu Indianapolis ni mji wa kitekinologia.",contradiction
+"Tunapeana msaada kupitia simu masaa ishrini na manne, wiki mzima kupigia mtambo wetu wa kuzuia janga mtandaoni, na pia kupitia nambari ya moja kwa moja ya wazazi.",Watu wanaweza tu wasiliana nasi kupitia barua au kutumia barua pepe.,contradiction
+"Tunapeana msaada kupitia simu masaa ishrini na manne, wiki mzima kupigia mtambo wetu wa kuzuia janga mtandaoni, na pia kupitia nambari ya moja kwa moja ya wazazi.","Tunapatikana kwa simu, saa yoyote kwa siku.",entailment
+"Tunapeana msaada kupitia simu masaa ishrini na manne, wiki mzima kupigia mtambo wetu wa kuzuia janga mtandaoni, na pia kupitia nambari ya moja kwa moja ya wazazi.",Tunapata zaidi ya simu mia kila Jumatatu hadi Ijumaa.,neutral
+Kwani masanduku haya yatabaki katika vifungo vyao kwa muda mrefu baada ya zawadi nyingine zote kufunguliwa.,Haya masanduku yako na,neutral
+Kwani masanduku haya yatabaki katika vifungo vyao kwa muda mrefu baada ya zawadi nyingine zote kufunguliwa.,Masanduku haya yatafunguliwa kabla ya zawadi zingine.,contradiction
+Kwani masanduku haya yatabaki katika vifungo vyao kwa muda mrefu baada ya zawadi nyingine zote kufunguliwa.,Maboksi haya hayatafunguliwa kwa muda.,entailment
+"Tukiweka bei rahisi, tunahitaji usaidizi wenu kama washirika wa msaada kidogo ili tufikie azimio letu.","Ili kuweka bei zetu za tiketi chini ya dola 10, tunahitaji watazamaji wetu wote  kuchangia dola 25.",neutral
+"Tukiweka bei rahisi, tunahitaji usaidizi wenu kama washirika wa msaada kidogo ili tufikie azimio letu.","Tunaweza weka bei zetu chini ikiwa  tulitaka, bila pesa yenu,lakini bosi wetu anapenda anasa zake.",contradiction
+"Tukiweka bei rahisi, tunahitaji usaidizi wenu kama washirika wa msaada kidogo ili tufikie azimio letu.",Mchango wenu unatusaidia kuhifadhi bei ya chini.,entailment
+"imesaidia kufanya iwezekanavyo kutupa mwongozo, kuhimiza na kujifurahisha kwa watoto karibu 400 wa eneo la Indianapolis.","Kwa ajili ya ufadhili wetu, tuliweza kumwalika Beyonce aje kwa tamasha ya watoto yatima wa Indianapolis.",neutral
+"imesaidia kufanya iwezekanavyo kutupa mwongozo, kuhimiza na kujifurahisha kwa watoto karibu 400 wa eneo la Indianapolis.","Tulitarajia kuwapa watoto sherehe ya Krismasi, lakini hatujawahi kuweza kuwafanyia chochote.",contradiction
+"imesaidia kufanya iwezekanavyo kutupa mwongozo, kuhimiza na kujifurahisha kwa watoto karibu 400 wa eneo la Indianapolis.","Tuliweza kusaidia watoto wengi wa Indianapolis,",entailment
+"Mwanzoni, watu binafsi wanaweza kushiriki kwa kutoa zawadi isiyo na masharti ya dola za Marekani 1,000 au zaidi kwa Chancellor's Circle, au ya zaidi ya dola za Marekani  500 au zaidi kwa Chancellors Associates.",Watu wanaweza kushiriki baada ya kufanya mchango mdogo wa $50 .,contradiction
+"Mwanzoni, watu binafsi wanaweza kushiriki kwa kutoa zawadi isiyo na masharti ya dola za Marekani 1,000 au zaidi kwa Chancellor's Circle, au ya zaidi ya dola za Marekani  500 au zaidi kwa Chancellors Associates.",Watu nafsi wanaweza changia kama watapeana pesa mingi.,entailment
+"Mwanzoni, watu binafsi wanaweza kushiriki kwa kutoa zawadi isiyo na masharti ya dola za Marekani 1,000 au zaidi kwa Chancellor's Circle, au ya zaidi ya dola za Marekani  500 au zaidi kwa Chancellors Associates.",Watu wengi binafsi hupendelea kupa msaada kwa Washirika wa Kansela,neutral
+Zawadi yako kwa sasa inaweza kukutolea faida za kodi za mwisho wa mwaka.,"Ukifanya zawadi isiyo chini ya dola 1,000, utapata nafuu ya ushuru.",neutral
+Zawadi yako kwa sasa inaweza kukutolea faida za kodi za mwisho wa mwaka.,"Kwa bahati mbaya, washauri wetu wa ushuru watakushauri usitoe zawadi zozote.",contradiction
+Zawadi yako kwa sasa inaweza kukutolea faida za kodi za mwisho wa mwaka.,Huenda msaada unaopata utozwe kodi.,entailment
+"Kama unavyojua, wajumbe wa kikundi hiki ni pamoja na marafiki na wajumbe ambao wanachangia $ 1,000 au zaidi kwa shule ya sheria.",Baadhi ya wanachama wa kikundi wametoa mchango wa zaidi ya $100 kwa shule.,neutral
+"Kama unavyojua, wajumbe wa kikundi hiki ni pamoja na marafiki na wajumbe ambao wanachangia $ 1,000 au zaidi kwa shule ya sheria.","Tuna watu katika kundi hili ambao wamechangia zaidi ya $ 1,000 kwa shule ya sheria.",entailment
+"Kama unavyojua, wajumbe wa kikundi hiki ni pamoja na marafiki na wajumbe ambao wanachangia $ 1,000 au zaidi kwa shule ya sheria.","Tunapanga kuuliza hiki kikundi kutolea shule mchango wa kifedha, jambo ambayo hatujawahi fanya hapo awali.",contradiction
+"Kama mtoto nilopokuwa nikikua miaka ya 5O's, mojawapo ya kumbukumbu zangu zenye furaha ilikuwa kuhudhuria uzalishaji wa Ukumbi wa Civic.","Nilichukia kwenda kwenye maonyesho ya michezo kama mtoto, hiyo ndiyo sababu nilikuwa mwanasayansi.",contradiction
+"Kama mtoto nilopokuwa nikikua miaka ya 5O's, mojawapo ya kumbukumbu zangu zenye furaha ilikuwa kuhudhuria uzalishaji wa Ukumbi wa Civic.",Nilipenda kwenda kwenye sinema nikiwa mtoto,entailment
+"Kama mtoto nilopokuwa nikikua miaka ya 5O's, mojawapo ya kumbukumbu zangu zenye furaha ilikuwa kuhudhuria uzalishaji wa Ukumbi wa Civic.",Kipindi changu nilichokipenda sana ilikuwa Beauty and The Beast.,neutral
+Ikiwa kila mtu anapokea barua hii anatoa $18 tu.,"Kila mtu anayepokea barua hii: usitoe mchango wako, ni kashfa",contradiction
+Ikiwa kila mtu anapokea barua hii anatoa $18 tu.,"Ikiwa utachanga $18, tutakupa zawadi.",neutral
+Ikiwa kila mtu anapokea barua hii anatoa $18 tu.,Tunatumai watu wote waliopokea barua wataweza kutoa mchango wa $18.,entailment
+"Futa tu sehemu ya chini, angalia chaguo linalotumika, fanya mabadiliko yoyote kwenye anwani yako ikiwa inahitajika na uitumie katika bahasha iliyofungwa.",Tafadhali usifanye mabadiliko yoyote katika anwani yako.,contradiction
+"Futa tu sehemu ya chini, angalia chaguo linalotumika, fanya mabadiliko yoyote kwenye anwani yako ikiwa inahitajika na uitumie katika bahasha iliyofungwa.","Kuna bahasha nyeupe iliyofungwa, na anwani yako juu yake.",neutral
+"Futa tu sehemu ya chini, angalia chaguo linalotumika, fanya mabadiliko yoyote kwenye anwani yako ikiwa inahitajika na uitumie katika bahasha iliyofungwa.","Uko huru kufanya mabadiliko kwenye anwani yako, ikiwa unaona inafaa.",entailment
+Shule ya Uuguzi inahitaji zawadi zako za ukarimu ili kuendelea na kuendeleza ubora wake wa elimu.,"Tafadhali changia $100 millioni kwa Shule ya Uuguzi, au utapoteza sanamu yako ya kumbukumbu.",neutral
+Shule ya Uuguzi inahitaji zawadi zako za ukarimu ili kuendelea na kuendeleza ubora wake wa elimu.,"Shule ya Uuguzi ilitimiza malengo yake yote ya kifedha, kwa hivyo haihitaji fedha zingine zozote.",contradiction
+Shule ya Uuguzi inahitaji zawadi zako za ukarimu ili kuendelea na kuendeleza ubora wake wa elimu.,Tunatarajia utachanga kwa Shule ya Uuguzi.,entailment
+80% ya washiriki wataripoti kuongezeka kwa ujuzi katika utatuzi wa migogoro.,Zaidi ya nusu ya washirik iwataripoti ongezeko la ujuzi wa azimio la migogoro,entailment
+80% ya washiriki wataripoti kuongezeka kwa ujuzi katika utatuzi wa migogoro.,Ni robo pekee ya washirika watakao ripoti kuongezeka kwa ujuzi wa kufumbua migogoro.,contradiction
+80% ya washiriki wataripoti kuongezeka kwa ujuzi katika utatuzi wa migogoro.,Kuna zaidi ya washiriki binafsi 100,neutral
+Tafadhali usisonge kwenye orodha yetu ya wafadhili iliyopotea.,Ingekuwa aibu ikiwa umeacha kuchanga.,entailment
+Tafadhali usisonge kwenye orodha yetu ya wafadhili iliyopotea.,"Orodha ya wafadhili wakale imechapishwa kwa ajili ya dunia kuiona, hivyo niamini hutaki aibu kama hiyo!",neutral
+Tafadhali usisonge kwenye orodha yetu ya wafadhili iliyopotea.,"Tuko na wafadhili wengi, kwa hivo tafadhali wacha kufadhili",contradiction
+Upatikanaji wa viwanja vyetu utafunguliwa kwa mtu yeyote mwenye kompyuta na modem.,Watu hawahitaji chochote ili kupata ardhi.,contradiction
+Upatikanaji wa viwanja vyetu utafunguliwa kwa mtu yeyote mwenye kompyuta na modem.,Watu wanahitaji kompyuta na modem ili kuingia misingi.,entailment
+Upatikanaji wa viwanja vyetu utafunguliwa kwa mtu yeyote mwenye kompyuta na modem.,Watu wanahitaji kubeba tarakilishi modemu yao wakiingia kwa uwanja ili waruhisiwe kuingia.,neutral
+Uuzaji wa tiketi na usajili hauwezi tugharamia msimu wetu kamili,"Bora tu tukue na mauzo ya tikiti, msimu wetu wote utakuwa umefadhiliwa.",contradiction
+Uuzaji wa tiketi na usajili hauwezi tugharamia msimu wetu kamili,Msimu wetu wote unahitaji zaidi kufadhili kuliko kuuza tikiti na kujisajili pekee.,entailment
+Uuzaji wa tiketi na usajili hauwezi tugharamia msimu wetu kamili,Uuzaji wa tiketi na uungaji ya wasilisha asilimia sabini ya matumizi msimu mzima,neutral
+"MAPYA YALIYOWASILI, KILA ZAWADI LINALETA TOFAUTI!",Kila zawadi hurekodiwa na kutangazwa katika jarida letu la kila mwezi.,neutral
+"MAPYA YALIYOWASILI, KILA ZAWADI LINALETA TOFAUTI!",Kila zawadi inayotolewa  huhesabiwa kwa kitu,entailment
+"MAPYA YALIYOWASILI, KILA ZAWADI LINALETA TOFAUTI!",Zawadi pekee zipitao $100 zinafanya tofauti.,contradiction
+"Tuko na safari ndefu kabla tufikishe lengo la  $365,000 kutoka kwa marafiki na wanachama kama wewe.","Kiwango cha matarajio yetu kimezidi $300,000..",entailment
+"Tuko na safari ndefu kabla tufikishe lengo la  $365,000 kutoka kwa marafiki na wanachama kama wewe.",Tunatarijia kuongezea pesa zetu mara dufu.,neutral
+"Tuko na safari ndefu kabla tufikishe lengo la  $365,000 kutoka kwa marafiki na wanachama kama wewe.",hatuna alama ya kufwatilia kwa upande wa pesa,contradiction
+"Kitengo chetu cha sheria ya kikaidi kimekuwa kikifanya kazi kwa umri wa miaka saba, na juzi tuliongeza kitengo cha sheria za jinai.",kliniki yetu ya mazoezi ya kiraia imekuwa ikifanya kazi kwa miaka minane sasa,neutral
+"Kitengo chetu cha sheria ya kikaidi kimekuwa kikifanya kazi kwa umri wa miaka saba, na juzi tuliongeza kitengo cha sheria za jinai.",Kliniki yetu ya Utendaji wa Kiraia ina sheherekea mwaka wake wa kwanza wa utendaji kazi mwezi ujao.,contradiction
+"Kitengo chetu cha sheria ya kikaidi kimekuwa kikifanya kazi kwa umri wa miaka saba, na juzi tuliongeza kitengo cha sheria za jinai.",Civil Practice Clinic imekuwa ikifanya kazi kwa mwaka na.,entailment
+Mapato ya tiketi haikimu gharama za programu hizi.,Inaonekana kwamba gharama ya miradi hizi hazita lipiwa na faida kutoka kwa tiketi.,entailment
+Mapato ya tiketi haikimu gharama za programu hizi.,Gharama ya mipango hii iko juu zaidi.,neutral
+Mapato ya tiketi haikimu gharama za programu hizi.,Mapato ya tiketi kwa hakika itashugulikia gharama ya programu hizi.,contradiction
+Omnia Vincit AMor (isipokuwa wewe hufanyia kazi Weekly Standard): Brit Hume (Fox News Sunday) hutamanisha sababu hatofanya Lewinsky. Bado anampenda rais sana.,Brit Hume ndiye mwandishi mkuu wa habari wa Fox.,neutral
+Omnia Vincit AMor (isipokuwa wewe hufanyia kazi Weekly Standard): Brit Hume (Fox News Sunday) hutamanisha sababu hatofanya Lewinsky. Bado anampenda rais sana.,Brit Hume hufanyia CNN kazi.,contradiction
+Omnia Vincit AMor (isipokuwa wewe hufanyia kazi Weekly Standard): Brit Hume (Fox News Sunday) hutamanisha sababu hatofanya Lewinsky. Bado anampenda rais sana.,Brit Hume anafanyia kazi Fox,entailment
+Mengi yamefanyika kwa kumuandika kazi Michael Apted kuleta ubinadamu kwenye kipindi.,"Michael Apted aliharibu kipindi kwa kusisitiza watoe mambo yoyote ya joto, ya kibinadamu.",contradiction
+Mengi yamefanyika kwa kumuandika kazi Michael Apted kuleta ubinadamu kwenye kipindi.,Michael Apted aliajiriwa kuongeza ubora wa kibinafsi kwenye mfululizo.,entailment
+Mengi yamefanyika kwa kumuandika kazi Michael Apted kuleta ubinadamu kwenye kipindi.,"Mfululizo ulifikiriwa kuwa ni baridi na yenye uchoshi, kwa hiyo ilikuwa muhimu kuajiri Michael Apted kuongeza joto ya binafsi ili kuboresha upimaji.",neutral
+Kutazama msichana aliyevaa koti nyeupe la manyoya na buti.,Msichana amevaa kwa kuteleza.,neutral
+Kutazama msichana aliyevaa koti nyeupe la manyoya na buti.,Msichana huvaa nguo nyeupe.,entailment
+Kutazama msichana aliyevaa koti nyeupe la manyoya na buti.,Msichana amevaa  nyekundu kwote.,contradiction
+Kile ambacho filamu ina upungufu wa kutaja ni kuwa mara mingi Kaufman aliongea kuhusu kutaka kusimamisha kifo chake.,Filamu haitaji Kaufman kujadili kifo chake mwenyewe.,entailment
+Kile ambacho filamu ina upungufu wa kutaja ni kuwa mara mingi Kaufman aliongea kuhusu kutaka kusimamisha kifo chake.,Filamu hio alikuwa na kina mahojiano na Kaufman kuhusu kifo chake.,contradiction
+Kile ambacho filamu ina upungufu wa kutaja ni kuwa mara mingi Kaufman aliongea kuhusu kutaka kusimamisha kifo chake.,"Sinema ilikuwa blockbuster, licha ya kuacha baadhi ya maelezo muhimu kuhusu Kaufman.",neutral
+Rockefeller alikamatwa na huzuni wakati Avenging Angel Tarbell alianza kurarua mwili wake katika McClure's.,Rockefeller alitoa kwa utafiti wa saratani,neutral
+Rockefeller alikamatwa na huzuni wakati Avenging Angel Tarbell alianza kurarua mwili wake katika McClure's.,Rockefeller alikuwa akipeana.,entailment
+Rockefeller alikamatwa na huzuni wakati Avenging Angel Tarbell alianza kurarua mwili wake katika McClure's.,rockefeller alikuwa mchoyo.,contradiction
+"Hivi karibuni, katika kesi ya biashara huko New York, Klayman alijikuta kwa upande mwingine wa mashtaka ya ubaguzi wa kikabila.",Klayman alileta mashtaka ya ukabila Calfornia.,contradiction
+"Hivi karibuni, katika kesi ya biashara huko New York, Klayman alijikuta kwa upande mwingine wa mashtaka ya ubaguzi wa kikabila.",Klayman hakutarajia kushtakiwa kwa makosa ya ukabila.,neutral
+"Hivi karibuni, katika kesi ya biashara huko New York, Klayman alijikuta kwa upande mwingine wa mashtaka ya ubaguzi wa kikabila.",Kulikuwa na madai ya ukabila kinyume cha Klayman.,entailment
+"Mtu hakutarajia chumba kilichojaa wasimamizi wa ushirika kupiga chata, kuzomea na kupiga kelele ya upuuzi wakiwa katika kikao cha mwandishi wa kazi wa US",Wanaowakilisha kampuni huvaa suti.,neutral
+"Mtu hakutarajia chumba kilichojaa wasimamizi wa ushirika kupiga chata, kuzomea na kupiga kelele ya upuuzi wakiwa katika kikao cha mwandishi wa kazi wa US",Mtu angetarajia wawakilishi wa ushirika kuteta.,contradiction
+"Mtu hakutarajia chumba kilichojaa wasimamizi wa ushirika kupiga chata, kuzomea na kupiga kelele ya upuuzi wakiwa katika kikao cha mwandishi wa kazi wa US",Mtu hawezi dhania watu wa kampuni kuzingumza kwa sauti ndogo.,entailment
+"Kwa sababu tu kuwa ukuzaji una athari kubwa zaidi kwenye utendaji wa michezo sio maana kwamba asili imekaa, hata hivyo.",Wanariadha wanazaliwa na uwezo wao wote wa utendaji kikamilifu.,contradiction
+"Kwa sababu tu kuwa ukuzaji una athari kubwa zaidi kwenye utendaji wa michezo sio maana kwamba asili imekaa, hata hivyo.",Utendaji wa michezo huathiriwa zaidi na mazoezi kuliko jenetiki.,entailment
+"Kwa sababu tu kuwa ukuzaji una athari kubwa zaidi kwenye utendaji wa michezo sio maana kwamba asili imekaa, hata hivyo.",wachezaji hodari hufanya mazoezi angalau saa nane kila juma,neutral
+"Nilipokuwa nyumbani, nilijifunza Marekani inapunguza kande kwa njia mbili.",Nina nia ya siasa.,neutral
+"Nilipokuwa nyumbani, nilijifunza Marekani inapunguza kande kwa njia mbili.",Nilijifunza kuhusu Marekani,entailment
+"Nilipokuwa nyumbani, nilijifunza Marekani inapunguza kande kwa njia mbili.",Nilijifunza Marekani inapunguza vifaa kwa njia mbili kabla ya kuja nyumbani.,contradiction
+Vyombo vya habari vya chuo kikuu kongwe na kubwa zaidi duniani - Oxford - imetangaza tu kuwa inafuta orodha yake ya mashairi.,Orodha ya mashairi katika Oxford haiendelezwi.,entailment
+Vyombo vya habari vya chuo kikuu kongwe na kubwa zaidi duniani - Oxford - imetangaza tu kuwa inafuta orodha yake ya mashairi.,chuo hicho cha kifahari hakina fedha za kuendeleza orodha ya kishairi,neutral
+Vyombo vya habari vya chuo kikuu kongwe na kubwa zaidi duniani - Oxford - imetangaza tu kuwa inafuta orodha yake ya mashairi.,Chuo kikuu imejitolea kulinda orodha ya mashairi na kuapa kuwa haitawahi ipiga marufuku.,contradiction
+"Kuna tuzo la faraja kwa utu, ingawa.",Tuzo la faraja ni kifaa cha bure cha kusaga cha spidi mbili kwa kila mtu.,neutral
+"Kuna tuzo la faraja kwa utu, ingawa.",Hakuna upande kwa wanadamu katika hali hii.,contradiction
+"Kuna tuzo la faraja kwa utu, ingawa.",Hii siyo habari zote mbaya kwa wanadamu.,entailment
+Michezo sio tu matukio ya kamari katika maeneo haya.,Kuwekea dau mashindano ya kisiasa na uchaguzi inaruhusiwa pia katika tovuti hizi.,neutral
+Michezo sio tu matukio ya kamari katika maeneo haya.,Maeneo haya yanakubali pesa za kamari kwa michezo pekee,contradiction
+Michezo sio tu matukio ya kamari katika maeneo haya.,Maeneo haya huchukua bora zaidi kwenye shughuli kadhaa.,entailment
+"Mnamo Agosti 25, baada ya kusanyiko la Kidemokrasia lilifungua mji wa Atlantiki, N.J., Johnson, mwenye umri wa miaka 56, alitishia katika mazungumzo matatu yaliyoandikwa kujiondoa kwenye mashindano ya urais.",Johnson alihisi kukosa msaada.,neutral
+"Mnamo Agosti 25, baada ya kusanyiko la Kidemokrasia lilifungua mji wa Atlantiki, N.J., Johnson, mwenye umri wa miaka 56, alitishia katika mazungumzo matatu yaliyoandikwa kujiondoa kwenye mashindano ya urais.",Johnson hakuwai kufikiria kuhusu kujitoa.,contradiction
+"Mnamo Agosti 25, baada ya kusanyiko la Kidemokrasia lilifungua mji wa Atlantiki, N.J., Johnson, mwenye umri wa miaka 56, alitishia katika mazungumzo matatu yaliyoandikwa kujiondoa kwenye mashindano ya urais.",Johnson alitishia kujiondoa.,entailment
+Lamar Alexander aliangusha jitihada yake ya urais.,Angalau mtu mmoja alikata tamaa kwa lengo lake la kuwa rais.,entailment
+Lamar Alexander aliangusha jitihada yake ya urais.,Lamar Alexander alikataa kutoa kampeni yake ya urais.,contradiction
+Lamar Alexander aliangusha jitihada yake ya urais.,Bwana Alexander alilazimika kuondoka baada ya picha zake za aibu kuchapishwa.,neutral
+"Juu ya rekodi hii ya uhuru wa kiraia ni matumizi mabaya ya FBI katika uchunguzi wa awali wa ofisi ya White House, na kinachokuja kujulikana kama Filegate.",White House hutumia FBI kupeleleza wagombea wa kisiasa.,neutral
+"Juu ya rekodi hii ya uhuru wa kiraia ni matumizi mabaya ya FBI katika uchunguzi wa awali wa ofisi ya White House, na kinachokuja kujulikana kama Filegate.",Nyumba ya Nyeupe hutumia vibaya FBI.,entailment
+"Juu ya rekodi hii ya uhuru wa kiraia ni matumizi mabaya ya FBI katika uchunguzi wa awali wa ofisi ya White House, na kinachokuja kujulikana kama Filegate.",White House hutumia FBI vizuri.,contradiction
+"Tung ameahidi kupunguza zaidi wavumi wa mali, lakini wengi wanafikiri mataamshi yake yatakuwa mabaya kuliko hatua zake.",Tung hajali kuhusu wanabahatisha mali.,contradiction
+"Tung ameahidi kupunguza zaidi wavumi wa mali, lakini wengi wanafikiri mataamshi yake yatakuwa mabaya kuliko hatua zake.",Tung anadhani walanguzi wa mali wanafanya mambo bila ufanisi.,neutral
+"Tung ameahidi kupunguza zaidi wavumi wa mali, lakini wengi wanafikiri mataamshi yake yatakuwa mabaya kuliko hatua zake.",Tung anataka kushawizi wabazazi wa mali.,entailment
+"Malalamiko yalilenga matatizo ya mizigo, wahudumu wa ndege, usafiri wa ndege ulioyofutiliwa, ukatili katika kulipisha.",Watu kumi walikuwa wamepoteza mizigo.,neutral
+"Malalamiko yalilenga matatizo ya mizigo, wahudumu wa ndege, usafiri wa ndege ulioyofutiliwa, ukatili katika kulipisha.",Watu walilalamika kuhusu mizigo.,entailment
+"Malalamiko yalilenga matatizo ya mizigo, wahudumu wa ndege, usafiri wa ndege ulioyofutiliwa, ukatili katika kulipisha.",Hakukuwa malalamishi yoyote.,contradiction
+"Lawrence Singleton,mwenye sifa mbaya ya ubakaji alivamia mwathiriwa mikono na alizuia miaka nane zelani,alizuiliwa tena kwa kumuuua mwanamke mwingine Florida.",Baada ya kuwapiga waathiriwa mbele yake alijaribu kuwaficha katika takataka ya takataka.,neutral
+"Lawrence Singleton,mwenye sifa mbaya ya ubakaji alivamia mwathiriwa mikono na alizuia miaka nane zelani,alizuiliwa tena kwa kumuuua mwanamke mwingine Florida.",Ilikuwa dhahiri kwa kila mtu kuwa wakati wake gerezani ulikuwa umemrekebisha kabisa.,contradiction
+"Lawrence Singleton,mwenye sifa mbaya ya ubakaji alivamia mwathiriwa mikono na alizuia miaka nane zelani,alizuiliwa tena kwa kumuuua mwanamke mwingine Florida.",Mr Singleton ni mhukumiwa mkandamizaji huko Florida.,entailment
+Charles Lane Jamhuri Jipya anasema kuwa Habari za Ukamataji zinapanua rekodi ya Gabriel Garcaa Marquez ya uandishi wa habari usioaminika.,Charles Lane ni mwandishi.,entailment
+Charles Lane Jamhuri Jipya anasema kuwa Habari za Ukamataji zinapanua rekodi ya Gabriel Garcaa Marquez ya uandishi wa habari usioaminika.,Charles Lane aliuza magari.,contradiction
+Charles Lane Jamhuri Jipya anasema kuwa Habari za Ukamataji zinapanua rekodi ya Gabriel Garcaa Marquez ya uandishi wa habari usioaminika.,Charles Lane alishinda puliteri.,neutral
+Halmashauri sio tu pekee ya kisiasa huko Washington asubuhi hii.,Nyumba la sheria si malahi pekee ya siasa kule washington.,entailment
+Halmashauri sio tu pekee ya kisiasa huko Washington asubuhi hii.,Siku ya kisiasa inawezekana kuanza saa asubuhi.,neutral
+Halmashauri sio tu pekee ya kisiasa huko Washington asubuhi hii.,wacheshi wa sarakasi wako katika ukumbi wa kijamii,contradiction
+"Mtu anaweza kufikiria mwendeshaji wa buldoza kama vile anapokuwa katika barabara ya maendeleo mapya yanayoonyeshwa na msanidi  Vipi, Loyd ...",Unaweza kufikiria opereta wa buldoza akianzisha buldoza.,neutral
+"Mtu anaweza kufikiria mwendeshaji wa buldoza kama vile anapokuwa katika barabara ya maendeleo mapya yanayoonyeshwa na msanidi  Vipi, Loyd ...",tafakari kuhusu dereva wa bulldozer.,entailment
+"Mtu anaweza kufikiria mwendeshaji wa buldoza kama vile anapokuwa katika barabara ya maendeleo mapya yanayoonyeshwa na msanidi  Vipi, Loyd ...",Huwezi fikiria mtuzi wa tinga tinga.,contradiction
+"Niliripoti hili kwa barua kwa Daktari, ilionekana kumchekesha, na alinitumia keki ndogo ya matunda Krismasi hio.",Nina hakika kuwa dakitari alipokea barua niliyo mtumia.,entailment
+"Niliripoti hili kwa barua kwa Daktari, ilionekana kumchekesha, na alinitumia keki ndogo ya matunda Krismasi hio.",Sikula keki daktari alituma Krismasi hio.,neutral
+"Niliripoti hili kwa barua kwa Daktari, ilionekana kumchekesha, na alinitumia keki ndogo ya matunda Krismasi hio.",Daktari alinitumia chupa la pombe krismasi hio.,contradiction
+"Timu hiyo ilikuwa imejulikana hapo awali na majina ya kukumbukwa ambayo ni Beaneaters, ambayo, kwa njia ya ajabu, inaweza pia kuchukuliwa jina la utani la India.",Timu hio ilibadilisha jina lao kwa sababu haikuwa maarufu.,neutral
+"Timu hiyo ilikuwa imejulikana hapo awali na majina ya kukumbukwa ambayo ni Beaneaters, ambayo, kwa njia ya ajabu, inaweza pia kuchukuliwa jina la utani la India.",Timu ilikuwa na jina kabla ya hii ambayo inaweza pia kufikiriwa kama jina la utani la kihindi.,entailment
+"Timu hiyo ilikuwa imejulikana hapo awali na majina ya kukumbukwa ambayo ni Beaneaters, ambayo, kwa njia ya ajabu, inaweza pia kuchukuliwa jina la utani la India.",Timu hiyo imekuwa tu na jina moja.,contradiction
+Sikuweza kupata ufafanuzi kama huo kamusi ya visawa,Nilipata ufafanuzi kwa thesaurus.,contradiction
+Sikuweza kupata ufafanuzi kama huo kamusi ya visawa,Niliangalia kwenye Thesaurus na sikupata ufafanuzi.,entailment
+Sikuweza kupata ufafanuzi kama huo kamusi ya visawa,Thesaurus niliyotumia ni ule wa kawaida.,neutral
+Mtu anawezaje kufanya hivyo.,Itakuwaje kwamba watu wengi hawana cha kufanya?,contradiction
+Mtu anawezaje kufanya hivyo.,Iweje mtu kutenda tendo hilo mbaya.,neutral
+Mtu anawezaje kufanya hivyo.,Inawezekanaje kwa mtu kufanya hayo?,entailment
+"Zaidi ya hayo, ina maneno tu ambayo yanajulikana kuwa yatokea katika karne ya ishirini, kwa mujibu wa Maandalizi, lakini imetoa matamshi ya kijeshi ya karne ya kwanza ya 20.","Kwa mujibu wa maandishi ya awali, ina maneno ambayo yalitokea karne ya ishirini lakini inacha maneno yaliyotokea mapema.",entailment
+"Zaidi ya hayo, ina maneno tu ambayo yanajulikana kuwa yatokea katika karne ya ishirini, kwa mujibu wa Maandalizi, lakini imetoa matamshi ya kijeshi ya karne ya kwanza ya 20.",Ina lugha isiyo rasmi kuanzia mwanzo hadi mwisho.,contradiction
+"Zaidi ya hayo, ina maneno tu ambayo yanajulikana kuwa yatokea katika karne ya ishirini, kwa mujibu wa Maandalizi, lakini imetoa matamshi ya kijeshi ya karne ya kwanza ya 20.",Kumekua na lahaja tofauti kabla ya miaka karne ishirini,neutral
+"Ikiwa mtu alikuwa na toleo la 1984, anaweza kuwa na hasira ya kununua kitabu hiki badala ya cha ziada kifupi (na cha chini).",Toleo la 1984 ndilo nzuri kuliko matoleo yote mengine.,neutral
+"Ikiwa mtu alikuwa na toleo la 1984, anaweza kuwa na hasira ya kununua kitabu hiki badala ya cha ziada kifupi (na cha chini).",Kitabu si cha kuuzwa.,contradiction
+"Ikiwa mtu alikuwa na toleo la 1984, anaweza kuwa na hasira ya kununua kitabu hiki badala ya cha ziada kifupi (na cha chini).",Kiongeza ni cha bei nafuu kuliko kitabu.,entailment
+Bernstein anaelezea katika utangulizi,Bernstein haielezi kwa kina.,neutral
+Bernstein anaelezea katika utangulizi,Bernstein alielezea tu katika hitimisho,contradiction
+Bernstein anaelezea katika utangulizi,Utangulizi kuna maelezo.,entailment
+"Haishauriwi kuwa masomo haya yamezuiliwa, tu kwamba ni vigumu, hata baada ya miaka ishirini ya kushirikishiwa, kwa ajili ya mgeni kutambua mengi ambayo ni ucheshi juu yao.",Ata wakaazi kamili huwa na shida ya ucheshi.,neutral
+"Haishauriwi kuwa masomo haya yamezuiliwa, tu kwamba ni vigumu, hata baada ya miaka ishirini ya kushirikishiwa, kwa ajili ya mgeni kutambua mengi ambayo ni ucheshi juu yao.",Ucheshi ni mojawapo ya vitu rahisi kwa wana outlander kuelewa.,contradiction
+"Haishauriwi kuwa masomo haya yamezuiliwa, tu kwamba ni vigumu, hata baada ya miaka ishirini ya kushirikishiwa, kwa ajili ya mgeni kutambua mengi ambayo ni ucheshi juu yao.",Masomo haya ni magumu kwa watu wa nje kuelewa.,entailment
+"Hatimaye, lazima mtu awe na wasiwasi wa upanuzi ambao hubeba maana yake tofauti kabisa.",Wahariri wameajiriwa ili kuona makosa kama haya.,neutral
+"Hatimaye, lazima mtu awe na wasiwasi wa upanuzi ambao hubeba maana yake tofauti kabisa.",Kuendeleza ni uzuri kuhakikisha jambo limeeleweka vyema.,contradiction
+"Hatimaye, lazima mtu awe na wasiwasi wa upanuzi ambao hubeba maana yake tofauti kabisa.",Maana yaweza kubadilika iwapo unarefusha sentensi.,entailment
+Tengeneza kichwa yako na kuwaka joto kukua jinga.,Kutumia joto kwa kichwa cha mtu ni mbinu nzuri kuimarisha lengo na kumakinika.,contradiction
+Tengeneza kichwa yako na kuwaka joto kukua jinga.,Joto jingi zaidi linaweza kusababisha kizunguzungu wakati mwingine.,entailment
+Tengeneza kichwa yako na kuwaka joto kukua jinga.,Leo ilikuwa digrii tano zaidi ya kiwango cha kawaida.,neutral
+Hakuna taaluma nyingine ina tamanduni tajiri sana ya kujitenga.,Kazi zingine nyingi zinajifikiria vikubwa.,neutral
+Hakuna taaluma nyingine ina tamanduni tajiri sana ya kujitenga.,Taaluma nyinyi zina asili na uhakiri binafsi.,contradiction
+Hakuna taaluma nyingine ina tamanduni tajiri sana ya kujitenga.,Hakuna kazi nyingine ina mila imara ya upinzani kuhusu yenyewe.,entailment
+"Na maandiko ya fahari, vitambaa hivyo vilivyopewa majina yadhihaka katika elimu ya kienyeji hutumia majina ya kubandikwa katika maazungumzo yao kibinafsi , maongezi ya saluni na mtaala usio rasmi",Karatasi hizo hazina sifa kabisa.,contradiction
+"Na maandiko ya fahari, vitambaa hivyo vilivyopewa majina yadhihaka katika elimu ya kienyeji hutumia majina ya kubandikwa katika maazungumzo yao kibinafsi , maongezi ya saluni na mtaala usio rasmi",Gazeti hizo hazina sifa nzuri.,entailment
+"Na maandiko ya fahari, vitambaa hivyo vilivyopewa majina yadhihaka katika elimu ya kienyeji hutumia majina ya kubandikwa katika maazungumzo yao kibinafsi , maongezi ya saluni na mtaala usio rasmi",Majarida hayo yana mengi ya uvumi kutoka kwa wamama wa nyumbani.,neutral
+Ikiwa lite / mwanga inaeleza tu sifa ya bia (kama,Bia inaweza kuwa na jina lite ama light.,entailment
+Ikiwa lite / mwanga inaeleza tu sifa ya bia (kama,Nuru na nyepesi yanatumika kueleza vin na whiskey,contradiction
+Ikiwa lite / mwanga inaeleza tu sifa ya bia (kama,Bia ya Lite haina asilimia kubwa ya pombe.,neutral
+Jina la maskini lililokuwa limefanyiwa maskini lilikuwa linatumiwa ambako hakuna lenyewe wala njia yoyote iliyohitajika.,Watu wanajitahidi kupata jina lingine.,neutral
+Jina la maskini lililokuwa limefanyiwa maskini lilikuwa linatumiwa ambako hakuna lenyewe wala njia yoyote iliyohitajika.,Nomino hii imetumika sana.,entailment
+Jina la maskini lililokuwa limefanyiwa maskini lilikuwa linatumiwa ambako hakuna lenyewe wala njia yoyote iliyohitajika.,Jina linapaswa kutumika zaidi.,contradiction
+"Juu ya haya yote, tuna ukweli usiofurahisha kuwa kuandika kwa ustandi kwa kweli wakati mwingine hukumbukwa, kuchanganya tatizo.",Watu ni rahisi sana kukumbuku uandishi mbaya.,contradiction
+"Juu ya haya yote, tuna ukweli usiofurahisha kuwa kuandika kwa ustandi kwa kweli wakati mwingine hukumbukwa, kuchanganya tatizo.",Maandishi yaliyoandikwa vizuri mara nyingi ni rahisi kukumbuka kuliko maandishi yalioandikwa vibaya.,entailment
+"Juu ya haya yote, tuna ukweli usiofurahisha kuwa kuandika kwa ustandi kwa kweli wakati mwingine hukumbukwa, kuchanganya tatizo.",Nakala iliyoandikwa vizuri ni ghali mno kutoa kwa kiasi kikubwa.,neutral
+"Walipokutana na mtazamo huu na kwa sababu fulani, Waingereza walikubali heshima yao kwa kuimarisha neno hilo.",Watu kutoka Britain hawana heshima.,contradiction
+"Walipokutana na mtazamo huu na kwa sababu fulani, Waingereza walikubali heshima yao kwa kuimarisha neno hilo.",Waingereza walichukua uchumi wa dunia.,neutral
+"Walipokutana na mtazamo huu na kwa sababu fulani, Waingereza walikubali heshima yao kwa kuimarisha neno hilo.",Waingereza walifanya biashara nyingi duniani kote.,entailment
+"Wakati mwingine ni erevu kabisa, pia",Inaweza kuwa ngumu sana kugundua saa zingine.,entailment
+"Wakati mwingine ni erevu kabisa, pia","Inapiga kelele kidogo sana, shukrani kwa injini iliyowekwa kinga kwa uangalifu.",neutral
+"Wakati mwingine ni erevu kabisa, pia",Mara nyingi Ilikuwa rahisi sana kuchunguza kutoka umbali.,contradiction
+"Kama inatokea, bila shaka, kuna lahaja nyingi za Kiingereza katika Uingereza kuliko Amerika Kaskazini, na mtu yeyote ambaye ametumia muda wowote akiwasikiliza anajua kwamba sio rahisi kumeguka","Uingereza ina  lahaja nyingi nzuri za Kiingereza, zenye idadi zaidi kuliko zile za Amerika Kaskazini.",entailment
+"Kama inatokea, bila shaka, kuna lahaja nyingi za Kiingereza katika Uingereza kuliko Amerika Kaskazini, na mtu yeyote ambaye ametumia muda wowote akiwasikiliza anajua kwamba sio rahisi kumeguka","Lahaja za Marekani na Uingereza ni sawa, na watu hawawezi kutofautisha tofauti yoyote kati yao.",contradiction
+"Kama inatokea, bila shaka, kuna lahaja nyingi za Kiingereza katika Uingereza kuliko Amerika Kaskazini, na mtu yeyote ambaye ametumia muda wowote akiwasikiliza anajua kwamba sio rahisi kumeguka",Watu kutoka North America huwa na wakati mgumu kuelewa baadhi ya mazungumzo ya Uingereza.,neutral
+Mpeanaji habari wa Tennesse alitumia hali ya hewa ya mbwa kwa 'hali ya hewa ya joto bila mvua'  ambayo inatokana na msemo wa siku za mbwa inayomaanisha mwezi wa Agosti iliyo na hali ya anga kavu.,"Kulingana na mwenye taarifa, hali ya hewa ya mbwa ilitumika kueleza mvua za masika za msimu.",contradiction
+Mpeanaji habari wa Tennesse alitumia hali ya hewa ya mbwa kwa 'hali ya hewa ya joto bila mvua'  ambayo inatokana na msemo wa siku za mbwa inayomaanisha mwezi wa Agosti iliyo na hali ya anga kavu.,Juni na Julai pia zian joto sana Tennessee.,neutral
+Mpeanaji habari wa Tennesse alitumia hali ya hewa ya mbwa kwa 'hali ya hewa ya joto bila mvua'  ambayo inatokana na msemo wa siku za mbwa inayomaanisha mwezi wa Agosti iliyo na hali ya anga kavu.,Hali ya hewa katika mwezi wa Agosti ni ya joto na yenye mkavu.,entailment

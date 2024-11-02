@@ -1,0 +1,456 @@
+premise,hypothesis,label
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",Ọ kpọrọ nne ya ozigbo ụgbọala ụlọakwụkwọ bulatara ya.,neutral
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",O kwughị otu mkpụrụ okwu.,contradiction
+"Ma ọ sịrị, Mama, anọ m n'ụlọ.",Ọ gwara nne ya na ọ laruola n'ụlọ.,entailment
+"Amaghị m ịhe m na-aga maka ya maọbụ ịhe ọbụla, ya bụ ị ziga ozi n'ebe a kpọrọ aha na Washington. ",Ọ dịbeghị mgbe m gara Washington ya mere mgbe e kenyere m ebe ahụ ejehiere m ụzọ mgbe m na-agbalị ịchọta ebe ahụ.,neutral
+"Amaghị m ịhe m na-aga maka ya maọbụ ịhe ọbụla, ya bụ ị ziga ozi n'ebe a kpọrọ aha na Washington. ",Ama m nọọ ịhe m kwesịrị ime ka m na-azọ na-aga Washington. ,contradiction
+"Amaghị m ịhe m na-aga maka ya maọbụ ịhe ọbụla, ya bụ ị ziga ozi n'ebe a kpọrọ aha na Washington. ",Amachaghị m ihe m ga-eme ya mere a gara m Washington ebe e kenyere m ịza oku ọrụ.,entailment
+O kweghị hapụ., Ọ bụ ya bụ onye mbụ a kpọrọ òkù ma nwee mmasị n'ihe ahụmahụ ahụ.,contradiction
+O kweghị hapụ.,E kweghị ya gaa. ,entailment
+O kweghị hapụ.,E kweghị ya gaa nlete ụbọchị agbapere ụlọ nchekwa ihe ochie.,neutral
+"Ma ọ na-adị m ka ọdịmma, ma nke ahụ bụ ya! ","Mgbe m sịchara éè, ọ kwụsịrị.",entailment
+"Ma ọ na-adị m ka ọdịmma, ma nke ahụ bụ ya! ",Asịrị m mba ma ọ na-akpụ na-aga ma na-aga.,contradiction
+"Ma ọ na-adị m ka ọdịmma, ma nke ahụ bụ ya! ","Mgbe m sịrị éè, anyị kpebiri na anyị ga-alụ ụbọchị ahụ.",neutral
+Anọ m nọọ ebe ahụ na-agba mbọ ka m mara ma m ga-achọpụta ya. ,Aghọtara m ya nke ọma site na mmalite.,contradiction
+Anọ m nọọ ebe ahụ na-agba mbọ ka m mara ma m ga-achọpụta ya. ,M na-agbalị ka m ghọta ebe ego ahụ baara.,neutral
+Anọ m nọọ ebe ahụ na-agba mbọ ka m mara ma m ga-achọpụta ya. ,M na-agbalị ịghọta.,entailment
+"Na Mamannukwu na-adịbu akọ akụkọ gbasara otú nwanne ya nwaanyị na dị nwanne ya nwaanyị jiri kpebie na ha ga-aga n'obodo, n'Augusta, ma mee ka ndị ọcha. ",Nwanne  nwanyị mama nnukwu bụ onye ọcha  kwagara na Texas .,contradiction
+"Na Mamannukwu na-adịbu akọ akụkọ gbasara otú nwanne ya nwaanyị na dị nwanne ya nwaanyị jiri kpebie na ha ga-aga n'obodo, n'Augusta, ma mee ka ndị ọcha. ",Nwanne nwaanyị mama nnukwu abụghị onye ọcha.,entailment
+"Na Mamannukwu na-adịbu akọ akụkọ gbasara otú nwanne ya nwaanyị na dị nwanne ya nwaanyị jiri kpebie na ha ga-aga n'obodo, n'Augusta, ma mee ka ndị ọcha. ",Nwanne  nwanyị mama nnukwu abụghị onye ọcha mana ọ chọrọ ịbụ ka o nwee ike ịga akwụkwọ.,neutral
+"Mana ọ nọ, ị manụ, n'ọtụtụ ụzọ, dịka nọọ nwanwoke onye nwe ubi maka na ọ bụ nwa onye eni nwere ọtụtụ ala.",Nna ya enwenubeghị ihe ọ bụla na ndụ ya.,contradiction
+"Mana ọ nọ, ị manụ, n'ọtụtụ ụzọ, dịka nọọ nwanwoke onye nwe ubi maka na ọ bụ nwa onye eni nwere ọtụtụ ala.",Nna ya nwere alaịkọnrị eka puku abụọ.,neutral
+"Mana ọ nọ, ị manụ, n'ọtụtụ ụzọ, dịka nọọ nwanwoke onye nwe ubi maka na ọ bụ nwa onye eni nwere ọtụtụ ala.",Nna ya nwere ọtụtụ ihe onwunwe.,entailment
+Mana ọrụ bụ ịyị parashuut na ịchekwa ndụ mgbe anyị kwajuru ya ma bido gawa ebe ofesi.,Enweghị m ọrụ ya mere  m jiri debe igbe niile n'ụlọ.,contradiction
+Mana ọrụ bụ ịyị parashuut na ịchekwa ndụ mgbe anyị kwajuru ya ma bido gawa ebe ofesi.,E bujere m akpati ndị ahụ na Japan. ,neutral
+Mana ọrụ bụ ịyị parashuut na ịchekwa ndụ mgbe anyị kwajuru ya ma bido gawa ebe ofesi.,E bujere m ha. ,entailment
+"Ugbu a otú ahụ ka, uh, m sịrị rakpuru n'ime. ",Eji m n'aka n'Ihe nkodo ahụ jisị m ike ka m wee nwee nchekwa.,neutral
+"Ugbu a otú ahụ ka, uh, m sịrị rakpuru n'ime. ",Otú ahụ nọọ ka m sịrị pụta.,contradiction
+"Ugbu a otú ahụ ka, uh, m sịrị rakpuru n'ime. ",Ọ bụ nọọ otú ahụ kpọmkwem ka e si wee kpọchibido m.,entailment
+"Ma ọ bụ onye na-achụ nwaanyị, na, oh éè, ọ dị otú ahụ ebe ahụ. Ma, ah, dịka, ị manụ, enweghị m mmasị ebe ọ nọ, mana kosinadi ndị ahụ bụ akụkọ m. ",O kwesịka ntụkwasịobi ma dịkwa mma.,contradiction
+"Ma ọ bụ onye na-achụ nwaanyị, na, oh éè, ọ dị otú ahụ ebe ahụ. Ma, ah, dịka, ị manụ, enweghị m mmasị ebe ọ nọ, mana kosinadi ndị ahụ bụ akụkọ m. ",Akpọrọ m ya asi maka na ọ dị oké mpako.,neutral
+"Ma ọ bụ onye na-achụ nwaanyị, na, oh éè, ọ dị otú ahụ ebe ahụ. Ma, ah, dịka, ị manụ, enweghị m mmasị ebe ọ nọ, mana kosinadi ndị ahụ bụ akụkọ m. ",A bụghị m onye na-akwado ya.,entailment
+"Mgbe m dọrọ aka, mgbe ọ dọrọ aka ná kanopi ahụ ka m bido dọpụtawa ya, ọ tụrụ aka n'akuru ngwa abụọ nọ n'akụkụ akaekpe ụgbọelu ahụ gbazegoro mgbe a na-efe n'elu. ",Akuru ngwa niile dị n'ụgbọelu ahụ dịcha ya.,contradiction
+"Mgbe m dọrọ aka, mgbe ọ dọrọ aka ná kanopi ahụ ka m bido dọpụtawa ya, ọ tụrụ aka n'akuru ngwa abụọ nọ n'akụkụ akaekpe ụgbọelu ahụ gbazegoro mgbe a na-efe n'elu. ",O sịrị ị́ké ịdọpụta ya.,neutral
+"Mgbe m dọrọ aka, mgbe ọ dọrọ aka ná kanopi ahụ ka m bido dọpụtawa ya, ọ tụrụ aka n'akuru ngwa abụọ nọ n'akụkụ akaekpe ụgbọelu ahụ gbazegoro mgbe a na-efe n'elu. ",E nwere akuru ngwa nke dị n'ime ụgbọelu ahụ bụ ndi gbazere.,entailment
+"Ma, ọ ghọtachaghi.","Ewoo, ọ nweghị ike ịghọtacha nke ọma n'ihi ihe mgbochi nke asụsụ.",neutral
+"Ma, ọ ghọtachaghi.","N'ezie, ọ ghọtachaghi.",entailment
+"Ma, ọ ghọtachaghi.",Ọ maara nnọọ nke ọma ihe anyị na-ekwu maka ya.,contradiction
+Ịkekwe ọ gwara ndị ọzọ ma egeghị m ntị nkeọma n'oge nke ahụ.,Anụghị m ya mgbe ọ gwara ndị ọ bụla ọzọ.,entailment
+Ịkekwe ọ gwara ndị ọzọ ma egeghị m ntị nkeọma n'oge nke ahụ.,A nụrụ m ịhe niile o kwuru.,contradiction
+Ịkekwe ọ gwara ndị ọzọ ma egeghị m ntị nkeọma n'oge nke ahụ.,Ana m agwa onye ọzọ okwu n'oge ahụ.,neutral
+"Tụfuru naanị ụgbọelu abụọ, atọ mgbe anyị nọ ebe ahụ, na, uh, n'oge nwale.",Ụgbọelu ole na ole furu n'ihi ọnọdu ihu igwe.,neutral
+"Tụfuru naanị ụgbọelu abụọ, atọ mgbe anyị nọ ebe ahụ, na, uh, n'oge nwale.",Ụgbọelu olenaole furu.,entailment
+"Tụfuru naanị ụgbọelu abụọ, atọ mgbe anyị nọ ebe ahụ, na, uh, n'oge nwale.",Ọ nwebeghị mgbe ụgbọ elu funahụrụ anyị.,contradiction
+Achọrọ m ka ị mere m ịhe.,Achọghị m enyemaka ọ bụla.,contradiction
+Achọrọ m ka ị mere m ịhe.,Ọ bụ nnukwu ọrụ ka m chọrọ ka emee. ,neutral
+Achọrọ m ka ị mere m ịhe.,Ọ nwere ihe m chọrọ ka emee.,entailment
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.","N'agbanyeghị aha ya, n'ezie Snake River enweghị agwọ ọ bụla nọ na ya; a bara ya aha maka  na o yiri mkpụrụ edemede S.",contradiction
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.",Snake River juputara na mbe mmiri na-agba agba.,neutral
+"Oh, ọ bụ mmiri agwọ oh mmiri agwọ nke ọtụtụ agwọ nọ na ya.",Snake River jupụtara na agwọ.,entailment
+ọ ka ọ dị ọ nọ n'ọnọdụ ịrụ ọrụ ọ bụghị ịhe ị nwere ike ị manụ nọrọ n'ọnọdụ arụghị ọrụ na ya  ma chọọ nọ ịnweta ihe ọma ọbụla echeghị m,Echere m na ị ga-ewepụtara ya awa 10 kwa ụbọchị iji n'eme nke ọma na ya.,neutral
+ọ ka ọ dị ọ nọ n'ọnọdụ ịrụ ọrụ ọ bụghị ịhe ị nwere ike ị manụ nọrọ n'ọnọdụ arụghị ọrụ na ya  ma chọọ nọ ịnweta ihe ọma ọbụla echeghị m,Echere m na ị kwesịrị ịtinye uchu na ya ka ị mee ya nkeọma.,entailment
+ọ ka ọ dị ọ nọ n'ọnọdụ ịrụ ọrụ ọ bụghị ịhe ị nwere ike ị manụ nọrọ n'ọnọdụ arụghị ọrụ na ya  ma chọọ nọ ịnweta ihe ọma ọbụla echeghị m,Ọ dị mma ma ọ bụrụ na ọ dịghi ihe ọ bụla ijiri ya kpọrọ.,contradiction
+na nke ahụ bụ ịhe m chere na ọ ga-adịrịrị ụtọ bụ ịhe anyị mere maka ya m na-asị na anyị ga-agbanwe rịrị ndị na-anọchite anya anyị,A maara m nọọ na ọ ga-abụ ihe na-agwụ ike  na ihe n'abaghi uru ịgbanwe ndị na-anọchite anya anyị ya mere anyị  agaghị agbalị  ịgbanwe.,contradiction
+na nke ahụ bụ ịhe m chere na ọ ga-adịrịrị ụtọ bụ ịhe anyị mere maka ya m na-asị na anyị ga-agbanwe rịrị ndị na-anọchite anya anyị,Ana m eche na ọ ga-abụ ịhe siri ike ịgbanwe ndị nnochi anya anyị mana ọ ga-abụ ịhe kwesịrị ekwesị na ngwụcha.,neutral
+na nke ahụ bụ ịhe m chere na ọ ga-adịrịrị ụtọ bụ ịhe anyị mere maka ya m na-asị na anyị ga-agbanwe rịrị ndị na-anọchite anya anyị,Anyị ga-eme mgbanwe na ndị na-anọchite anya anyị.,entailment
+na ha nwere ike ịdị kwụ mma mgbe mgbe azụchaara  ha,Ha na-esiwanye ike na-adị oyi ozigbo ha mechara ọzụzụ.,contradiction
+na ha nwere ike ịdị kwụ mma mgbe mgbe azụchaara  ha,Ha na-agbanwe ọsịsọ mgbe ha na-agabiga ọzụzụ. ,neutral
+na ha nwere ike ịdị kwụ mma mgbe mgbe azụchaara  ha,Mgbe ha na-anata ọzụzụ ha nwere ike ịdị ọ̀gọ̀ nke ukwuu.,entailment
+na ọ nwere ị́ké ị dị otú ahụ ruo áfọ̀ iri iri abụọ e e chere m na nke a na-atọ ọchị ," E chere m na ọ bụ ihe mgbaka isi na otu mkpebi ikpe nwere ike ịga n'ihu ọtụtụ afọ.
+",neutral
+na ọ nwere ị́ké ị dị otú ahụ ruo áfọ̀ iri iri abụọ e e chere m na nke a na-atọ ọchị ,E chere m na ọ bụ ịhe mkpasu iwe na o nwere ị́ké ịnọru otú ahụ. ,entailment
+na ọ nwere ị́ké ị dị otú ahụ ruo áfọ̀ iri iri abụọ e e chere m na nke a na-atọ ọchị ,Ọ na-anọ naanị otu izu  uka.,contradiction
+éè ọ ga-abụriri na ịji nke na-enweghị eriri ,"Gbazigharịa otu ihe nke ị nwere n'enweghị eriri.
+",entailment
+éè ọ ga-abụriri na ịji nke na-enweghị eriri ,Nke ahụ ị nwere ga-abụrịrị nke nwere eriri naanị.,contradiction
+éè ọ ga-abụriri na ịji nke na-enweghị eriri ,Ị  nwere ike ịnwebugo nke nwere ike inwe eriri.,neutral
+ị na-ekwu ndị nkụzi ahụ ka ọ bụ ndị nnenanna ahụ ,Ị na-ekwu ụmụ akwụkwọ ka ọ bụ onye enyemaka ndi nkuzi mere ya?,contradiction
+ị na-ekwu ndị nkụzi ahụ ka ọ bụ ndị nnenanna ahụ ,Ọ bụ ndị nkụzi ka ọ bụ ndị nnenanna?,entailment
+ị na-ekwu ndị nkụzi ahụ ka ọ bụ ndị nnenanna ahụ ,Kedụ ihe ị na-atụ aro maka ndị nnenanna na ndị nkuzi?,neutral
+Ọdịmma ana m eche na ọ ga ana m eche nọọ nkeọma amaghị m a a a chọpụtabeghị m ịhe niile m chere maka nwale ọgwụ ahụ uh a kwụ m nọọ chịm gaghị echekwa echiche ịṅụ ọgwụ gà,"Emegidesiri m nwale ọgwụ ike, enweghị m mgbagha ọbụla n'obi m maka ya.",contradiction
+Ọdịmma ana m eche na ọ ga ana m eche nọọ nkeọma amaghị m a a a chọpụtabeghị m ịhe niile m chere maka nwale ọgwụ ahụ uh a kwụ m nọọ chịm gaghị echekwa echiche ịṅụ ọgwụ gà,Ana m eche na m ga-adị mma n'iji nwale ọgwụ.,neutral
+Ọdịmma ana m eche na ọ ga ana m eche nọọ nkeọma amaghị m a a a chọpụtabeghị m ịhe niile m chere maka nwale ọgwụ ahụ uh a kwụ m nọọ chịm gaghị echekwa echiche ịṅụ ọgwụ gà,Echere m otu a mana atụgharịbeghị m uche m n'ihe gbasara nwale ọgwụ.,entailment
+nwee mmetụta maka otú mgbasa ozi nke obodo si emetụta ebe ahụ dị nso. ,Nchegbu maka ime mpaghara ndi ahụ mgbasa ozi nke mba na-emetụta.,entailment
+nwee mmetụta maka otú mgbasa ozi nke obodo si emetụta ebe ahụ dị nso. ,Anaghị m echedi ịhe akụkọ obodo na-agbado ụkwụ na ya gbasara ebe ndị dị anyị nso.,contradiction
+nwee mmetụta maka otú mgbasa ozi nke obodo si emetụta ebe ahụ dị nso. ,Ụlọ ọrụ mgbasa ozi nke mba n'eme ime mpaghara anyi ka ọ dika ọ laghachiri azụ.,neutral
+mana mba anyị na-emekarị ị manụ sket na blaus maọbụ suut maọbụ uwe bụ ịhe ị ga-ahụ na mgbada ebe a ya mere ọ dị mma mụ ị na-arụ ọrụ site n'ụlọ maka enwere m ike yiri panti,Anaghị m eke ekike mgbe m na-arụ ọrụ n'ụlọ.,entailment
+mana mba anyị na-emekarị ị manụ sket na blaus maọbụ suut maọbụ uwe bụ ịhe ị ga-ahụ na mgbada ebe a ya mere ọ dị mma mụ ị na-arụ ọrụ site n'ụlọ maka enwere m ike yiri panti,Anaghị m eyi ịhe ọzọ na-abụghị uwe okpomọkụ ma m na-arụ ọrụ n'ụlọ.,neutral
+mana mba anyị na-emekarị ị manụ sket na blaus maọbụ suut maọbụ uwe bụ ịhe ị ga-ahụ na mgbada ebe a ya mere ọ dị mma mụ ị na-arụ ọrụ site n'ụlọ maka enwere m ike yiri panti,Aka m na-eyi uwe ma m na-arụ ọrụ n'ụlọ n'ihi na ọ na-eme m ka ọ manariri.,contradiction
+"éè, o nwere o nwere ịhe dị na ịnwe ebe obibi amaghị m",Ịnwe ebe obibi bụ nrọ biara na mmezu.,neutral
+"éè, o nwere o nwere ịhe dị na ịnwe ebe obibi amaghị m",Anaghị m echedi ma m nwere ebe obibi.,contradiction
+"éè, o nwere o nwere ịhe dị na ịnwe ebe obibi amaghị m",Ọ dị mma inwe ebe obibi.,entailment
+éè éè a ị manụ a a gaghị m agbagha ya ma ha nwere um ụlọ ọrụ nwere kwado ego,Ọ ga-adị mfe ịchọpụta ma eji ego kwado ụlọ ọrụ ahụ.,neutral
+éè éè a ị manụ a a gaghị m agbagha ya ma ha nwere um ụlọ ọrụ nwere kwado ego,Ọ ga-ewute m ịchọpụta na ha ejirila ego kwado ụlọ ọrụ ahụ.,contradiction
+éè éè a ị manụ a a gaghị m agbagha ya ma ha nwere um ụlọ ọrụ nwere kwado ego,Ọ gaghi echegbu m  ma  ọ bụrụ na-eji ego kwado ụlọ ọrụ ahụ.,entailment
+éè ọ bụ nke anyị mgbago ebe a njikọ netwọk anyị nwere jọrọ ezigbo njọ. ,Njikọ netwọk na gburugburu ebe a na-adị mma mgbe ụfọdụ.,neutral
+éè ọ bụ nke anyị mgbago ebe a njikọ netwọk anyị nwere jọrọ ezigbo njọ. ,Anyị anaghị enweta ezigbo njikọ netwọk ebe a. ,entailment
+éè ọ bụ nke anyị mgbago ebe a njikọ netwọk anyị nwere jọrọ ezigbo njọ. ,Anyị  nwere njikọ netwọk kachasị  mma na gburugburu ebe a.,contradiction
+otu n'ime uru anyị na-enweta n'ezie bụ ịme njem. ,Ịme njem bụ akụkụ nke kacha amasị m na ya.,neutral
+otu n'ime uru anyị na-enweta n'ezie bụ ịme njem. ,Ịme njem bụ otu elele anyị na-enweta.,entailment
+otu n'ime uru anyị na-enweta n'ezie bụ ịme njem. ,Anyị adịghị enweta  uru ọ bụla. ,contradiction
+ọ ọ jọrọ ezigbo njọ ọ uh a,Anụla m ọ dịghị mma.,neutral
+ọ ọ jọrọ ezigbo njọ ọ uh a,Ọ jọrọ ezigbo njọ.,entailment
+ọ ọ jọrọ ezigbo njọ ọ uh a,Ọ dịghị njọ ma ọlị.,contradiction
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl niile nakwa agbagwoju anya. ,contradiction
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl mgbagwoju anya ndị ọzọ nwere ike ịbili n'ọnọdụ ụfọdụ ga.,entailment
+Ngwa mọlịkụl ọtụtụ ayọn mejupụtara nke dị elu na-ebili n'ihi ọdịdị mgbanwe bụ nke nwere ike ịrụ ọrụ na ngwa mọlịkụl ahụ a chịkọtara ọnụ mgbe ngwa ndị ahụ a chịkọtara ọnụ ga-enyeaka n'ịnwe ike nnabata.,Ngwa mọlịkụl niile a bụ  nke a na-ejikarị emepụta ńsí dị iche iche maka nchekwaba. ,neutral
+Mana ekwenyeghị m na ịhe akụrụngwa agọrịdịm ọbụla nwere ike izu ezu.,Agọridim a enweghị ike ikpebi otu esi eme sanwichi enweghi ntụpọ na-enweghị ikpe mmadụ.,neutral
+Mana ekwenyeghị m na ịhe akụrụngwa agọrịdịm ọbụla nwere ike izu ezu.,E nweghị akụrụngwa ga-enwe ike gbochaa nsogbu a niile n'onwe ya.,entailment
+Mana ekwenyeghị m na ịhe akụrụngwa agọrịdịm ọbụla nwere ike izu ezu.,Ngwa ọrụ ndị a na-arụ ọrụ na-enweghị ntụpọ n'ọnọdụ ọ bụla.,contradiction
+Ịwụ na-azọpụta ọ bụghị onye mana ọ bụ obodo maọbụ mba niile.,"Maka nzọpụta, onye ọ bụla ga echigharia n'iwu .",contradiction
+Ịwụ na-azọpụta ọ bụghị onye mana ọ bụ obodo maọbụ mba niile.,Iwu ahụ ga-azọpụta Amerịka.,neutral
+Ịwụ na-azọpụta ọ bụghị onye mana ọ bụ obodo maọbụ mba niile.,Iwu ga-azọpụta obodo na mba .,entailment
+Akwụkwọ ndepụta iwu nke 1787 ahụ kwuputara ikikere ndị nwere ohu nwere ịkpọghachite ohu ndị gbapụgoro gbaba n'ime ebe nwere onwe.,Na 1787 enyere iwu nke kwusiri ndi mmadu inwetaghachi ohu ọ bụla banwugoro n'ala ndi nwere onwe.,contradiction
+Akwụkwọ ndepụta iwu nke 1787 ahụ kwuputara ikikere ndị nwere ohu nwere ịkpọghachite ohu ndị gbapụgoro gbaba n'ime ebe nwere onwe.,Alaka akwụkwọ iwu ahụ bụ nke edere na 1787.,entailment
+Akwụkwọ ndepụta iwu nke 1787 ahụ kwuputara ikikere ndị nwere ohu nwere ịkpọghachite ohu ndị gbapụgoro gbaba n'ime ebe nwere onwe.,Ikike ịkpoghachite ndị ohu site  n'ala ndị nwere onwe abụghị ikike n'ewu ewu.,neutral
+"Steve Harris, onye guru maka ndụ mọlịkụl si Texas na-abịa nleta.", Steve Harris jụrụ isi n'ụlọ ya pụọ n'ihi ihe ọ bụla.,contradiction
+"Steve Harris, onye guru maka ndụ mọlịkụl si Texas na-abịa nleta.",Steve bụ onye guru maka ndụ si ofe obodo.,entailment
+"Steve Harris, onye guru maka ndụ mọlịkụl si Texas na-abịa nleta.",Steve Harris na-abịa nleta na California ka ọ mụọ ihe nhọputa ihe ọhụrụ .,neutral
+"Ị bụ onyeotu gbadoro ụkwụ na ndị okenye nwoke ruru àfọ́ iri atọ na áfọ̀ iri ise n'otu ịsị nkebi akwụkwọ (akpọrọ moradas) ma kewapụ ụzọ abụọ ndị otu nkịtị, akpọrọ hermanos disciplantes (ụmụnne nwoke azuru azu), na ndị ọfisa, akpọrọ hermanos de luz (ụmụnne nwoke ìhè). ",Íhē karịrịsiri  otu narị ndị ọfisa jere ozi n'ísị́ nkebi nke ọ bụla.,contradiction
+"Ị bụ onyeotu gbadoro ụkwụ na ndị okenye nwoke ruru àfọ́ iri atọ na áfọ̀ iri ise n'otu ịsị nkebi akwụkwọ (akpọrọ moradas) ma kewapụ ụzọ abụọ ndị otu nkịtị, akpọrọ hermanos disciplantes (ụmụnne nwoke azuru azu), na ndị ọfisa, akpọrọ hermanos de luz (ụmụnne nwoke ìhè). ",Mpaghara ndị ahụ nwere ma ndị otú nkịtị na ndị ọfisa.,entailment
+"Ị bụ onyeotu gbadoro ụkwụ na ndị okenye nwoke ruru àfọ́ iri atọ na áfọ̀ iri ise n'otu ịsị nkebi akwụkwọ (akpọrọ moradas) ma kewapụ ụzọ abụọ ndị otu nkịtị, akpọrọ hermanos disciplantes (ụmụnne nwoke azuru azu), na ndị ọfisa, akpọrọ hermanos de luz (ụmụnne nwoke ìhè). ",Mpaghara ndị a nwebụrụ ọrụ inwoghata ọnụ ọgụgụ   amaala  na  Central America.,neutral
+"A bịa n'ụmụntakịrị ndị dị áfọ̀ anọ na ise, ajụjụ a na-ajụkarị na-agbado ụkwụ na nhazi akụkọ (Gịnị ọzọ ga-emezi? ",Ụmụaka adighị a mụtakarị ịkparịta ụka ruo mgbe ha dị áfọ̀ isii.,contradiction
+"A bịa n'ụmụntakịrị ndị dị áfọ̀ anọ na ise, ajụjụ a na-ajụkarị na-agbado ụkwụ na nhazi akụkọ (Gịnị ọzọ ga-emezi? ",Ụmụaka ndị dị áfọ̀ ise na-echekari maka ịhe ga-eme ọzọ.,entailment
+"A bịa n'ụmụntakịrị ndị dị áfọ̀ anọ na ise, ajụjụ a na-ajụkarị na-agbado ụkwụ na nhazi akụkọ (Gịnị ọzọ ga-emezi? ",Ụmụaka ndi dị áfọ̀ ise ka a na-ewe na nchikota ka  ndi  adịghị akparịta ụka nke oma.,neutral
+"N'ụzọ doro anya, nzukọta ọnụ gbadoturu ụkwụ n'otu ọ dị na-enye ohere nkewa, maka na mgbe steeti abụọ na steeti ọzọ zukọtara ọnụ, steeti abụọ ndị ahụ abụrụgo nke netwọk ahụ na-hutari dịka otu. ",Ízukọta ọnụ ga-enye ohere ikewa ihe n'ụdị. ,entailment
+"N'ụzọ doro anya, nzukọta ọnụ gbadoturu ụkwụ n'otu ọ dị na-enye ohere nkewa, maka na mgbe steeti abụọ na steeti ọzọ zukọtara ọnụ, steeti abụọ ndị ahụ abụrụgo nke netwọk ahụ na-hutari dịka otu. ",Ị́zukọta ọnụ na-enwe mmetụta site n'ọnụ ọgụgụ. ,neutral
+"N'ụzọ doro anya, nzukọta ọnụ gbadoturu ụkwụ n'otu ọ dị na-enye ohere nkewa, maka na mgbe steeti abụọ na steeti ọzọ zukọtara ọnụ, steeti abụọ ndị ahụ abụrụgo nke netwọk ahụ na-hutari dịka otu. ",Ízukọta ọnụ ga egbochi ikewa ihe n'ụdị. ,contradiction
+"Ya mere, ha na-aga n'ihu kepụta ụwa na-anọghị otu ebe nke bụ naanị ịhe mere n'oge na-etechabeghi aka na-enwe dátà. ",Ụwa nke na-akwụghị otu ebe adịghị amasị ụfọdụ ma ọ bụrụ na ọ ga-enyerịrị nkọwa maka ozi sitere n'oge gaara aga.,entailment
+"Ya mere, ha na-aga n'ihu kepụta ụwa na-anọghị otu ebe nke bụ naanị ịhe mere n'oge na-etechabeghi aka na-enwe dátà. ",Dátà niile si na oge ọbụla dị maka ụwa ọbụla.,contradiction
+"Ya mere, ha na-aga n'ihu kepụta ụwa na-anọghị otu ebe nke bụ naanị ịhe mere n'oge na-etechabeghi aka na-enwe dátà. ",Ụwa ndi a n'dabere itu aro ka eji ebu amụma  ụkpụrụ ihu igwe.,neutral
+"Na, ya mere, ọchịchị obodo abụghị ya kpatara ndị nnọrọonwe ndị a ji a napụ ndị ị́sị́ ojii ikike ruru ha n'obodo.",Ụfọdụ mmadu ndị nnọrọonwe napụrụ ụmụ amaala ị́sị́ ojii ikike mmekọ mmadụ n'ibe ya ruru ha.,entailment
+"Na, ya mere, ọchịchị obodo abụghị ya kpatara ndị nnọrọonwe ndị a ji a napụ ndị ị́sị́ ojii ikike ruru ha n'obodo.",Ndị nnọrọonwe ahụ bụ ndị ọcha.,neutral
+"Na, ya mere, ọchịchị obodo abụghị ya kpatara ndị nnọrọonwe ndị a ji a napụ ndị ị́sị́ ojii ikike ruru ha n'obodo.",Steeti ahụ bụ ya kpatara kpọm kwem maka akparamagwa ndị nnọrọonwe.,contradiction
+O nweghị ndịche dị n'etiti ndị ụmụaka na ndị okenye nọ na klasị na nwale mmụta ahụ.,"Ka rịzọtụ nwale maka nwata na okenye ndị klasị ibe ha bụ otu ihe, ndi nwata klasị ibe ha na-emecha nwale ngwa ngwa.",neutral
+O nweghị ndịche dị n'etiti ndị ụmụaka na ndị okenye nọ na klasị na nwale mmụta ahụ.,Ndị ụmụaka na ndị okenye na-enwe otu rịzọtụ na nwale mmụta ahụ.,entailment
+O nweghị ndịche dị n'etiti ndị ụmụaka na ndị okenye nọ na klasị na nwale mmụta ahụ.,Ndị nwata na ndị okenye nọ na klasị nwere rịzọtụ nwale dị iche iche maka n'afọ ha bụ ihe ntụle.,contradiction
+Darwin bidoro site na ndụ nọlarị ebe a.,Darwin malitere site n'itinye uche n' ázụ̀.,neutral
+Darwin bidoro site na ndụ nọlarị ebe a.,Darwin bidoro na ndụ nke nọlarị. ,entailment
+Darwin bidoro site na ndụ nọlarị ebe a.,Darwin tinyere uche naanị n'ịme nchọpụta gbasara ihe nwụrụ anwụ.,contradiction
+"Ịhe na-akpatakarị ya n'oge nwata bidoro ije na tupu ọ banye ụlọ akwụkwọ bụ otitis midiya na-abịaghachi, maọbụ nje etiti ntị.",Nje mbute etiti ntị bụ ihe dịkarị n'ụmụaka na-ebido iga ije ọhụrụ.,entailment
+"Ịhe na-akpatakarị ya n'oge nwata bidoro ije na tupu ọ banye ụlọ akwụkwọ bụ otitis midiya na-abịaghachi, maọbụ nje etiti ntị.",Otitis midiya na-akọ ezigbo ụkọ mgbe nwata na-akabeghi bido akwụkwọ.,contradiction
+"Ịhe na-akpatakarị ya n'oge nwata bidoro ije na tupu ọ banye ụlọ akwụkwọ bụ otitis midiya na-abịaghachi, maọbụ nje etiti ntị.",Ọtụtụ ụmụaka na-ebido iga ije ọhụrụ ga-enwe nje etiti ntị.,neutral
+"Mgbe otú na-eleta gbara nkịtị, echiche ndị na-enweghị ị́sị́ ebido pụtawa ìhè. ",Echiche ndị na-enweghị ị́sị́ na-adị obere ụjọ mgbe ndị na-eleta obodo leghara ha anya.,entailment
+"Mgbe otú na-eleta gbara nkịtị, echiche ndị na-enweghị ị́sị́ ebido pụtawa ìhè. ",Echiche ndị na-enweghị ị́sị́ na-adịkarị apụta ìhè n'etiti ndị na-eleta obodo mgbe ndị na-eleta obodo leghara ha anya.,contradiction
+"Mgbe otú na-eleta gbara nkịtị, echiche ndị na-enweghị ị́sị́ ebido pụtawa ìhè. ",Ndị na-eleta obodo n'eleghara ọtụtụ echiche ndị na-enweghị ị́sị́ anya.,neutral
+"N'ezie, otu n'ihe anyị chọrọ bụ ụzọ a ga-esi kọwaa nhazi ụkpụrụ n'ụwa na-enweghị nhatanha. ",Anyị chọrọ ịmado aha ka anyị wee hụ ebe otu ahụ na-eme nke ọma.,neutral
+"N'ezie, otu n'ihe anyị chọrọ bụ ụzọ a ga-esi kọwaa nhazi ụkpụrụ n'ụwa na-enweghị nhatanha. ",Anyị kwesịrị ịmado aha n'otú ahụ.,entailment
+"N'ezie, otu n'ihe anyị chọrọ bụ ụzọ a ga-esi kọwaa nhazi ụkpụrụ n'ụwa na-enweghị nhatanha. ",Anyị agaghị amado aha ọ bụla.,contradiction
+Ọ webatara arịrịọ n'aka Lord Julian.,Ọ chọbụrụ ịjụ Lord Julian ihe.,entailment
+Ọ webatara arịrịọ n'aka Lord Julian.,Ọ chọrọ ị rịọ Ọkaịkpe Julian ka ọ zọpụta nwunye ya.,neutral
+Ọ webatara arịrịọ n'aka Lord Julian.,O nweghị ebe a hụrụ Lord Julian.,contradiction
+Jeremy Pitt saara ọchị ahụ site n'ịñụ iyi.,Jeremy Pitt zaara ọchị ahụ site n'ịmụrị ámụ́ na itụli elu n'ihu onye na-achị ọchị ahụ. ,contradiction
+Jeremy Pitt saara ọchị ahụ site n'ịñụ iyi.,Jeremy Pitt ṅụrụ iyi na ya ga a lụrụ obodo ya na ezenwaanyị ya agha.,neutral
+Jeremy Pitt saara ọchị ahụ site n'ịñụ iyi.,O nwere onye chịrị ọchị n'akụkụ Jeremy Pitt.,entailment
+"Pitt, onye na-ele ịhe na-eme site n'elu reelu kwọta deki ahu, gwara anyị na onye ọkaịkpe nọ ọnọdụ ka ụkọchukwu nọ n'ebe a na-kwugbu mmadụ. ",Pitt ahụtụbeghị onyenwe ya ka ọ nọ n'oke ụjọ dịka ọ siri nọrọ mgbe ahụ.,neutral
+"Pitt, onye na-ele ịhe na-eme site n'elu reelu kwọta deki ahu, gwara anyị na onye ọkaịkpe nọ ọnọdụ ka ụkọchukwu nọ n'ebe a na-kwugbu mmadụ. ",Pitt ṅụrụ iyi si na ya ahụghịkwa etu ịhe ahụ sịrị mee.,contradiction
+"Pitt, onye na-ele ịhe na-eme site n'elu reelu kwọta deki ahu, gwara anyị na onye ọkaịkpe nọ ọnọdụ ka ụkọchukwu nọ n'ebe a na-kwugbu mmadụ. ",Pitt gbara akaebe etu onyenwe ya siri were oge ihe ahụ na-eme kpọrọ ihe.,entailment
+"Kọnelu ahụ nabatara ya, ma mechaa hulata ala, wepụ abadaba okpu ya.",Kọnelu ahụ nabatara medaal sitere na onye isi New York City.,neutral
+"Kọnelu ahụ nabatara ya, ma mechaa hulata ala, wepụ abadaba okpu ya.",Kọnelu ahụ jụrụ ihe a na-enye ya ma dosa okpu n'ị́sị́ n'ụdị nnupụísí. ,contradiction
+"Kọnelu ahụ nabatara ya, ma mechaa hulata ala, wepụ abadaba okpu ya.", Kọnelu ahụ kpubụ okpu.,entailment
+Ị nweghị ịhere ịbara m mbà makana m ekweghị e jide aka gị mgbe m matara na ọ dịghị ọcha; mgbe ma gị dịka ogbu mmadụ ma karịa? O lekwasị ya anya ghewe ọnụ oghe.,O kwenyere na mpụ ahụ e mere nwere ike ịbụ mpụ igbu ọtutu mmadu n'obodo.,neutral
+Ị nweghị ịhere ịbara m mbà makana m ekweghị e jide aka gị mgbe m matara na ọ dịghị ọcha; mgbe ma gị dịka ogbu mmadụ ma karịa? O lekwasị ya anya ghewe ọnụ oghe.,O họrọ ka ọ ghara ị jide aka ya makana o jupụtara na mmebi iwu.,entailment
+Ị nweghị ịhere ịbara m mbà makana m ekweghị e jide aka gị mgbe m matara na ọ dịghị ọcha; mgbe ma gị dịka ogbu mmadụ ma karịa? O lekwasị ya anya ghewe ọnụ oghe.,"Ọ họọrọ ijide aka ya n'ihi na ha pere mpe, dị nro nke kachasị ha niile, dị ọcha.",contradiction
+"E nyere ya ohere ebe ọ pụtara ìhè iji mata na ọ bụ onye amara, nwatakịrị nwoke nkịtị mara mma si na St. James's, Lord Julian Wade, onye o nyefere oge ya.",Lord Julian bụ onye St. James's.,entailment
+"E nyere ya ohere ebe ọ pụtara ìhè iji mata na ọ bụ onye amara, nwatakịrị nwoke nkịtị mara mma si na St. James's, Lord Julian Wade, onye o nyefere oge ya.",Ya na Lord Julian Wade kere nsusu ọnụ n'abalị gaara aga.,neutral
+"E nyere ya ohere ebe ọ pụtara ìhè iji mata na ọ bụ onye amara, nwatakịrị nwoke nkịtị mara mma si na St. James's, Lord Julian Wade, onye o nyefere oge ya.","Ọ nwere oke mmasị n'ebe Lord Julian Wade nọ, n'agbanyeghị n'Ọ nwere oke mmasị n'ebe Lord Julian Wade nọ, n'agbanyeghị na-ọ bụ ụdị mmadụ dị aghara..",contradiction
+"Mana...mana...n'ime ụgbọmmiri a...? Onye ọfisa ahụ na-egosipụta na ọ makwaghi ịhe ọ ga-eme, na, nyefesicha onwe ya n'ụdị juru anya, gba nkịtị ozugbo.","Ụlọ ọrụ ahụ tiri mkpu nkeji oge, n'oke iwe n’ihi omume rụrụ arụ a na-eme n'ala ụgbọ mmiri ya.",contradiction
+"Mana...mana...n'ime ụgbọmmiri a...? Onye ọfisa ahụ na-egosipụta na ọ makwaghi ịhe ọ ga-eme, na, nyefesicha onwe ya n'ụdị juru anya, gba nkịtị ozugbo.",Onye ọfisa nwere mgbagwoju anya gbasara ịhe na-eme n'ime ụgbọmmiri ahụ.,entailment
+"Mana...mana...n'ime ụgbọmmiri a...? Onye ọfisa ahụ na-egosipụta na ọ makwaghi ịhe ọ ga-eme, na, nyefesicha onwe ya n'ụdị juru anya, gba nkịtị ozugbo.",Onye ọfisa ahụ kụjara nkụja n'enweghị isi site n'ihe agbọsara n'ala ụgbọ mmiri.,neutral
+"Ị bụ Lord Julian Wade, ana m aghọta, bụ ekele erujughị áfọ́ ya. ",Lord Julian Wade nyere ekele na nnabata kporo ọku.,contradiction
+"Ị bụ Lord Julian Wade, ana m aghọta, bụ ekele erujughị áfọ́ ya. ",Ọkaikpe Julian Wade nabatara ndị ọzọ n'ụdị e nwere ị́ké ị sị na o rijughi áfọ́.,entailment
+"Ị bụ Lord Julian Wade, ana m aghọta, bụ ekele erujughị áfọ́ ya. ","N'agbanyeghị na ọtụtụ a gbalịala ịbịakwute ya, Lord Wade na-ajụkarị oyi na-adịghị enwe mmasị.",neutral
+Mary Trail ga-agwa gị maka ya.,Mary Traill nwere ike igwa gị gbasara ịnyịnya ibu ahu.,neutral
+Mary Trail ga-agwa gị maka ya.,Mary Trail ma maka ya.,entailment
+Mary Trail ga-agwa gị maka ya.,Naanị m maara banyere ya.,contradiction
+"E nwere ebe a na-egbu mmadụ na-echere ofeka a na Port Royal. Blood gaara enye aka ná nke ahụ, mana Ọkaịkpe Julian gbochiri ya.",Blood bụ otu omekome mba ụwa dị na Port Royal nke Lord Julian binyere aka gbasara ihe mpụ dị iche iche.,contradiction
+"E nwere ebe a na-egbu mmadụ na-echere ofeka a na Port Royal. Blood gaara enye aka ná nke ahụ, mana Ọkaịkpe Julian gbochiri ya.","Ógbè Lord Julian gụnyere Port Royal, obodo azụmahịa nke jupụtara n'agbamụmbọ na mpaghara ahụ.",neutral
+"E nwere ebe a na-egbu mmadụ na-echere ofeka a na Port Royal. Blood gaara enye aka ná nke ahụ, mana Ọkaịkpe Julian gbochiri ya.",Port Royal nwere akụrụngwa eji ata ndị omekome ahụhụ.,entailment
+"Ọ gaghị a bụ Bishọp n'onwe ya, ka Woolverstone kwuru, n'etiti ajụjụ na nkwupụta.",Wolverstone ajụọla ajụjụ nke gosipụtara nkwuwa okwu ya nye ndị ọzọ.,entailment
+"Ọ gaghị a bụ Bishọp n'onwe ya, ka Woolverstone kwuru, n'etiti ajụjụ na nkwupụta.",Woolverstone ekwuolarịị na Bishọp dịka onye mara ezigbote mma.,neutral
+"Ọ gaghị a bụ Bishọp n'onwe ya, ka Woolverstone kwuru, n'etiti ajụjụ na nkwupụta.",Wolverstone enweghị mgbe o kwuru ihe ọ bụla gbasara Bishọp.,contradiction
+"Ị ga-akwụsị atụmatụ nnupụísí na ị buso obodo agha na ịkpe ịme ụlọ? Blood tinye okpu ya n'ísí, nọrọ ala na-enweghị onye sịrị ya mee nke a.",Blood nwebụrụ okpu ọ na-ekpu tupu ọ nọrọ ala.,entailment
+"Ị ga-akwụsị atụmatụ nnupụísí na ị buso obodo agha na ịkpe ịme ụlọ? Blood tinye okpu ya n'ísí, nọrọ ala na-enweghị onye sịrị ya mee nke a.","Blood kputara okpu ya, ma hapụ ịme ụlọ ahụ na-ekwughị ịhe ọbụla.",contradiction
+"Ị ga-akwụsị atụmatụ nnupụísí na ị buso obodo agha na ịkpe ịme ụlọ? Blood tinye okpu ya n'ísí, nọrọ ala na-enweghị onye sịrị ya mee nke a.","Okpu Blood dị oji, nwee kwaa nku ụ̀gò atọ na ya.",neutral
+Ịhe anaghị a gaara ya nkeọma kemgbe izu ụka abụọ ọ natara ọ́kwá ahụ n'áká Ézè.,Ọ hiri ụra nke ọma n’abalị maka na-ọmatara na ọ jụla ọ́kwá n'áká Ézè.,contradiction
+Ịhe anaghị a gaara ya nkeọma kemgbe izu ụka abụọ ọ natara ọ́kwá ahụ n'áká Ézè.,Ị mee ya ka ọ mụrụ anya n'abalị bụ maka ọ natara ọ́kwá n'áká Ézè.,entailment
+Ịhe anaghị a gaara ya nkeọma kemgbe izu ụka abụọ ọ natara ọ́kwá ahụ n'áká Ézè.,Ọ́kwá Ézè bụ echichi nwere ugwu nke ukwuu yana ọtụtụ ọrụ so ya.,neutral
+"Ha nọ na nso, Ogle e tipu mkpu.",Ogle kwuru na a ga-enwetenwụ ha.,entailment
+"Ha nọ na nso, Ogle e tipu mkpu.",Ogle sịrị na ha nọ ketere nso.,neutral
+"Ha nọ na nso, Ogle e tipu mkpu.","N'agbanyeghị na ọ maara na ha nọ nso, Ogle emeghị ka onye ọ bụla mara.",contradiction
+"E ziri m ozi sị kpọọ gị, Captain Blood, maka otu ozi rutere m nọ áká.","Anụbeghị m ozi ọ bụla, Captain Blood. Ịnụla?",contradiction
+"E ziri m ozi sị kpọọ gị, Captain Blood, maka otu ozi rutere m nọ áká.","A natara m ụfọdụ ozi tupu m zie ka a kpọọ gị, Captain Blood.",entailment
+"E ziri m ozi sị kpọọ gị, Captain Blood, maka otu ozi rutere m nọ áká.",Ozi m natara yiri m akpata oyi n'ahụ nke ukwuu.,neutral
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị nwere ike ịhụ ụgbọmmiri n'elu ugwu.,neutral
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị ga-ahụ gburugburu ebe ikpere mmiri ndị ahụ n'elu ugwu ahụ.,entailment
+"Ka m lesiri anya na gburugburu ịhe ndị a chịkọtara ọnụ, rịa elu úgwù gara ụlọ Kọmishọna, ebe ị ga-ahu gburugburu ikpere mmiri na ebe ndị ọzọ nọ ọdọ ụgbọmmiri ahụ.",Ị gaghị ahụ ikpere mmiri site n'elu ugwu.,contradiction
+"N'azụ ebe South America ahụ ị ga-ahụ Perfume Factory, ebe ị nwere ị́ké ikepụta ísì ọma nke aka gị.","Perfume Factory ahụ na-emepụta ihe kemgbe 1954.
+",neutral
+"N'azụ ebe South America ahụ ị ga-ahụ Perfume Factory, ebe ị nwere ị́ké ikepụta ísì ọma nke aka gị.",Perfume Factory ahụ nọ n'azụ South African Area ahụ.,entailment
+"N'azụ ebe South America ahụ ị ga-ahụ Perfume Factory, ebe ị nwere ị́ké ikepụta ísì ọma nke aka gị.",`Perfume Factory ahụ dị n'ihụ South African Area.,contradiction
+"Olelanya ka e weliri, ma weda kwa ya maka oroma na akwụolu Behama.",N'agbanyeghị na akwụolu ahụ tọrọ ụtọ nke ukwuu ọnụ ahịa eji ebuje ya dị elu nke ukwuu iji bute ha n'ahịa.,neutral
+"Olelanya ka e weliri, ma weda kwa ya maka oroma na akwụolu Behama.",Oroma Behama ahụ bụ mere nkeọma nke ukwuu dịka onye ọbụla siri chee ya n'echiche.,contradiction
+"Olelanya ka e weliri, ma weda kwa ya maka oroma na akwụolu Behama.",Oroma Bahamian akachaghị mma dịka etu onye ọ bụla siri tụba anya.,entailment
+"Ụda ahụ, dịka kilomita atọ (mailu abụọ) na daimịta, bụ nke e chere nọ ọ bụ nnukwu kadera mgbe e nwere oké ọ́kụ́ si n'ala sụpụta.","Ụda mailu abụọ ahụ nwere ike ịbụ ọtụtụ ihe kpatara ya, nke gụnyere oké ọ́kụ́ si n'ala sụpụta.",neutral
+"Ụda ahụ, dịka kilomita atọ (mailu abụọ) na daimịta, bụ nke e chere nọ ọ bụ nnukwu kadera mgbe e nwere oké ọ́kụ́ si n'ala sụpụta.",Ụda mailu abụọ ahụ abụghị kwa nke oké ọ́kụ́ si n'ala sụpụta kpatara.,contradiction
+"Ụda ahụ, dịka kilomita atọ (mailu abụọ) na daimịta, bụ nke e chere nọ ọ bụ nnukwu kadera mgbe e nwere oké ọ́kụ́ si n'ala sụpụta.",Ụda mailu abụọ ahụ nwere ike ịbụ oké ọ́kụ́ si n'ala sụpụta kpatara ya.,entailment
+"Ebe ahụ gburugburu ya adịchaghị jụ na nsogbu asụsụ nwere ike ịme ka ị daa mbà, mana ọbụla dị ị ga-enwe ị́ké hụ ebe azụmahịa mba Chaina. ",Ọ bụ echiche ziri ezi ịnwe onye ntụgharị asụsụ gi na ya so.,neutral
+"Ebe ahụ gburugburu ya adịchaghị jụ na nsogbu asụsụ nwere ike ịme ka ị daa mbà, mana ọbụla dị ị ga-enwe ị́ké hụ ebe azụmahịa mba Chaina. ",E nwere nsogbu asụsụ nke nwere ị́ké ịmenye gị ụjọ.,entailment
+"Ebe ahụ gburugburu ya adịchaghị jụ na nsogbu asụsụ nwere ike ịme ka ị daa mbà, mana ọbụla dị ị ga-enwe ị́ké hụ ebe azụmahịa mba Chaina. ","Echegbula onwe gị banyere nsogbu asụsụ ebe ahụ, ebe ọ bụ na onye ọ bụla na-asụ Bekee. ",contradiction
+"N'agbata 1936 na 1940 mba Greece nọ n'okpuru ọchịchị akaike nke ndị agha Loannis Metaxas, nke a na-echeta maka ị sị mba n'ụzọ pụtara ìhè n'ọsịsa o nyere mmanye nke Mussolini ka ọ chilie áká elu na 1940.",Greece enwebeghị mgbe onye agha ọchịchị áká ị́ké chịrị ha.,contradiction
+"N'agbata 1936 na 1940 mba Greece nọ n'okpuru ọchịchị akaike nke ndị agha Loannis Metaxas, nke a na-echeta maka ị sị mba n'ụzọ pụtara ìhè n'ọsịsa o nyere mmanye nke Mussolini ka ọ chilie áká elu na 1940.",Greece bụ otu n'ime mba ụwa ndị nweeturu ọchịchị áká ị́ké.,entailment
+"N'agbata 1936 na 1940 mba Greece nọ n'okpuru ọchịchị akaike nke ndị agha Loannis Metaxas, nke a na-echeta maka ị sị mba n'ụzọ pụtara ìhè n'ọsịsa o nyere mmanye nke Mussolini ka ọ chilie áká elu na 1940.",Akụ na ụba Greece emeghị nke ọma n'okpuru ọchịchị áká ị́ké nke Metaxas.,neutral
+Ị dị mfe nghọta ahịrị Romanesque nke Sant Pau bụ mgbanwe kwesịrị nnabata na ngosi nke Barcelona ọgbara ọhụrụ na ọtụtụ owuwu ụlọ Ghothe. ,Sant Pau enweghị ahịrị Romanesque.,contradiction
+Ị dị mfe nghọta ahịrị Romanesque nke Sant Pau bụ mgbanwe kwesịrị nnabata na ngosi nke Barcelona ọgbara ọhụrụ na ọtụtụ owuwu ụlọ Ghothe. ,Sant Pau nwere ahịrị Romanesque.,entailment
+Ị dị mfe nghọta ahịrị Romanesque nke Sant Pau bụ mgbanwe kwesịrị nnabata na ngosi nke Barcelona ọgbara ọhụrụ na ọtụtụ owuwu ụlọ Ghothe. ,Sant Pau nwere ụlọ ụka.,neutral
+"Otu mfe ọdụ maọbụ nza, ọ gaala.",Ọ dị mfe ịmenye ya ụjọ site na mmegharị ahụ biara n'ike.,neutral
+"Otu mfe ọdụ maọbụ nza, ọ gaala.","O nweghị egwu, na o nweghị ịhe ọbụla ga-emetụta ya.",contradiction
+"Otu mfe ọdụ maọbụ nza, ọ gaala.","Obere mmegharị ahu na nke a  bụ ya, ọ pụgo.",entailment
+Mmemme imezigharị ịhe ka ọ dịkwa ọhụrụ dị ukwuu ga-abịa na njedebe na ngwụcha 2001.,Mmemme imezigharị ihe ka ọ dikwa ohụụ ga-abịa n'isi njedebe tupu afọ 2001 amalite.,contradiction
+Mmemme imezigharị ịhe ka ọ dịkwa ọhụrụ dị ukwuu ga-abịa na njedebe na ngwụcha 2001.,A gaghị eme mmemme imezigharị ịhe ka ọ dịkwa ọhụrụ ahụ ma ruo mgbe áfọ̀ 2001 gwụchasiri agwụ. ,entailment
+Mmemme imezigharị ịhe ka ọ dịkwa ọhụrụ dị ukwuu ga-abịa na njedebe na ngwụcha 2001.,"Mgbe mmemme imezigharị ihe ka ọ dikwa ọhụụ na-ejedebe, ọ gaara ịnọrugo afọ ise.",neutral
+"Ndị ọrụ na-arụ ọrụ ịmuba ọnụ ọgụgụ flamịngo nọ na US Virgin Islands, ma ị ga-ahụ ọgbakọ ha ebe ka ha na-akpa nri nkeọma kwa áfọ̀.",Ndị ọrụ na-arụ ọrụ iji kpochapụ flamịngo ahụ.,contradiction
+"Ndị ọrụ na-arụ ọrụ ịmuba ọnụ ọgụgụ flamịngo nọ na US Virgin Islands, ma ị ga-ahụ ọgbakọ ha ebe ka ha na-akpa nri nkeọma kwa áfọ̀.",Ndị ọrụ na-arụ ọrụ ịwelite ọnụ ọgụgụ flamịngo nọ na agwaetiti ahụ ka ha nwee ị́ké ịzọpụta ha site n'ịla na nta. ,neutral
+"Ndị ọrụ na-arụ ọrụ ịmuba ọnụ ọgụgụ flamịngo nọ na US Virgin Islands, ma ị ga-ahụ ọgbakọ ha ebe ka ha na-akpa nri nkeọma kwa áfọ̀.",Ndị ọrụ na-arụ ọrụ iji mụbaa flamịngo ole dị n'ala mmiri gbara gburugburu.,entailment
+Úgwú ndị ahụ siri ị́ké na Serra de Tramuntana na-azaba n'ime osimmiri n'ụdị dị oké ndịda ebe na o nwere ụzọ olenaole e nwere ị́ké ị sị bata na otu ebe nkwụsị ụgbọmmiri na ọdọ ụgbọmmiri nọ ikpere mmiri ahụ.,Úgwú na-adakpọ mgbe niile maka na-ọdọ ụgbọmmiri ndi ahụ anaghị adị mfe iwu n'ebe ahụ. ,neutral
+Úgwú ndị ahụ siri ị́ké na Serra de Tramuntana na-azaba n'ime osimmiri n'ụdị dị oké ndịda ebe na o nwere ụzọ olenaole e nwere ị́ké ị sị bata na otu ebe nkwụsị ụgbọmmiri na ọdọ ụgbọmmiri nọ ikpere mmiri ahụ.,Úgwú ndị ahụ na-eme ka o sie ị́ké ị rụ ebe ndị a na-akwụsị ụgbọmmiri. ,entailment
+Úgwú ndị ahụ siri ị́ké na Serra de Tramuntana na-azaba n'ime osimmiri n'ụdị dị oké ndịda ebe na o nwere ụzọ olenaole e nwere ị́ké ị sị bata na otu ebe nkwụsị ụgbọmmiri na ọdọ ụgbọmmiri nọ ikpere mmiri ahụ.,E nwere ọdọ ụgbọmmiri 27 n'akụkụ úgwú.,contradiction
+A maara Culebra dịka Spanish Virgin Islands ruo mgbe Amerịka weghara ya. Ọ nọ n'ọkara ụzọ jikọrọ Puerto Rico na St. Thomas n'ime US Virgin Islands ahụ.,Culebra ji ọkara dị n'etiti Puerto Rico na St.Thomas n'ime US Virgin Islands.,entailment
+A maara Culebra dịka Spanish Virgin Islands ruo mgbe Amerịka weghara ya. Ọ nọ n'ọkara ụzọ jikọrọ Puerto Rico na St. Thomas n'ime US Virgin Islands ahụ.,Culebra anọghị n'ebe ọbụla nọ Puerto Rico na St.Thomas n'ime US Virgin Islands nso. ,contradiction
+A maara Culebra dịka Spanish Virgin Islands ruo mgbe Amerịka weghara ya. Ọ nọ n'ọkara ụzọ jikọrọ Puerto Rico na St. Thomas n'ime US Virgin Islands ahụ.,Culebra dị otu ebe n'etiti Puerto Rico na St.Thomas n'ime US Virgin Islands.,neutral
+"Umeda na-egosi ọgwụgwụ azụmahịa mgbago úgwú na ógbè egwuregwu amaara ama dịka Kita (nke pụtara mgbago úgwú), ma bụrụ nnọọ njirimara agbamụmbọ nke Osaka ọhụrụ.",Umeda a bụghị mpaghara ógbè egwuregwu ahụ.,contradiction
+"Umeda na-egosi ọgwụgwụ azụmahịa mgbago úgwú na ógbè egwuregwu amaara ama dịka Kita (nke pụtara mgbago úgwú), ma bụrụ nnọọ njirimara agbamụmbọ nke Osaka ọhụrụ.",Umeda bụ mpaghara ógbè egwuregwu kachasị buo ibu.,neutral
+"Umeda na-egosi ọgwụgwụ azụmahịa mgbago úgwú na ógbè egwuregwu amaara ama dịka Kita (nke pụtara mgbago úgwú), ma bụrụ nnọọ njirimara agbamụmbọ nke Osaka ọhụrụ.",Umeda bụ njedebe ugwu nke mpaghara ógbè egwuregwu.,entailment
+"Atọnimeotu nke atọ nke okpupkerechi Hindu bụ Bahama, onye naanị ọrụ ya bụ ị́kè ụwa.",Brahma bụ onyeozi okpukpe Kristi.,contradiction
+"Atọnimeotu nke atọ nke okpupkerechi Hindu bụ Bahama, onye naanị ọrụ ya bụ ị́kè ụwa.",Brahma so n'otu n'ime atọnimeotu okpupkerechi Hindu. ,entailment
+"Atọnimeotu nke atọ nke okpupkerechi Hindu bụ Bahama, onye naanị ọrụ ya bụ ị́kè ụwa.",Brahma bụ akụkụ kachasị mkpa n'atọnimeotu.,neutral
+Pedro weghara oche ézè n'agbanyeghị na agha nọgidere ruo ọtụtụ ọnwa na esemokwu agwụ agwụ ogologo ụbọchị nke ahụ gasịrị.,Mmadụ 10000 nwụrụ n'agha.,neutral
+Pedro weghara oche ézè n'agbanyeghị na agha nọgidere ruo ọtụtụ ọnwa na esemokwu agwụ agwụ ogologo ụbọchị nke ahụ gasịrị.,Agha ahụ nọrọ ọdụ ọtụtụ ọnwa.,entailment
+Pedro weghara oche ézè n'agbanyeghị na agha nọgidere ruo ọtụtụ ọnwa na esemokwu agwụ agwụ ogologo ụbọchị nke ahụ gasịrị.,Agha ahụ biri n'otu ụbọchị.,contradiction
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,"N'ịkwagide usoro ndị ọrụ,e kepụtara ohere maka nhazi ụlọ ọrụ.  ",neutral
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,E guzobere etu esiri hazie ụlọ ọrụ. ,entailment
+Usoro ndị ọrụ bụ nke akwagidere ma usoro ụlọ ọrụ ọhụrụ bụ nke e mere ngwa ngwa kọwaa ị ji mee ka e nwee mbawanye ndị ahịa. ,E nwere mbawanye na-usoro ndị ọrụ karia ka ha di na mbụ. ,contradiction
+"N'agbanyeghị na ụzọ esi enye ego nkwado ga-aka mma, inye ego nkwado nọ n'ọrụ a. ",E nwere akụrụngwa dị maka orụ ndị a. ,entailment
+"N'agbanyeghị na ụzọ esi enye ego nkwado ga-aka mma, inye ego nkwado nọ n'ọrụ a. ",E nweghị ego nkwado nọ maka ọrụ ahụ.,contradiction
+"N'agbanyeghị na ụzọ esi enye ego nkwado ga-aka mma, inye ego nkwado nọ n'ọrụ a. ",E nweghị ego nkwado ga-ezu maka oru ahụ.,neutral
+Ọnụọgụgụ gbasara ụzọ ịme obodo nọ n'akwụkwọ a bụ nke gbadoro ụkwụ na dátà 1989 National Mail Count.,Ọnụọgụgụ dị na akwụkwọ a gbadoro ụ́kwụ́ n'akụkọ ndekọ 2001.,contradiction
+Ọnụọgụgụ gbasara ụzọ ịme obodo nọ n'akwụkwọ a bụ nke gbadoro ụkwụ na dátà 1989 National Mail Count.,Ọnụ ọgụgụ nọ n'akwụkwọ abụghị nke nọ ugbu a. ,neutral
+Ọnụọgụgụ gbasara ụzọ ịme obodo nọ n'akwụkwọ a bụ nke gbadoro ụkwụ na dátà 1989 National Mail Count.,Akwụkwọ a nwekwara dátà maka ụzọ ime obodo.,entailment
+Ndị isi nwekwara ị́ké ị nata ogo nchere oge maọbụ daa n'ụzọ ọbụla.,Akụkụ nke ọ bụla a nwalere ndị isi ahụ na ya nwere ike igosipụta ogo dị iche iche.,entailment
+Ndị isi nwekwara ị́ké ị nata ogo nchere oge maọbụ daa n'ụzọ ọbụla.,Ndị isi enweghị ị́ké ịda. ,contradiction
+Ndị isi nwekwara ị́ké ị nata ogo nchere oge maọbụ daa n'ụzọ ọbụla.,Ndị isi ga-enwetarịrị ogo dị mma iji gaa n'ihu.,neutral
+Okwu a na-akpa oge ịgba ajụjụ ọnụ mbanye bụ otu ezinaụlọ si ahụta ozi ịma ọkwa azụmahịa.,Ekwetaghị n'ajụjụ ọnụ nke mbanye agaghị enwetara gị ọrụ ahụ.,neutral
+Okwu a na-akpa oge ịgba ajụjụ ọnụ mbanye bụ otu ezinaụlọ si ahụta ozi ịma ọkwa azụmahịa.,Ịgba ajụjụ ọnụ mbanye ahụ anaghị e kwupụta ọbụla gbasara ozi ịma ọkwa azụmahịa. ,contradiction
+Okwu a na-akpa oge ịgba ajụjụ ọnụ mbanye bụ otu ezinaụlọ si ahụta ozi ịma ọkwa azụmahịa.,Ajụjụ ọnụ nke mbanye gụnyere obere gbasra akparamaagwa ndị mmadụ banyere ozi mgbasa.,entailment
+189 ma ego ọ ga-efu ị ji ya mee ịhe bụ nke a gbakọtara n'otu ụzọ.,Ha kárà banyere ọnụ ahịa onye na-eji ihe ahụ eme ihe.,entailment
+189 ma ego ọ ga-efu ị ji ya mee ịhe bụ nke a gbakọtara n'otu ụzọ.,Ha cheere na ego ọ ga-efu ị ji ya mee ịhe bụ $10000.,neutral
+189 ma ego ọ ga-efu ị ji ya mee ịhe bụ nke a gbakọtara n'otu ụzọ.,Ha mara kpọmkwem ọnụ ahịa onye na-eji ihe ahụ eme ihe.,contradiction
+"Ị ji mạ́ạ́tụ̀,  na GGD, ịhe ọmụmụ nhazi bụ nke e mere dịka ọrụ pụrụ iche, na-agbakwunye ",Ọ dighi mgbe ihe ọmụmụ nhazi mere .,contradiction
+"Ị ji mạ́ạ́tụ̀,  na GGD, ịhe ọmụmụ nhazi bụ nke e mere dịka ọrụ pụrụ iche, na-agbakwunye ",Ịhe ọmụmụ nhazi bụ nke e mere na nkwuru onwe.,entailment
+"Ị ji mạ́ạ́tụ̀,  na GGD, ịhe ọmụmụ nhazi bụ nke e mere dịka ọrụ pụrụ iche, na-agbakwunye ",Ihe ọmụmụ nhazi ahụ agaghi nke oma.,neutral
+Ndị òtù nzite ozi itoolu wetara ozi nsonye na,Nanị abuo n'ime ndị nzite ozi itoolu gbalịrị ịzaghachi ajụjụ anyị banyere isonye n'ihe a na-eme.,contradiction
+Ndị òtù nzite ozi itoolu wetara ozi nsonye na,E nwere ndị nzite ozi itoolu nyekwara ọsịsa nkwado na ha sonyere. ,entailment
+Ndị òtù nzite ozi itoolu wetara ozi nsonye na,Ndị nzite ozi itoolu a nwere mmasi maka nnukwu nsonye.,neutral
+"Kemgbe 1996, ọnọdụ akụnụba na nkpata ego ezinaụlọ bawanyere ọsịsọ ruo ogo kachasị na 6.4 na 1999.",Ezinaụlọ nwetara $10000 karịa n'afọ gara aga.,neutral
+"Kemgbe 1996, ọnọdụ akụnụba na nkpata ego ezinaụlọ bawanyere ọsịsọ ruo ogo kachasị na 6.4 na 1999.",Ezinaụlọ nọ na-atụfụ ọtụtụ akụnụba. ,contradiction
+"Kemgbe 1996, ọnọdụ akụnụba na nkpata ego ezinaụlọ bawanyere ọsịsọ ruo ogo kachasị na 6.4 na 1999.",Ezinaụlọ enwetago ọtụtụ ókē akụnaụba karịa.,entailment
+"N'ime ụzọ klasị okpuru, a na-enye ngalaba nkịtị na nke nrukọ ọrụ pensenti maakọp karịrị ọnụ ahịa ị ji nweta nkezi ọnọdụ ha. ",Ngalaba bụ mmalite karịrị ego ole egoro ya.,entailment
+"N'ime ụzọ klasị okpuru, a na-enye ngalaba nkịtị na nke nrukọ ọrụ pensenti maakọp karịrị ọnụ ahịa ị ji nweta nkezi ọnọdụ ha. ",Ọnụahịa ahụ jiri 10% karịa ego a na-akwụ.,neutral
+"N'ime ụzọ klasị okpuru, a na-enye ngalaba nkịtị na nke nrukọ ọrụ pensenti maakọp karịrị ọnụ ahịa ị ji nweta nkezi ọnọdụ ha. ",Ọnụahịa na-adị ala karịa ego ole egoro ya mgbe niile.,contradiction
+"19 Asikwari na ọrụ ọnwa anọ bụ ịhe dị tupu enye ọrụ ngo ahụ, ị wee ọnwa 13 dịka oge nchere niile gaara adị oké mkpa ị ji tinyegharịa ịhe eji esi mmiri ọ́kụ́ 675 MWe. ",Ọ were nanị ọnwa abuo iji dozigharị ya. ,contradiction
+"19 Asikwari na ọrụ ọnwa anọ bụ ịhe dị tupu enye ọrụ ngo ahụ, ị wee ọnwa 13 dịka oge nchere niile gaara adị oké mkpa ị ji tinyegharịa ịhe eji esi mmiri ọ́kụ́ 675 MWe. ",O weere ọnwa 13 ị ji tinyegharịa ịhe na-ekpo ọ́kụ́ nke ụgbọ agha mmiri.,neutral
+"19 Asikwari na ọrụ ọnwa anọ bụ ịhe dị tupu enye ọrụ ngo ahụ, ị wee ọnwa 13 dịka oge nchere niile gaara adị oké mkpa ị ji tinyegharịa ịhe eji esi mmiri ọ́kụ́ 675 MWe. ",Ọ were ọnwa 13 na ngụkọta iji dozigharị ihe eji esi mmiri ọ́kụ́.,entailment
+Ụkọ ndị ọrụ nwere nkà n'ihe gbasara IT n'ọnọdụ akụkụ ahia ugbu a bụ kpọmkwem ịhe na-akpata ndị ụlọrụ ama aha ha ị jee na-achọ ndị ọzọ.,E nwere ndị ọrụ IT karịrị akari.,contradiction
+Ụkọ ndị ọrụ nwere nkà n'ihe gbasara IT n'ọnọdụ akụkụ ahia ugbu a bụ kpọmkwem ịhe na-akpata ndị ụlọrụ ama aha ha ị jee na-achọ ndị ọzọ.,E nweghị ndị ọrụ IT zuru ezu maka na ha niile a gaala India.,neutral
+Ụkọ ndị ọrụ nwere nkà n'ihe gbasara IT n'ọnọdụ akụkụ ahia ugbu a bụ kpọmkwem ịhe na-akpata ndị ụlọrụ ama aha ha ị jee na-achọ ndị ọzọ.,E nweghị ndị ọrụ IT ga-ezu iji mejupụta ọrụ ndị a.,entailment
+O kweghị omume ịmata otú maọbụ ụzọ ndahie nọ n'ihe mgbanwe nille site na-itinye otu ọrụ C-R ebe niile. ,O doro anya ndahie ole e nwere.,contradiction
+O kweghị omume ịmata otú maọbụ ụzọ ndahie nọ n'ihe mgbanwe nille site na-itinye otu ọrụ C-R ebe niile. ,Ị gaghị amata ndahie ole nọọ n'ihi na o siri ị́ké iwepụ ihe ndị na-esighi n'ime e metụta ya.,neutral
+O kweghị omume ịmata otú maọbụ ụzọ ndahie nọ n'ihe mgbanwe nille site na-itinye otu ọrụ C-R ebe niile. ,Ị gaghị ama ndahie ole e nwere.,entailment
+"Mmetụta ọnụ ahịa nke taara akpụ, site n'ọrụ otu onye meere ma nwee ị́ké ịme ya n'ọnụ ego karịrị akarị, bụ kwa nke a na-agbakọ n'ụzọ e si eme ya na mbụ.",E sila otu ụzọ chọpụta ego niile emefuru n'ihe ahụ. ,entailment
+"Mmetụta ọnụ ahịa nke taara akpụ, site n'ọrụ otu onye meere ma nwee ị́ké ịme ya n'ọnụ ego karịrị akarị, bụ kwa nke a na-agbakọ n'ụzọ e si eme ya na mbụ.",Ha achọpụtabeghị otu e si a gbakọ ọnụ ego ndị nke taara akpụ. ,contradiction
+"Mmetụta ọnụ ahịa nke taara akpụ, site n'ọrụ otu onye meere ma nwee ị́ké ịme ya n'ọnụ ego karịrị akarị, bụ kwa nke a na-agbakọ n'ụzọ e si eme ya na mbụ.",Ha na-eji dátà akụkọ ihe mere eme were na-agbakọ ego niile emefuru n'ihe ahụ.,neutral
+Ọmụmụ nke 4: Na-ahazi ọghọm n'ụdị ga na-eme kwa mgbe.,ÍsÍ nke anọ nwere ihe omume eji amụgharị maka ihazi ihe nwere ike iweta ọghọm.,entailment
+Ọmụmụ nke 4: Na-ahazi ọghọm n'ụdị ga na-eme kwa mgbe.,Akwụkwọ ahụ enweghị ozi gbasara ịhazi ọghọm ga-adi ogologo oge.,contradiction
+Ọmụmụ nke 4: Na-ahazi ọghọm n'ụdị ga na-eme kwa mgbe.,A ga-emechariri ihe omume a ma nyefee ya na njedebe nke izu a.,neutral
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",E webatara echiche Marxist-Leninist n'ime nkwado Alakụba.,entailment
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",Ndị otu nkwado Alakụba bidoro na senchuri nke isii.,contradiction
+"Nkwado Alakụba ahụ, e bidoro ịhe dịka 1940, bụ aka ọrụ ụwa ọhụrụ, nke gbadoro ụkwụ na nkụzi mgbanwe ndị otu Marx na Lenin.",E wubere nkwado Alakụba site na mbụ dịka nzukọ maka mkpokọta ọha.,neutral
+Ndị ndụmọdụ ọzọ kwuputara égwù nke a.,Ndị ndụmọdụ niile ahụ kwekọrịtara n'otu obi na ọ nweghị ihe ha ga echegbu onwe ha maka ya.,contradiction
+Ndị ndụmọdụ ọzọ kwuputara égwù nke a.,Ọ bụ naanị otu onye ndụmọdụ na-ekwupụtaghi égwù maka atụmatụ a.,neutral
+Ndị ndụmọdụ ọzọ kwuputara égwù nke a.,Nchegbu a bụ ihe ọtụtụ ndị ndụmọdụ dị iche iche na-ekerịta .,entailment
+Usoro ahụ nakwa a họrọ ndị njem n'ụdị gbasaara agbasa ị ji nweta kwuo nchekwa na nnyocha.,Ndị njem niile ga-aga ije  gafee n'enweghị nsogbụ ọ bụla.,contradiction
+Usoro ahụ nakwa a họrọ ndị njem n'ụdị gbasaara agbasa ị ji nweta kwuo nchekwa na nnyocha.,Ndị njem Soem na-enweta nyocha ahụ zuru òké.,neutral
+Usoro ahụ nakwa a họrọ ndị njem n'ụdị gbasaara agbasa ị ji nweta kwuo nchekwa na nnyocha.,Ndị njem ụfọdụ na enweta nyocha nke ọma karịa site na ndị nche.,entailment
+"Anyị ahubeghi ihe gosiri na atụmatụ ahụ bụ nke e chere n'ihu ọchịchị ugbu a maọbụ na Clarke nyere ha akwụkwọ ya, n'agbanyeghị na ọ bụ otu ndị ahụ kwa nọ n'ọchịchị gaara aga na nke dị ugbu a.",O doro anyị anya rụọ 100% na Clarke e nyeghị onye ọbụla akwụkwọ ya.,neutral
+"Anyị ahubeghi ihe gosiri na atụmatụ ahụ bụ nke e chere n'ihu ọchịchị ugbu a maọbụ na Clarke nyere ha akwụkwọ ya, n'agbanyeghị na ọ bụ otu ndị ahụ kwa nọ n'ọchịchị gaara aga na nke dị ugbu a.",Anyị enweghị ị́ké ịhụ ịhe akaebe gosiri na Clarke nyere ya akwụkwọ ya.,entailment
+"Anyị ahubeghi ihe gosiri na atụmatụ ahụ bụ nke e chere n'ihu ọchịchị ugbu a maọbụ na Clarke nyere ha akwụkwọ ya, n'agbanyeghị na ọ bụ otu ndị ahụ kwa nọ n'ọchịchị gaara aga na nke dị ugbu a.",Anyị maara nke ọma na Clarke nyere ha akwụkwọ ya na July 2.,contradiction
+"O doghi anya ma e nwere ị́ké itinye sistemụ ahụ tupu áfọ̀ 2010, mana ọ bụrụgodị usoro oge nke a nwere ị́ké ọ gaghị eme ngwa ngwa, maka ọtụtụ nsogbu ịhe nchekwa.",O siri ike ịtinye n'ọlụ sistemụ ahụ n'ihi na  ndị mwakpo na-awakpo ya abalị ọ bụla.,neutral
+"O doghi anya ma e nwere ị́ké itinye sistemụ ahụ tupu áfọ̀ 2010, mana ọ bụrụgodị usoro oge nke a nwere ị́ké ọ gaghị eme ngwa ngwa, maka ọtụtụ nsogbu ịhe nchekwa.",Ọ dịghị mfe itinye sistemụ ahụ maka nsogbu nchekwa ga. ,entailment
+"O doghi anya ma e nwere ị́ké itinye sistemụ ahụ tupu áfọ̀ 2010, mana ọ bụrụgodị usoro oge nke a nwere ị́ké ọ gaghị eme ngwa ngwa, maka ọtụtụ nsogbu ịhe nchekwa.","A ga-etinye sistemụ nchekwa ahụ n'izu isii, ekwere m nkwa. ",contradiction
+"Yamere, ka a na-echekwa obodo anyị, ndị Amerịka ga-akpachapụ anya maka ịhe ndị na-emegide nwere onwe nke onwe na nke ọhaneze. ",Ndị Amerịka ekwesighị ichegbu onwe ha maka nnwere onwe obodo ha - ha ga-enwe nchekwa mgbe niile.,contradiction
+"Yamere, ka a na-echekwa obodo anyị, ndị Amerịka ga-akpachapụ anya maka ịhe ndị na-emegide nwere onwe nke onwe na nke ọhaneze. ",Ndị Amerịka ga-agba mbọ ịhụ na a na-pụghị ha egbe ha.,neutral
+"Yamere, ka a na-echekwa obodo anyị, ndị Amerịka ga-akpachapụ anya maka ịhe ndị na-emegide nwere onwe nke onwe na nke ọhaneze. ",Ndị America kwesịrị itinye anya na iyi egwu na nnwere onwe anyị.,entailment
+Ị weta ya kwa mgbe emeghị ya ka ọ ghara ị dị irè.,Ị wega ya akwaliteghị otu o si dị íré.,entailment
+Ị weta ya kwa mgbe emeghị ya ka ọ ghara ị dị irè.,Ị wega ya mere ka ọ dị irè ukwuu.,contradiction
+Ị weta ya kwa mgbe emeghị ya ka ọ ghara ị dị irè.,O meghị ka ọ dị irè karịa mgbe anyị wegara ya na White House.,neutral
+"Ebe ọzọ ọ ka njọ, onye nduzi ngalaba al Qaeda n'ime CIA mgbe ahụ chetara na ọ cheghị na ọ bụ ọrụ dịrị ya iduzi ịhe e nwere ị́ké maọbụ ịhe a na enweghị ị́ké ịme.",Onye nduzi ahụ achọghị itinye aka na ya n'ihi na ọ fọrọ obere ka ọ  laa ezumike ńkā.,neutral
+"Ebe ọzọ ọ ka njọ, onye nduzi ngalaba al Qaeda n'ime CIA mgbe ahụ chetara na ọ cheghị na ọ bụ ọrụ dịrị ya iduzi ịhe e nwere ị́ké maọbụ ịhe a na enweghị ị́ké ịme.",Onye nduzi ngalaba ahụ achọghị itinye aka n'ihe gbasara iduzi ịhe e kwesịrị ịme.,entailment
+"Ebe ọzọ ọ ka njọ, onye nduzi ngalaba al Qaeda n'ime CIA mgbe ahụ chetara na ọ cheghị na ọ bụ ọrụ dịrị ya iduzi ịhe e nwere ị́ké maọbụ ịhe a na enweghị ị́ké ịme.",Onye nduzi ahụ chere na ihe nile dị ya n'aka.,contradiction
+Pickard chetara okwu ahụ asịrị na-emere oge a na-enye ntụziaka na Julaị 12.,Pickard enweghị ike ịcheta ihe ọ bụla ha kwuru.,contradiction
+Pickard chetara okwu ahụ asịrị na-emere oge a na-enye ntụziaka na Julaị 12.,Pickard chetara na ntụziaka ahụ ruturu aka n'ihe ndị gbasara ọdịda ahụ.,neutral
+Pickard chetara okwu ahụ asịrị na-emere oge a na-enye ntụziaka na Julaị 12.,Pickard chetara ihe e kwuru na mgbe a na-ezi ozi ahu.,entailment
+Ọ gaala Pakistan mana o were iwe mgbe a jụrụ ya ma ọ gaala mba dị nso mgbe ọ nọ na Pakistan (Pakistan bụ ụzọ amama esi a ga ebe ọzụzụ na Afghanistan).,O bụghị ihe dị iche maka ndị na-eyi ọha égwù ime njem gafee na Pakistan banye Afghanistan.,entailment
+Ọ gaala Pakistan mana o were iwe mgbe a jụrụ ya ma ọ gaala mba dị nso mgbe ọ nọ na Pakistan (Pakistan bụ ụzọ amama esi a ga ebe ọzụzụ na Afghanistan).,Pakistan na Afghanistan nọ onwe ha oteáká.,contradiction
+Ọ gaala Pakistan mana o were iwe mgbe a jụrụ ya ma ọ gaala mba dị nso mgbe ọ nọ na Pakistan (Pakistan bụ ụzọ amama esi a ga ebe ọzụzụ na Afghanistan).,Ọ́zúzụ́ enyere na Afghanistan gụnyere ọ́gú  aka na aka.,neutral
+"Ị nweta obere nchịkọta ịhe ndị a na ịhe kpatara nkwụsị ndị ahụ adịghị mma, lee Graham Allison na Philip Zelikow, Essence of Decision, 2nd ed.",E jikwara nkwụsị ahụ na-enweghị ntụpọ.,contradiction
+"Ị nweta obere nchịkọta ịhe ndị a na ịhe kpatara nkwụsị ndị ahụ adịghị mma, lee Graham Allison na Philip Zelikow, Essence of Decision, 2nd ed.",E wegara onye na-ekwesịghị nkwụsị ndị ahụ ka o nyochaa ha.,neutral
+"Ị nweta obere nchịkọta ịhe ndị a na ịhe kpatara nkwụsị ndị ahụ adịghị mma, lee Graham Allison na Philip Zelikow, Essence of Decision, 2nd ed.",E jikwaghị nkwụsị ahụ nke ọma.,entailment
+"Ha na-eme ka ọ sie ị́ké ịnweta ịhe ndị a na-achọ ịwakpo nkeọma, ma ha na-akwụsị mwakpo site n'ime ka nnwụchi dị mfe.",Ha maara na ime ihe ndị a na-achụ ka o sie ike ga-ebute idi elu karia n'ọnụọgụgụ ihe a na-ejide.,neutral
+"Ha na-eme ka ọ sie ị́ké ịnweta ịhe ndị a na-achọ ịwakpo nkeọma, ma ha na-akwụsị mwakpo site n'ime ka nnwụchi dị mfe.",Ha mere ndị a na-achụ ka ọ dị mfe nke bụ na a nwụchịrị na nkeji olenaole.,contradiction
+"Ha na-eme ka ọ sie ị́ké ịnweta ịhe ndị a na-achọ ịwakpo nkeọma, ma ha na-akwụsị mwakpo site n'ime ka nnwụchi dị mfe.",Ha jiri aka ha mee ihe a na-achụ ka ọ hiaahụ nke mere ka ejide ihe karịa kwa mgbe.,entailment
+"A gwara Southeast Air Defense Sector maka ihe ahụ na-eme na 11:55, nkeji 28 mgbe e mechara.",Nkeji 28 ka eziokwu ahụ gachara ndi Southeast Air Defense Sector nwetara ozi.,entailment
+"A gwara Southeast Air Defense Sector maka ihe ahụ na-eme na 11:55, nkeji 28 mgbe e mechara.",Sector ahụ enwetaghị ozi n'oge maka igbu oge sitere na mgbasa ozi.,neutral
+"A gwara Southeast Air Defense Sector maka ihe ahụ na-eme na 11:55, nkeji 28 mgbe e mechara.",Southeast Air Defense Sector nwetara ozi maka ihe merenụ ka o jiri  28 sekọnd gafere mgbe ọ mechara.,contradiction
+"Anyị na-elegara anya na nririta ụka nke obodo gbasara uru ihe ndị anyị tuputagoro n'aro, na anyị ga-esonyesike na nririta ụka ahụ.",O nweghị ísí n'ịgbagha isiokwu a.,contradiction
+"Anyị na-elegara anya na nririta ụka nke obodo gbasara uru ihe ndị anyị tuputagoro n'aro, na anyị ga-esonyesike na nririta ụka ahụ.",Anyị chọrọ ị nwee nririta ụka maka na anyị maara na ịhe ndị a anyị tuputara n'aro dị mkpa.,neutral
+"Anyị na-elegara anya na nririta ụka nke obodo gbasara uru ihe ndị anyị tuputagoro n'aro, na anyị ga-esonyesike na nririta ụka ahụ.",Ọ ga-amasị anyị ịrụrịta ụka gbasara aro atụpụtara.,entailment
+"Ka Mihdhar pụrụ, ụmụakwụkwọ ndị ọzọ kwabara n'ime ụlọ ahụ.",Mihdhar maara na-ụmụakwụkwọ ahụ n'èché na ya ka ọ pụọ.,neutral
+"Ka Mihdhar pụrụ, ụmụakwụkwọ ndị ọzọ kwabara n'ime ụlọ ahụ.",Ụmụakwụkwọ ntakịrị ahụ bara n'ime ụlọ ahụ ka Mihdhar pugoro.,entailment
+"Ka Mihdhar pụrụ, ụmụakwụkwọ ndị ọzọ kwabara n'ime ụlọ ahụ.",Ụmụakwụkwọ mere ngaghari iwe na mpụta ezi ụlọ Mihdhar bi na ya.,contradiction
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Onyinye ọ bụla anyị nwetara adịghị mkpa ka nke gị.,neutral
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Anyị enweghị mmasị n'onyinye gị ma ọlị.,contradiction
+Onyinye gị dị mkpa nye mmemme ncheta oge nke 85 anyị.,Anyi na-eme ihe a kemgbe ihe karịrị áfọ̀ 80.,entailment
+Ọ na-ewe mgbakọ áká ọnụ nke enyemaka sitere n'aka nke onwe na ego nkwado Mahadum ịji mee ka ụlọakwụkwọ iwu anyị na-eto uto na mmetụta.,Ụlọakwụkwọ iwu anyị dabere naanị n'ego nkwado nke onwe.,contradiction
+Ọ na-ewe mgbakọ áká ọnụ nke enyemaka sitere n'aka nke onwe na ego nkwado Mahadum ịji mee ka ụlọakwụkwọ iwu anyị na-eto uto na mmetụta.,Ụlọakwụkwọ iwu anyị na-enweta nkwado site na Melinda na Bill Gates Foundation.,neutral
+Ọ na-ewe mgbakọ áká ọnụ nke enyemaka sitere n'aka nke onwe na ego nkwado Mahadum ịji mee ka ụlọakwụkwọ iwu anyị na-eto uto na mmetụta.,Ụlọakwụkwọ iwu anyị chọrọ ego iji na-aga n'eto.,entailment
+Naanị site na enyemaka áfọ̀ ofufo ndị anyị na ha na-arụkọ ka anyị jiri nwee ị́ké ịnweta ọtụtụ ịhe.,Bill Gates nyere anyị onyinye nkwado nde $5. ,neutral
+Naanị site na enyemaka áfọ̀ ofufo ndị anyị na ha na-arụkọ ka anyị jiri nwee ị́ké ịnweta ọtụtụ ịhe.,"N'ihe otu ọnọdụ ahịa ego dị, ndị mmesapu aka anyị na ha na-arụkọ eweghachigo ego nille ha na-adị enye.",contradiction
+Naanị site na enyemaka áfọ̀ ofufo ndị anyị na ha na-arụkọ ka anyị jiri nwee ị́ké ịnweta ọtụtụ ịhe.,"Anyị gbalịrị nweta ọtụtụ ihe, n'ihi enyemaka mmesapu aka anyị nwetara.",entailment
+Daalụ maka ị kwado Indianapolis Museum of Arts na 1999.,Daalụ maka onyinye nkwado $100 ịnyere ndi Indianapolis Museum of Art.,neutral
+Daalụ maka ị kwado Indianapolis Museum of Arts na 1999.,Daalụ mana enweghị m ekele maka a naghị enye onyinye nkwado gị na 1999.,contradiction
+Daalụ maka ị kwado Indianapolis Museum of Arts na 1999.,Anyi nwere obi ụtọ n'ịnyeera aka  kwado ebe ihe ngosi ńkā.,entailment
+Olileanya m bụ na a gọziri gị agọzi nakwa gbaa gị ụme nke ukwuu site n'ihe a. ,E nwere m olileanya na nsogbu a nyere gị ịnụ ọkụ n'obi ọhụrụ.,entailment
+Olileanya m bụ na a gọziri gị agọzi nakwa gbaa gị ụme nke ukwuu site n'ihe a. ,"Ama m na ịhe na-eme gị obi mwute, mana lekwasị anya n'ezumike gị. ",contradiction
+Olileanya m bụ na a gọziri gị agọzi nakwa gbaa gị ụme nke ukwuu site n'ihe a. ,A maara m n'ịga eme ihe niile ịnwere ike ịlụso kansa ịnye nwa ara.,neutral
+Ọ dị mkpa na anyị geere gị ntị n'oge ichuntaego nke ngwụcha oge nke áfọ̀ a.,"Nke a bụ  ịchụnta inye onyinye  nkwado ikpeazụ anyị ga-enwe n'oge a, ya mere anyị chọrọ enyemaka gị!",entailment
+Ọ dị mkpa na anyị geere gị ntị n'oge ichuntaego nke ngwụcha oge nke áfọ̀ a.,Anyị nwere ichuntaego abụọ ọzọ n'àfọ́ a. ,contradiction
+Ọ dị mkpa na anyị geere gị ntị n'oge ichuntaego nke ngwụcha oge nke áfọ̀ a.,"Anyị chọrọ $100,000 ózọ̀ iji mee ókè ịchụnta ego anyị n'oge a.",neutral
+P.S. Onyinye gị dị mkpa nye mmemme ncheta áfọ̀ 85 anyị na-eme Ndianapolis Civic Theatre ụlọ kachasị okenye n'ime ụlọ ejije obodo na-arụ ọrụ kwa mgbe n'ime mba ahụ. ,"E nwere ụlọ ejije ózọ̀ mere mmemme ncheta 84th ha na nso nso a, mana ọ gbara ọkụ.",neutral
+P.S. Onyinye gị dị mkpa nye mmemme ncheta áfọ̀ 85 anyị na-eme Ndianapolis Civic Theatre ụlọ kachasị okenye n'ime ụlọ ejije obodo na-arụ ọrụ kwa mgbe n'ime mba ahụ. ,Anyị na-eme mmemme mgbape ụlọ ejije kachasị ọhụrụ na Indianapolis.,contradiction
+P.S. Onyinye gị dị mkpa nye mmemme ncheta áfọ̀ 85 anyị na-eme Ndianapolis Civic Theatre ụlọ kachasị okenye n'ime ụlọ ejije obodo na-arụ ọrụ kwa mgbe n'ime mba ahụ. ,Anyị nwere nnukwu an̄ụrị na ụlọ ejije ndị Indianapolis na-arụ ọrụ kemgbe áfọ̀ 85.,entailment
+"Ndị na-esonye ka a ga-enye aha, ebe obibi na akara ekwentị ndị na-abịa, gụnyekwara ozi gbasara ịhe ụlọ akwụkwọ ahụ chọrọ.",Ndị na-esonye ka a ga-enye ihe niile gbasara ndị a na-atuanya ha.,entailment
+"Ndị na-esonye ka a ga-enye aha, ebe obibi na akara ekwentị ndị na-abịa, gụnyekwara ozi gbasara ịhe ụlọ akwụkwọ ahụ chọrọ.",Ndị na-esonye ga-ebinye aka na nkwekọrịta na ha agaghịkwa ekwupụta ihe ha hụrụ tupu ha elee anya n'ozi ndị na-abịa abịa. ,neutral
+"Ndị na-esonye ka a ga-enye aha, ebe obibi na akara ekwentị ndị na-abịa, gụnyekwara ozi gbasara ịhe ụlọ akwụkwọ ahụ chọrọ.","Ndị na-esonye ga-ama naanị aha ndị a na-atụanya ha , ma ọ bụghị ebe obibi ha.",contradiction
+"Ebe nchekwa anụmanụ anyị bụ nke a ga-eji ịhe bayomes mee, nke na-ewepụta ụdịdị ọnọdụ mbụ ụmụ anụmanụ bi na ya. ",Biomes na-en̄omi gburugburu ebe obibi ụmụanụmanụ.,entailment
+"Ebe nchekwa anụmanụ anyị bụ nke a ga-eji ịhe bayomes mee, nke na-ewepụta ụdịdị ọnọdụ mbụ ụmụ anụmanụ bi na ya. ","N'ime ebe nchekwa anụmanụ anyị, anyị kwenyere na ebe obibi aka mere ka mma karịa ebe obibi diri onwe ya.",contradiction
+"Ebe nchekwa anụmanụ anyị bụ nke a ga-eji ịhe bayomes mee, nke na-ewepụta ụdịdị ọnọdụ mbụ ụmụ anụmanụ bi na ya. ",Biomes n'ụlọ anụ anyị dị oke ọnụ.,neutral
+Nkwado gị nye Goodwill ga-enye ọzụzụ ọrụ na ọrụ ndebe ịhe nyere ndị kachasị sie ị́ké izu n'etiti Indiana ọrụ bara uru.,Ndị mmadụ nọ na-etiti Indiana adịghị anata ọzụzụ ọrụ.,contradiction
+Nkwado gị nye Goodwill ga-enye ọzụzụ ọrụ na ọrụ ndebe ịhe nyere ndị kachasị sie ị́ké izu n'etiti Indiana ọrụ bara uru.,Ị kwado Goodwill ga-enye ndị Indiana ịhe nrite.,entailment
+Nkwado gị nye Goodwill ga-enye ọzụzụ ọrụ na ọrụ ndebe ịhe nyere ndị kachasị sie ị́ké izu n'etiti Indiana ọrụ bara uru.,Ịkwado Goodwill ga-ewetulata ọnụọgụgụ enweghị ọrụ.,neutral
+"Site na mbido dị ala ruo ogo dị elu taa dịka otu n'ime ebe ọmụmụ ahụike nọ na mba, naanị otu ụlọakwụkwọ ahụike dị na Indiana na-eto ọnụ ị nwe aha dara ụda.",Indiana nwere opekatampe ụlọakwụkwọ ahuike iri abụọ pụrụ iche.,contradiction
+"Site na mbido dị ala ruo ogo dị elu taa dịka otu n'ime ebe ọmụmụ ahụike nọ na mba, naanị otu ụlọakwụkwọ ahụike dị na Indiana na-eto ọnụ ị nwe aha dara ụda.",Steeti Indiana nwere naanị otu ụlọakwụkwọ ahụike.,entailment
+"Site na mbido dị ala ruo ogo dị elu taa dịka otu n'ime ebe ọmụmụ ahụike nọ na mba, naanị otu ụlọakwụkwọ ahụike dị na Indiana na-eto ọnụ ị nwe aha dara ụda.",Agaghị enwezị ụlọakwụkwọ ahuike ọzọ na Indiana n'afọ ise na-abịanụ.,neutral
+"Kosinadi, ịhe ejije na-akarị n'ọnụ ego akwụkwọ iwu, jonalu, na ọrụ ọ́bádátà pụtara na ijide otu anyị si enweta ego ugbu a ga agafe ego anyị mapụtara.",Ịchekwa ihe ndi anyi wekọtara ugbu a n'ewe naanị otu ụzọ n'ụzọ atọ nke ego a mapụtara  n'afọ maka ya.,contradiction
+"Kosinadi, ịhe ejije na-akarị n'ọnụ ego akwụkwọ iwu, jonalu, na ọrụ ọ́bádátà pụtara na ijide otu anyị si enweta ego ugbu a ga agafe ego anyị mapụtara.",Ego mmapụta anyị ugbu a anaghị enye anyị ị́ké ejide ego anyị na-anata ugbu a.,entailment
+"Kosinadi, ịhe ejije na-akarị n'ọnụ ego akwụkwọ iwu, jonalu, na ọrụ ọ́bádátà pụtara na ijide otu anyị si enweta ego ugbu a ga agafe ego anyị mapụtara.","Anyị chọrọ ọpekatampe $10,000 n'ihe onyinye  nkwado ka o nye anyị ohere ichekwa ihe ndị anyị wekọtara ugbu a.",neutral
+Anyị ga-agba mbọ kpọtụrụ onye ọbụla n'ime unu na-esonyebeghị n'ihe ego n'àfọ́ a n'ime ụbọchị 45 na-abịa abịa ka ebumnuche anyị bụrụ nke ga-emezu na ngwụcha ụbọchị nke Juun 30.,Anyị ebughị n'obi ma ncha ịkpọtụrụ ndị na-enyebeghị ihe onyinye nkwado n'oge ndekọ afọ a.,contradiction
+Anyị ga-agba mbọ kpọtụrụ onye ọbụla n'ime unu na-esonyebeghị n'ihe ego n'àfọ́ a n'ime ụbọchị 45 na-abịa abịa ka ebumnuche anyị bụrụ nke ga-emezu na ngwụcha ụbọchị nke Juun 30.,Anyị ga-edegara ndị ahụ na-ewetabeghi onyinye nkwado n'àfọ́ a akwụkwọ n'ime ụbọchị 45 na-abịa abịa.,neutral
+Anyị ga-agba mbọ kpọtụrụ onye ọbụla n'ime unu na-esonyebeghị n'ihe ego n'àfọ́ a n'ime ụbọchị 45 na-abịa abịa ka ebumnuche anyị bụrụ nke ga-emezu na ngwụcha ụbọchị nke Juun 30.,Anyị ga-agbalị ịkpọtụrụ ndị na-enyebeghị ihe onyinye n'oge ndekọ afọ a n'ime mkpụrụ ụbọchị 45 na-abịanụ.,entailment
+"Dịka onye otu ụlọakwụkwọ iwu ahụ ___, ama m na-ịmara maka agamnihu anyị.",A bụ m onye otu ụlọakwụkwọ iwu.,neutral
+"Dịka onye otu ụlọakwụkwọ iwu ahụ ___, ama m na-ịmara maka agamnihu anyị.",O nweghị onye ụlọ akwụkwọ iwu ahụ nwere.,contradiction
+"Dịka onye otu ụlọakwụkwọ iwu ahụ ___, ama m na-ịmara maka agamnihu anyị.",Ụlọakwụkwọ iwu anabatala ndị mmadụ.,entailment
+"Ego ịji m rụpụta ụlọ ndị a gafere ego ole ndị ahịa ga-akwụ, ya mere anyị na-adabere n'ego ọha nyere na onyinye nkwado ndị mmadụ na-eweta ịji mee ka o kwe nzuta.",Ịkepụta ebe obibi ndị a bụ na-akwụghị ụgwọ kpam kpam.,contradiction
+"Ego ịji m rụpụta ụlọ ndị a gafere ego ole ndị ahịa ga-akwụ, ya mere anyị na-adabere n'ego ọha nyere na onyinye nkwado ndị mmadụ na-eweta ịji mee ka o kwe nzuta.",Ụlọ ndị ahụ chọrọ ka e kepụta ngwa ọrụ.,entailment
+"Ego ịji m rụpụta ụlọ ndị a gafere ego ole ndị ahịa ga-akwụ, ya mere anyị na-adabere n'ego ọha nyere na onyinye nkwado ndị mmadụ na-eweta ịji mee ka o kwe nzuta.",Ebe obibi ndị a dị oke ọnụ n'ị̀rụ̀ ya karịa ka esi tụanya.,neutral
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,Nne na nna ndị natụ ụjọ bụ otu ahịa ebumnuche n'akụkọ kwa izu.,entailment
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,Akwụkwọ nta akụkọ kwa izu na-eme ka azụ akwụkwọ ha bụrụ nke ga-amasị ụmụaka maọbụ ndị okenye.,contradiction
+Ngwa akwụkwọ nta akụkọ kwa izu na-enye ndị nnenanna ụjọ na-atụ ịhe ha na-achọ.,"Ndị nne na nna nwere ike inye ego iji zụta ụgbọala ọhụụ, neme mpaghara mgbasa ozi akwụkwọ magazịịnị ka ọ na-aga aga.",neutral
+Akụkọ e jiri ịhụ akwụkwọ Time mee bụ mmemme ụzọ 12 nke Bill Gates maka ịme nkeọma n'àfọ́ dijitalu.,Kim Kardashian dere ndị Time magazịịnị nchịkọta akụkọ maka ụzọ 12 achọrọ maka ịnwe mmeri n'afọ dijitalụ,contradiction
+Akụkọ e jiri ịhụ akwụkwọ Time mee bụ mmemme ụzọ 12 nke Bill Gates maka ịme nkeọma n'àfọ́ dijitalu.,Time magazịịnị nwere foto Bill Gates n'ihu akwụkwọ. ,neutral
+Akụkọ e jiri ịhụ akwụkwọ Time mee bụ mmemme ụzọ 12 nke Bill Gates maka ịme nkeọma n'àfọ́ dijitalu.,Ndị Time magazịịnị na-achịkọba akụkọ gbasara Bill Gates na mmeri dị n'afọ dijitalụ.,entailment
+"Gaa Ọsọ Na-ekwughị Okwu, Gbaa ba Ọsọ Ịme, Gbaa Ọsọ Osisa ahụ. ","Gbaa ọsọ dịka ị na-eme mkpọtụ.
+",contradiction
+"Gaa Ọsọ Na-ekwughị Okwu, Gbaa ba Ọsọ Ịme, Gbaa Ọsọ Osisa ahụ. ",Gbaa ọsọ na-efe aka ga. ,neutral
+"Gaa Ọsọ Na-ekwughị Okwu, Gbaa ba Ọsọ Ịme, Gbaa Ọsọ Osisa ahụ. ",Gbaa ọsọ n'anụghị olu gị.,entailment
+Paul na-adị ka ọ na-eche na Alan Greenspan bụ onye na-ekwenye n'uche nke onwe ya onye nwere ị́ké ituzi aka n'ihe gbasara ọnọdụ enweghị ọrụ dịka ituzi aka ụfọdụ ụkpụrụ mkpata na mefu ego. ,Alan Greenspan nwere ụkpụrụ akụ na ụba gbasara ọnụọgụgụ enweghị ọrụ.,entailment
+Paul na-adị ka ọ na-eche na Alan Greenspan bụ onye na-ekwenye n'uche nke onwe ya onye nwere ị́ké ituzi aka n'ihe gbasara ọnọdụ enweghị ọrụ dịka ituzi aka ụfọdụ ụkpụrụ mkpata na mefu ego. ,Paul a nụbeghị maka Alan Greenspan maọbu ịhe okwuru maka mkpata na mefu ego. ,contradiction
+Paul na-adị ka ọ na-eche na Alan Greenspan bụ onye na-ekwenye n'uche nke onwe ya onye nwere ị́ké ituzi aka n'ihe gbasara ọnọdụ enweghị ọrụ dịka ituzi aka ụfọdụ ụkpụrụ mkpata na mefu ego. ,Paul na-eche na Alan Greenspan bụ onye ọka mmụta akụ na ụba kachasi mara ihe.,neutral
+"Site na enyemaka Microsoft Helpdesk ka m nwee ị́ké chọpụta na draivu CD-ROM m nwere ị́ké bụrụ na ọ gbakwunyere na saund kaadị m na ọ bụghị na IDE pọt, na yamere ọ na-emebi Linux. ",Ọ nwebeghị ihe mụ na Linux mekọrọ.,contradiction
+"Site na enyemaka Microsoft Helpdesk ka m nwee ị́ké chọpụta na draivu CD-ROM m nwere ị́ké bụrụ na ọ gbakwunyere na saund kaadị m na ọ bụghị na IDE pọt, na yamere ọ na-emebi Linux. ",Ọ na-ara m ahụ n'igbakwunye Linux na modem mụ.,neutral
+"Site na enyemaka Microsoft Helpdesk ka m nwee ị́ké chọpụta na draivu CD-ROM m nwere ị́ké bụrụ na ọ gbakwunyere na saund kaadị m na ọ bụghị na IDE pọt, na yamere ọ na-emebi Linux. ",Ana m enwebụ nsogbu na Linux.,entailment
+"Steve, enweghị m ị́ké iwelite akpa ego gị, Hatch gwa ghaghị. ",Hatch kwuru n'oke iwe na ọ gaghị enwe ị́ké iwelite akpa ego Steve.,neutral
+"Steve, enweghị m ị́ké iwelite akpa ego gị, Hatch gwa ghaghị. ",Hatch enweghị okwu ọnụ maka akpa ego Steve. ,contradiction
+"Steve, enweghị m ị́ké iwelite akpa ego gị, Hatch gwa ghaghị. ",Hatch mara njakịrị na ọ gaghị enwe ị́ké iwelite akpa ego Steve.,entailment
+"Ndị Nerd ndị na-anọ na klasị mkpata-na-mefu-ego na kọmputa, nwere ọnọdụ enweghị olileanya karịa. ",Ndị Nerds enweghị olileanya.,entailment
+"Ndị Nerd ndị na-anọ na klasị mkpata-na-mefu-ego na kọmputa, nwere ọnọdụ enweghị olileanya karịa. ",Ndị Nerds anaghị adị mma na mkparịta ụka ibe na ibe. ,neutral
+"Ndị Nerd ndị na-anọ na klasị mkpata-na-mefu-ego na kọmputa, nwere ọnọdụ enweghị olileanya karịa. ",Ndị Nerds nwere ọdịnihu.,contradiction
+Kedụ nke ka nke News Quiz nwere ị́ké ikwe nkwa maka Fox. ,Opekariri News Quiz nwere ị́ké ikwe nkwa maka Fox. ,contradiction
+Kedụ nke ka nke News Quiz nwere ị́ké ikwe nkwa maka Fox. ,Ọ dị karịa ka News Quiz nwere ị́ké ikwe Fox nkwa. ,entailment
+Kedụ nke ka nke News Quiz nwere ị́ké ikwe nkwa maka Fox. ,O nwere ị́ké ịkarịa News Quiz ga-ekwu maka Fox/,neutral
+Uto ọṅụ ọgụgụ ndị mmadụ dịka mmetọ ikuku na ntụgharị. ,Mmetọ ikuku bụ ihe ngbochi uto ọnụ ọgụgụ ndị mmadụ.,neutral
+Uto ọṅụ ọgụgụ ndị mmadụ dịka mmetọ ikuku na ntụgharị. ,Uto ọṅụ ọgụgụ ndị mmadụ na-adị ka mmetọ ikuku na mbata. ,entailment
+Uto ọṅụ ọgụgụ ndị mmadụ dịka mmetọ ikuku na ntụgharị. ,Ọ dịghị ihe jikọrọ mmetọ na uto ọnụ ọgụgụ.,contradiction
+"Ọdịmma, gụnyere na Bill Bradley toputara na St. Louis chere, iwe ewela gị, na ọ ga-atọ ọchị naanị ma AI Gore o toputaara na Tennessee. ",Bradley sibu na Arkansas. ,contradiction
+"Ọdịmma, gụnyere na Bill Bradley toputara na St. Louis chere, iwe ewela gị, na ọ ga-atọ ọchị naanị ma AI Gore o toputaara na Tennessee. ",Bradley sibu na Missouri. ,entailment
+"Ọdịmma, gụnyere na Bill Bradley toputara na St. Louis chere, iwe ewela gị, na ọ ga-atọ ọchị naanị ma AI Gore o toputaara na Tennessee. ",Bradley sibu n'akụkụ ọwụwa anyawụ St. Louis.,neutral
+"Sabol kwuru na o kwesịrị ịkwụsị zurutu ị́ké na mgbe na mgbe, mana ọbụladị nke ahụ bụ ịhe e nwere ị́ké ịhazi. ",Sabol kwuru na ya a choghi ịkwụsị zurutu ị́ké  ndi ahu niile. ,neutral
+"Sabol kwuru na o kwesịrị ịkwụsị zurutu ị́ké na mgbe na mgbe, mana ọbụladị nke ahụ bụ ịhe e nwere ị́ké ịhazi. ",Sabol ekwuola na ugboro ugboro na o kwesịrị ịkwụsị zurutu ike. ,entailment
+"Sabol kwuru na o kwesịrị ịkwụsị zurutu ị́ké na mgbe na mgbe, mana ọbụladị nke ahụ bụ ịhe e nwere ị́ké ịhazi. ",Sabol kwuru na ọ chọghị ije ezumike ọ bụla.,contradiction
+Gịnị kpatara nke a anaghị emetụta weebụ ahụ? ,Nke a na-emetụta na weebụ. ,contradiction
+Gịnị kpatara nke a anaghị emetụta weebụ ahụ? ,Nke a anaghị emetụta weebụ ahụ ugbu a. ,entailment
+Gịnị kpatara nke a anaghị emetụta weebụ ahụ? ,Nke a nwere ike ịmetụta ọnọdụ ụfọdụ na weebụ. ,neutral
+"Ndị uwe ojii kwupụtara na ha ewepụla nwanna nwoke na nwanna nwaanyị Jon Benet Ramsey ka ndị áká ha dị n'ogbugbu e gburu ya, site n'ịhe a na-ahụ anya maka na ha abụọ anọghị n'ime obodo mgbe e meere mpụ ahụ. ",Nwanna nwoke Jon Benet Ramsey anọghị n'ime obodo mgbe egburu mmadụ.,entailment
+"Ndị uwe ojii kwupụtara na ha ewepụla nwanna nwoke na nwanna nwaanyị Jon Benet Ramsey ka ndị áká ha dị n'ogbugbu e gburu ya, site n'ịhe a na-ahụ anya maka na ha abụọ anọghị n'ime obodo mgbe e meere mpụ ahụ. ",Nwanna nwaanyị Jon Benet Ramsey nwere ịhe akaebe doro anya maka na ọ nọghị n'ime obodo mgbe e meere mpụ ahụ. ,neutral
+"Ndị uwe ojii kwupụtara na ha ewepụla nwanna nwoke na nwanna nwaanyị Jon Benet Ramsey ka ndị áká ha dị n'ogbugbu e gburu ya, site n'ịhe a na-ahụ anya maka na ha abụọ anọghị n'ime obodo mgbe e meere mpụ ahụ. ",E nwere ihe akaebe zuru ezu aga eji nwụchie nwanna nwoke Jon Benet Ramsey dịka ogbu mmadu.,contradiction
+O dochaghị gị anya na ị na-enwe anya odido gbasara onye ị kwu n'akụkụ ya. ,O doro anya onye  ị na-akwado.,contradiction
+O dochaghị gị anya na ị na-enwe anya odido gbasara onye ị kwu n'akụkụ ya. ,Anyị amaghị onye ị na-akwado na ndọrọndọrọ ọchịchị ahụ. ,neutral
+O dochaghị gị anya na ị na-enwe anya odido gbasara onye ị kwu n'akụkụ ya. ,Anyị amaghị onye  ị na-akwado.,entailment
+"Otu ụbọchị, tekinọlọji nke na-eweta ahịa nye ndị nwere ọhụ ga-abụ ịhe nkịtị dịka oriọna ndị na-eweta ọ́kụ́. ",Tekinọlọji na-agwụ ike ma ọ gachaa nwa oge.,entailment
+"Otu ụbọchị, tekinọlọji nke na-eweta ahịa nye ndị nwere ọhụ ga-abụ ịhe nkịtị dịka oriọna ndị na-eweta ọ́kụ́. ",Tekinọlọji na-abụkarị nọ ịhe ụtọ! ,contradiction
+"Otu ụbọchị, tekinọlọji nke na-eweta ahịa nye ndị nwere ọhụ ga-abụ ịhe nkịtị dịka oriọna ndị na-eweta ọ́kụ́. ",Tekinọlọjii na-agwụ ike ma ọ bụrụ na ịdịghị agbanwe ya.,neutral
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,Ọ zighị ezi ịwere ụdị ọzọ ka ọ bụrụ na-eso ibe ya.,entailment
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,E nwere ikikere n'eso ibe ya nọchie ụdịdị ọzọ. ,contradiction
+E kwesịghị ị ji ụdị ọzọ nọchite anya na-eso ibe ya.,Ọtụtụ ndị mmadụ amaghị otu esi eji ụdị ọzọ na na-eso ibe ya n'ụzọ ziri ezi.,neutral
+"Mgbe ọ banyere áfọ̀ iri isii ya, na 1895, Skeat nyere ịhe gosiri na ọ ná-ebido eweghị ihe ndị a kpọrọ cha ịhe. ",Dịka Skeat banyere afọ iri isii ya o gosighị ihe ọ bụla na ọ n'eche echiche banyere ihe ọ bụla.,contradiction
+"Mgbe ọ banyere áfọ̀ iri isii ya, na 1895, Skeat nyere ịhe gosiri na ọ ná-ebido eweghị ihe ndị a kpọrọ cha ịhe. ",Ka Skeat na-emekwu agadi ọ na-enye ịhe na-egosi na o jighị ịhe ndị a kpọrọ ịhe. ,entailment
+"Mgbe ọ banyere áfọ̀ iri isii ya, na 1895, Skeat nyere ịhe gosiri na ọ ná-ebido eweghị ihe ndị a kpọrọ cha ịhe. ",Skeat malitere ịnwe mmasị n'ihe dị iche iche dịka ọ neme agadi.,neutral
+"..., mana oge nke abụọ nzụte ahụ bụ e jidere ya n'etiti enyị abụọ. ","Ọ maghị akụkụ nke ọ ga-aghọrọ, n'etiti ndị enyi ya abụọ.",neutral
+"..., mana oge nke abụọ nzụte ahụ bụ e jidere ya n'etiti enyị abụọ. ","O nwere naanị otu nzute, nke gunyere enyi ya. ",contradiction
+"..., mana oge nke abụọ nzụte ahụ bụ e jidere ya n'etiti enyị abụọ. ","N'oge nke abụọ nzute ahụ gụnyere mmadụ atọ.
+",entailment
+"Kedụ nke ị kaara nwee mmasị na ya, mgbakọnamwepụ ka ọbụ sayensị? ",Ị nwere mmasị karịa na mgbakọnamwepụ  ka ọ bụ sayensị?,entailment
+"Kedụ nke ị kaara nwee mmasị na ya, mgbakọnamwepụ ka ọbụ sayensị? ","Gịnị ka ị kacha kpọ asị, bekee ka ọbụ fịlọsọfị? ",contradiction
+"Kedụ nke ị kaara nwee mmasị na ya, mgbakọnamwepụ ka ọbụ sayensị? ",Ị nwere ike ịhụ ihe ndị ọzọ n'anya na-abughị mgbakọnamwepụ na sayensị.,neutral
+"Site n'oge na tekinọlọji na-abawanye, ekwentị ndị niile na-enweghi redio nwere ị́ké ị bụzi ndị a na-akpọ ekwentị waya. ",Ekwentị enweghị redio ga-abịa n'isi njedebe dịka ekwentị waya.,entailment
+"Site n'oge na tekinọlọji na-abawanye, ekwentị ndị niile na-enweghi redio nwere ị́ké ị bụzi ndị a na-akpọ ekwentị waya. ",Ekwentị ga-aruwaga ọrụ site na tekinọlọji. ,neutral
+"Site n'oge na tekinọlọji na-abawanye, ekwentị ndị niile na-enweghi redio nwere ị́ké ị bụzi ndị a na-akpọ ekwentị waya. ",Ekwentị waya dị mkpa karịa ekwentị na-enweghị redio.,contradiction
+"Ahịrịokwu nke ikpeazụ, Anyị bụ n'obi, ka o si dị, na ị tinyebeghị edemede a n'ebe ọzọ. ",Ạnyị were ya na-igosibeghị onye ọ  bụla ọzọ edemede a.,entailment
+"Ahịrịokwu nke ikpeazụ, Anyị bụ n'obi, ka o si dị, na ị tinyebeghị edemede a n'ebe ọzọ. ",Anyị na-aghọta na ị bipụtabuola edemede a n'akwụkwọ mgbasa ozi ise. ,contradiction
+"Ahịrịokwu nke ikpeazụ, Anyị bụ n'obi, ka o si dị, na ị tinyebeghị edemede a n'ebe ọzọ. ",Anyị ga-achọ ka ibinyeaka n'akwụkwọ iji kwenye na ọ bụ naanị anyị ka igosigoro edemede a.,neutral
+ezigbo nwanne nwoke - - okwu a nke e ji eme ịhe bụ nke e jizi eme ịhe ugbu a bụ nke ahụrụ na Julius Caesar (iv. ,"N'ime Julius Caesar, eji mkpụrụ okwu ezigbo nwanne nwoke mee ihe.",entailment
+ezigbo nwanne nwoke - - okwu a nke e ji eme ịhe bụ nke e jizi eme ịhe ugbu a bụ nke ahụrụ na Julius Caesar (iv. ,Mkpụrụ okwu ezigbo nwanne nwoke bụ nke e ji goro mee ihe naanị kemgbe 20th Century. ,contradiction
+ezigbo nwanne nwoke - - okwu a nke e ji eme ịhe bụ nke e jizi eme ịhe ugbu a bụ nke ahụrụ na Julius Caesar (iv. ,Ạ na eji mkpụrụ okwu ezigbo nwanne nwoke iji rụtụ aka ka ọ́gọ̀ nwoke.,neutral
+"Ọ bụrụ otú ahụ, e nwere ị́ké ịme ha ka ha zụrụ agba nke a maka na o nwere ịhụ akwụkwọ 55 nwere okwu, nkọwa, na mkpọpụta a na-ebipụtaghị mbụ. ",Akwụkwọ a nwere ọtụtụ mkpuruokwu ohụụ ebipụtaghị n'oge mbụ.,entailment
+"Ọ bụrụ otú ahụ, e nwere ị́ké ịme ha ka ha zụrụ agba nke a maka na o nwere ịhụ akwụkwọ 55 nwere okwu, nkọwa, na mkpọpụta a na-ebipụtaghị mbụ. ",Agba nke a bụ otu ịhe na agba nke mbụ. ,contradiction
+"Ọ bụrụ otú ahụ, e nwere ị́ké ịme ha ka ha zụrụ agba nke a maka na o nwere ịhụ akwụkwọ 55 nwere okwu, nkọwa, na mkpọpụta a na-ebipụtaghị mbụ. ",Agba nke a rere akwụkwọ ihe kariri narị puku ise n'afọ mbụ ya.,neutral
+"Anyị nwere ịhe dịka ọ ga-eyi anyị egwu site n'otu ha dị, mana anyị riri ya - - na-enweghị ọnụnọ ọ́kụ́ n'obi, mana site egbugbere ọnụ elu kpọrọ nkụ, dika a na-ekwu, ịji mmiri ara nne anyị. ",Onye ọ bụla ji ịnụ ọkụ n'obi rie nri ha ma kwuo na o chetara ha maka efere nri kacha amasị ha n'oge ezumike.,contradiction
+"Anyị nwere ịhe dịka ọ ga-eyi anyị egwu site n'otu ha dị, mana anyị riri ya - - na-enweghị ọnụnọ ọ́kụ́ n'obi, mana site egbugbere ọnụ elu kpọrọ nkụ, dika a na-ekwu, ịji mmiri ara nne anyị. ",Anyị nwere nkwagide ị́rị̀ ịhe e chere n'ihu anyị maka na anyị achọghị ikpasu ndị anyị bịara n'ụlọ ha iwe. ,neutral
+"Anyị nwere ịhe dịka ọ ga-eyi anyị egwu site n'otu ha dị, mana anyị riri ya - - na-enweghị ọnụnọ ọ́kụ́ n'obi, mana site egbugbere ọnụ elu kpọrọ nkụ, dika a na-ekwu, ịji mmiri ara nne anyị. ","Anyi ejighị ịnụ ọkụ n'obi rie ihe e nyere anyị , n'agbanyeghị na anyị e nweghị mmasi na ya maka etu ihu ya dị.",entailment
+Kedụ afọ ole ndị ntorobịa dị? ,Ạma m kpọmkwem afọ ole ndị ntorobia dị.,contradiction
+Kedụ afọ ole ndị ntorobịa dị? ,Ndị ntorobịa bụ otú ndị mmadụ na-enwe nsogbu ị tinye ha site na áfọ̀ ole ha dị.,entailment
+Kedụ afọ ole ndị ntorobịa dị? ,Ndị ntorobia niile nọ n'okpuru afọ iri abụọ na ise.,neutral
+"Ọzọkwa, otu ha siri ahụta oge dị okirikiri, ọ kwughị ọtọ, ya mere ị gosi ka oge si aga adịghị mkpa ka ịme mmemme nlọta oge ihe omume ga. ","Dịka otu ha si ahụta oge ka ọ kwụ ọtọ, ka oge si aga ka di mkpa na nke nloghachi oge ihe omume. ",contradiction
+"Ọzọkwa, otu ha siri ahụta oge dị okirikiri, ọ kwughị ọtọ, ya mere ị gosi ka oge si aga adịghị mkpa ka ịme mmemme nlọta oge ihe omume ga. ","Maka ha na-ahụta oge dịka ịhe na-agba okirikiri, nlọghachi ịhe na-eme kwa mgbe kaara dịrị ha mkpa.",entailment
+"Ọzọkwa, otu ha siri ahụta oge dị okirikiri, ọ kwughị ọtọ, ya mere ị gosi ka oge si aga adịghị mkpa ka ịme mmemme nlọta oge ihe omume ga. ",Ha na-eme mmeme nwere oge maka ha kwenyere na oge bụ ihe na-agba okirikiri ka s.,neutral
+"Ịji ma atụ,ụfọdụ nwere ịhe mepụta pụrụ iche e wepụrụ n'akụrụngwa e jiri maọbụ ebe ahụ a na-egwu egwuregwu ahụ.",E nyere egwuregwu niile aha site na akọrọngwa eji eme ihe n'egwuregwu ahụ.,contradiction
+"Ịji ma atụ,ụfọdụ nwere ịhe mepụta pụrụ iche e wepụrụ n'akụrụngwa e jiri maọbụ ebe ahụ a na-egwu egwuregwu ahụ.",Ụfọdụ egwuregwu abụghị nke e nyere aha site na akọrọngwa maọbụ ebe a na-eme ha. ,entailment
+"Ịji ma atụ,ụfọdụ nwere ịhe mepụta pụrụ iche e wepụrụ n'akụrụngwa e jiri maọbụ ebe ahụ a na-egwu egwuregwu ahụ.",Nke a na-emekari mgbe ejiri akọrọngwa dị adị n'egwuregwu ndị ọzọ wee kepụta otu egwuregwu.,neutral
+"A bịa n'ihe chere áká mgba, a ka m na-achọ mkpụrụ okwu nke e nwere ị́ké ịgbubi nhatanha obere ụzọ abụọ.",Achọpụtara m mkpuruokwu atọ e nwere ị́ké ịgbubi nhatanha obere ụzọ abụọ.,contradiction
+"A bịa n'ihe chere áká mgba, a ka m na-achọ mkpụrụ okwu nke e nwere ị́ké ịgbubi nhatanha obere ụzọ abụọ.",Enwebeghị m oge dị mfe ịchọputa otu mkpụrụ okwu e nwere ị́ké ịgbubi ụzọ abụọ nhatanha nwa obere.,entailment
+"A bịa n'ihe chere áká mgba, a ka m na-achọ mkpụrụ okwu nke e nwere ị́ké ịgbubi nhatanha obere ụzọ abụọ.","E nwela m mmasị  n'asụsụ, kemgbe m mmechara klas mmeghe afọ gara aga.",neutral
+"Mana ịhe nkọwa a nọ n'ebe ekele ka a na-etinyeghi n'ime nkọwa ahụ, hapụzie ọguu ka ọ nọrọ na mgbagwoju anya karịa ka ọ dị mbụ.",Eji akwụkwọ ahụ kwanyere nne onye dere ya ùgwù.,neutral
+"Mana ịhe nkọwa a nọ n'ebe ekele ka a na-etinyeghi n'ime nkọwa ahụ, hapụzie ọguu ka ọ nọrọ na mgbagwoju anya karịa ka ọ dị mbụ.",Nkọwa ahụ metụtara áká n'ihe niile ọguu nwere ị́ké ịchọ ka ọ mata.,contradiction
+"Mana ịhe nkọwa a nọ n'ebe ekele ka a na-etinyeghi n'ime nkọwa ahụ, hapụzie ọguu ka ọ nọrọ na mgbagwoju anya karịa ka ọ dị mbụ.",Ntulegharị ahụ emetutaghi áká n'ụfọdụ ozi dị oke mkpa site n'ozi ekele. ,entailment
+Na ngwụcha áfọ̀ ndị dị na 19th century e nwere mkparịta uka dịka nke ahụ gbasara okwu ahụ,Ha mechara kpebie na ha anabataghị okwu ahụ n'agwa nnọnyelụ di mma.,neutral
+Na ngwụcha áfọ̀ ndị dị na 19th century e nwere mkparịta uka dịka nke ahụ gbasara okwu ahụ,Mkpụrụ okwu ahụ bụ ịhe eji aririta ụka ọtụtụ àfọ́ gaara aga.,entailment
+Na ngwụcha áfọ̀ ndị dị na 19th century e nwere mkparịta uka dịka nke ahụ gbasara okwu ahụ,A gbahapụrụ ma chefuo okwu ahụ tupu 19th century bịa n'isi njedebe.,contradiction

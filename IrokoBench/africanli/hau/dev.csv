@@ -1,0 +1,451 @@
+premise,hypothesis,label
+"Sai ya ce, Mama na dawo gida.","Ya kira babar sa, sanda motar makarantar ta sauke shi.",neutral
+"Sai ya ce, Mama na dawo gida.",Bai ce ko kalma ɗaya ba.,contradiction
+"Sai ya ce, Mama na dawo gida.",Ya fadawa babar sa yaji gida.,entailment
+"Ban san komai ba akan me zanje yi ba, balle na je wani keɓantaccen wuri a Washington.","Ban taɓa zuwa Washington ba, dan haka lokacin da ka tura ni wajan, Sai dana ɓata ina ƙoƙarin gano wajan.",neutral
+"Ban san komai ba akan me zanje yi ba, balle na je wani keɓantaccen wuri a Washington.",Na san abinda nake bukatar yi yayin da na shiga Washington. ,contradiction
+"Ban san komai ba akan me zanje yi ba, balle na je wani keɓantaccen wuri a Washington.","Bani da tabbas kan me zanyi, dan haka naje Washington inda aka tura ni nayi naje.",entailment
+Bai samu zuwa ba.,Shine na farkon gayyata kuma yaji daɗin yanayin.,contradiction
+Bai samu zuwa ba.,Ba'a bashi damar halarta ba.,entailment
+Bai samu zuwa ba.,Ba'a bashi damar halattar taron buɗe gidan ajiyar kayan tarihin ba.,neutral
+"Kuma kawai sai naji Hakane, wannan din ne.","Bayan nace e, ya ƙare.",entailment
+"Kuma kawai sai naji Hakane, wannan din ne.",Nace a'a amma yaci gaba da ja-in-ja.,contradiction
+"Kuma kawai sai naji Hakane, wannan din ne.","Lokacin da nace E, muka yanke shawarar yin aure a wannan ranar.",neutral
+Ina wajen dai kawai ina ƙoƙarin gano shi.,Na fahimta sosai tun daga farko. ,contradiction
+Ina wajen dai kawai ina ƙoƙarin gano shi.,Ina ƙoƙarin gano inda kuɗin shige.,neutral
+Ina wajen dai kawai ina ƙoƙarin gano shi.,Ina ƙoƙarin ganewa.,entailment
+"Kuma kakar mu tana bamu labarin yadda yayar ta da mijinta suka yanke shawarar koma wa cikin gari zuwa Augusta, su koma farare.",Yayar kakar fara ce kuma ta koma Texas.,contradiction
+"Kuma kakar mu tana bamu labarin yadda yayar ta da mijinta suka yanke shawarar koma wa cikin gari zuwa Augusta, su koma farare.",Yayar Kakar ba fara ce ba.,entailment
+"Kuma kakar mu tana bamu labarin yadda yayar ta da mijinta suka yanke shawarar koma wa cikin gari zuwa Augusta, su koma farare.",Yayar kakar ba fara bace amma ta so ta zama dan ta iya zuwa makaranta. ,neutral
+"Amma shine ne, ka sani,  ta hanyoyi da yawa kamar ɗan mai gona saboda yaron wannan mutumin ne da yake da kadarori da yawa. ",Baban sa bai taɓa mallakar komai ba a rayuwar sa.,contradiction
+"Amma shine ne, ka sani,  ta hanyoyi da yawa kamar ɗan mai gona saboda yaron wannan mutumin ne da yake da kadarori da yawa. ",Baban sa yana da eka 2000 ta gona.,neutral
+"Amma shine ne, ka sani,  ta hanyoyi da yawa kamar ɗan mai gona saboda yaron wannan mutumin ne da yake da kadarori da yawa. ",Baban sa yana da kadarori da yawa,entailment
+Amma aiki na shine na saka wannan lema a jikin shi da kuma abubuwan kariya idan zaa aika kayan zuwa kasashen waje.,Bani da aikin yi dan haka kawai na ajjiye duk akwatunan a gida.,contradiction
+Amma aiki na shine na saka wannan lema a jikin shi da kuma abubuwan kariya idan zaa aika kayan zuwa kasashen waje.,Na fitar da akwatinan zuwa Japan ta ruwa.,neutral
+Amma aiki na shine na saka wannan lema a jikin shi da kuma abubuwan kariya idan zaa aika kayan zuwa kasashen waje.,Na fitar dasu ta ruwa.,entailment
+"Yanzu hakan ne, uh na bar maɓellin a jiki.","sai da na tabbatar da maɓallin a ɓalle yake sosai, dan na samu cikakken tsaro.",neutral
+"Yanzu hakan ne, uh na bar maɓellin a jiki.",Ta haka dai na iya fidda maɓellin.,contradiction
+"Yanzu hakan ne, uh na bar maɓellin a jiki.",Haka daidai yadda na tamke shi.,entailment
+"Kuma, shi mai neman mata ne, kuma Eh, kullum yana waje, kuma, ah, dan haka,  bana son shi, amma kome ne ma wadannan labaraina ne.",Ya kasance mai gaskia da kirki.,contradiction
+"Kuma, shi mai neman mata ne, kuma Eh, kullum yana waje, kuma, ah, dan haka,  bana son shi, amma kome ne ma wadannan labaraina ne.",Na tsane shi saboda yana da girman kai.,neutral
+"Kuma, shi mai neman mata ne, kuma Eh, kullum yana waje, kuma, ah, dan haka,  bana son shi, amma kome ne ma wadannan labaraina ne.",Ni ba mai ra'ayi sa bane.,entailment
+"Bayan na ja, shima sai ya jawo labule dan na fara jawo shi waje, sai ya nuna wasu kayan a gefen hagu a cikin  jirgin suka narke lokacin tafiyar da jirgin yayi. ",Duka kayayyakin aikin cikin jirgin saman sun cika cifcif.,contradiction
+"Bayan na ja, shima sai ya jawo labule dan na fara jawo shi waje, sai ya nuna wasu kayan a gefen hagu a cikin  jirgin suka narke lokacin tafiyar da jirgin yayi. ",Fito da shi yayi wuya.,neutral
+"Bayan na ja, shima sai ya jawo labule dan na fara jawo shi waje, sai ya nuna wasu kayan a gefen hagu a cikin  jirgin suka narke lokacin tafiyar da jirgin yayi. ",Akwai kayayyakin aiki a cikin jirgin saman da suka narke.,entailment
+"Kuma, bata gane ba fa.","Kash, ta kasa ganewa sosai saboda banbancin yare.",neutral
+"Kuma, bata gane ba fa.","Tabbas, ba ta fahimta ba.",entailment
+"Kuma, bata gane ba fa.",Ta san hakikanin abinda suke magana akai.,contradiction
+Watakila ta faɗawa kowa kuma ban bada hankali na ba a lokacin.,Ban ji ta ba lokacin da take faɗawa kowa.,entailment
+Watakila ta faɗawa kowa kuma ban bada hankali na ba a lokacin.,Naji duka abinda ta faɗa.,contradiction
+Watakila ta faɗawa kowa kuma ban bada hankali na ba a lokacin.,Ina wa wani daban magana ne a lokacin.,neutral
+"Biyu kawai muka rasa, ko uku a jiragen sama lokacin da muke kan gwaji.",Jirage sama da biyu suka ɓata saboda yanayin samaniya.,neutral
+"Biyu kawai muka rasa, ko uku a jiragen sama lokacin da muke kan gwaji.",Sama da jirage biyu suka ɓata. ,entailment
+"Biyu kawai muka rasa, ko uku a jiragen sama lokacin da muke kan gwaji.",Bamu taɓa rasa jirgi ba.,contradiction
+Ina buƙatar kayi min wani abu.,Bana buƙatar ko wanne irin taimakon ka.,contradiction
+Ina buƙatar kayi min wani abu.,Babban aiki ne da nake buƙatar ayi.,neutral
+Ina buƙatar kayi min wani abu.,Akwai wani abu da nake buƙatar ayi.,entailment
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.","Duk da sunan sa, Kogin maciji a zahiri bai ɗauke da kowanne maciji, An sanya masa sunan saboda siffar sa ta S.",contradiction
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.",Kogin maciji yana da kunkuru.,neutral
+"Oh, Ashe kogin maciji oh kogin maciji na ɗauke da macizai da yawa a ciki.",Kogin maciji yana cike da macizai.,entailment
+"Hakane, akwai sadaukarwa, bawai kawai wani abu ne da zaka iya ba, saboda kawai ka shiga cikin sa,  bana tunani hakan zai yi yu.",Ina tunanin sai ka sadaukar da awa 10 a rana zaka ƙware a kai.,neutral
+"Hakane, akwai sadaukarwa, bawai kawai wani abu ne da zaka iya ba, saboda kawai ka shiga cikin sa,  bana tunani hakan zai yi yu.",Ina tunanin kana buƙatar sadaukarwa zuwa gare shi dan kayi da kyau.,entailment
+"Hakane, akwai sadaukarwa, bawai kawai wani abu ne da zaka iya ba, saboda kawai ka shiga cikin sa,  bana tunani hakan zai yi yu.","Babu matsala, idan baka ɗauke shi da mahimmanci ba.",contradiction
+"Kuma abinda nake ganin zai bada sha'awa shine abinda muke yi, ina nufin za mu canza mutane da ke wakiltar mu.",Kawai nasan ba zai yi dadin ba kuma babu riba mu canja waɗanda ke wakiltar mu dan haka kar ma muyi ƙoƙarin canjin.,contradiction
+"Kuma abinda nake ganin zai bada sha'awa shine abinda muke yi, ina nufin za mu canza mutane da ke wakiltar mu.",Ina tunani zai zama ƙalubale a canja waɗanda ke wakiltar mu amma akwai nasara a ƙarshe. ,neutral
+"Kuma abinda nake ganin zai bada sha'awa shine abinda muke yi, ina nufin za mu canza mutane da ke wakiltar mu.",Dole ne mu kawo canji a mutanan dake wakiltar mu.,entailment
+Kuma zasu iya zama masu kirki bayan an horar da su.,Suna zama masu tsauri da kuma rashin tausayi suna kammala horon.,contradiction
+Kuma zasu iya zama masu kirki bayan an horar da su.,Suna canjawa da sauri a yayin da suke ɗaukar horo.,neutral
+Kuma zasu iya zama masu kirki bayan an horar da su.,Idan suka samu horo suna da dadin sha'anin.,entailment
+"Kuma zai iya cigaba har shekara ashirin, ina ganin wannan abun akwai shashanci.",Ina ga akwai shirme ace shari'a guda ɗaya zata iya ɗaukan shekaru.,neutral
+"Kuma zai iya cigaba har shekara ashirin, ina ganin wannan abun akwai shashanci.",Ina ga akwai ɗaurewar kai ace ta ɗauki tsawon lokaci. ,entailment
+"Kuma zai iya cigaba har shekara ashirin, ina ganin wannan abun akwai shashanci.",Ya kai tsawon sati ne kawai.,contradiction
+"Eh, tabbas wanda ka samu marar igiya ne.",Gyara wanda kake dashi marar igiya ne.,entailment
+"Eh, tabbas wanda ka samu marar igiya ne.",Wanda kake dashi tabbas masu igiyar su kaɗai ne sababbin zuwa.,contradiction
+"Eh, tabbas wanda ka samu marar igiya ne.",Watakila kana da wani mai wajan zaben sa igiyar.,neutral
+Kana maganar malaman ne ko iyayen.,Kana maganar dalibai ne suka yi ko mai taimakon malamai ne suka yi?,contradiction
+Kana maganar malaman ne ko iyayen.,Wai malamai ne ko iyaye?,entailment
+Kana maganar malaman ne ko iyayen.,Me kake so kace game da iyayen da malaman?,neutral
+"Ina ganin zai yi yi, ina tunanin hakan, ban dai gama sani mene ra'ayi na game da yin gwajin kwaya ba, uh ,am ni bana shan komai kuma bazan taɓa tunani sha ba.","Ina da adawa mai karfi akan gwajin kwaya, bani da shakku ko kaɗan a raina. ",contradiction
+"Ina ganin zai yi yi, ina tunanin hakan, ban dai gama sani mene ra'ayi na game da yin gwajin kwaya ba, uh ,am ni bana shan komai kuma bazan taɓa tunani sha ba.",Ina da tsammanin ba zan sami damuwa idan an yi min gwajin kwaya.,neutral
+"Ina ganin zai yi yi, ina tunanin hakan, ban dai gama sani mene ra'ayi na game da yin gwajin kwaya ba, uh ,am ni bana shan komai kuma bazan taɓa tunani sha ba.","Ina tunani haka, amma ban sami nutsuwa a raina ba a kan maganar gwajin kwaya.",entailment
+Ka damu da yadda labarun ƙasa ke shafar unguwanni.,Ka damu da yadda labarun ƙasa ke shafar unguwanni.,entailment
+Ka damu da yadda labarun ƙasa ke shafar unguwanni.,Ban damu ba da abinda labarun ƙasa ke nuni cike da damuwa kan unguwannin mu.,contradiction
+Ka damu da yadda labarun ƙasa ke shafar unguwanni.,Tashar labaran ƙasa yana bayar da unguwannin mu baya.,neutral
+"Amma ai mun saba ganin siket, ko riga da siket da kuma bilawus ko cot ko doguwar riga duk su zaka gani a nan dan haka daɗi na da aikin gida shine zan iya saka wando.",Bana saka kaya idan ina aiki a gida.,entailment
+"Amma ai mun saba ganin siket, ko riga da siket da kuma bilawus ko cot ko doguwar riga duk su zaka gani a nan dan haka daɗi na da aikin gida shine zan iya saka wando.",Bana saka komai banda rigar sanyi lokacin da nake aiki a gida.,neutral
+"Amma ai mun saba ganin siket, ko riga da siket da kuma bilawus ko cot ko doguwar riga duk su zaka gani a nan dan haka daɗi na da aikin gida shine zan iya saka wando.",Ina saka kaya har yanzu lokacin da nake aiki a gida saboda ina ji na zama yar gayu.,contradiction
+"Hakane, akwai wani abu game da samun wajan zama, ban dai sani ba.",Samun wajan zama shine tabbacin mafarki na.,neutral
+"Hakane, akwai wani abu game da samun wajan zama, ban dai sani ba.",Gaskiya ban damu ba in ina da wajan zama.,contradiction
+"Hakane, akwai wani abu game da samun wajan zama, ban dai sani ba.",Akwai jin dadi idan kana da wajan zama.,entailment
+"Eh, Eh, na sani, ba zan ma damu sosai ba idan suna da kamfani dake da kudi",Abu ne mai sauki a gane ko daukan nauyin ma'aikatar aka yi. ,neutral
+"Eh, Eh, na sani, ba zan ma damu sosai ba idan suna da kamfani dake da kudi",Zan ji haushi idan na gane sun ɗaukin nauyin kuɗin da ake gudanar da ma'aikatar.,contradiction
+"Eh, Eh, na sani, ba zan ma damu sosai ba idan suna da kamfani dake da kudi",Ba zan damu ba idan ɗaukan nauyin kuɗin da ake gudanar da ma'aikatar ake yi. ,entailment
+"Eh, ta wajan hayin mu nan, muna da haɗin a karkara da bashi da kyau.",Haɗin wurraren nan wani sa'in na da kyau.,neutral
+"Eh, ta wajan hayin mu nan, muna da haɗin a karkara da bashi da kyau.",Bama samun haɗi mai kyau a nan.,entailment
+"Eh, ta wajan hayin mu nan, muna da haɗin a karkara da bashi da kyau.",Muna da haɗi mafi kyau a wajajen nan.,contradiction
+Ɗaya daga cikin amfanu da muke samu shine tafiye-tafiye,Tafiye-tafiye shine fannin da nafi so.,neutral
+Ɗaya daga cikin amfanu da muke samu shine tafiye-tafiye,Tafiye-tafiye na ɗaya daga cikin ribar da muke samu.,entailment
+Ɗaya daga cikin amfanu da muke samu shine tafiye-tafiye,Bama samun ko wanne irin amfanu.,contradiction
+Gaskiya ba kyau fa uh.,Naji ance babu dadi.,neutral
+Gaskiya ba kyau fa uh.,Babu kyan gani.,entailment
+Gaskiya ba kyau fa uh.,Babu laifi.,contradiction
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Duk na'urorin kwayoyin halitta suna da wahalar sha'ani.,contradiction
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Da yawan na'urorin kwayoyin halitta zasu iya bayyana wasa ƙa’idoji.,entailment
+Waɗannan rikirkitattun na'urar kwayoyin halitta sun samo asali ne saboda zaɓin su a haka zai iya canza yanayi su gaba ɗaya dan haka su kwayoyin halitta suna taruwa lokacin da yanayin su na gaba ɗaya ya haɓaka kuma ya canza da yanayi da suke.,Waɗanne na'urorin kwayoyin halitta yawanci ana amfani dasu a fitar da guba iri-ir dan samun kariya.,neutral
+Amma ban yadda waɗannan kayan aikin shayo kan matsalar zaa iya gama su ba.,Babu wani tsarin dokokin da zai yanke yadda zaayi cikakken sanwic ba tare da mutum ba.,neutral
+Amma ban yadda waɗannan kayan aikin shayo kan matsalar zaa iya gama su ba.,Babu wani kayan aiki da zai warware wannan matsalar gaba ɗaya da kansa,entailment
+Amma ban yadda waɗannan kayan aikin shayo kan matsalar zaa iya gama su ba.,Waɗannan kayan aikin suna aiki a kowanne irin yanayi.,contradiction
+Doka tana fansar ba ɗaiɗaikun mutane kawai ba har da al'umma ko ƙasa gaba ɗaya. ,"Don yin fansa, ɗaiɗaikun mutane sa koma kan doka.",contradiction
+Doka tana fansar ba ɗaiɗaikun mutane kawai ba har da al'umma ko ƙasa gaba ɗaya. ,Doka zata fanshi Amurka.,neutral
+Doka tana fansar ba ɗaiɗaikun mutane kawai ba har da al'umma ko ƙasa gaba ɗaya. ,Doka zata ceto al'ummar da kuma ƙasar.,entailment
+A cikin kundin tsarin mulki na 1787 ya bada izini da masu bayi su dawo da bayin su da suka tsere zuwa ƙasar 'yanci.,"A shekarar 1787, an sa doka da ta hana mutane dawo da bayi da suke cikin ƙasar yanci.",contradiction
+A cikin kundin tsarin mulki na 1787 ya bada izini da masu bayi su dawo da bayin su da suka tsere zuwa ƙasar 'yanci.,Wani ɓangaren na rubutun a cikin kundin tsarin mulkin an rubuta shi a 1787.,entailment
+A cikin kundin tsarin mulki na 1787 ya bada izini da masu bayi su dawo da bayin su da suka tsere zuwa ƙasar 'yanci.,Damar dawo da bayi daga yankunan yanci ba dama bace da ta shahara ba.,neutral
+"Steve Harris, mai nazarin kimiyyar kwayoyin halitta daga Taxas yayi ziyara.",Steve Harris yaƙi ya bar gidan sa kan kowanne irin dalili.,contradiction
+"Steve Harris, mai nazarin kimiyyar kwayoyin halitta daga Taxas yayi ziyara.",Steve mai nazarin halitta ne daga wajen gari.,entailment
+"Steve Harris, mai nazarin kimiyyar kwayoyin halitta daga Taxas yayi ziyara.",Steve yana ziyartar California dan ya binciki sabon abu.,neutral
+Mambobi kowanne babi akwai maza manya tsakanin talatin zuwa hamsin (ana kiran su Moradas) kuma an ƙara raba su zuwa mambobi biyu da ake kira hermanos disciplantes ('yan uwa masu horar sa) da kuma jami'ai da ake kira da hermanos de luz ('yan uwa masu haske).,Sama da jami'i dari ne sukai hidima a kowanne sashi.,contradiction
+Mambobi kowanne babi akwai maza manya tsakanin talatin zuwa hamsin (ana kiran su Moradas) kuma an ƙara raba su zuwa mambobi biyu da ake kira hermanos disciplantes ('yan uwa masu horar sa) da kuma jami'ai da ake kira da hermanos de luz ('yan uwa masu haske).,Sashin ya ɗauke da duka mambobi gama gari da jami'ai.,entailment
+Mambobi kowanne babi akwai maza manya tsakanin talatin zuwa hamsin (ana kiran su Moradas) kuma an ƙara raba su zuwa mambobi biyu da ake kira hermanos disciplantes ('yan uwa masu horar sa) da kuma jami'ai da ake kira da hermanos de luz ('yan uwa masu haske).,Sashen suke da alhakin maida Jama'a 'yan asalin ƙasar Amurka ta tsakiya. ,neutral
+"Daga 'yan shekera 4 zuwa 5, tambayoyin sau da yawa sun danganci shiryanya labari ( Mai zai biyo bayan?",Yawancin yara basa koyar magana sai sun kai shekara shida.,contradiction
+"Daga 'yan shekera 4 zuwa 5, tambayoyin sau da yawa sun danganci shiryanya labari ( Mai zai biyo bayan?",Yan shekara biyar sun fi damuwa da mai faru gaba.,entailment
+"Daga 'yan shekera 4 zuwa 5, tambayoyin sau da yawa sun danganci shiryanya labari ( Mai zai biyo bayan?",Yan shekera biyar gaba ɗaya ana ɗaukar su a matsayin marasa iya zance.,neutral
+"A hankalce, tururuwan shigowa a jiha yana bada damar rarrabewa, sabode idan jihohi biyu suka hade kan wata jihar, wannan jihohi sun zama daya. ",Tururuwan shigowa yana bada damar rarrabewa.,entailment
+"A hankalce, tururuwan shigowa a jiha yana bada damar rarrabewa, sabode idan jihohi biyu suka hade kan wata jihar, wannan jihohi sun zama daya. ",Tururuwar shigo yana da alaka da yawan jama'a.,neutral
+"A hankalce, tururuwan shigowa a jiha yana bada damar rarrabewa, sabode idan jihohi biyu suka hade kan wata jihar, wannan jihohi sun zama daya. ",Tururuwan shigowa yana hana rarrabewa.,contradiction
+"Dan haka, sauna ci gaba da ƙirƙira duniya mai gudana, in da bayanai da suka wuce a babu dadewa zaa dauka.",Wasu basa sha'awar duniya mai gudana idan dole zata kunshi bayanai daga karnin baya.,entailment
+"Dan haka, sauna ci gaba da ƙirƙira duniya mai gudana, in da bayanai da suka wuce a babu dadewa zaa dauka.",Duk wani bayani daga kowane ƙarni na da inganci daga kuma kowace duniyar.,contradiction
+"Dan haka, sauna ci gaba da ƙirƙira duniya mai gudana, in da bayanai da suka wuce a babu dadewa zaa dauka.",Wannan harsashi na duniya da shi ake amfani wajan tsarin harsashi yanayi .,neutral
+"Kuma, dan haka, Babu alhakin jihar yadda keɓaɓɓin mutane ke hana walwala ga baƙaƙe yan ƙasa.",Wasu keɓaɓɓin mutane suna hana baƙaƙe yan ƙasa damar cuɗanya.,entailment
+"Kuma, dan haka, Babu alhakin jihar yadda keɓaɓɓin mutane ke hana walwala ga baƙaƙe yan ƙasa.",keɓaɓɓin mutane farare ne.,neutral
+"Kuma, dan haka, Babu alhakin jihar yadda keɓaɓɓin mutane ke hana walwala ga baƙaƙe yan ƙasa.",Duka jihar ke da alhakin kan halayyar da kiɓaɓɓin mutanen.,contradiction
+Babu wani bambanci tsakanin abokan karatu ƙanana da manya wajan samun nasara cin jarabawa.,"Yayin da sakamakon gwaji abokan karatu ƙanana da manya iri ɗaya ne, ƙananan yan ajin suna saurin gama jarabawa.",neutral
+Babu wani bambanci tsakanin abokan karatu ƙanana da manya wajan samun nasara cin jarabawa.,Abokan karatu ƙanana da manya suna cimma samun sakamakon iri ɗaya a wajan jaraba.,entailment
+Babu wani bambanci tsakanin abokan karatu ƙanana da manya wajan samun nasara cin jarabawa.,Abokan karatu ƙanana da manya suna samun bambanci sakamakon dalilin shekaru .,contradiction
+Darwin har ya fara rayuwa a nan.,Darwin ya fara da mai da hankali kan kifi.,neutral
+Darwin har ya fara rayuwa a nan.,Darwin ya fara da rayuwa dake gabata.,entailment
+Darwin har ya fara rayuwa a nan.,Darwin yana mai da hankali ne kawai akan abubuwan mara sa rai.,contradiction
+Abin da yafi yawan dawowa da jarirai da kuma ƙanana yara shi ciwon Otitis ko kuma ciwon tsakiyar kunne.,Ciwon tsakiyar kunne shine yafi yawa a wajan jarirai.,entailment
+Abin da yafi yawan dawowa da jarirai da kuma ƙanana yara shi ciwon Otitis ko kuma ciwon tsakiyar kunne.,Ciwon kunne da ake kira Otitis yana matuƙar wuyar samu a yaran dake shekaru shiga makaranta. ,contradiction
+Abin da yafi yawan dawowa da jarirai da kuma ƙanana yara shi ciwon Otitis ko kuma ciwon tsakiyar kunne.,Mafi yawanci jarirai zasu sami ciwon tsakiyar kunne.,neutral
+"Lokacin da wayayyiyar al'umma suka toshe kunnan su, shirme zai yaɗu.",Shirme zasu ragu idan wayayyiyar al'umma sunyi watsi dasu.,entailment
+"Lokacin da wayayyiyar al'umma suka toshe kunnan su, shirme zai yaɗu.",Shirme yana samun karɓuwa wajan wayayyiyar al'umma idan wayayyiyar al'umma sunyi watsi da shi.,contradiction
+"Lokacin da wayayyiyar al'umma suka toshe kunnan su, shirme zai yaɗu.",Wayayyiyar al'umma na watsi da mafi yawan shirme.,neutral
+"Gaskiya, A cikin abin da muke buƙata akwai hanyar siffanta abubuwan da tsarin abubuwan da gaskiya a cikin wannan duniyar marar daidaito ",Muna bukatar saka wata shaida dan muga inda kungiyar take abu mai kyau,neutral
+"Gaskiya, A cikin abin da muke buƙata akwai hanyar siffanta abubuwan da tsarin abubuwan da gaskiya a cikin wannan duniyar marar daidaito ",Muna bukatar sakawa kungiyar wani shaidar ganewai.,entailment
+"Gaskiya, A cikin abin da muke buƙata akwai hanyar siffanta abubuwan da tsarin abubuwan da gaskiya a cikin wannan duniyar marar daidaito ",Ba sai munyi wata shidar komai ba.,contradiction
+Ya mai da roƙon sa zuwa shugaban Julian.,Ya so ya tambayi shugaban Julian wani abu.,entailment
+Ya mai da roƙon sa zuwa shugaban Julian.,Ya so ya tambayi shugaban Julian ya ceci matar sa.,neutral
+Ya mai da roƙon sa zuwa shugaban Julian.,An rasa inda zaa ga Shugaba Julian.,contradiction
+Jeremy Pitt ya mayar da dariyar da rantsuwa.,Jeremy Pitt ya mayar da dariyar yana kyakyatawa sai kuma ya kai naushi fuskar mai dariyar.,contradiction
+Jeremy Pitt ya mayar da dariyar da rantsuwa.,Jeremy Pitt yayi rantsuwa faɗa dan ƙasar sa da kuma sarauniyar sa.,neutral
+Jeremy Pitt ya mayar da dariyar da rantsuwa.,Wani yayi dariya kusa da Jeremy Pitt.,entailment
+"Pitt, wanda ya kalli wasa daga quarter-deck rail yace mai martaba na tsaye cir a wajan baya ko motsi.",Pitt bai taba ganin mai martaba ba duk da matsayin sa a lokacin.,neutral
+"Pitt, wanda ya kalli wasa daga quarter-deck rail yace mai martaba na tsaye cir a wajan baya ko motsi.",Pitt ya rantse akan bai samu ganin komai ba a wasan.,contradiction
+"Pitt, wanda ya kalli wasa daga quarter-deck rail yace mai martaba na tsaye cir a wajan baya ko motsi.",Pitt ya ga yadda mai martaba ya ɗauki wasan da mahimmanci a lokacin yin sa.,entailment
+"Kanal din ya karɓa, kuma ya sunkuyar da kan sa, yana cire hular sa mai faɗi.",Kanal din ya karɓi lambar yabo a wajan mai garin New York City.,neutral
+"Kanal din ya karɓa, kuma ya sunkuyar da kan sa, yana cire hular sa mai faɗi.",Kana din yaki karbar abinda aka bashi kuma ya bar hular sa a kansa alamar rashin amincewa.,contradiction
+"Kanal din ya karɓa, kuma ya sunkuyar da kan sa, yana cire hular sa mai faɗi.",Kanal din yana sanye da hular sa.,entailment
+"Kuma mani rashin mutunci dan bazan goyi banyan ku ba, saboda nasan kuna da hannun a cikin kisan kai da wasu laifukan, ya zuba mata ido cikin sakin baki.",Yayi imani cewa laifikan da aka aikata zai iya kasancewa kisan ƙare dangi ne.,neutral
+"Kuma mani rashin mutunci dan bazan goyi banyan ku ba, saboda nasan kuna da hannun a cikin kisan kai da wasu laifukan, ya zuba mata ido cikin sakin baki.",Ya zabi ƙin kama hannayen sa saboda anyi musu tambarin laifi.,entailment
+"Kuma mani rashin mutunci dan bazan goyi banyan ku ba, saboda nasan kuna da hannun a cikin kisan kai da wasu laifukan, ya zuba mata ido cikin sakin baki.","Ya zaɓi ya riƙe hannaye ta saboda ƙanana ne, ga laushi kuma abinda yafi waɗannan duka shine tsafta. ",contradiction
+"Ta sadaukar da duka lokaci ta kan sa, ka kuma san mai martaba Julian Wade kyakkyawa matashi ne da yazo daga St. James.",Mai martaba Julian yazo daga St.James's.,entailment
+"Ta sadaukar da duka lokaci ta kan sa, ka kuma san mai martaba Julian Wade kyakkyawa matashi ne da yazo daga St. James.",Ita da mai martaba Julian Wade sun sumbatu juna daren jiya.,neutral
+"Ta sadaukar da duka lokaci ta kan sa, ka kuma san mai martaba Julian Wade kyakkyawa matashi ne da yazo daga St. James.","Ta faɗa kaunar mai martaba Julian Wade, duk da halinsa na ko in kula.",contradiction
+"Amma....Amma.... A cikin wannan jirgin ruwa? Jami'in ya yi yanayi tausayi, ya kuma da rikicin da ke faruwa, ya yi shiru.","Ofishin ya kaure da hayaniya na yan mintina, an fusata da iskancin dake kan tebur ɗin sa.",contradiction
+"Amma....Amma.... A cikin wannan jirgin ruwa? Jami'in ya yi yanayi tausayi, ya kuma da rikicin da ke faruwa, ya yi shiru.",Jami'in ya rikice saboda abunda yake gani yana faruwa a wajan hawa jirgin ruwan.,entailment
+"Amma....Amma.... A cikin wannan jirgin ruwa? Jami'in ya yi yanayi tausayi, ya kuma da rikicin da ke faruwa, ya yi shiru.",Jami'in cikin rashin nutsuwa ya gigita ganin amain kan tebur ɗin sa.,neutral
+"Kai ne mai martaba Julian Wade, na gane, yayi gaisuwar cikin rashin mutunci. ",Mai martaba Julian Wade ya gabatar da tarbar cikin mutunci da karamci.,contradiction
+"Kai ne mai martaba Julian Wade, na gane, yayi gaisuwar cikin rashin mutunci. ",Mai martaba Julian Wade yayi tarbar a halin da za'a iya ɗauka a matsayin rashin ɗa'a.,entailment
+"Kai ne mai martaba Julian Wade, na gane, yayi gaisuwar cikin rashin mutunci. ","Duk da mutane da dama sun so su kusanci shi, Mai martaba Wade a mafiya yawan lokaci bashi da sakin fuska. ",neutral
+Mary Traill zata gaya muku yadda akayi.,Mary Traill zata iya faɗar labarin Jakin.,neutral
+Mary Traill zata gaya muku yadda akayi.,Mary Trail na da masaniya.,entailment
+Mary Traill zata gaya muku yadda akayi.,Ni kaɗai nake da masaniya.,contradiction
+Akwai gaggan yan daban da suke jiran wannan mara mutuncin a Royal Port. Blood zai iya shiga tsakani amma Mai martaba Julian ya tsai da shi.,Blood kungiya ce ta yan daba na duniya wacce ke Royal Port. su mai martaba Julian ke kira in za ai aikin assha,contradiction
+Akwai gaggan yan daban da suke jiran wannan mara mutuncin a Royal Port. Blood zai iya shiga tsakani amma Mai martaba Julian ya tsai da shi.,"Cikin abinda ke karkashin mallakin Lord Juli sun hada da Port Royal, birni na kasuwanci wanda yake cibiyar hada-hada a yankin.",neutral
+Akwai gaggan yan daban da suke jiran wannan mara mutuncin a Royal Port. Blood zai iya shiga tsakani amma Mai martaba Julian ya tsai da shi.,Royal port tana da guraren hukunta masu laifi.,entailment
+"Ba dai Bishof da kansa ba, Wolverstone ya faɗa, a tsakanin tambaya da kuma rashin tabbas.",Wolverstone yayi tambaya da take nuna kwarjinin sa akan sauran.,entailment
+"Ba dai Bishof da kansa ba, Wolverstone ya faɗa, a tsakanin tambaya da kuma rashin tabbas.",Wolverstone ya ambaci Bishof a matsayin ɗaya daga cikin masu kyau. ,neutral
+"Ba dai Bishof da kansa ba, Wolverstone ya faɗa, a tsakanin tambaya da kuma rashin tabbas.",Wolverstone bai ce komai ba akan Bishof.,contradiction
+"Shin zaku daina wannan kukan da tawaye da cin amanar ƙasa da kuma koton sojoji? Blood ya ajjiye hular sa, ya zauna ba tare da izini ba.",Blood yana da hular da yasa kafin ya zauna.,entailment
+"Shin zaku daina wannan kukan da tawaye da cin amanar ƙasa da kuma koton sojoji? Blood ya ajjiye hular sa, ya zauna ba tare da izini ba.",Blood yasa hular sa sai ya fice daga ɗakin ba tare da yace komai ba.,contradiction
+"Shin zaku daina wannan kukan da tawaye da cin amanar ƙasa da kuma koton sojoji? Blood ya ajjiye hular sa, ya zauna ba tare da izini ba.",Hular Blood baƙa ce tana da gashin mikiya guda uku a jikin ta.,neutral
+Abubuwa basu tafiya sosai ba gaba daya a gare shi tunda ya karbi kwamishinan sarki sati biyu da ya wuce.,Yana barci mai nauyi da daddare tare da masaniyar ya kin karbar mukamin kwamishinan sarki.,contradiction
+Abubuwa basu tafiya sosai ba gaba daya a gare shi tunda ya karbi kwamishinan sarki sati biyu da ya wuce.,Abunda ke hana shi barci shine karɓar muƙamin kwamishinan sarki da yayi.,entailment
+Abubuwa basu tafiya sosai ba gaba daya a gare shi tunda ya karbi kwamishinan sarki sati biyu da ya wuce.,Kwamishinan sarki babban muƙamin ne da yake da nauye-nauye masu yawa.,neutral
+"Suna cikin iyakar, Ogle yayi kururuwa.",Ogle yace za'a iya samun su.,entailment
+"Suna cikin iyakar, Ogle yayi kururuwa.",Ogle yace suna inda zaa jiyo su.,neutral
+"Suna cikin iyakar, Ogle yayi kururuwa.","Duk da yasan suna inda zaa iya samun su, Ogle bai bayyana ba.",contradiction
+"Na aiko maka Kaftin Blood, saboda wani labari da ya same ni yanzu. ","Ban ji wani irin labari ba, kaftin Blood. Ka ji?",contradiction
+"Na aiko maka Kaftin Blood, saboda wani labari da ya same ni yanzu. ","Na sami wasu labarai kafin na neme ka, Kaftin Blood.",entailment
+"Na aiko maka Kaftin Blood, saboda wani labari da ya same ni yanzu. ",Labaran dana samu ya bani mamaki matuƙa.,neutral
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Zaka iya ganin jiragen ruwa daga saman tsaunin,neutral
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Zaka iya hango bakin tekun daga saman tsaunin.,entailment
+"Bayan ka gama ganin waɗannan, ka hau kan dutse gidan kwamishinan inda zaka kyawawan wurare da kuma gaɓar ruwa da ragowar tashar jiragen ruwan.",Ba zaka iya ganin bakin tekun ba daga saman tsaunin ba.,contradiction
+"A bayan yankin kudancin Amurka, zaka samu kamfanin turare, inda zaka iya fitar da ƙamshin da kake so da kanka.",Kamfanin turaren yana samar da kaya tun 1954.,neutral
+"A bayan yankin kudancin Amurka, zaka samu kamfanin turare, inda zaka iya fitar da ƙamshin da kake so da kanka.",Kamfanin turaren yana bayan yankin kudancin Afrika.,entailment
+"A bayan yankin kudancin Amurka, zaka samu kamfanin turare, inda zaka iya fitar da ƙamshin da kake so da kanka.",Kamfanin turaren yana gaban yankin kudancin Afirka.,contradiction
+Ansa rai kuma anci buri akan lemon tsami na Bahamian da Abarba. ,Duk da abarba suna da daɗi kudin kawu su kasuwar yayi yawa.,neutral
+Ansa rai kuma anci buri akan lemon tsami na Bahamian da Abarba. ,"Kayan marmari na Bahamian ya samu gagarimar karɓuwa, kamar yadda kowa ya yace zai yi.",contradiction
+Ansa rai kuma anci buri akan lemon tsami na Bahamian da Abarba. ,Kayan marmari na Bahamian bai samu karɓuwa ba kamar yadda kowa ya so.,entailment
+"Ƙarar sautin, 3 km (2 miles) a tsayi, ana tunawa babbar caldera ce tayi shi bayan fashewar dutse mai amai wuta.","Abubuwa da yawa zasu iya haddasa karar sautin na mil 2, har da aman wutar dutse.",neutral
+"Ƙarar sautin, 3 km (2 miles) a tsayi, ana tunawa babbar caldera ce tayi shi bayan fashewar dutse mai amai wuta.",Tabbas ba aman wutar dutse ne ya haddasa karar sautin na mil 2 ba.,contradiction
+"Ƙarar sautin, 3 km (2 miles) a tsayi, ana tunawa babbar caldera ce tayi shi bayan fashewar dutse mai amai wuta.",Watakila aman wutar dutse ne ya haddasa karar sautin na mil 2,entailment
+"A can wurin babu annashuwa sosai, kuma yaren zai iya baka tsaro  amma zaka samu damar ganin al'adun Chinese masu kyau.",Yana da kyau ka sami mai ma fassara tare da kai.,neutral
+"A can wurin babu annashuwa sosai, kuma yaren zai iya baka tsaro  amma zaka samu damar ganin al'adun Chinese masu kyau.",Akwai matsalar yare da zai iya sanyaya ma gwiwa.,entailment
+"A can wurin babu annashuwa sosai, kuma yaren zai iya baka tsaro  amma zaka samu damar ganin al'adun Chinese masu kyau.","Ba sai ka damu da batutuwan yare ba a wajan, tunda kowa yana magana da turanci ne.",contradiction
+"A Tsakanin 1936 da 1940 Greece na karkashin mulkin kama karya na loannus Metaxas, Ana iya tunawa da sutin (a'a)  da ya amsa dashi zuwa ga Mussolini ultimatum yayi mubaya'a a 1940.",Greece bata taba zama a ƙarƙashin mulkin soja ba.,contradiction
+"A Tsakanin 1936 da 1940 Greece na karkashin mulkin kama karya na loannus Metaxas, Ana iya tunawa da sutin (a'a)  da ya amsa dashi zuwa ga Mussolini ultimatum yayi mubaya'a a 1940.",Greece na ɗaya daga cikin ƙasashe a duniya da tayi mulkin kama karya.,entailment
+"A Tsakanin 1936 da 1940 Greece na karkashin mulkin kama karya na loannus Metaxas, Ana iya tunawa da sutin (a'a)  da ya amsa dashi zuwa ga Mussolini ultimatum yayi mubaya'a a 1940.",Tattalin arzikin Greece bai yi kyau ba a ƙarƙashin mulkin kama karya na soja na Metaxas.,neutral
+Sauwaƙaƙe layikan dake jikin Sant Pau an yadda suna canza daga na Barcelona mai matuƙa yawa da kuma na gini Gothic mai rikirkitacce.,Sant Pau bashi da zanan gidajen da.,contradiction
+Sauwaƙaƙe layikan dake jikin Sant Pau an yadda suna canza daga na Barcelona mai matuƙa yawa da kuma na gini Gothic mai rikirkitacce.,Sant Pau na da zanan gidajen da.,entailment
+Sauwaƙaƙe layikan dake jikin Sant Pau an yadda suna canza daga na Barcelona mai matuƙa yawa da kuma na gini Gothic mai rikirkitacce.,Sant Pau na da majami'u.,neutral
+"kan a kifta, ya shige.",Abun ne mai sauki kowanne irin motsi ya tsoratar,neutral
+"kan a kifta, ya shige.",Bai da tsoro kuma babu abinda zai sa shi ya matsa.,contradiction
+"kan a kifta, ya shige.","Mafi ƙanƙara motsi kuma shikenan, ya tafi.",entailment
+Wannan babban shirin gyarar zai ƙare ne a ƙarshe shekera 2001.,"Kafin 2001 ta shigo, shirin gyararrakin zai ƙare. ",contradiction
+Wannan babban shirin gyarar zai ƙare ne a ƙarshe shekera 2001.,Shirin gyaran ba zai kammala ba sai kamar bayan shekarar 2000 ta kare.,entailment
+Wannan babban shirin gyarar zai ƙare ne a ƙarshe shekera 2001.,"Lokacin da gyararrakin zai kammala, zai zama ya shafe shekaru biyar.",neutral
+"Ma'aikacin na aiki kan shirin kara yawan adadin filamingos a US Virgin Islands, zaka samu ɗan ƙarami garken su suna kiwo kowacce shekara. ",Ma'aikacin na aiki wajan kawar da filamingos din.,contradiction
+"Ma'aikacin na aiki kan shirin kara yawan adadin filamingos a US Virgin Islands, zaka samu ɗan ƙarami garken su suna kiwo kowacce shekara. ",Ma'aikaci na aikin wajan ƙara yawan filamingos dake tsibirin saboda a dawo dasu daga kusan ƙarewa. ,neutral
+"Ma'aikacin na aiki kan shirin kara yawan adadin filamingos a US Virgin Islands, zaka samu ɗan ƙarami garken su suna kiwo kowacce shekara. ",Ma'aikacin na aiki dan ya ƙara yawan filamingos din dake tsibirin. ,entailment
+"Tsaunikan Serra de Tramuntana sun gangara cikin teku a nan,akwai hanyoyin kaɗan da ake iya zuwa wajan, da kuma tasha jiragen ruwa guda ɗaya a duka gaɓar tekun. ",Duwarwatsu suna samun zabtarewar ƙasa akai-akai dan haka gina tashar a wajan ba abu ne mai sauƙi ba.,neutral
+"Tsaunikan Serra de Tramuntana sun gangara cikin teku a nan,akwai hanyoyin kaɗan da ake iya zuwa wajan, da kuma tasha jiragen ruwa guda ɗaya a duka gaɓar tekun. ",Duwarwatsu sun sa tashashoshin jirgin ruwa zai yi wuyar ginawa. ,entailment
+"Tsaunikan Serra de Tramuntana sun gangara cikin teku a nan,akwai hanyoyin kaɗan da ake iya zuwa wajan, da kuma tasha jiragen ruwa guda ɗaya a duka gaɓar tekun. ",Akwai tashoshin jiragen ruwa guda 27 wajan duwarwatsu.,contradiction
+"An san Culebra a matsayin tsibiri Spanish har zuwa lokacin da Amurka ta karɓe shi, yana tsakanin Puerto Rico da  St. Thomas a US Virgin Islands.",Culebra na tsakiyar Puerto Rico and St. Thomas a  US Virgin Islands.,entailment
+"An san Culebra a matsayin tsibiri Spanish har zuwa lokacin da Amurka ta karɓe shi, yana tsakanin Puerto Rico da  St. Thomas a US Virgin Islands.",Babu inda Culebra ta haɗa hanya da Puerto Rico and St. Thomas a US Virgin Islands.,contradiction
+"An san Culebra a matsayin tsibiri Spanish har zuwa lokacin da Amurka ta karɓe shi, yana tsakanin Puerto Rico da  St. Thomas a US Virgin Islands.",Culebra tana wani waje tsakanin Puerto Rico da St.Thomas a US Virgin Islands.,neutral
+Umeda ce ta kawo karshen garin kasuwanci da kuma nishadi a arewacin kauyen da aka fi sani da Kita (mai nufin arewa) kuma shine muhimmin samun cigaba na hadadar zamani a Osaka.,Umeda bata cikin sashin gundumar nishaɗantarwa.,contradiction
+Umeda ce ta kawo karshen garin kasuwanci da kuma nishadi a arewacin kauyen da aka fi sani da Kita (mai nufin arewa) kuma shine muhimmin samun cigaba na hadadar zamani a Osaka.,Umeda ita ce sashe mafi girma a gundumar nishaɗantarwa.,neutral
+Umeda ce ta kawo karshen garin kasuwanci da kuma nishadi a arewacin kauyen da aka fi sani da Kita (mai nufin arewa) kuma shine muhimmin samun cigaba na hadadar zamani a Osaka.,Umeda na daga arewa da gundumar nishaɗantarwa.,entailment
+"Na uku a cikin jerin alloli Hindu shine Brahma, wanda aikinsa kawai shine ya ƙirƙiri duniya.",Brahma manzo ne na kiristoci.,contradiction
+"Na uku a cikin jerin alloli Hindu shine Brahma, wanda aikinsa kawai shine ya ƙirƙiri duniya.",Brahma yana cikin alloli uku na Hindu.,entailment
+"Na uku a cikin jerin alloli Hindu shine Brahma, wanda aikinsa kawai shine ya ƙirƙiri duniya.",Brahma ne mafi mahimmanci a cikin alloli uku.,neutral
+"Pedro ya hau kan gadon mulkin, ta hanyar gwagwarmayar yaƙi da ya ɗauki watanni da kuma ɗacin rai bayan hakan.",Mutane 10000 suka mutu a yaƙin.,neutral
+"Pedro ya hau kan gadon mulkin, ta hanyar gwagwarmayar yaƙi da ya ɗauki watanni da kuma ɗacin rai bayan hakan.",Watanni da suka shuɗe akai yakin.,entailment
+"Pedro ya hau kan gadon mulkin, ta hanyar gwagwarmayar yaƙi da ya ɗauki watanni da kuma ɗacin rai bayan hakan.",an gama yaƙin a kwana daya.,contradiction
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,"ta karfaffafen tsarin kula da lafiyar maaikata, an gina ɗaki wa sabbin gammamen tsari ko kuma an bada dama domin a sami sabon gammamen tsari.",neutral
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,an samar da gammammen tsari.,entailment
+an karfafa tsarin kula da lafiya maaikata da sabbin gammammen tsari da wuri domin kula da cigaba da fadada mu'amala da abokanan kasuwanci.,tsarin kula da lafiyar maaikata ta bunkasa fiye da da.,contradiction
+"duk da dai hanyoyin samun kudi sun gyaru, akwai kudin aiwatar da aikin nan.",akwai kayan da ake bukata na yin wannan ayyukan.,entailment
+"duk da dai hanyoyin samun kudi sun gyaru, akwai kudin aiwatar da aikin nan.",babu wasu ƙudi da aka ware wa wannan aikin.,contradiction
+"duk da dai hanyoyin samun kudi sun gyaru, akwai kudin aiwatar da aikin nan.",babu wadatattun ƙudi da aka ware wa wannan aikin.,neutral
+"ƙididdigar hanyoyin na karkara da ke wannan takardar, an dangana shi da ƙididdigan National Mail (1989) alif dubu daya da tamani da tara.",ƙididdigan da ke wannan takardan a dangana ta da rahoton 2001.,contradiction
+"ƙididdigar hanyoyin na karkara da ke wannan takardar, an dangana shi da ƙididdigan National Mail (1989) alif dubu daya da tamani da tara.",ƙididdigan takardan na sun shuɗe.,neutral
+"ƙididdigar hanyoyin na karkara da ke wannan takardar, an dangana shi da ƙididdigan National Mail (1989) alif dubu daya da tamani da tara.",akwai bayanai akan hanyoyin karkara a wannan takardan.,entailment
+Masu Zartarwa  na iya samun adadin tanadi ko faduwa wa kowannni alama.,kowanni abu Mai Zartarwa ya gwada akai zai bashi ma'auni daban.,entailment
+Masu Zartarwa  na iya samun adadin tanadi ko faduwa wa kowannni alama.,Masu Zartarwa basa faduwa.,contradiction
+Masu Zartarwa  na iya samun adadin tanadi ko faduwa wa kowannni alama.,dole Masu Zartarwa su samu wani adadi na ma'auni mai kyau domin cigaba.,neutral
+batun da aka tattauna akai a lokacin gwajin neman samun aiki shine yadda mutane ke yi idan sun ga tallar gurin siye da siyarwan zamani',rashin yarda a yayin amsa tambayoyin gwajin neman aiki na matakin farko ba zai sa ka samu aikin ba.,neutral
+batun da aka tattauna akai a lokacin gwajin neman samun aiki shine yadda mutane ke yi idan sun ga tallar gurin siye da siyarwan zamani',a tambayoyin gwajin samun shiga aikin ba ayi magana akan tallata wurin kasuwanci ba.,contradiction
+batun da aka tattauna akai a lokacin gwajin neman samun aiki shine yadda mutane ke yi idan sun ga tallar gurin siye da siyarwan zamani',a tambayoyin gwajin samun shiga aikin an ambaci yadda mutane ke yi akan tallata wurin kasuwanci kadan.,entailment
+189 kuma farashin masu amfani an ƙiyasce su a hanya daya.,sun ƙiyasta farshin masu amfani da shi.,entailment
+189 kuma farashin masu amfani an ƙiyasce su a hanya daya.,sun ƙiyasta cewa farashin masu amfani da shi $10000 ne.,neutral
+189 kuma farashin masu amfani an ƙiyasce su a hanya daya.,sun san takamaiman farashin masu amfani da shi.,contradiction
+"a misali, a GGD, an yi aikin taswiran karatun daban, da tsayi.",ba ayi nazarin taswirar ba.,contradiction
+"a misali, a GGD, an yi aikin taswiran karatun daban, da tsayi.",Na zari akan taswirar anyi shi ne a boye.,entailment
+"a misali, a GGD, an yi aikin taswiran karatun daban, da tsayi.",Ba ayi nasara a nazarin taswirar ba.,neutral
+duk hukumomi tara  sun amsa rahoto yin ,daga hukumomi tara biyu ne kadai suka damu su amsa mana tambayoyi cewan zasu kasance da mu.,contradiction
+duk hukumomi tara  sun amsa rahoto yin ,duka hukumomi taran sun amsa cewan sun kasance a gurin,entailment
+duk hukumomi tara  sun amsa rahoto yin ,wadannan hukumomin taran sun yi murnar ganin cewa sun kai wannan matsayin a fafatawar. ,neutral
+"tun 1996, kudin shiga na arzikin gidaje yai tashin gauron zabi uwa 6:4 a 1999",Duk gidaje sun sami fiye da $10000 kari shekarar da ta gabata.,neutral
+"tun 1996, kudin shiga na arzikin gidaje yai tashin gauron zabi uwa 6:4 a 1999",tattalin arzikin gidaje dayawa na yin kasa,contradiction
+"tun 1996, kudin shiga na arzikin gidaje yai tashin gauron zabi uwa 6:4 a 1999",gidaje da dama sun sami karin kudade da dama,entailment
+"ta raberaben hanya,ana bawa kowanne kashi farko da rukunin workshare ƙari a kan kason ƙuɗaɗe don samun matsaƙaicin farashi.",rukunin tushe yafi farashin.,entailment
+"ta raberaben hanya,ana bawa kowanne kashi farko da rukunin workshare ƙari a kan kason ƙuɗaɗe don samun matsaƙaicin farashi.",farashin ya ƙaru da kaso 10 cikin dari a kan uwar kudin.,neutral
+"ta raberaben hanya,ana bawa kowanne kashi farko da rukunin workshare ƙari a kan kason ƙuɗaɗe don samun matsaƙaicin farashi.",farashin bai kai asalin ƙudin ba ,contradiction
+"19 a misali a ce aikin wata huɗu kamin a bada aikin,gabaki ɗaya watanni 13 lokaci ne da za a iya gyara wannan tukunyar 675 MWe.", gyare gyaren wata biyu ya ci kawai.,contradiction
+"19 a misali a ce aikin wata huɗu kamin a bada aikin,gabaki ɗaya watanni 13 lokaci ne da za a iya gyara wannan tukunyar 675 MWe.",gyaran tukunyar jirgin ruwan karkashin kasa sai da ya kai watanni 13.,neutral
+"19 a misali a ce aikin wata huɗu kamin a bada aikin,gabaki ɗaya watanni 13 lokaci ne da za a iya gyara wannan tukunyar 675 MWe.",gyaran tukunyar jirgin sai da ya kai watanni 13.,entailment
+rashin maaikatan IT a kasa yanzu ya na daya daga cikin dalilan da yasa manyan kunguyoyi ke nema daga wani gurin.,akwai ma'aikatan IT dayawa.,contradiction
+rashin maaikatan IT a kasa yanzu ya na daya daga cikin dalilan da yasa manyan kunguyoyi ke nema daga wani gurin.,babu maaikatan IT sosai saboda duk sun tafi kasar Indiya.,neutral
+rashin maaikatan IT a kasa yanzu ya na daya daga cikin dalilan da yasa manyan kunguyoyi ke nema daga wani gurin.,babu maaikatan IT sosai da zasu cike guraben ayyukan.,entailment
+bazai yiwu a san adadi ko inda son kai a wannan abun ya chanza gabaki daya yanayin gudanar da C-R ta ko'ina.,ga zahiri ya nuna akwai son kai a nan.,contradiction
+bazai yiwu a san adadi ko inda son kai a wannan abun ya chanza gabaki daya yanayin gudanar da C-R ta ko'ina.,ba zai yiwu ka san adadin son kai dake nan ba saboda zai yi wuya ka raba shi da tunzurawa na wasu daga waje.,neutral
+bazai yiwu a san adadi ko inda son kai a wannan abun ya chanza gabaki daya yanayin gudanar da C-R ta ko'ina.,baza ka san adadin son kan da ake da shi.,entailment
+"daga cikin farashin fasaha, saboda yanayin aikin da wasu ƙungiya zasu iya yi a farashi mai tsada, an riga da an lissafa su ta hanyar da aka lissafa na baya.",ana iya gano ƙudin kula da bangaren fasaha ta ɓangare guda ɗaya ne.,entailment
+"daga cikin farashin fasaha, saboda yanayin aikin da wasu ƙungiya zasu iya yi a farashi mai tsada, an riga da an lissafa su ta hanyar da aka lissafa na baya.",basu gano ta wani hanyar zasu lissafa ƙudin kula da ɓangaren fasaha ba.,contradiction
+"daga cikin farashin fasaha, saboda yanayin aikin da wasu ƙungiya zasu iya yi a farashi mai tsada, an riga da an lissafa su ta hanyar da aka lissafa na baya.",sun yi amfani da tsohon data don su lissafa ƙudin kula da ɓangaren fasaha.,neutral
+abin yi na 4: kula da hatsarin a kai a kai.,babi na huɗu ya ƙunshi gwaji akan yadda za a rage hatsari.,entailment
+abin yi na 4: kula da hatsarin a kai a kai.,wannan littafin bai ƙunshi wani sanarwa game da hanyayoyin rage hatsari mai tsawon zango.,contradiction
+abin yi na 4: kula da hatsarin a kai a kai.,dole a gama gwajin kuma a kai nan da ƙarshen mako.,neutral
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",an hada da nazarin Marxist-Leninist a harkar kungiyar musulunci.,entailment
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",a karni na shidda aka fara kafa kungiyar musulmai.,contradiction
+"an samar da ƙungiyar musulunci a 1940 an yi saboda duniyar zamani, wanda irin nazarin Marxist-Leninist ne ya tunzura su tare da ƙungiyoyin yan tawaye.",ƙungiyar musulmai ya samo asali daga ƙungiyar wayar da kan al'umma.,neutral
+wasu masu bada shawara sun nuna wannan damuwarsu.,ɗuk masu bada shawara sun yadda gabaki ɗayan su cewan ba wani abin damuwa.,contradiction
+wasu masu bada shawara sun nuna wannan damuwarsu.,mashawurci daya ne kaɗai bai faɗi nasa hasashen ba agame da wannan tsarin.,neutral
+wasu masu bada shawara sun nuna wannan damuwarsu.,an samu rarrabuwa akan matsalar a gurin masu bada shawara daban daban.,entailment
+wannan tsarin na zaɓar fasinjoji ta ɗauki ɗaɗɗaya wanda za a bincika sosai.,duk fasinjojin na wucewa ba tare da an sami wani matsala ba.,contradiction
+wannan tsarin na zaɓar fasinjoji ta ɗauki ɗaɗɗaya wanda za a bincika sosai.,wasu fasinjan na samun binciken ilahirin jiki.,neutral
+wannan tsarin na zaɓar fasinjoji ta ɗauki ɗaɗɗaya wanda za a bincika sosai.,wasu fasinjan na samun bincike sosai daga gurin jami'an tsaro.,entailment
+bamu da abinda zai nuna cewan an gayawa sabon shugaba wannan raayin ko cewan Clarke ya basu takardan. duk da dai cewan kungiyar ma'aikatan sun yi aiki da gwamnatin sabon gwamnati da wanda ya shuɗe.,muna da yaƙini ɗari bisa ɗari cewan Clarke bai bawa kowa takardan shi ba.,neutral
+bamu da abinda zai nuna cewan an gayawa sabon shugaba wannan raayin ko cewan Clarke ya basu takardan. duk da dai cewan kungiyar ma'aikatan sun yi aiki da gwamnatin sabon gwamnati da wanda ya shuɗe.,bamu da shaidar cewan Clarke ya bashi takardan.,entailment
+bamu da abinda zai nuna cewan an gayawa sabon shugaba wannan raayin ko cewan Clarke ya basu takardan. duk da dai cewan kungiyar ma'aikatan sun yi aiki da gwamnatin sabon gwamnati da wanda ya shuɗe.,muna da masaniyar cewan Clarke ya basu takardan ranar 2 ga watan Yuli.,contradiction
+"ba tabbacin za a iya kafa tsarin kafin 2010, amman ko da wannan jaddawalin tsarin lokaci za a iya samun tafiyar hawainiya, duba ga yadda ake samun barazanar tsaro.",yana da wuya a saka na'urar saboda masu iya ƙutse na kawo hari kullun da daddare.,neutral
+"ba tabbacin za a iya kafa tsarin kafin 2010, amman ko da wannan jaddawalin tsarin lokaci za a iya samun tafiyar hawainiya, duba ga yadda ake samun barazanar tsaro.",ba abu ne mai sauki ba a saka na'urar saboda matsalar tsaro.,entailment
+"ba tabbacin za a iya kafa tsarin kafin 2010, amman ko da wannan jaddawalin tsarin lokaci za a iya samun tafiyar hawainiya, duba ga yadda ake samun barazanar tsaro.","Za a saka na'urar tsaron nan da sati 6, nayi alƙawari.",contradiction
+"saboda haka, a yayin da muke kare ƙasar mu ta gado, Amurkawa su sa ido akan barazanar da zata iya taba mu da yancin mu na dan Adam.",Amurkawa kar su damu akan yancin su na zama dan Adam- zamu kare su.,contradiction
+"saboda haka, a yayin da muke kare ƙasar mu ta gado, Amurkawa su sa ido akan barazanar da zata iya taba mu da yancin mu na dan Adam.",Amurkawa su tabbatar ba a ƙwace musu bindigun su ba.,neutral
+"saboda haka, a yayin da muke kare ƙasar mu ta gado, Amurkawa su sa ido akan barazanar da zata iya taba mu da yancin mu na dan Adam.",Amurkawa su sanya idanu akan barazanar yancin su na zama dan Adam.,entailment
+isar da saƙo akai akai bai sa ya zama mai inganci.,isar da saƙo bai sa ya inganta ba.,entailment
+isar da saƙo akai akai bai sa ya zama mai inganci.,isar da saƙo ya ƙara masa inganci.,contradiction
+isar da saƙo akai akai bai sa ya zama mai inganci.,bai sa ya ƙara wani inganci ba a loƙacin da aka isar da sakon zuwa ga White Houseba.,neutral
+"a mataki na gaba, darakta na ɓangaren al Qaeda a CIA a wannan loƙacin ya tuna cewan yana tunanin aikin sa ba kai tsaye bane ya sa ko ya hana .",darakta bai son ya shiga cikin maganar saboda ya kusan yin ritaya.,neutral
+"a mataki na gaba, darakta na ɓangaren al Qaeda a CIA a wannan loƙacin ya tuna cewan yana tunanin aikin sa ba kai tsaye bane ya sa ko ya hana .",daraktan wannan ɓangaren baya son ya shiga maganar bada umarnin abinda za ayi.,entailment
+"a mataki na gaba, darakta na ɓangaren al Qaeda a CIA a wannan loƙacin ya tuna cewan yana tunanin aikin sa ba kai tsaye bane ya sa ko ya hana .",darekta na tunanin cewa shi ke da na faɗa.,contradiction
+Pickard ya tuna cewa ya ga ƙagaggen jawabin da aka hada a wurin taro na ranar 12 ga watan Yuli,Pickard bai tuna abinda suka ce ba ko kadan.,contradiction
+Pickard ya tuna cewa ya ga ƙagaggen jawabin da aka hada a wurin taro na ranar 12 ga watan Yuli,Pickard ya tuna cewan taron ya bada bayanai akan hatsarin.,neutral
+Pickard ya tuna cewa ya ga ƙagaggen jawabin da aka hada a wurin taro na ranar 12 ga watan Yuli,Pickard ya tuna duk bayanan da akayi a wurin taron.,entailment
+ya yi tafiya zuwa Pakistan amma ya zama ya ƙagu sanda aka tambaye shi in ya yi tafiya zuwa wasu ƙasashe da ke maƙwabtaka da Pakistan (Pakistan sannannen hanya ce zuwa sansanin horo da ke Afghanistan).,ba wani abu bane wa yan ta'aɗɗa su yi tafiya ta Pakistan don shiga Afghanistan.,entailment
+ya yi tafiya zuwa Pakistan amma ya zama ya ƙagu sanda aka tambaye shi in ya yi tafiya zuwa wasu ƙasashe da ke maƙwabtaka da Pakistan (Pakistan sannannen hanya ce zuwa sansanin horo da ke Afghanistan).,tsakanin Pakistan da Afghanistan akwai nisa sosai.,contradiction
+ya yi tafiya zuwa Pakistan amma ya zama ya ƙagu sanda aka tambaye shi in ya yi tafiya zuwa wasu ƙasashe da ke maƙwabtaka da Pakistan (Pakistan sannannen hanya ce zuwa sansanin horo da ke Afghanistan).,dambe na daga cikinirin horon da ake badawa a Afghanistan.,neutral
+"a gurguje wadannan hanyoyin da dalilan da ya sa masu shiga tsaƙani ba a yadda da su ba, duba Graham Allison da Philip Zelikow, Essense of Decision , 2d, ed.",An kula da abubuwan da aka kama da kwarewa.,contradiction
+"a gurguje wadannan hanyoyin da dalilan da ya sa masu shiga tsaƙani ba a yadda da su ba, duba Graham Allison da Philip Zelikow, Essense of Decision , 2d, ed.",an aika abubuwan da kama don a bincika ga wanda ba shi ya dace ba,neutral
+"a gurguje wadannan hanyoyin da dalilan da ya sa masu shiga tsaƙani ba a yadda da su ba, duba Graham Allison da Philip Zelikow, Essense of Decision , 2d, ed.",Abubuwan da aka kama ba a kula da su ba da kyau.,entailment
+"Sun yi nasarar sa harin yayi wuya akan abubuwan da ake son a hara, kuma sunyi hakan ne ta hanyar mayar da kamawa abu mafi sauki.","sun san cewan idan suka sa samun abubuwan da ake hari yayi wahala, za a sami ƙarin kame sosai",neutral
+"Sun yi nasarar sa harin yayi wuya akan abubuwan da ake son a hara, kuma sunyi hakan ne ta hanyar mayar da kamawa abu mafi sauki.",sun sa kamun wanda ake zargi yai sauƙi domin a cikin mintuna aka garƙame su.,contradiction
+"Sun yi nasarar sa harin yayi wuya akan abubuwan da ake son a hara, kuma sunyi hakan ne ta hanyar mayar da kamawa abu mafi sauki.",suna ƙirkiran wanda za a kai wa hari ta yadda za a sami ƙalubale saboda daga baya zasu ke cafke su akai akai,entailment
+"an sanar wa da Ɓangaren masu tsaro na sararin sama na Southeast na afkuwar abun a daidai misalin karfe 9:55, bayan mintuna 28.",bayan mintuna 28 bayan abin ya faru Bangaren masu tsaro sararin sama na Southeast suka sami sanarwa.,entailment
+"an sanar wa da Ɓangaren masu tsaro na sararin sama na Southeast na afkuwar abun a daidai misalin karfe 9:55, bayan mintuna 28.",Ɓangaren basu sami sanarwa ba da wuri saboda tangarɗan sadarwa.,neutral
+"an sanar wa da Ɓangaren masu tsaro na sararin sama na Southeast na afkuwar abun a daidai misalin karfe 9:55, bayan mintuna 28.",Ɓangaren masu tsaro na sararin sama sun sami saƙo daƙiƙu 28 bayan afkuwar alamarin.,contradiction
+"muna nan muna jiran ranar da za ai muhawara na ƙasa bakidaya akan abubuwan da muke da yaƙini, kuma zamu shiga muyi shi tuƙuru.",ba amfanin yin muhawara akan wannan batun.,contradiction
+"muna nan muna jiran ranar da za ai muhawara na ƙasa bakidaya akan abubuwan da muke da yaƙini, kuma zamu shiga muyi shi tuƙuru.",muna son muyi muhawara saboda mun san waddannan abubuwan na da muhimmmanci.,neutral
+"muna nan muna jiran ranar da za ai muhawara na ƙasa bakidaya akan abubuwan da muke da yaƙini, kuma zamu shiga muyi shi tuƙuru.",muna son muyi muhawara akan wadannan abubuwan.,entailment
+bayan Mihdhar ya tafi wasu yaran suka shiga gidan.,Mihdhar ya san daliban na jiran tafiyar sa ne.,neutral
+bayan Mihdhar ya tafi wasu yaran suka shiga gidan.,dalibai sun tafi gida bayan Mihdhar ya tafi.,entailment
+bayan Mihdhar ya tafi wasu yaran suka shiga gidan.,daliban sun yi zanga zanga awajen gidan da Mihdhar ke zaune.,contradiction
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,duk kyautar da muka samu bai da muhimmanci kamar naka.,neutral
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,bamu damu da kyautar ka ba kwatakwata.,contradiction
+kyautar ka na da amfani ga bikin kakar bana karo na tamanin da biyar.,mun fi shekara tamanin muna yin wannan.,entailment
+ya dauki haɗin gwiwa tsaƙanin wasu mutanen da jami'a wajan samar da ƙudi domin cigaba da kula da girma da dauƙakar makarantar mu ta horon masu aikin shari'a.,makarantar mu ta koyon aikin shari'a ta dogara akan kudin da take samu daga waje ne kawai.,contradiction
+ya dauki haɗin gwiwa tsaƙanin wasu mutanen da jami'a wajan samar da ƙudi domin cigaba da kula da girma da dauƙakar makarantar mu ta horon masu aikin shari'a.,makarantar mu ta koyon aikin shari'a tana samun wani ɓangaren taimako daga gurin Melinda da Bill Gates Foundation.,neutral
+ya dauki haɗin gwiwa tsaƙanin wasu mutanen da jami'a wajan samar da ƙudi domin cigaba da kula da girma da dauƙakar makarantar mu ta horon masu aikin shari'a.,makarantar mu na koyon aikin shari'a na bukatar ƙudi domin cigaba da gudana.,entailment
+da taimakon abokanan hurɗan mu masu zuciyar taimako ne kadai muka iya cimma abubuwa da dama.,Bill Gates ya bamu gudummawar $5 miliyan.,neutral
+da taimakon abokanan hurɗan mu masu zuciyar taimako ne kadai muka iya cimma abubuwa da dama.,"duba da yanayin kasuwanci, abokanan hurɗan mu masu zuciyar kyauta sun ja baya daga bamu tallafi.",contradiction
+da taimakon abokanan hurɗan mu masu zuciyar taimako ne kadai muka iya cimma abubuwa da dama.,"mun iya cimma abubuwa da dama, saboda tallafin da muke ta samu.",entailment
+mun godiya da taimakawa gidan tarihi da ajiya na zanezanen Indianapolis a 1999.,mun gode da bada tallafin $100 ga gidan ajiya da tarihi  na zarezanen Indianapolis.,neutral
+mun godiya da taimakawa gidan tarihi da ajiya na zanezanen Indianapolis a 1999.,mun gode amma bamu gode ba da ƙin bada gudummawa a 1999.,contradiction
+mun godiya da taimakawa gidan tarihi da ajiya na zanezanen Indianapolis a 1999.,muna farinciki da taimakon da kuka bawa gidan ajiya da tarihi.,entailment
+burina shine ka samu albarka da ƙwarin gwiwa daga wannan abin.,da fatan wannan abin zai zaburar da kai.,entailment
+burina shine ka samu albarka da ƙwarin gwiwa daga wannan abin.,"nasan wannan abun ya saka kana jin gazawa, amma ka karkata zuwa tafiya hutun ka.",contradiction
+burina shine ka samu albarka da ƙwarin gwiwa daga wannan abin.,na san zakiya iya ƙarfin ka wajan yaƙi da ciwon dajin nono.,neutral
+yana da muhimmanci muji daga gare ka a lokacin da muke yin taron neman tallafi na karshe a wannan kakar.,"wannan shine neman tallafi na karshe da zamu yi a wannan kakar, saboda haka muna buƙatar taimakon ka.",entailment
+yana da muhimmanci muji daga gare ka a lokacin da muke yin taron neman tallafi na karshe a wannan kakar.,muna da taron neman tallafin ƙudi biyu nan gaba a wannan shekaran.,contradiction
+yana da muhimmanci muji daga gare ka a lokacin da muke yin taron neman tallafi na karshe a wannan kakar.,"muna buƙatar ƙarin $100,000 don mu kai gurbin taron neman tallafin ƙudi na wannan kakar.",neutral
+P. S. wannan kyauta na ka yana da muhimmanci ga bikin murnan cika shekaru 85 da gina gidan kallon wasan ƙwaiƙwayo na Indianapolis Civic wanda yafi kowanne gidan kallon wasan kwaikwayon da yake aiki har yanzu dadewa a ƙasar.,akwai wani gurin kallon wasan kwaikwayo da aka yi bikin cikar sa shekara 84 kwanannan amma ya ƙone.,neutral
+P. S. wannan kyauta na ka yana da muhimmanci ga bikin murnan cika shekaru 85 da gina gidan kallon wasan ƙwaiƙwayo na Indianapolis Civic wanda yafi kowanne gidan kallon wasan kwaikwayon da yake aiki har yanzu dadewa a ƙasar.,muna babban bikin buɗe sabon gidan kallon wasan kwaikwayo na Indianapolis.,contradiction
+P. S. wannan kyauta na ka yana da muhimmanci ga bikin murnan cika shekaru 85 da gina gidan kallon wasan ƙwaiƙwayo na Indianapolis Civic wanda yafi kowanne gidan kallon wasan kwaikwayon da yake aiki har yanzu dadewa a ƙasar.,muna matuƙar farinciki cewa gidan kallon wasan kwaikwayo na Indianpolis Civic kai shkeara 85 yana aiki.,entailment
+"wanda suka samu damar shiga, za a basu sunaye, adireshi da lambobin waya, tare da taƙaitaccen bayanin abinda makarantar ke da buƙata.",wanda suka sami damar shiga za a basu yadda zasu tuntuɓe su da kuma taƙaitaccen bayani.,entailment
+"wanda suka samu damar shiga, za a basu sunaye, adireshi da lambobin waya, tare da taƙaitaccen bayanin abinda makarantar ke da buƙata.","wanda suka sami damar shiga zasu sa hannu a takardar yarjejeniya, kafin a basu damar samun karɓan  abubuwan da zasu yi nan gaba.",neutral
+"wanda suka samu damar shiga, za a basu sunaye, adireshi da lambobin waya, tare da taƙaitaccen bayanin abinda makarantar ke da buƙata.",wanda suka samu shiga zasu iya sanin sunayen su amma banda adireshin su.,contradiction
+"mun tsara gidan dabbobin mu da amfani da biomes, wanda zai ƙarfafa wurin zama na asali in da dabbobin ke zaune.",biomes na ƙarfafa wurin zaman dabbobi na asali.,entailment
+"mun tsara gidan dabbobin mu da amfani da biomes, wanda zai ƙarfafa wurin zama na asali in da dabbobin ke zaune.","a gidan dabbobi, mun yarda cewa ƙagaggen wurin zama ya fi asalin gurin zama.",contradiction
+"mun tsara gidan dabbobin mu da amfani da biomes, wanda zai ƙarfafa wurin zama na asali in da dabbobin ke zaune.",biomes na gidan dabobbin mu na da tsada sosai.,neutral
+goyon bayan da kake wa Goodwill zai bada damar samun horon koyin da kuma maye gurbin aiki da zai taimakawa masu aiki tukuru su samu aiki mai na kirki a Indiana ta tsakiya.,mutanen Indiana ta tsaƙiya basu taba samun horon aiki ba.,contradiction
+goyon bayan da kake wa Goodwill zai bada damar samun horon koyin da kuma maye gurbin aiki da zai taimakawa masu aiki tukuru su samu aiki mai na kirki a Indiana ta tsakiya.,bawa Goodwill goyon baya zai taimaki mutanen Indiana.,entailment
+goyon bayan da kake wa Goodwill zai bada damar samun horon koyin da kuma maye gurbin aiki da zai taimakawa masu aiki tukuru su samu aiki mai na kirki a Indiana ta tsakiya.,bawa Goodwill goyon baya zai rage yawaitan rashin aikin yi.,neutral
+"tun da fari dai har kawo e yau makarantar koyon aikin likitanci na garin Indiana ya kasance shine cibiya mai bada sahihin kiwon lafiya a fadin ƙasar, kuma yana daukaka da bunƙasa.",Indiana na da a ƙalla makarantun koyon aikin likitanci masu kyau guda ashirin.,contradiction
+"tun da fari dai har kawo e yau makarantar koyon aikin likitanci na garin Indiana ya kasance shine cibiya mai bada sahihin kiwon lafiya a fadin ƙasar, kuma yana daukaka da bunƙasa.",a jahar Indiana ta na da makarantar koyon aikin likitanci guda daya kadai.,entailment
+"tun da fari dai har kawo e yau makarantar koyon aikin likitanci na garin Indiana ya kasance shine cibiya mai bada sahihin kiwon lafiya a fadin ƙasar, kuma yana daukaka da bunƙasa.",baza a sake samun wata makarantar koyon aikin likitanci ba nan da shekara biyar a garin Indiana.,neutral
+"baya ga haka, tashin gwauron zabin da ƙudin litattafan sharia, mujallu da aiyukan database na nufin ƙudin kula da kayayyakin mu yanzu zai wuce kasafin mu.",kula da kayayyakin mu na yanzu kaɗai yana cin kaso uku a kudin kasafin mu na shekara.,contradiction
+"baya ga haka, tashin gwauron zabin da ƙudin litattafan sharia, mujallu da aiyukan database na nufin ƙudin kula da kayayyakin mu yanzu zai wuce kasafin mu.",kasafin mu na yanzu bazai bada daman kula da kayayyakin da muke da su ba.,entailment
+"baya ga haka, tashin gwauron zabin da ƙudin litattafan sharia, mujallu da aiyukan database na nufin ƙudin kula da kayayyakin mu yanzu zai wuce kasafin mu.","muna buƙatar aƙalla gudummawar $10,000  don cigaba da kula da kayayyakin da muke da su yanzu.",neutral
+zamu yi kokarin tuntuɓar kowannen ku wanda bai samu damar shiga wannan shekarar nan da kwana 45 domin cimma burin mu kafin ranar rufewa wadda 30th ga watan Yuni ne.,bamu da niyyar tuntubar wadanda basu bada gudummuwa ba a wannan shekarar.,contradiction
+zamu yi kokarin tuntuɓar kowannen ku wanda bai samu damar shiga wannan shekarar nan da kwana 45 domin cimma burin mu kafin ranar rufewa wadda 30th ga watan Yuni ne.,zamu aika saƙon mail nan da kwana 45 ga wanda basu bada gudummawa wannan shekarar.,neutral
+zamu yi kokarin tuntuɓar kowannen ku wanda bai samu damar shiga wannan shekarar nan da kwana 45 domin cimma burin mu kafin ranar rufewa wadda 30th ga watan Yuni ne.,zamu yi ƙoƙarin tuntubar wanda basu bada gudummawa ba nan da kwana 45,entailment
+"a matsayin dan makarantar horon masu aikin shari'a__, nasan kana sane da cigaban mu.",ina daga cikin mutanen makarantar horon masu sharia.,neutral
+"a matsayin dan makarantar horon masu aikin shari'a__, nasan kana sane da cigaban mu.",Ba wanda yake dan makarantar koyon  aikin shari'ar.,contradiction
+"a matsayin dan makarantar horon masu aikin shari'a__, nasan kana sane da cigaban mu.",makarantar horar da masu aikin sharia ta karbi mutane.,entailment
+"ƙudin samar da gidajen nan ya wuce abinda masu siya zasu iya biya, saboda haka mun dogara da tallafi da gudummuwa daga gurin ɗaiɗaikun mutane don a samu a siya.",an gina gidajen kyauta gaba daya.,contradiction
+"ƙudin samar da gidajen nan ya wuce abinda masu siya zasu iya biya, saboda haka mun dogara da tallafi da gudummuwa daga gurin ɗaiɗaikun mutane don a samu a siya.",gina gidajen na bukatar tanadin kayayyaki.,entailment
+"ƙudin samar da gidajen nan ya wuce abinda masu siya zasu iya biya, saboda haka mun dogara da tallafi da gudummuwa daga gurin ɗaiɗaikun mutane don a samu a siya.",Gina gidajen yayi tsada sosai sama da yadda aka yi tsammani.,neutral
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,Iyaye masu neman labarai sune irin wanda newsweeklies suke neman don kasuwancin su.,entailment
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,Jaridar Newsweeklies na tsara bangon shafin su domin su ja hankalin yara dan tsofaffi.,contradiction
+labaran dake bangon jaridar newsweeklies ya ja ra'ayin iyaye masu neman labarai.,"akwai yiwuwar iyaye su fi kashe ƙudin su akan siyan sabbin motoci, da samun hanya mai kyau na tallata kasuwanci a mujallu.",neutral
+mujallar Times ta rubuta labarin bangon mujallar akan Bill Gates da matakai 12 da za a bi don samun cigaba a shekarun dijital.,Kim Kardashian tayi rubutu a bangon farko na mujallar Times akan matakai12 da ake bukata a sami nasara a zamanin dijital.,contradiction
+mujallar Times ta rubuta labarin bangon mujallar akan Bill Gates da matakai 12 da za a bi don samun cigaba a shekarun dijital.,mujallar Times na da hoton Bill Gates a bangon shafi.,neutral
+mujallar Times ta rubuta labarin bangon mujallar akan Bill Gates da matakai 12 da za a bi don samun cigaba a shekarun dijital.,mujallar Times na rubuta labari akan Bill Gates da nasarar da ake samu a shekarun dijital.,entailment
+"gudu shiru, gudu mai zurfi, saurin bada amsa.",gudu kana ƙara.,contradiction
+"gudu shiru, gudu mai zurfi, saurin bada amsa.",gudu tare da bugun hannu.,neutral
+"gudu shiru, gudu mai zurfi, saurin bada amsa.",gudu ba tare da an ji ba.,entailment
+Paul na ganin ƙimar Alan Greenspan a matsayin mai aƙida wanda ke iya kula da yawaitar rashin aikin yi kamar yadda wasu ƙka'idojin tattalin arziki suka alkinta.,Alan Greenspan ya na da  ƙa'idojin tattalin arziki akan rashin aikin yi.,entailment
+Paul na ganin ƙimar Alan Greenspan a matsayin mai aƙida wanda ke iya kula da yawaitar rashin aikin yi kamar yadda wasu ƙka'idojin tattalin arziki suka alkinta.,Paul bai taba jin labarin Alan Greenspan ba bare ƙa'idojin sa na tattalin arziki.,contradiction
+Paul na ganin ƙimar Alan Greenspan a matsayin mai aƙida wanda ke iya kula da yawaitar rashin aikin yi kamar yadda wasu ƙka'idojin tattalin arziki suka alkinta.,Paul na tunanin Alan Greenpan ya fi kowa ƙwanya a masana tattalin arziki da ya sani.,neutral
+"da taimakon microsoft helpdesk, na gano cewan CD-ROM dina ƙila na haɗa shi da katin kiɗa a maimakon IDE wataƙila shine dadlilin da Linux bai aiki ba.",ban taba amfani da Linux ba.,contradiction
+"da taimakon microsoft helpdesk, na gano cewan CD-ROM dina ƙila na haɗa shi da katin kiɗa a maimakon IDE wataƙila shine dadlilin da Linux bai aiki ba.",ina samun matsala wajen hada Linus ya hadu da na'urar modem dina.,neutral
+"da taimakon microsoft helpdesk, na gano cewan CD-ROM dina ƙila na haɗa shi da katin kiɗa a maimakon IDE wataƙila shine dadlilin da Linux bai aiki ba.",ina samun matsala da linux.,entailment
+"Steve na kasa daga ƙaramin asusun ka na aljihu, Hatch ya fada.",cikin fushi Hatch yace ya gaza iya ɗaga ƙaramin asusun aljihun Steve.,neutral
+"Steve na kasa daga ƙaramin asusun ka na aljihu, Hatch ya fada.",Hatch ba shi da wani ra'ayi agame da ƙaramin asusu aljihu na Steve.,contradiction
+"Steve na kasa daga ƙaramin asusun ka na aljihu, Hatch ya fada.",Hatch yayi barkwancen cewa ya gaza iya ɗaga ƙaramin asusun aljihu na Steve,entailment
+masu son karatu musamman wanda suka manne a ajin karatun sanin tattalin arziki da na na'ura mai kwakwalwa basu da wani alfanu nan gaba.,masu san karatu basu da wani alfanu.,entailment
+masu son karatu musamman wanda suka manne a ajin karatun sanin tattalin arziki da na na'ura mai kwakwalwa basu da wani alfanu nan gaba.,masu son karatu basu iya mu'amala ba.,neutral
+masu son karatu musamman wanda suka manne a ajin karatun sanin tattalin arziki da na na'ura mai kwakwalwa basu da wani alfanu nan gaba.,masu son karatu suna da nasibi nan gaba.,contradiction
+wannan yafi abin da News Quiz zata iya alkarwantawa akan Fox.,wannan bai kai abinda News Quiz zasu iya yin alƙawari ba agame da Fox.,contradiction
+wannan yafi abin da News Quiz zata iya alkarwantawa akan Fox.,wannan yafi abinda News Quiz zasu iya bada tabbaci akan Fox.,entailment
+wannan yafi abin da News Quiz zata iya alkarwantawa akan Fox.,kila yafi abin da News Quiz zasu iya fada akan Fox.,neutral
+hauhawar ƙidayar alumma daidai take da gurɓatan yanayi - a baibai.,gurɓatar yanayi na kawo tasgaro ga hauhawar ƙidayar al'umma.,neutral
+hauhawar ƙidayar alumma daidai take da gurɓatan yanayi - a baibai.,hauhawar ƙidayar al'umma na daidai da gurɓatar yanayi.,entailment
+hauhawar ƙidayar alumma daidai take da gurɓatan yanayi - a baibai.,babu alaka tsaƙanin yawaitar alumma da gurɓatar yanayi.,contradiction
+"to, tunda Bill Bradley a St Louis ya girma, tsaya, yi haquri, abun zai zama abin dariya in Al Gore ya tashi a Tenesse.",Bradley ya fito daga Arkansas.,contradiction
+"to, tunda Bill Bradley a St Louis ya girma, tsaya, yi haquri, abun zai zama abin dariya in Al Gore ya tashi a Tenesse.",Bradley ya fito daga Missouri.,entailment
+"to, tunda Bill Bradley a St Louis ya girma, tsaya, yi haquri, abun zai zama abin dariya in Al Gore ya tashi a Tenesse.",Bradley ya fito daga gabashin St.Louis.,neutral
+"Sabol yace zai yi dan tsaye tsaye, amma an riga da an shirya.",Sabol baya buƙatar yake tsaye tsaye a hanya.,neutral
+"Sabol yace zai yi dan tsaye tsaye, amma an riga da an shirya.",Sabol sai maimaitawa yake cewan zai tsaya a hanya.,entailment
+"Sabol yace zai yi dan tsaye tsaye, amma an riga da an shirya.",Sabol ya ce bai da buƙatar tsahirta tafiyar don hutuwa.,contradiction
+me yasa wannan baya aiki a yanar gizo ba?,wannan yana aiki a yanar gizo.,contradiction
+me yasa wannan baya aiki a yanar gizo ba?,a halin yanzu wannan baya aiki a yanar gizo.,entailment
+me yasa wannan baya aiki a yanar gizo ba?,a wasu lokutan ƙila yayi aiki a yanar gizo.,neutral
+yan sanda sun cire ƙani da ƙanwar Jon Benet Ramsey daga zargin su suka kashe ta da ƙwaƙƙwaran shaidar cewan basa gari sanda taasan ya afku.,ƙanin Jon Benet Ramsey wadda suke uwa ɗaya baya gari san da akayi kisan.,entailment
+yan sanda sun cire ƙani da ƙanwar Jon Benet Ramsey daga zargin su suka kashe ta da ƙwaƙƙwaran shaidar cewan basa gari sanda taasan ya afku.,ƙanwar Jon Benet Ramsey wadda suke uwa ɗaya na da shaida ƙwaƙwara cewan bata gari san da akayi kisan kai.,neutral
+yan sanda sun cire ƙani da ƙanwar Jon Benet Ramsey daga zargin su suka kashe ta da ƙwaƙƙwaran shaidar cewan basa gari sanda taasan ya afku.,akwai isassun hujjoji da za su sa a kama kanin Jon Benet Ramsey wanda suke uwa daya.,contradiction
+bana tunanin ka tsayar da matsaya akan wani ɓangaren kake.,alamu sun nuna a fili wa kake goyon baya.,contradiction
+bana tunanin ka tsayar da matsaya akan wani ɓangaren kake.,bamu san wa kake goyon baya ba a wannan zaben.,neutral
+bana tunanin ka tsayar da matsaya akan wani ɓangaren kake.,bamu san wa kake goyon baya ba.,entailment
+wata rana fasaha da ake ji da shi zata zama kamar kwan fitila( gama gari).,fasaha na gundira bayan wani dan lokaci.,entailment
+wata rana fasaha da ake ji da shi zata zama kamar kwan fitila( gama gari).,fasaha na da dadin shaani.,contradiction
+wata rana fasaha da ake ji da shi zata zama kamar kwan fitila( gama gari).,fasaha na gundira idan ba a chanza shi akai akai.,neutral
+wani zabin ba ya nufin maimako.,bai dace ake amfani da wani zabin da nufin maimako ba.,entailment
+wani zabin ba ya nufin maimako.,an yarda ake amfani da maimako a madadin wani zabin.,contradiction
+wani zabin ba ya nufin maimako.,mutane da dama basu san yadda za su yi amfani da wani zabin da maimako ba.,neutral
+"lokacin da Skeat ya shiga shekara sittin, a shekara 1895, sai ya fara nuna cewan ya fara rage damuwa akan wasu abubuwan.","a yayin da Skeat ya kai shekaru sittin, bai bada wani alamun da ya nuna yana tunanin komi ba.",contradiction
+"lokacin da Skeat ya shiga shekara sittin, a shekara 1895, sai ya fara nuna cewan ya fara rage damuwa akan wasu abubuwan.",da Skeat ya fara girma sai ya rage damuwa da wasu abubuwan.,entailment
+"lokacin da Skeat ya shiga shekara sittin, a shekara 1895, sai ya fara nuna cewan ya fara rage damuwa akan wasu abubuwan.",da Skeat ya fara girma sai ya koma damuwa da abubuwa daban-daban.,neutral
+... amma a karo na biyu sai ya tsinkayi kansa a tsakanin abokanansa biyu.,bai san bangaren wa zai zaba ba a tsakanin abokan sa biyu.,neutral
+... amma a karo na biyu sai ya tsinkayi kansa a tsakanin abokanansa biyu.,"Haduwa daya kawai yake da ita, wadda kuma da abokin sa ne.",contradiction
+... amma a karo na biyu sai ya tsinkayi kansa a tsakanin abokanansa biyu.,haduwa karo na biyu da mutane uku.,entailment
+wanne ka fi so lissafi ko kimiya?,kana da zabi tsakanin lissafi ko kimiya? ,entailment
+wanne ka fi so lissafi ko kimiya?,"wane kafi tsana, turanci ko falsafa?",contradiction
+wanne ka fi so lissafi ko kimiya?,zaka iya son wasu abubuwan baya ga lissafi da kimiya.,neutral
+lokaci da cigaban kimiya zata sa wayoyin tangaraho  marasa nisan zango za a iya ce musu wayar tarho.,wayoyin tangaraho mara sa nisan zango duk zasu zama wayan tarho.,entailment
+lokaci da cigaban kimiya zata sa wayoyin tangaraho  marasa nisan zango za a iya ce musu wayar tarho.,kimiya zata sa wayoyi su sami cigaba.,neutral
+lokaci da cigaban kimiya zata sa wayoyin tangaraho  marasa nisan zango za a iya ce musu wayar tarho.,wayar tarho sun fi sauki akan wayan mara nisan zango tangaraho.,contradiction
+"magana ta karshe, muna hasashe, kwarai, cewan baka mika mukalar nan ko ina ba.",mun dauke shi akan cewa baka gabatar da wannan mukabalar ga wani daban ba.,entailment
+"magana ta karshe, muna hasashe, kwarai, cewan baka mika mukalar nan ko ina ba.",mun fahimci cewan ka buga wannan muƙalar a jaridu biyar a baya.,contradiction
+"magana ta karshe, muna hasashe, kwarai, cewan baka mika mukalar nan ko ina ba.",muna son ka sa hannun yarjejeniya a wata takarda cewan wannan  mukalar mu kadai ka bawa mu buga.,neutral
+dan uwa mai kirki-- wannan faden ya sami asali daga Julius Caeser inda aka fi yawan amfani (iv.,"a Julius Caeser, akai amfani da kalmar dan uwan kirki.",entailment
+dan uwa mai kirki-- wannan faden ya sami asali daga Julius Caeser inda aka fi yawan amfani (iv.,an fara amfani da kalmar danuwa mai kirki a ƙarni na 20.,contradiction
+dan uwa mai kirki-- wannan faden ya sami asali daga Julius Caeser inda aka fi yawan amfani (iv.,ana amfani da kalmar danuwa mai kirki  da nufin a ce siriki(danuwan wanda aka aura).,neutral
+"in haka ne, kila zasu so su siyi wannan wallafa saboda yana da shafi 55, ma'anoni da ambaton da babu su a  bugun da ya gabata.",wannan littafin yana da sabbin kalmomi masu yawa da ba a wallafa ba da.,entailment
+"in haka ne, kila zasu so su siyi wannan wallafa saboda yana da shafi 55, ma'anoni da ambaton da babu su a  bugun da ya gabata.",wannan wallafar daya ne da wallafar da ta shude.,contradiction
+"in haka ne, kila zasu so su siyi wannan wallafa saboda yana da shafi 55, ma'anoni da ambaton da babu su a  bugun da ya gabata.",wannan wallafar an sayar da kwafi dubu biyar a shekarar farko.,neutral
+"kamannin abincin ya sa mun dan razana, amma a hakan muka ci ba tare da wani shauki ba, cikin bacin rai da danne zuciya.",kowa na ci ana hira cikin shauki saboda abincin ya tuna musu da abincin da kowa ke so a lokacin shagulgula.,contradiction
+"kamannin abincin ya sa mun dan razana, amma a hakan muka ci ba tare da wani shauki ba, cikin bacin rai da danne zuciya.",mun ji a ran mu cewan ya kamata mu ci abin da aka kawo mana saboda bama son mu bata wa masu masaukin bakin mu rai.,neutral
+"kamannin abincin ya sa mun dan razana, amma a hakan muka ci ba tare da wani shauki ba, cikin bacin rai da danne zuciya.","da kyar muka ci abin da aka kawo mana, duk da bamu so kalan yadda abincin yake ba.",entailment
+shekarar matasan nawa?,nasan takamaiman shekarun matasan nawa.,contradiction
+shekarar matasan nawa?,matasa na daga cikin jerin wanda mutane ke kasa sa su a rukunin shekarun su.,entailment
+shekarar matasan nawa?,duk matasa na kasa da shekara ashirin da biyar,neutral
+"bayan haka, a nasu zaton lokaci na gewayowa, ba mikewa ba, saboda haka tuna wucewar lokaci bai da muhimmanci kamar yin taron bikin murnan zagayowar kaka.","a nasu zaton, lokaci a mike yake, da kowanne shudewar ta na da amfani ga zagayowar kaka.",contradiction
+"bayan haka, a nasu zaton lokaci na gewayowa, ba mikewa ba, saboda haka tuna wucewar lokaci bai da muhimmanci kamar yin taron bikin murnan zagayowar kaka.","saboda sun yarda cewan lokaci na zagayowa, zuwan kowanne kaka na da muhimmanci a gare su.",entailment
+"bayan haka, a nasu zaton lokaci na gewayowa, ba mikewa ba, saboda haka tuna wucewar lokaci bai da muhimmanci kamar yin taron bikin murnan zagayowar kaka.",suna murnar kowanne kaka saboda sun yarda lokaci na zagayowa.,neutral
+a misali wasu na samun hanya daban da kayan da ake amfani ko kebantaccen gurin da ake buga wassani.,duk wasanni ana sanya masa suna daga cikin kayan wasan da ake amfani da shi a wasan.,contradiction
+a misali wasu na samun hanya daban da kayan da ake amfani ko kebantaccen gurin da ake buga wassani.,wasu wasannin ba daga kayan wasan bane ko kebantaccen gurin wasan ake sa musu suna ba.,entailment
+a misali wasu na samun hanya daban da kayan da ake amfani ko kebantaccen gurin da ake buga wassani.,hakan na yawancin faruwa idan akai amfani da kayan wasan da ake da su na wani wasan aka ƙirƙiri wani wasan.,neutral
+"dangane da ƙalubale, ina neman kalma daya da za a iya gutsira ta zuwa kananan kashi biyu cikin nasara.",na sami kalmomi uku da za a iya gutsura su zuwa kananan kashi biyu cikin nasara.,contradiction
+"dangane da ƙalubale, ina neman kalma daya da za a iya gutsira ta zuwa kananan kashi biyu cikin nasara.","ban same su da sauki ba, nemo kalma daya da za a iya gutsura ta gida biyu cikin nasara.",entailment
+"dangane da ƙalubale, ina neman kalma daya da za a iya gutsira ta zuwa kananan kashi biyu cikin nasara.","na tsinci kaina da son koyan harsuna, tun da na shiga ajin gabatarwa shekarar da ta wuce.",neutral
+"amma wannan shafin na sadaukarwa an manta da shi a lokacin binciken rubutu, wanda ya bar mai karantawa cikin duhu.",An sadaukar da littafin ga mahaifiyar mawallafin.,neutral
+"amma wannan shafin na sadaukarwa an manta da shi a lokacin binciken rubutu, wanda ya bar mai karantawa cikin duhu.",shi wannan binciken rubutu ya kunshi duk abin da mai karatu yake da bukatar sani.,contradiction
+"amma wannan shafin na sadaukarwa an manta da shi a lokacin binciken rubutu, wanda ya bar mai karantawa cikin duhu.",binciken rubutu bai kunshi wasu bayanai masu muhimmanci da ya kamata ba daga sadaukarwa.,entailment
+a ƙarshe ƙarni na 19 an sami tataunawa da dama a akan kalmar.,daga ƙarshe dai an yarda cewan kalmar bata dace ba saboda da'a.,neutral
+a ƙarshe ƙarni na 19 an sami tataunawa da dama a akan kalmar.,kalmar ta janyo muhawara shekaru da dama da suka shude.,entailment
+a ƙarshe ƙarni na 19 an sami tataunawa da dama a akan kalmar.,An watsar kuma an manta da da kalmar kafin ƙarshen ƙarni na 19.,contradiction

@@ -1,0 +1,459 @@
+premise,hypothesis,label
+"Yaravuze , mama nageze murugo",Yahamagaye nyina igihe imodoka y'ishuri yarimaze kumujyeza murugo,neutral
+"Yaravuze , mama nageze murugo",Ntajambo yavuze,contradiction
+"Yaravuze , mama nageze murugo",Yabwiye nyina ko yajyeze murugo,entailment
+"Ntabwonzi icyo narinkurikiye nakimwe, nagombaga kwitaba ahajyenewe muri washington","Sinarinajyera washington, igihe noherejweyo naratakaye ndikujyerajyeza gushaka aho ariho",neutral
+"Ntabwonzi icyo narinkurikiye nakimwe, nagombaga kwitaba ahajyenewe muri washington",Narinzi neza icyo nagombaga gukora ubwo narindi gutembera washington ,contradiction
+"Ntabwonzi icyo narinkurikiye nakimwe, nagombaga kwitaba ahajyenewe muri washington","Ntabwo narinzi neza icyo naringiye gukorayo, nagiye washinhgton kubera ariho narinoherejwe",entailment
+Ntabwo yashoboye kujyenda ,Yari uwambere gutumirwa kandi yishimiye ubutumire,contradiction
+Ntabwo yashoboye kujyenda ,Ntabwo yemerewe/yahawe uruhusa rwo kwitabira,entailment
+Ntabwo yashoboye kujyenda ,Ntabwo yemerewe kujya kurebe ifungurwa ry'inzu ndangamurage,neutral
+Narimeze neza kandi byari bihagije ,"Nyuma yogusubiza yego, byararangiye",entailment
+Narimeze neza kandi byari bihagije ,"Navuze hoya, bikomeza kumbangamira",contradiction
+Narimeze neza kandi byari bihagije ,"Igihe navuze yego, twemeranyije guhita dushyingirwa uwo munsi",neutral
+"Narimpari, ndimo nshakisha inzira yuko byakemuka",Narasobanukiwe neza kuva muntangiriro,contradiction
+"Narimpari, ndimo nshakisha inzira yuko byakemuka",Narindi kugerajyeza kumenya aho amafaranga yagiye,neutral
+"Narimpari, ndimo nshakisha inzira yuko byakemuka",Narindi kugerageza gusobanukirwa,entailment
+"Nyogokuru yatubwiraga inkuru yuko mwenenyina , n'umugabo wamwenenyina uko biyemeje kwimukira mumugi, Augusta kandi banyuze ahitwa white. ",Mweneyina wa nyogokuru yareraga kandi yimukiye Texas,contradiction
+"Nyogokuru yatubwiraga inkuru yuko mwenenyina , n'umugabo wamwenenyina uko biyemeje kwimukira mumugi, Augusta kandi banyuze ahitwa white. ",Mweneyina wa nyogokuru ntabwo yeraga,entailment
+"Nyogokuru yatubwiraga inkuru yuko mwenenyina , n'umugabo wamwenenyina uko biyemeje kwimukira mumugi, Augusta kandi banyuze ahitwa white. ",Mweneyina wa nyogokuru ntabwo yeraga ariko yashakaga kwera kujyirango ajye kwishuri,neutral
+Mubyukuri kubijyanye nimyitwarire yarameze nkumwana wumukungu wa mashyamba kuko yari umwana wumutunzi wibihigwa. ,Ise ntacyo yijyeze atunga mubuzimabwe,contradiction
+Mubyukuri kubijyanye nimyitwarire yarameze nkumwana wumukungu wa mashyamba kuko yari umwana wumutunzi wibihigwa. ,Ise yarafite hegitari 2000 zubutaka bwoguhingwa,neutral
+Mubyukuri kubijyanye nimyitwarire yarameze nkumwana wumukungu wa mashyamba kuko yari umwana wumutunzi wibihigwa. ,Ise yarafite ubutunzi bwinshi,entailment
+"Akazi kanjye karako gushiraho ibyuma by'ubwirinzi kuriyo, nikirinda ubuzima , iyo twabaga turigupakira  dushaka kwerekeza mumahanga","Ntabwo narimfite akazi, nabitse amakarito yose murugo ",contradiction
+"Akazi kanjye karako gushiraho ibyuma by'ubwirinzi kuriyo, nikirinda ubuzima , iyo twabaga turigupakira  dushaka kwerekeza mumahanga",Nohereje amakarito mubuyapani ,neutral
+"Akazi kanjye karako gushiraho ibyuma by'ubwirinzi kuriyo, nikirinda ubuzima , iyo twabaga turigupakira  dushaka kwerekeza mumahanga",Narayohereje,entailment
+Aha niho nakenyereye,Nashishoje ko ipfundiko rifashe neza kujyirango nzingame ubuzima ,neutral
+Aha niho nakenyereye,Gutyo niko nezaneza nahambuwe ,contradiction
+Aha niho nakenyereye,Gutyo niko nishumitse umukandara neza,entailment
+"yari umusambanyi wibereyaho,uzi nikindi ntabwo namukundaga, ariko izi ntinkuru zanjye ",Yari umwizerwa kandi mwiza ,contradiction
+"yari umusambanyi wibereyaho,uzi nikindi ntabwo namukundaga, ariko izi ntinkuru zanjye ",Naramwaganga kuko yarafite agasuzuguro ,neutral
+"yari umusambanyi wibereyaho,uzi nikindi ntabwo namukundaga, ariko izi ntinkuru zanjye ",ntabwo narimushigikiye ,entailment
+"Ubwo nakururaga umutumba  ngo mukuremo, yanyeretse ibumoso ibikoresho bibiri by'indenge byaribyashonze mujyihe indege yajyendaga. ",ibikoresho byose byo mudenge byari bigifatanye,contradiction
+"Ubwo nakururaga umutumba  ngo mukuremo, yanyeretse ibumoso ibikoresho bibiri by'indenge byaribyashonze mujyihe indege yajyendaga. ",Byari bikomeye kumukuramo ,neutral
+"Ubwo nakururaga umutumba  ngo mukuremo, yanyeretse ibumoso ibikoresho bibiri by'indenge byaribyashonze mujyihe indege yajyendaga. ",Hari hari  ibikoresho mundenge byashonze,entailment
+Kandi ntabwo yashoboye gusobanukirwa,Ntabwo yashoboye gusobanukirwa neza kubera ikibazo cyururimi,neutral
+Kandi ntabwo yashoboye gusobanukirwa,Ntabwo yasobanukiwe ,entailment
+Kandi ntabwo yashoboye gusobanukirwa,Yarazi neza ibyo twavugagaho,contradiction
+birashoboka ko yaba yarabwiye abandi kubera narimpuze muri uwo mwanya ,Ntabwo namunvise arikubwira abandi ,entailment
+birashoboka ko yaba yarabwiye abandi kubera narimpuze muri uwo mwanya ,Numvise burikintu yavuze,contradiction
+birashoboka ko yaba yarabwiye abandi kubera narimpuze muri uwo mwanya ,Narindi kuvugisha undi muntu muri uwo mwanya ,neutral
+"Twatakaje ebyiri,izindi ndege eshatu kubiganye nikizamini ",Hari indege zatakaye kubera ikirere kibi ,neutral
+"Twatakaje ebyiri,izindi ndege eshatu kubiganye nikizamini ",zimwe mundege zarabuze ,entailment
+"Twatakaje ebyiri,izindi ndege eshatu kubiganye nikizamini ",Ntanarimwe twaritwabura indege,contradiction
+Haricyo nshakako unkorera. ,Ntabufasha na gato nkeneye,contradiction
+Haricyo nshakako unkorera. ,Harakazi gakomeye nifuzako gakorwa,neutral
+Haricyo nshakako unkorera. ,Haricyo nshakako gikorwa,entailment
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi","Utitaye kubyizina ,ntabwo umugezi winzoka ufite inzoka, bahitiriye uko haremye ",contradiction
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi",Kumugezi winzoka huzuye utunyamasyo twinshi. ,neutral
+"Wari umugezi winzoka,wuzuyemwo inzoka nyinshi",Mumugezi winzoka huzuye inzoka nyishi ,entailment
+ Mubyukuri ni leta ikora ntabwo arikintu ushobora kumenya ngo ugiremo uruhare rukomeye kandi sinkeka ko washobora gukora ibyiza rwose ,Ndakeka ko ugomba kwigomwa amasaha icumi  kumunsi kugirango ugire ubumenyi buhagije,neutral
+ Mubyukuri ni leta ikora ntabwo arikintu ushobora kumenya ngo ugiremo uruhare rukomeye kandi sinkeka ko washobora gukora ibyiza rwose ,"Ndankeka ko ugomba kwitanga ,kujyirango urusheho kubikora neza",entailment
+ Mubyukuri ni leta ikora ntabwo arikintu ushobora kumenya ngo ugiremo uruhare rukomeye kandi sinkeka ko washobora gukora ibyiza rwose ,Ntakibazo nimba utabiha uburemere bigomba,contradiction
+Ntekerezako ikizaba gishishikaje cyane aricyo tuzabikoraho kandi ko dukiwiriye guhindura abaduhagarariye ,Ndumva bitazaba bishimishije kandi ntagaciro bifite guhindura abaduhagarariye ntanubwo dukwiriye na gato kubigerageza ,contradiction
+Ntekerezako ikizaba gishishikaje cyane aricyo tuzabikoraho kandi ko dukiwiriye guhindura abaduhagarariye ,Nkeka ko bizaba bigoye guhindura abaduhagarariye ariko bizaba ibyagaciro munyuma,neutral
+Ntekerezako ikizaba gishishikaje cyane aricyo tuzabikoraho kandi ko dukiwiriye guhindura abaduhagarariye ,Tugombwa/Dukwiriye guhindura abaduhagarariye ,entailment
+Kandi baba beza bashoboye gutozwa,Barakomera no gucisha makeya iyo barangije imyitozo,contradiction
+Kandi baba beza bashoboye gutozwa,Bahinduka vuba iyo bari mumyitozo,neutral
+Kandi baba beza bashoboye gutozwa,Iyo barigutozwa baranenezeza no gushimisha,entailment
+"bishobora gukomeza mumyaka icumi,makumyabiri irimbere,birasekeje",Biratangaje kubona urubanza rumwe rushobora gufata imyaka myinshi,neutral
+"bishobora gukomeza mumyaka icumi,makumyabiri irimbere,birasekeje",Birababaje kubona byafata igihe kirekire ,entailment
+"bishobora gukomeza mumyaka icumi,makumyabiri irimbere,birasekeje",Bifata icyumweru cyimwe,contradiction
+Yego ushobora kuba warufite ibidafite code,Nukuri ibyo warufite byaribidafite code,entailment
+Yego ushobora kuba warufite ibidafite code,Iyo warufite nkekako yarifite code gusa,contradiction
+Yego ushobora kuba warufite ibidafite code,ushobora kuba warufite ibitangombwa code,neutral
+uri kuvuga abarimu cyangwa ababyeyi,uri kuvuga abanyeshyuri cyangwa umukozi wumwarimu niwe wabikoze?,contradiction
+uri kuvuga abarimu cyangwa ababyeyi,Hari ubwo ari abarimu cyangwa nababyeyi?,entailment
+uri kuvuga abarimu cyangwa ababyeyi,Nibiki wasobanura kubijyanye nababyeyi hamwe nabarimu?,neutral
+"Nkeka ko byashoboka,ntabwo narinakemura ibijyanye nubwiyumvire bujyanye no gusuzuma imiti,ndumva meza neza ntakeneye gukoresha imiti","Ntabwo nshigikiye ibyo gusuzuma imiti,ntacyo nshidikanya
+",contradiction
+"Nkeka ko byashoboka,ntabwo narinakemura ibijyanye nubwiyumvire bujyanye no gusuzuma imiti,ndumva meza neza ntakeneye gukoresha imiti",nkekako namererwa neza bansuzumye kubiganye nibiyobyabwenge,neutral
+"Nkeka ko byashoboka,ntabwo narinakemura ibijyanye nubwiyumvire bujyanye no gusuzuma imiti,ndumva meza neza ntakeneye gukoresha imiti",Ntekerezako ntarinafata akanya gahagije ngo ntekereze ibijyanye no gusuzumwa ,entailment
+Witayeko amakuru yigihugu agira ingaruka mugiturage cyuturere,ufite impungenge yuko uturere tugizwe ningaruka zamakuru yigihugu cyose,entailment
+Witayeko amakuru yigihugu agira ingaruka mugiturage cyuturere,Ntabwo bindeba kubiganye namakuru yigihugu uko azana ingaruka muturere,contradiction
+Witayeko amakuru yigihugu agira ingaruka mugiturage cyuturere,Amakuru yigihugu atuma uturere twacu dusa nkaho tukirinyuma,neutral
+Ubusanzwe duhora twambaye igipo na mashati cyangwa kostime cyangwa ikanzu nibyo biboneka ariko nkunda gukorera murugo kubera nshobora kwambara ipantaro,iyo nakoreye murugo ntabwo nambara imyenda bikabije,entailment
+Ubusanzwe duhora twambaye igipo na mashati cyangwa kostime cyangwa ikanzu nibyo biboneka ariko nkunda gukorera murugo kubera nshobora kwambara ipantaro,iyo nkoreye murugo nambara imyenda yoroheje nkipantaro ,neutral
+Ubusanzwe duhora twambaye igipo na mashati cyangwa kostime cyangwa ikanzu nibyo biboneka ariko nkunda gukorera murugo kubera nshobora kwambara ipantaro,nkomeza kwambara ikanzu iyo ndigukorera murugo kubera bituma numva mberewe,contradiction
+byukuri haribyiza bijyanye no kugira aho kuba sinzi,Kugira ahantu ho kuba niinzozi ziba zabaye impamo,neutral
+byukuri haribyiza bijyanye no kugira aho kuba sinzi,kugira aho kuba simbyitayeho,contradiction
+byukuri haribyiza bijyanye no kugira aho kuba sinzi,Nibyiza kugira aho gutura,entailment
+byukuri ntakibazo byantera niyo baba bafite isosiyete iterwa inkunga,byarikoroha kumenya niba isosiyete iterwa inkunga,neutral
+byukuri ntakibazo byantera niyo baba bafite isosiyete iterwa inkunga,Byambabaza cyane kumenya niba barateye inkunga isosiyete,contradiction
+byukuri ntakibazo byantera niyo baba bafite isosiyete iterwa inkunga,Ntabwo byambabaza niba isosiyete iterwa inkunga,entailment
+yego ni ibyacu hano dufite ihuzamuyoboro yo mucyaro ariko ni mabi rwose,"Ihuzamuyoboro rimwe na rimwe ni byiza.
+",neutral
+yego ni ibyacu hano dufite ihuzamuyoboro yo mucyaro ariko ni mabi rwose,Ntabwo tubona ihuzamuyoboro neza hano,entailment
+yego ni ibyacu hano dufite ihuzamuyoboro yo mucyaro ariko ni mabi rwose,Hano tugira ihuzamuyoboro ryiza ,contradiction
+Imwe mu nyungu tubona birumvikana nibijyanye nurungendo,Gutembera nibimwe mubyo nkunda,neutral
+Imwe mu nyungu tubona birumvikana nibijyanye nurungendo,"Gutembera ni perk imwe tubona
+",entailment
+Imwe mu nyungu tubona birumvikana nibijyanye nurungendo,Nta nyungu tubona,contradiction
+"nukuri nibibi rwose ""uh i""",Numvise ko atari byiza,neutral
+"nukuri nibibi rwose ""uh i""",Biteye ubwoba,entailment
+"nukuri nibibi rwose ""uh i""",Ntabwo ari bibi,contradiction
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+",Ibikoresho byose bya molekile biba bgoranye,contradiction
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+",Ibikoresho byinshi bigoye bya molekuline birashobora kuvuka mubihe bimwe na bimwe,entailment
+"Izi nzego zo murwego rwohejuru rwibikoresho bya molekile bivuka kubera ko gutoranya bisanzwe gushobora gukora kumitungo rusange yibintu bya molekile iyo iyo mitungo rusange yongerewe imbaraga zo guhuza n'imihindagurikire y'ikirere.
+","Ibi bikoresho bya molekile bikoreshwa cyane mugukora uburozi butandukanye bukoreshwa mubyo kwirinda
+",neutral
+Ariko sinizera ko igikoresho icyo aricyo cyose cya algorithmic gishobora kuba cyuzuye neza,Algorithm ntishobora guhitamo uburyo bwo gukora sandwich itunganijwe neza abantu batabajijwe,neutral
+Ariko sinizera ko igikoresho icyo aricyo cyose cya algorithmic gishobora kuba cyuzuye neza,Nta gikoresho gishobora gukemura iki kibazo burundu ari cyonyine,entailment
+Ariko sinizera ko igikoresho icyo aricyo cyose cya algorithmic gishobora kuba cyuzuye neza,Ibi bikoresho bikora neza mubihe byose,contradiction
+Amategeko ntabwo acungura umuntu ku giti cye ahubwo ni umuryango cyangwa igihugu muri rusange,"Kubijyanye no gucungurwa, abantu bagomba kwitabaza amategeko",contradiction
+Amategeko ntabwo acungura umuntu ku giti cye ahubwo ni umuryango cyangwa igihugu muri rusange,Amategeko azacungura Amerika,neutral
+Amategeko ntabwo acungura umuntu ku giti cye ahubwo ni umuryango cyangwa igihugu muri rusange,Amategeko azakiza abaturage nigihugu,entailment
+Umwandiko w’itegeko nshinga wo mu 1787 wateganyaga uburenganzira bwa ba nyir'abacakara bwo kugarura abacakara bahungiye mu butaka bwisanzuye.,"Mu 1787, hashyizweho itegeko ribuza abantu kwigarurira abacakara bose bageze mubutaka bwubuntu",contradiction
+Umwandiko w’itegeko nshinga wo mu 1787 wateganyaga uburenganzira bwa ba nyir'abacakara bwo kugarura abacakara bahungiye mu butaka bwisanzuye.,Igice cy'inyandiko y'itegeko nshinga cyanditswe muri 1787,entailment
+Umwandiko w’itegeko nshinga wo mu 1787 wateganyaga uburenganzira bwa ba nyir'abacakara bwo kugarura abacakara bahungiye mu butaka bwisanzuye.,"Uburenganzira bwo kugarura imbata kubutaka bwubuntu ntabwo bwari uburenganzira bukunzwe
+nabenshi",neutral
+"Steve Harris, umuhanga mu binyabuzima bya molekuline ukomoka muri Texas yari yasuye",Steve Harris yanze kuva mu rugo rwe kubera impamvu iyo ari yo yose,contradiction
+"Steve Harris, umuhanga mu binyabuzima bya molekuline ukomoka muri Texas yari yasuye",Steve yari umuhanga mu binyabuzima ukomoka mu mujyi,entailment
+"Steve Harris, umuhanga mu binyabuzima bya molekuline ukomoka muri Texas yari yasuye",Steve yasuye Californiya kwiga icyitegererezo gishya,neutral
+"Kuba umunyamuryango byari bigizwe n'abagabo bakuze bari hagati ya mirongo itatu na mirongo itanu kuri buri gice (bitwa moradas) kandi bagabanijwemo abanyamuryango babiri basanzwe, bitwa abigishwa ba hermanos (abavandimwe bahana), n'abayobozi, yitwa hermanos de luz (abavandimwe b'umucyo)",Abayobozi barenga ijana bakoraga muri buri gice,contradiction
+"Kuba umunyamuryango byari bigizwe n'abagabo bakuze bari hagati ya mirongo itatu na mirongo itanu kuri buri gice (bitwa moradas) kandi bagabanijwemo abanyamuryango babiri basanzwe, bitwa abigishwa ba hermanos (abavandimwe bahana), n'abayobozi, yitwa hermanos de luz (abavandimwe b'umucyo)",Ibice byari bikubiyemo abanyamuryango n'abayobozi basanzwe,entailment
+"Kuba umunyamuryango byari bigizwe n'abagabo bakuze bari hagati ya mirongo itatu na mirongo itanu kuri buri gice (bitwa moradas) kandi bagabanijwemo abanyamuryango babiri basanzwe, bitwa abigishwa ba hermanos (abavandimwe bahana), n'abayobozi, yitwa hermanos de luz (abavandimwe b'umucyo)",Ibi bice byari bishinzwe guhindura abaturage kavukire muri Amerika yo Hagati,neutral
+"Kubana bafite imyaka 4 na 5, ibibazo bikunze gukemura ishyirahamwe rivuga inkuru (Bizagenda gute ubutaha?",Abana ntibakunze kwiga kuvuga kugeza bafite imyaka itandatu,contradiction
+"Kubana bafite imyaka 4 na 5, ibibazo bikunze gukemura ishyirahamwe rivuga inkuru (Bizagenda gute ubutaha?",Abana bafite imyaka itanu bahangayikishijwe nibizakurikiraho,entailment
+"Kubana bafite imyaka 4 na 5, ibibazo bikunze gukemura ishyirahamwe rivuga inkuru (Bizagenda gute ubutaha?",Abana bafite imyaka itanu muri rusange bafatwa nkabazitavuga neza,neutral
+"Ubushishozi, urujya n'uruza ruto mumwanya wa leta rwemerera gutondekanya, kuko mugihe leta ebyiri zihurira kumurongo umwe uzasimbura, ibyo bihugu byombi byashyizwe mubikorwa bihwanye numuyoboro wa rezo",Guhinduranya ibintu byemerera ibyiciro bitandukanye,entailment
+"Ubushishozi, urujya n'uruza ruto mumwanya wa leta rwemerera gutondekanya, kuko mugihe leta ebyiri zihurira kumurongo umwe uzasimbura, ibyo bihugu byombi byashyizwe mubikorwa bihwanye numuyoboro wa rezo",Gutemba neza biterwa nabaturage.,neutral
+"Ubushishozi, urujya n'uruza ruto mumwanya wa leta rwemerera gutondekanya, kuko mugihe leta ebyiri zihurira kumurongo umwe uzasimbura, ibyo bihugu byombi byashyizwe mubikorwa bihwanye numuyoboro wa rezo",Guhinduranya bikumira ibyiciro,contradiction
+"Kubwibyo, bakomeje kurema isi idahagaze aho amateka ya vuba gusa afite amakuru yemewe",Isi idahagaze ntabwo yifuzwa kuri bamwe niba igomba kubara amakuru kuva kera,entailment
+"Kubwibyo, bakomeje kurema isi idahagaze aho amateka ya vuba gusa afite amakuru yemewe",Amakuru yose kuva buri gihe cyagenwe afite agaciro kwisi iyariyo yose.,contradiction
+"Kubwibyo, bakomeje kurema isi idahagaze aho amateka ya vuba gusa afite amakuru yemewe",Iyi isi y'ibitekerezo ikoreshwa muguhishurira imiterere yikirere.,neutral
+"Kandi rero, leta ntabwo yari ishinzwe abo bantu ku giti cyabo bahakana uburenganzira bw’imibereho y’abirabura.",Bamwe mu bikorera ku giti cyabo bimye uburenganzira bw’imibereho kubirabura,entailment
+"Kandi rero, leta ntabwo yari ishinzwe abo bantu ku giti cyabo bahakana uburenganzira bw’imibereho y’abirabura.",Abikorera bari abazungu,neutral
+"Kandi rero, leta ntabwo yari ishinzwe abo bantu ku giti cyabo bahakana uburenganzira bw’imibereho y’abirabura.",Leta yari ishinzwe rwose imyitwarire yabantu ku giti cyabo,contradiction
+Nta tandukaniro rihari hagati yabanyeshuri bato nabakuze mumanota y'ibizamini.,"Mugihe ibisubizo byikizamini ari bimwe kubanyeshuri bigana arabatoya nabakuze , abanyeshuri batoya barangiza ikizamini vuba",neutral
+Nta tandukaniro rihari hagati yabanyeshuri bato nabakuze mumanota y'ibizamini.,Abanyeshuri bigana ari bato n'abakuru bagira ibisubizo bimwe mumanota y'ibizamini,entailment
+Nta tandukaniro rihari hagati yabanyeshuri bato nabakuze mumanota y'ibizamini.,Abanyeshuri bigana ari bato n'abakuru bagira ibisubizo bitandukanye byikizamini kuko imyaka ni ikintu,contradiction
+Darwin itangirana nubuzima hano,Darwin yatangiye yibanda kubijyanye na mafi,neutral
+Darwin itangirana nubuzima hano,Darwin yatangiranye n'ubuzima bwari busanzweho,entailment
+Darwin itangirana nubuzima hano,Darwin yibanze gusa ku kwiga ibintu byapfuye,contradiction
+"Impamvu zikunze kugaragara mugihe cyo kubyara no mumyaka yintangiriro yishuri ni itangazamakuru rya otitis, cyangwa kwandura mugutwi hagati.",Kwandura mugutwi rwagati nimpamvu ikunze gutera abana bakiri bato,entailment
+"Impamvu zikunze kugaragara mugihe cyo kubyara no mumyaka yintangiriro yishuri ni itangazamakuru rya otitis, cyangwa kwandura mugutwi hagati.",Itangazamakuru rya Otitis ni gake cyane mugihe cyumwana utaratangira kujya ku ishuri,contradiction
+"Impamvu zikunze kugaragara mugihe cyo kubyara no mumyaka yintangiriro yishuri ni itangazamakuru rya otitis, cyangwa kwandura mugutwi hagati.",Umubare munini wabana bato bazandura indwara yomugutwi hagati,neutral
+"Iyo societe civile itumvise neza, ibitekerezo bitagira akamaro bitakaza umurongo",Ibitekerezo bitagira akamaro ntabwo byoroshye iyo birengagijwe na societe civile,entailment
+"Iyo societe civile itumvise neza, ibitekerezo bitagira akamaro bitakaza umurongo",Ibitekerezo bitagira akamaro bigenda byamamara muri societe civile iyo byirengagijwe na societe civile,contradiction
+"Iyo societe civile itumvise neza, ibitekerezo bitagira akamaro bitakaza umurongo",Ibitekerezo byinshi bitagira akamaro birengagizwa na societe civile,neutral
+"Mubyukuri, igice cyibyo dukeneye nuburyo bwo kuranga imitunganyirize yimikorere nyayo mwisi idafite uburinganire.",Dukeneye ibirango kugirango tubone aho ishyirahamwe rikora neza,neutral
+"Mubyukuri, igice cyibyo dukeneye nuburyo bwo kuranga imitunganyirize yimikorere nyayo mwisi idafite uburinganire.",Tugomba kuranga ishyirahamwe,entailment
+"Mubyukuri, igice cyibyo dukeneye nuburyo bwo kuranga imitunganyirize yimikorere nyayo mwisi idafite uburinganire.",Ntabwo dukwiriye gushyira akamenyetso ku kintu na kimwe,contradiction
+Yarajuriye kuri Lord Julian,Yashakaga kubaza Lord Julian ikintu,entailment
+Yarajuriye kuri Lord Julian,Yashakaga kubaza Lord Julian kurokora umugore we,neutral
+Yarajuriye kuri Lord Julian,Lord Julian ntaho yarari kugaragara,contradiction
+Jeremy Pitt yashubije aseka arino kurahira,Jeremy Pitt yashubije ibitwenge aseka kandi atera hejuru mu maso yu wasekaga,contradiction
+Jeremy Pitt yashubije aseka arino kurahira,Jeremy Pitt yarahiye kurwanira igihugu cye n'umwamikazi we,neutral
+Jeremy Pitt yashubije aseka arino kurahira,Hari umuntu wasetse hafi ya Jeremy Pitt,entailment
+"Pitt waruri kureba ibibera muri gari ya moshi ya kimwe cya kane, atubwira ko nyakubahwa we yari akomeye nka umuntu umanitse.",Pitt ntabwo yari yigera abona nyakubahwa we arakaye nkuko yari ameze icyo gihe,neutral
+"Pitt waruri kureba ibibera muri gari ya moshi ya kimwe cya kane, atubwira ko nyakubahwa we yari akomeye nka umuntu umanitse.",Pitt yararahiye ko atashoboye kubona aho byabereye,contradiction
+"Pitt waruri kureba ibibera muri gari ya moshi ya kimwe cya kane, atubwira ko nyakubahwa we yari akomeye nka umuntu umanitse.",Pitt yashoboye kubona uburyo nyakubahwa yarafite igitsure mugihe byabaye.,entailment
+"Koloneli yarabyemeye, arunama, akuramo ingofero ye",Koloneli yemeye kwakira umudari w'umuyobozi w'umujyi wa New York.,neutral
+"Koloneli yarabyemeye, arunama, akuramo ingofero ye",Koloneli yanze ibyo yahawe kandi akomeza kwambara ingofero ye ari kimenyetso cyo gusuzugura.,contradiction
+"Koloneli yarabyemeye, arunama, akuramo ingofero ye",Koloneli yariyambaye ingofero,entailment
+"Ntanisoni ufite yo kundwanya kuko ntabwo nagufata mumaboko mugihe nzi uko yanduye, icyo nkuziho nubwicanyi nibindi bibi?   Yamwitegereje kumunwa we",Yizeraga ko icyaha cyakozwe cyashoboraga kuba jenoside,neutral
+"Ntanisoni ufite yo kundwanya kuko ntabwo nagufata mumaboko mugihe nzi uko yanduye, icyo nkuziho nubwicanyi nibindi bibi?   Yamwitegereje kumunwa we",Yahisemo kudafata amaboko ye kuko yakoze icyaha.,entailment
+"Ntanisoni ufite yo kundwanya kuko ntabwo nagufata mumaboko mugihe nzi uko yanduye, icyo nkuziho nubwicanyi nibindi bibi?   Yamwitegereje kumunwa we","Yahisemo kumufata amabokoye kuko yari mato, yoroshye, kandi cyane cyane, afite isuku.",contradiction
+"Yemerewe mu buryo bweruye kubona ko ari umusore mwiza, mwiza cyane ukomoka kuri St. James's, Lord Julian Wade, uwo buri mwanya we yamwitangiye","Lord Julian akomoka St, James",entailment
+"Yemerewe mu buryo bweruye kubona ko ari umusore mwiza, mwiza cyane ukomoka kuri St. James's, Lord Julian Wade, uwo buri mwanya we yamwitangiye",We na Lord Julian Wade baraye basomanye nijoro,neutral
+"Yemerewe mu buryo bweruye kubona ko ari umusore mwiza, mwiza cyane ukomoka kuri St. James's, Lord Julian Wade, uwo buri mwanya we yamwitangiye","Akunda Lord Julian Wade, nubwo afite imiterere idahwitse/itarimyiza",contradiction
+"Ariko..ariko..muri ubu bwato...? Umuyobozi yakoze ikimenyetso cyo kutagira ubushobozi, maze yiyegurira urujijo, araceceka mu buryo butunguranye","Ibiro byavugije induru iminota mike, birakajwe n'ubwiyandarike ku magorofa ye",contradiction
+"Ariko..ariko..muri ubu bwato...? Umuyobozi yakoze ikimenyetso cyo kutagira ubushobozi, maze yiyegurira urujijo, araceceka mu buryo butunguranye",Umuyobozii yari mu rujijo kubijyanye n'ibibera mu bwato,entailment
+"Ariko..ariko..muri ubu bwato...? Umuyobozi yakoze ikimenyetso cyo kutagira ubushobozi, maze yiyegurira urujijo, araceceka mu buryo butunguranye", Umupolisi yatunguwe no kuruka ku gikuta,neutral
+"Uri Lord Julian Wade, ndumva, yari indamutso yuzuye",Lord Julian Wade yatanze indamutso ishyushye kandi yo kwakira ,contradiction
+"Uri Lord Julian Wade, ndumva, yari indamutso yuzuye",Lord Julian Wade yakiriye abandi muburyo bwukuri.,entailment
+"Uri Lord Julian Wade, ndumva, yari indamutso yuzuye","Nubwo benshi bagerageje kumwegera, Lord Wade yakundaga kumera nkutishimye kandi nta marangamutima",neutral
+Mary Traill yarikukubwira ibyayo,Mary Traill ashobora kukubwira ibyerekeranye nindogobe,neutral
+Mary Traill yarikukubwira ibyayo,Mary Traill arabizi,entailment
+Mary Traill yarikukubwira ibyayo,Gusa ninjye ubizi,contradiction
+"Hano hari igiti gitegereje iyi rascal muri Port Royal.   Blood yaba yarabigizemo uruhare, ariko Lord Julian yaramuhagaritse.","Blood ni umuryango mpuzamahanga w’abagizi ba nabi ufite icyicaro i Port Royal, Lord Julian agirana amasezerano mumpamvu zitemewe.",contradiction
+"Hano hari igiti gitegereje iyi rascal muri Port Royal.   Blood yaba yarabigizemo uruhare, ariko Lord Julian yaramuhagaritse.","Indangantego ya Lord Julian irimo Port Royal, umujyi wubucuruzi ni ihuriro ryibikorwa muri kariya karere.",neutral
+"Hano hari igiti gitegereje iyi rascal muri Port Royal.   Blood yaba yarabigizemo uruhare, ariko Lord Julian yaramuhagaritse.",Port Royal ifite ibikoresho bihagije byo guhana abagizi ba nabi,entailment
+"Ntabwo azaba Musenyeri ubwe, yaravuze Wolverstone, hagati yukwibaza no kwemeza",Wolverstone yari yabajije ikibazo cyerekana nuko ashimangira abandi,entailment
+"Ntabwo azaba Musenyeri ubwe, yaravuze Wolverstone, hagati yukwibaza no kwemeza",Wolverstone yari yavuze ko Umwepiskopi ari umwe wari mwiza cyane,neutral
+"Ntabwo azaba Musenyeri ubwe, yaravuze Wolverstone, hagati yukwibaza no kwemeza",Wolverstone ntacyo yavuze kubijyanye na musenyeri,contradiction
+"Uzahagarika ibijyanye nibyo kwigomeka no kugambanira inkiko-yabatabara?   Blood yambara ingofero, yicara hasi atabujijwe",Blood yari afite ingofero yambaraga mbere yo kwicara,entailment
+"Uzahagarika ibijyanye nibyo kwigomeka no kugambanira inkiko-yabatabara?   Blood yambara ingofero, yicara hasi atabujijwe","Blood yambaye ingofero, ava mucyumba ntacyo arikuvuga",contradiction
+"Uzahagarika ibijyanye nibyo kwigomeka no kugambanira inkiko-yabatabara?   Blood yambara ingofero, yicara hasi atabujijwe","Ingofero ya blood yari umukara, ifite amababa atatu yinkona",neutral
+Ibintu ntabwo byihutaga na gato mu byumweru bibiri bishize kuva yemera inshingano z'umwami.,Yaryamye neza nijoro azi ko yanze inshingano z'umwami,contradiction
+Ibintu ntabwo byihutaga na gato mu byumweru bibiri bishize kuva yemera inshingano z'umwami.,Kwemera kuharara ijoro ni uko yemeye inshingano z'umwami,entailment
+Ibintu ntabwo byihutaga na gato mu byumweru bibiri bishize kuva yemera inshingano z'umwami.,Komisiyo y'umwami yari izina rikomeye cyane rifite inshingano nyinshi,neutral
+"Bari mururworwego, Ogle ararira",Ogle yavuze ko bashobora kuboneka,entailment
+"Bari mururworwego, Ogle ararira",Ogle yavuze ko bari hafi byumvikana,neutral
+"Bari mururworwego, Ogle ararira","Nubwo yari azi ko bari murwego rwemewe, Ogle yarabigumanye,yarabihishe",contradiction
+"Nagutumyeho, Kapiteni Blood, kubera amakuru amaze kungeraho","Nta makuru nigeze numva, Kapiteni Blood. Wowe haricyo wumvise?",contradiction
+"Nagutumyeho, Kapiteni Blood, kubera amakuru amaze kungeraho","Hari amakuru nakiriye mbere yo kugutumaho, Kapiteni Blood",entailment
+"Nagutumyeho, Kapiteni Blood, kubera amakuru amaze kungeraho",Amakuru nakiriye yarantunguye ,neutral
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Urashobora kubona ubwato hejuru yumusozi,neutral
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Urashobora kubona ibyerekezo byinyanja urihejuru yumusozi,entailment
+"Nyuma yo kureba hirya no hino muri ibyo byegeranyo, uzamuke umusozi ujya kwa Komiseri, aho uzasangamo ibintu byiza byerekeranye n’inyanja ikikije hamwe n’ibindi bigo bya Dockyard ",Ntushobora kubona inkombe urihejuru yumusozi,contradiction
+"Inyuma yakarere ka Amerika yepfo uzasangamo Uruganda rwa parufe, aho ushobora gukora impumuro yawe bwite",Uruganda rwa parufe rwatangiye gukora kuva 1954,neutral
+"Inyuma yakarere ka Amerika yepfo uzasangamo Uruganda rwa parufe, aho ushobora gukora impumuro yawe bwite",Uruganda rwa parufe ruri inyuma yakarere ka Afrika yepfo,entailment
+"Inyuma yakarere ka Amerika yepfo uzasangamo Uruganda rwa parufe, aho ushobora gukora impumuro yawe bwite",Uruganda rwa parufe ruri imbere yakarere ka Afrika yepfo,contradiction
+"Ibyiringiro byarazamutse, kandi biranyeganyega, hejuru ya citrusi ya Bahamoni n'inanasi",Nubwo inanasi zaraziryoshye cyane amafaranga yo kohereza yari menshi cyane kuburyo bigoye kuzizana ku isoko,neutral
+"Ibyiringiro byarazamutse, kandi biranyeganyega, hejuru ya citrusi ya Bahamoni n'inanasi","Kubijyanye na Citrus yo muri Bahamoni byagenze neza cyane, nkuko abantu bose baribabihanuye",contradiction
+"Ibyiringiro byarazamutse, kandi biranyeganyega, hejuru ya citrusi ya Bahamoni n'inanasi",Citrus yo muri Bahamoni ntabwo yari ikomeye nkuko abantu bose babitekerezaga,entailment
+"Ijwi, nko muri kilometero 2 z'umurambararo, batekereza ko ari Caldera nini yabayeho nyuma yo guturika gukomeye kwikirunga","Ijwi rya kilometero 2 ryashoboraga guterwa nibintu byinshi, harimo no guturika kwikirunga",neutral
+"Ijwi, nko muri kilometero 2 z'umurambararo, batekereza ko ari Caldera nini yabayeho nyuma yo guturika gukomeye kwikirunga",Ijwi rya kilometero 2 rwose ntabwo ryatewe no guturika kwikirunga,contradiction
+"Ijwi, nko muri kilometero 2 z'umurambararo, batekereza ko ari Caldera nini yabayeho nyuma yo guturika gukomeye kwikirunga",Ijwi rya kilometero 2 birashoboka ko ryatewe no guturika kwikirunga,entailment
+"Ngaho ibibera ntibyorohewe kandi ikibazo cyururimi gishobora kugutera ubwoba, ariko byibuze uzashobora kubona incamake yumuryango w’abaguzi b’abashinwa",Nibyiza kugira umusemuzi hafi yawe,neutral
+"Ngaho ibibera ntibyorohewe kandi ikibazo cyururimi gishobora kugutera ubwoba, ariko byibuze uzashobora kubona incamake yumuryango w’abaguzi b’abashinwa",Hariho icyibazo cyururimi gishobora kugutera ubwoba,entailment
+"Ngaho ibibera ntibyorohewe kandi ikibazo cyururimi gishobora kugutera ubwoba, ariko byibuze uzashobora kubona incamake yumuryango w’abaguzi b’abashinwa","Ntugomba guhangayikishwa nibibazo byururimi bihari, kubera ko buriwese avuga icyongereza",contradiction
+"Hagati ya 1936 na 1940 Ubugereki bwari ku butegetsi bw'igitugu bwa gisirikare bwa Ioannis Metaxas, bwibukwa kubera echi yumvikana (oya ) yatanze asubiza ultimatum ya Mussolini yokwiyegurira mu 1940.",Ubugereki ntabwo bwaribwategekwa n'umunyagitugu wa gisirikare,contradiction
+"Hagati ya 1936 na 1940 Ubugereki bwari ku butegetsi bw'igitugu bwa gisirikare bwa Ioannis Metaxas, bwibukwa kubera echi yumvikana (oya ) yatanze asubiza ultimatum ya Mussolini yokwiyegurira mu 1940.",Ubugereki ni kimwe mu bihugu byo ku isi byagize umunyagitugu,entailment
+"Hagati ya 1936 na 1940 Ubugereki bwari ku butegetsi bw'igitugu bwa gisirikare bwa Ioannis Metaxas, bwibukwa kubera echi yumvikana (oya ) yatanze asubiza ultimatum ya Mussolini yokwiyegurira mu 1940.",Ubukungu bw'Ubugereki ntabwo bwaribumeze neza kubutegetsi bwigitugu bwa gisirikare bwa Metaxas,neutral
+Ubworoherane bwimirongo ya Romanesque ya Sant Pau nimpinduka zemewe ziva mubikabije bya modernisme ya Barcelona hamwe nubuhanga bwububiko bwa Gothique,Sant Pau ntabwo afite imirongo ya Romanesque.,contradiction
+Ubworoherane bwimirongo ya Romanesque ya Sant Pau nimpinduka zemewe ziva mubikabije bya modernisme ya Barcelona hamwe nubuhanga bwububiko bwa Gothique,Sant Pau ifite imirongo ya Romanesque,entailment
+Ubworoherane bwimirongo ya Romanesque ya Sant Pau nimpinduka zemewe ziva mubikabije bya modernisme ya Barcelona hamwe nubuhanga bwububiko bwa Gothique,Sant Pau igira kiriziya/amatorero,neutral
+"Gukubita umurizo cyangwa fluke, kandi byarashize",Biroroshye guterwa ubwoba ningendo zose zitunguranye.,neutral
+"Gukubita umurizo cyangwa fluke, kandi byarashize","Nta bwoba, kandi ntacyo kubikuraho",contradiction
+"Gukubita umurizo cyangwa fluke, kandi byarashize","Murugendo ruto kandi niko,bigenda",entailment
+Gahunda nini ijyanye no kuvugurura igomba kurangira mu mpera za 2001,Gahunda yo kuvugurura izarangira mbere yuko umwaka wa 2001 utangira,contradiction
+Gahunda nini ijyanye no kuvugurura igomba kurangira mu mpera za 2001,Gahunda yo kuvugurura ntabwo izakorwa neza mbere yuko umwaka wa 2000 urangira,entailment
+Gahunda nini ijyanye no kuvugurura igomba kurangira mu mpera za 2001,"Gahunda yo kuvugurura nirangira, izaba imaze imyaka itanu",neutral
+"Abakozi barimo gukora gahunda yo kongera umubare wa flamingos mu birwa bya Virginie ya Amerika, kandi uzasangamo umukumbi muto hano wororoka neza buri mwaka",Abakozi bakora kugirango barandure flamingos,contradiction
+"Abakozi barimo gukora gahunda yo kongera umubare wa flamingos mu birwa bya Virginie ya Amerika, kandi uzasangamo umukumbi muto hano wororoka neza buri mwaka",Abakozi bakora kugirango bongere umubare wa flamingos kuruzinga kugirango bashobore gukinga ko zizimangana,neutral
+"Abakozi barimo gukora gahunda yo kongera umubare wa flamingos mu birwa bya Virginie ya Amerika, kandi uzasangamo umukumbi muto hano wororoka neza buri mwaka",Abakozi bakora kugirango bongere umubare wa flamingos kuruzinga,entailment
+Imisozi ihanamye ya Serra de Tramuntana ikora kunyanja cyane ku buryo hano hari ahantu hake ho kugera kandi icyambu kimwe n'icyambu kimwe gusa gifite ubunini ku nkombe,Imisozi ihora ifite inkangu kubera ibyambu ntabwo byoroshye kuhubaka,neutral
+Imisozi ihanamye ya Serra de Tramuntana ikora kunyanja cyane ku buryo hano hari ahantu hake ho kugera kandi icyambu kimwe n'icyambu kimwe gusa gifite ubunini ku nkombe,Imisozi ituma kuhubaka ibyambu bigorana,entailment
+Imisozi ihanamye ya Serra de Tramuntana ikora kunyanja cyane ku buryo hano hari ahantu hake ho kugera kandi icyambu kimwe n'icyambu kimwe gusa gifite ubunini ku nkombe,Hari ibyambu 27 ku misozi,contradiction
+Culebra yari azwi ku kirwa cya Virginie ya Esipanye kugeza igihe Abanyamerika bagifashe kiri hagati ya Porto Rico na St. Thoms mu birwa bya Virginie yo muri Amerika,Culebra iri hagati ya Porto Rico na St. Thomas mu birwa bya Virginie yo muri Amerika,entailment
+Culebra yari azwi ku kirwa cya Virginie ya Esipanye kugeza igihe Abanyamerika bagifashe kiri hagati ya Porto Rico na St. Thoms mu birwa bya Virginie yo muri Amerika,Culebra ntahantu yegereye Porto Rico na St. Thomas mu birwa bya Virginie yo muri Amerika,contradiction
+Culebra yari azwi ku kirwa cya Virginie ya Esipanye kugeza igihe Abanyamerika bagifashe kiri hagati ya Porto Rico na St. Thoms mu birwa bya Virginie yo muri Amerika,Culebra iri ahantu hagati ya Porto Rico na St. Tomasi mu birwa bya Virginie yo muri Amerika,neutral
+"Umeda iranga amajyaruguru yakarere kubucuruzi nimyidagaduro izwi cyane ku izina rya Kita (bisobanura Amajyaruguru), kandi ni yo ngingo nyamukuru y’imyidagaduro ya Osaka igezweho",Umeda ntabwo iri mukarere kiimyidagaduro,contradiction
+"Umeda iranga amajyaruguru yakarere kubucuruzi nimyidagaduro izwi cyane ku izina rya Kita (bisobanura Amajyaruguru), kandi ni yo ngingo nyamukuru y’imyidagaduro ya Osaka igezweho",Umeda nigice cyimwe kinini cyakarere kimyidagaduro,neutral
+"Umeda iranga amajyaruguru yakarere kubucuruzi nimyidagaduro izwi cyane ku izina rya Kita (bisobanura Amajyaruguru), kandi ni yo ngingo nyamukuru y’imyidagaduro ya Osaka igezweho",Umeda iri amajyaruguru yakarere ka myidagaduro,entailment
+"Umunyamuryango wa gatatu w’ubutatu bw’Abahindu ni Brahma, ushinzwe umurimo wo kurema isi",Brahma ni intumwa ya gikristo,contradiction
+"Umunyamuryango wa gatatu w’ubutatu bw’Abahindu ni Brahma, ushinzwe umurimo wo kurema isi",Brahma ni igice cyubutatu bwa Abahindu,entailment
+"Umunyamuryango wa gatatu w’ubutatu bw’Abahindu ni Brahma, ushinzwe umurimo wo kurema isi",Brahma nigice cyingenzi cyane cyubutatu,neutral
+"Pedro yafashe ingoma, nubwo intambara yintwaro yakomeje mumezi menshi n'uburakari burengeje nyuma yibyo",Abantu 10000 bapfiriye mu ntambara,neutral
+"Pedro yafashe ingoma, nubwo intambara yintwaro yakomeje mumezi menshi n'uburakari burengeje nyuma yibyo",Intambara yari iyamezi arenga,entailment
+"Pedro yafashe ingoma, nubwo intambara yintwaro yakomeje mumezi menshi n'uburakari burengeje nyuma yibyo",Intambara yarangiye mumunsi umwe gusa,contradiction
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,"Muguhuriza hamwe sisitemu ijyanye nimikorere ya bantu , umwanya warabonetse wimiterere mishya muri sosiyete",neutral
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,Imiterere ya sosiyete yarakozwe,entailment
+Sisitemu zabakozi zarahurijwe hamwe kandi inzego nshyashya zamasosiyete zarateranyije vuba kugirango zikomeze gushyigikira no gushyigikirwa nabakiriya benshi,"Sisitemu zi jyanye nibyabakoze, zaravuguruwe kurusha mbere ",contradiction
+"Uburyo bwinkunga bwakwiyongera, kandi inkunga arahari yaka kazi",Ibikoresho birahari byiki gikorwa,entailment
+"Uburyo bwinkunga bwakwiyongera, kandi inkunga arahari yaka kazi",Nta nkuga ihari yaka kazi,contradiction
+"Uburyo bwinkunga bwakwiyongera, kandi inkunga arahari yaka kazi",Ntakunga ihari ihagije yaka kazi,neutral
+"Imibare yimihanda yigiturange batanze kuri uru rupapuro,  nibyo muri 1989 urwego rushizwe kubyibarura",Imibare kuri uru urpapuro yibanze kuri rapolo ya 2001,contradiction
+"Imibare yimihanda yigiturange batanze kuri uru rupapuro,  nibyo muri 1989 urwego rushizwe kubyibarura",Imibare kuri uru rurupapuro yataye igihe ,neutral
+"Imibare yimihanda yigiturange batanze kuri uru rupapuro,  nibyo muri 1989 urwego rushizwe kubyibarura",Uru rupapuro rukubiyemo amakuru y'inzira zi cyaro,entailment
+ubuyobozi bwakagombye nabwo kubona amanota yibanze cyagwa yibikorwa bitakozwe,"Burigikorwa ubuyoboze bujyereranyijweho, gitanga amanota atandukanye",entailment
+ubuyobozi bwakagombye nabwo kubona amanota yibanze cyagwa yibikorwa bitakozwe,Ubuyobozi ntibwa tsindwa,contradiction
+ubuyobozi bwakagombye nabwo kubona amanota yibanze cyagwa yibikorwa bitakozwe,Ubuyobizi bugomba guhabwa amanota meza kugirango bushobore gukomeza ,neutral
+Ingingo yaganiriweho mugihe kimyitozo niyerekeye uko urugo rwabyitwayemo ku barurwa yo kwamamaza,kutemeranwa n'imyitozo yambere ntabwo biguhesha akazi,neutral
+Ingingo yaganiriweho mugihe kimyitozo niyerekeye uko urugo rwabyitwayemo ku barurwa yo kwamamaza,imyitozo yibanze ntacyo ibivugaho kubyerekeye ibaruwa yo kwamamaza,contradiction
+Ingingo yaganiriweho mugihe kimyitozo niyerekeye uko urugo rwabyitwayemo ku barurwa yo kwamamaza,Imyitozo yibanze ikubiyemo bicye byukuntu abantu bitwaye kubarwa ryiyamamaza.,entailment
+189  nibicyiro byuwabikoresheje birajyereranwa muburyo bumwe,Barajyereranije kubicyiro byuwakoresheje,entailment
+189  nibicyiro byuwabikoresheje birajyereranwa muburyo bumwe,Barajyereranije kubicyiro byuwakoresheje byari $10000,neutral
+189  nibicyiro byuwabikoresheje birajyereranwa muburyo bumwe,baribazi neza ibiciro byuwakoresheje ,contradiction
+urungero muri GGD igishushanyo mbonera cyarakozwe nka kandi kazi kuruhandi kinyongera. ,igishushanyo mbonera ntikigezekibaho ,contradiction
+urungero muri GGD igishushanyo mbonera cyarakozwe nka kandi kazi kuruhandi kinyongera. ,igishushanyo mbonera  cyara kozwe kuruhande,entailment
+urungero muri GGD igishushanyo mbonera cyarakozwe nka kandi kazi kuruhandi kinyongera. ,ibyigishushanyo mbonera ntabwo byacyiyemo,neutral
+Ajanse icenda zose  ziviga ko raporo zitabiriye.  ,Ni ebyiri gusa muri ajanse icenda zihutiye gusubiza kucyibazo cyacu kerekeye ubwitabire,contradiction
+Ajanse icenda zose  ziviga ko raporo zitabiriye.  ,Hari ajanse icenda  zashubije zemezako zitabiriye ,entailment
+Ajanse icenda zose  ziviga ko raporo zitabiriye.  ,Izo ajense icenda zishimye ko zagize ubwitabire buhimbaje ,neutral
+Kuva 1996 ubutunzi bwurugo byariyongereye cyane bejyeze kuri 6.4 muri 1999,ubutunzi bwurugo byose byinjije &10000 mumwaka ushize,neutral
+Kuva 1996 ubutunzi bwurugo byariyongereye cyane bejyeze kuri 6.4 muri 1999,ubutunzi bwurugo buriguta ubukungu.,contradiction
+Kuva 1996 ubutunzi bwurugo byariyongereye cyane bejyeze kuri 6.4 muri 1999,Ubutunzi bwurugo burinjiza ubukungu bwintanga rujyero,entailment
+"Muburyo buciriritse, ibyingenzi nicyiciro cyakazi buri wese ahabwa ijanisha hejuru yikiguzi, kugirango abone igipimo cyabyo.",Icyiciro cyibanze kirenze ikiguzi,entailment
+"Muburyo buciriritse, ibyingenzi nicyiciro cyakazi buri wese ahabwa ijanisha hejuru yikiguzi, kugirango abone igipimo cyabyo.",Igiciro kirenze 10% kuruta ikiguzi.,neutral
+"Muburyo buciriritse, ibyingenzi nicyiciro cyakazi buri wese ahabwa ijanisha hejuru yikiguzi, kugirango abone igipimo cyabyo.",Igiciro buri gihe kiri munsi yikiguzi.,contradiction
+"19 Dufashe amezi ane yakazi mbere yigihembo cyamasezerano, igihe cyashize cyamezi 13 cyaba gikenewe kugirango dusubiremo iyi  675 MWe.",Byatwaye amezi abiri gusa kugirango tuyasubiremo.,contradiction
+"19 Dufashe amezi ane yakazi mbere yigihembo cyamasezerano, igihe cyashize cyamezi 13 cyaba gikenewe kugirango dusubiremo iyi  675 MWe.","Byanfashe amezi 13 , guhindura ubushyuhe bwo  mumazi .",neutral
+"19 Dufashe amezi ane yakazi mbere yigihembo cyamasezerano, igihe cyashize cyamezi 13 cyaba gikenewe kugirango dusubiremo iyi  675 MWe.",Byanfashe amezi 13 yose kuhindura ubushyuhe. ,entailment
+"ibura ryabakozi bafite ubumenyi ba IT, mwisoko ryubungubu nibidukikije, nimpanvu nini ituma amashyira hamwe  ashaka abakozi  muyandi masosiete. ",Hari abakozi bikorana buhanga  benshi. ,contradiction
+"ibura ryabakozi bafite ubumenyi ba IT, mwisoko ryubungubu nibidukikije, nimpanvu nini ituma amashyira hamwe  ashaka abakozi  muyandi masosiete. ",Ntabwo hahari abakozi bikorana buhanga bahagije kuko abandi bagiye mubuhinde. ,neutral
+"ibura ryabakozi bafite ubumenyi ba IT, mwisoko ryubungubu nibidukikije, nimpanvu nini ituma amashyira hamwe  ashaka abakozi  muyandi masosiete. ",Ntabakozi bikorana buhanga bahagije bokujya mumyanya y'akazi. ,entailment
+Ntibyoroshye kumenya urugero cyangwa ikerekezo cyokubogama  mumihindukire yose ishingiye kubikorwa rusange ya kimwe muri  C-R ikorera ahantu hose.,Biragaragara urujyero rwo kubogama ruhari.,contradiction
+Ntibyoroshye kumenya urugero cyangwa ikerekezo cyokubogama  mumihindukire yose ishingiye kubikorwa rusange ya kimwe muri  C-R ikorera ahantu hose.,Ntushobora kumenya urujyero rwo kubogama ruhari kuko birakomeye kurutandukanya nizindi ngufu zo hanze. ,neutral
+Ntibyoroshye kumenya urugero cyangwa ikerekezo cyokubogama  mumihindukire yose ishingiye kubikorwa rusange ya kimwe muri  C-R ikorera ahantu hose.,Ntushobora kumenya urujyero rwokubogama ruhari.,entailment
+Ingaruka zibicyiro kubera akazi karigukorwa numushinga kujyiciro cyohejuru nabyo birabarwa muburyo bumwe nka mbere . ,Ingaruka zibiciro zirabarwa kimwe.,entailment
+Ingaruka zibicyiro kubera akazi karigukorwa numushinga kujyiciro cyohejuru nabyo birabarwa muburyo bumwe nka mbere . ,"Ntabwo baribamenya uburyo bwo kubara, ingaruka zibiciro. ",contradiction
+Ingaruka zibicyiro kubera akazi karigukorwa numushinga kujyiciro cyohejuru nabyo birabarwa muburyo bumwe nka mbere . ,Bakoresha amakuru yahambere mukubara ingaruka zibiciro,neutral
+umwitozo wa 4: gucunga insanganya kuburyo buhoraho. ,"Igice ya kane, gikubiyemo imyitozo yo kwirinda insanganya. ",entailment
+umwitozo wa 4: gucunga insanganya kuburyo buhoraho. ,Igitabo ntabwo gifite amahugurwa arabye yo kwirinda insanganya. ,contradiction
+umwitozo wa 4: gucunga insanganya kuburyo buhoraho. ,Uyu mwitozo ugomba kuragizwa kandi ugatagizwa mumprea zucyumweru ,neutral
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ", Imyunvire ya Marxist-leninist yongejwe muri mwishyirahamwe rya kisilamu,entailment
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ",umutwe wa k'isilamu watangiye mukinyejana cya gatandatu,contradiction
+"Umuryango wakisilamu wa vutse mu mwaka wi 1940, numusaruro wisi yubungubu, uhabwa imbaraga na  Marxist-leninist ugamije kwihinduramatwara mumuryango. ","uyu muryango wa k'isilamu , inkomoko yawo wari nkumuryango wubukangurambaga",neutral
+Abandi bajyanama nabo bakomojeho kuri iki kibazo,Abajyanama bose bemeje ko ntakintu nakimwe cyoguhangayika,contradiction
+Abandi bajyanama nabo bakomojeho kuri iki kibazo,Umujyanama umwe gusa ntiyerekanye ibimenyetso ko  ahangayikishijwe niyi gahunda.,neutral
+Abandi bajyanama nabo bakomojeho kuri iki kibazo,Iyi mpungege isangiwe nabajyanama batandukanye. ,entailment
+Sisitemu ntabwo yahisemo abajyenzi yikurikiranyije kujyirango bashobore kubona umutekano uhamye. ,Abajyenzi bose banyuzemo ntakibazo. ,contradiction
+Sisitemu ntabwo yahisemo abajyenzi yikurikiranyije kujyirango bashobore kubona umutekano uhamye. ,Abajyenzi bamwe basatswe umubiri wose. ,neutral
+Sisitemu ntabwo yahisemo abajyenzi yikurikiranyije kujyirango bashobore kubona umutekano uhamye. ,Abajyenzi bamwe bongeye gusakwa nabashinzwe umutekano. ,entailment
+"twasanze ntagihamya ko igitekerezo cya bwiwe ubuyobozi bushya  cyangwa Clarke yatanze impapuro ze kuribo,uretseko ikipe yimyuga yakoresheje ubuyobozi bwombi. ", turabizi neza ijana kwijana ko Clarke ntawe yahaye impapuro ze. ,neutral
+"twasanze ntagihamya ko igitekerezo cya bwiwe ubuyobozi bushya  cyangwa Clarke yatanze impapuro ze kuribo,uretseko ikipe yimyuga yakoresheje ubuyobozi bwombi. ",Ntagihamya twabona ko Clarke yamhaye impapuro ze.,entailment
+"twasanze ntagihamya ko igitekerezo cya bwiwe ubuyobozi bushya  cyangwa Clarke yatanze impapuro ze kuribo,uretseko ikipe yimyuga yakoresheje ubuyobozi bwombi. ",Turabizi neza ko Clarke yabahaye impapuro ze ku ya 2 Nyakanga.,contradiction
+"Ntabwo bizwi neza ko sisitemu ya shirwaho mbere ya 2010, ariko nyi ngengebihe yabe iri gahoro cyane , bivanye nimpanvu zumutekano. ",Intibyoroshye gushiraho sisitemu kuko abajura bayitera buri joro.,neutral
+"Ntabwo bizwi neza ko sisitemu ya shirwaho mbere ya 2010, ariko nyi ngengebihe yabe iri gahoro cyane , bivanye nimpanvu zumutekano. ",Ntabwo byoroshye gushiraho sisitemu kubera ikibazo cyumutekano. ,entailment
+"Ntabwo bizwi neza ko sisitemu ya shirwaho mbere ya 2010, ariko nyi ngengebihe yabe iri gahoro cyane , bivanye nimpanvu zumutekano. ","Sisitemu yumutekano izashirwaho mubyumweru bitandatu, ndabijeje.",contradiction
+"Mugihe turikurinda igihugu cyacyu , abanyamerika bagomba kuzirikana iterabwoba kubaturage  nubwijyenge  bwabo.",Abanyamerika ntibagomba guhangayikishwa nubwisanzure bwaba turange- bazahora barizwe. ,contradiction
+"Mugihe turikurinda igihugu cyacyu , abanyamerika bagomba kuzirikana iterabwoba kubaturage  nubwijyenge  bwabo.",Abanyamerika bagomba gucyunga neza ko imbunda zabo zidatwarwa.,neutral
+"Mugihe turikurinda igihugu cyacyu , abanyamerika bagomba kuzirikana iterabwoba kubaturage  nubwijyenge  bwabo.",Abanyamerika bagoma  guha agaciro iterabwoba  kubwisanzure bwacu.,entailment
+Kubitanga inshuro nyinshi ntabwo byatumye bikora neza.,Kuyizana ntabwo byayongereye akamaro.,entailment
+Kubitanga inshuro nyinshi ntabwo byatumye bikora neza.,Kuyizana  byatumye igira akamaro kanini cyane.,contradiction
+Kubitanga inshuro nyinshi ntabwo byatumye bikora neza.,Ntakamaro byijyeze bitanga mugihe twayizanaga muri  White House. ,neutral
+"Intera yindi ikurikira yo hasi, umuyobozi ushinzwe al Qaeda muri CIA muruwo mwanya yibutse ko  atijyeze atekereza ko byari akazi ke ko  gutanga amabwiriza cyangwa ibitagombwa gukorwa.  ",Umuyobozi ntiyashakaga kubigiramo uruhare kuko yari hafi kujya muzabukuru.,neutral
+"Intera yindi ikurikira yo hasi, umuyobozi ushinzwe al Qaeda muri CIA muruwo mwanya yibutse ko  atijyeze atekereza ko byari akazi ke ko  gutanga amabwiriza cyangwa ibitagombwa gukorwa.  ",Umuyobozi wubumwe ntabwo yifuzaga kugira uruhare mu kuyobora ibyakozwe.,entailment
+"Intera yindi ikurikira yo hasi, umuyobozi ushinzwe al Qaeda muri CIA muruwo mwanya yibutse ko  atijyeze atekereza ko byari akazi ke ko  gutanga amabwiriza cyangwa ibitagombwa gukorwa.  ",Umuyobozi yatekereje ko byose ari we byarebaga.,contradiction
+Pickard aribuka magambo avugwa mu kiganiro kirigutangwa  mucyamake ku ya 12 Nyakanga.,Pickard ntiyashoboraga kwibuka ibyo bari bavuze.,contradiction
+Pickard aribuka magambo avugwa mu kiganiro kirigutangwa  mucyamake ku ya 12 Nyakanga.,Pickard yibukaga mwicyamake amakuru yakubiwemo  impavu zimanuka .,neutral
+Pickard aribuka magambo avugwa mu kiganiro kirigutangwa  mucyamake ku ya 12 Nyakanga.,Pickard yibutse ibyaribyavuzwe mukiganiro kincyamake.,entailment
+Yari yagiye muri pakisitani ariko ntiyishimye ubwo bamubazaga  niba yaba yaratembereye mubihugu biri hafi ya Pakisitani .(Pakisitani yariyo nzira isazwe yerekeza mumyitozo yakisirikale muri Afuganisitani. ),Ntabwo byari ibisazwe ko imitwe yiterabwoba  yanyura  muri pakisitani yerekeza muri afuganisitani. ,entailment
+Yari yagiye muri pakisitani ariko ntiyishimye ubwo bamubazaga  niba yaba yaratembereye mubihugu biri hafi ya Pakisitani .(Pakisitani yariyo nzira isazwe yerekeza mumyitozo yakisirikale muri Afuganisitani. ),Pakisitani na Afuganisitani biherereye kure cyane yibihugu byombi.,contradiction
+Yari yagiye muri pakisitani ariko ntiyishimye ubwo bamubazaga  niba yaba yaratembereye mubihugu biri hafi ya Pakisitani .(Pakisitani yariyo nzira isazwe yerekeza mumyitozo yakisirikale muri Afuganisitani. ),imyitozo yatazwe muri Afuganisitani harimo kurwanisha amaboko.,neutral
+"  Mucamake yiyigahunda nimpanvu  zatumye impuza zayo zihagarikwa , reba Graham Allison na Philip Zelikow , intandaro yikemezo, 2d ed. ",Ibisobanuro byafashwe neza.,contradiction
+"  Mucamake yiyigahunda nimpanvu  zatumye impuza zayo zihagarikwa , reba Graham Allison na Philip Zelikow , intandaro yikemezo, 2d ed. ",ibisobanuro byoherejwe kumuntu utariwe ngo abisesegure.,neutral
+"  Mucamake yiyigahunda nimpanvu  zatumye impuza zayo zihagarikwa , reba Graham Allison na Philip Zelikow , intandaro yikemezo, 2d ed. ",Ibisobanuro ntabwo byafashwe neza,entailment
+Bashiraho intego zikomeye kujyirango bashobore gutera neza] kandi bakumira ibitero mugufata ahantu nabantu cyane cyane.  ,Baribabizi ko mugushiraho  intego zigoye kujyeraho bizaganisha  kubwinshi bwo gufata bunyago. ,neutral
+Bashiraho intego zikomeye kujyirango bashobore gutera neza] kandi bakumira ibitero mugufata ahantu nabantu cyane cyane.  ,"Bashizeho intego yoroshye cyane , bafashwe  muminota mice cyane.",contradiction
+Bashiraho intego zikomeye kujyirango bashobore gutera neza] kandi bakumira ibitero mugufata ahantu nabantu cyane cyane.  ,"Bashizeho intego ubwabo bonyine kandi zitoroheje, gutyo bituma bigarurira inshuro nyinshi. ",entailment
+"Urwego rurinda ikirere cyo mumajyepfo yuburasira zuba, rwamenyeshejwe ibyabaye  saa 9:55, nyuma yiminota 28.",Nyuma yiminota 28  urwego rw’ingabo zirwanira mu kirere rw’amajyepfo rwabonye itangazo.,entailment
+"Urwego rurinda ikirere cyo mumajyepfo yuburasira zuba, rwamenyeshejwe ibyabaye  saa 9:55, nyuma yiminota 28.","Akarere, ntabwo kabonye itangazo kubera gutinda kwitumanaho. ",neutral
+"Urwego rurinda ikirere cyo mumajyepfo yuburasira zuba, rwamenyeshejwe ibyabaye  saa 9:55, nyuma yiminota 28.","Akarere karinda ikirire cyo mumajyepfo y'uburasira zuba, kabonye itangazo ryibyabaye  nyuma yiminota 28, bimaze kuba. ",contradiction
+"Dutegereje impaka zigihugu ku bijyanye n’ibyo twasabye, kandi tuzitabira cyane muri izo mpaka.",Ntampamvu yo kujya impaka kuriyi ngingo.,contradiction
+"Dutegereje impaka zigihugu ku bijyanye n’ibyo twasabye, kandi tuzitabira cyane muri izo mpaka.",Dushaka kugira impaka kuko tuzi ko ibi byifuzo ari ngombwa.,neutral
+"Dutegereje impaka zigihugu ku bijyanye n’ibyo twasabye, kandi tuzitabira cyane muri izo mpaka.",Turashaka kujya impaka kubyifuzo.,entailment
+"Mihdhar amaze kugenda, abandi banyeshuri bimukiye mu nzu.",Mihdhar yarazi ko abanyeshuri bamutegereje ko agenda.,neutral
+"Mihdhar amaze kugenda, abandi banyeshuri bimukiye mu nzu.",Abanyeshuri bagiye murugo Mihdhar amaze kugenda.,entailment
+"Mihdhar amaze kugenda, abandi banyeshuri bimukiye mu nzu.",Abanyeshuri bigaragambije hanze yinzu Mihdhar yari atuyemo.,contradiction
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Impano yose tubona ntabwo ari ingenzi nkiyanyu.,neutral
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Ntabwo dushishikajwe na gato n'impano yawe.,contradiction
+Impano yawe ningirakamaro muguhimbaza ibihe byacu bya  85.,Tumaze imyaka irenga 80 dukora ibi.,entailment
+"Bisaba ubufatanye bwinkunga yigenga, ninkunga ya kaminuza kwishuri ryigisha amategeko kugirango dukomeze kumenyakana no gukomera.",Ishuri ryacu ryigisha amategeko riterwa inkunga yigenga yonyine.,contradiction
+"Bisaba ubufatanye bwinkunga yigenga, ninkunga ya kaminuza kwishuri ryigisha amategeko kugirango dukomeze kumenyakana no gukomera.",Ishuri ryacu ryigisha amategeko rishyigikiwe igice na Melinda na Bill Gates Foundation.,neutral
+"Bisaba ubufatanye bwinkunga yigenga, ninkunga ya kaminuza kwishuri ryigisha amategeko kugirango dukomeze kumenyakana no gukomera.",Ishuri ryacu ryigisha amategeko rikeneye amafaranga kugirango rikomeze gukura.,entailment
+kubufashwa bwonyine bwabafatanyabikorwa bacu b'abagiraneza twashoboye kugera kuri byinshi.,Bill Gates yaduhaye miliyoni 5 z'amadolari.,neutral
+kubufashwa bwonyine bwabafatanyabikorwa bacu b'abagiraneza twashoboye kugera kuri byinshi.,"Urebye uko amasoko yimari ameze, abafatanyabikorwa bacu b'abagiraneza basubiranye  inkunga zabo zose.",contradiction
+kubufashwa bwonyine bwabafatanyabikorwa bacu b'abagiraneza twashoboye kugera kuri byinshi.,"Twashoboye kugera kuri byinshi, kubera abagiraneza twabonye.",entailment
+Murakoze gutera inkunga inzu ndangamurage ya Indianapolis muri 1999.,Murakoze ku  inkunga ya $100 mutanze  ku inzu ndangamurage ya Indianapolis.,neutral
+Murakoze gutera inkunga inzu ndangamurage ya Indianapolis muri 1999.,Urakoze ariko nta shimwe kubwo gutinda ku nkunga yawe muri 1999.,contradiction
+Murakoze gutera inkunga inzu ndangamurage ya Indianapolis muri 1999.,Twishimiye ko mwafashije gushyigikira inzu ndangamurage.,entailment
+Nizere ko wahawe umugisha cyane kandi ugaterwa umurava niki kibazo.,Nizere ko iki kibazo cyaguhaye ishyaka rishya.,entailment
+Nizere ko wahawe umugisha cyane kandi ugaterwa umurava niki kibazo.,"Ndazi ko iki kibazo kigutera kwiheba, ariko tegereza ibiruhuko byawe.",contradiction
+Nizere ko wahawe umugisha cyane kandi ugaterwa umurava niki kibazo.,Ndazi ko uzakora ibishoboka byose kugirango urwanye kanseri yonsa.,neutral
+Ni ngombwa ko twumva igitekerezo cyawe muri iki gihe cyo gukusanya inkunga ya nyuma yigihembwe.,"Iki nigikorwa cyanyuma tuzagira cyo gutanga impano muri iki gihembwe, dukeneye ubufasha bwawe!",entailment
+Ni ngombwa ko twumva igitekerezo cyawe muri iki gihe cyo gukusanya inkunga ya nyuma yigihembwe.,Dufite izindi nshyuro ebyiri zisigaye zo gukusanya inkunga muri uyu mwaka.,contradiction
+Ni ngombwa ko twumva igitekerezo cyawe muri iki gihe cyo gukusanya inkunga ya nyuma yigihembwe.,Dukeneye andi 100.000 $ kugirango dukore igipimo cyo gukusanya inkunga muri iki gihembwe.,neutral
+P. S. Impano yawe ni ingenzi mu kwizihiza imyaka 85 ituma Civic Theatre ya Indianapolis ariya kera cyane yikinamico ikorera mu gihugu.,"Hariho indi nzu yerekana filime nimikino iherutse kwizihiza isabukuru yimyaka 84, ariko nyuma kirafugwa.",neutral
+P. S. Impano yawe ni ingenzi mu kwizihiza imyaka 85 ituma Civic Theatre ya Indianapolis ariya kera cyane yikinamico ikorera mu gihugu.,Turi kwizihiza ifungurwa ry'inzu yerekana filime nimikino nshya muri Indianapolis.,contradiction
+P. S. Impano yawe ni ingenzi mu kwizihiza imyaka 85 ituma Civic Theatre ya Indianapolis ariya kera cyane yikinamico ikorera mu gihugu.,Twishimiye cyane ko inzu yerekana filime nimikino ya Indianapolis imaze imyaka 85 ikora.,entailment
+"Abazababitabiriye amahugurwa bazahabwa amazina yicyizere, aderesi na numero za terefone, hamwe namakuru yibanze kubyo ishuri rikeneye.",Abazababitabiriye amahugurwa bazahabwa amakuru arambuye  hamwe namakuru yibanze.,entailment
+"Abazababitabiriye amahugurwa bazahabwa amazina yicyizere, aderesi na numero za terefone, hamwe namakuru yibanze kubyo ishuri rikeneye.","Abazababitabiriye amahugurwa bagomba gusinya amasezerano yo kutamenyekanisha, mbere yo kubona ibisobanuro birambuye.",neutral
+"Abazababitabiriye amahugurwa bazahabwa amazina yicyizere, aderesi na numero za terefone, hamwe namakuru yibanze kubyo ishuri rikeneye.","Abitabiriye amahugurwa bashobora kumenya gusa amazina yicyizere, ariko ntibamenye aderesi zabo.",contradiction
+"Parike yacu yakozwe hifashishijwe igitekerezo cya biomes, igereranywa nahantu  inyamaswa ziba.",Biomes yigana inyamaswa niibidukikije bisanzwe.,entailment
+"Parike yacu yakozwe hifashishijwe igitekerezo cya biomes, igereranywa nahantu  inyamaswa ziba.","Muri parike yacu, twizera ko ubuturo bw’ubukorikori ari bwiza kuruta ubwa kamere.",contradiction
+"Parike yacu yakozwe hifashishijwe igitekerezo cya biomes, igereranywa nahantu  inyamaswa ziba.",Biomes muri parike yacu yari ihenze cyane.,neutral
+Inkunga yawe ya Goodwill izatanga amahugurwa yakazi hamwe na serivisi zo gutanga akazi kugirango zifashe abakorera muri Indiana rwagati kubona akazi keza.,Abantu bo muri Indiana rwagati ntibigera bahabwa amahugurwa yakazi.,contradiction
+Inkunga yawe ya Goodwill izatanga amahugurwa yakazi hamwe na serivisi zo gutanga akazi kugirango zifashe abakorera muri Indiana rwagati kubona akazi keza.,Gushyigikira ubushake bizagirira akamaro abantu muri Indiana.,entailment
+Inkunga yawe ya Goodwill izatanga amahugurwa yakazi hamwe na serivisi zo gutanga akazi kugirango zifashe abakorera muri Indiana rwagati kubona akazi keza.,Gushyigikira ubushake bizagabanya ubushomeri.,neutral
+"Kuva mu ntangiriro yoroheje kugeza ku rwego rwo muri iki gihe , Indiana ni kimwe mu bigo nderabuzima byigisha amasomo meza mu gihugu, n' ishuri ry'ubuvuzi ryonyine rifite umurage ushimishije.",Indiana ifite byibura amashuri makumyabiri meza yubuvuzi.,contradiction
+"Kuva mu ntangiriro yoroheje kugeza ku rwego rwo muri iki gihe , Indiana ni kimwe mu bigo nderabuzima byigisha amasomo meza mu gihugu, n' ishuri ry'ubuvuzi ryonyine rifite umurage ushimishije.",Intara ya Indiana ifite ishuri rimwe ry'ubuvuzi.,entailment
+"Kuva mu ntangiriro yoroheje kugeza ku rwego rwo muri iki gihe , Indiana ni kimwe mu bigo nderabuzima byigisha amasomo meza mu gihugu, n' ishuri ry'ubuvuzi ryonyine rifite umurage ushimishije.",Nta rindi shuri ry'ubuvuzi rizaba muri Indiana mu myaka itanu iri imbere.,neutral
+"Hari ukwiyongera gutangaje kwibiciro byibitabo byamategeko, ibinyamakuru, na serivisi za data base,  biravuga ko ibyo dukusanya ubu birenze ingingo yimari yacu.",Kubungabunga ibyegeranyo byubu bisaba  kimwe cya gatatu cyingengo yimari yumwaka.,contradiction
+"Hari ukwiyongera gutangaje kwibiciro byibitabo byamategeko, ibinyamakuru, na serivisi za data base,  biravuga ko ibyo dukusanya ubu birenze ingingo yimari yacu.",injengo  yimari yacu yubu ntabwo kiitwemerera gukomeza ibyo dukusanya.,entailment
+"Hari ukwiyongera gutangaje kwibiciro byibitabo byamategeko, ibinyamakuru, na serivisi za data base,  biravuga ko ibyo dukusanya ubu birenze ingingo yimari yacu.","Dukeneye byibuze $ 10,000 mumpano kugirango tubashe gukomeza ibyo dukusanya.",neutral
+Tuzagerageza kuvugana na buri wese muri mwe utaritabiriye uyu mwaka w’ingengo y’imari mu minsi 45 iri imbere kugira ngo intego zacu zizagerweho bitarenze   ku ya 30 Kamena.,Ntabwo dufite gahunda yo kuzigera duhamagara  abataratanze inkunga uyu mwaka.,contradiction
+Tuzagerageza kuvugana na buri wese muri mwe utaritabiriye uyu mwaka w’ingengo y’imari mu minsi 45 iri imbere kugira ngo intego zacu zizagerweho bitarenze   ku ya 30 Kamena.,"Tuzabamenyesha kuri imeli mu minsi 45 iri mbere , abazaba bataratanze inkunga uyumwaka.",neutral
+Tuzagerageza kuvugana na buri wese muri mwe utaritabiriye uyu mwaka w’ingengo y’imari mu minsi 45 iri imbere kugira ngo intego zacu zizagerweho bitarenze   ku ya 30 Kamena.,Tuzagerageza kuvugisha abazaba bataratanze inkunga ya uyumwaka muminsi 45 iri mbere.,entailment
+"Nkumwe mubanyamuryango b'ishuri ryamategeko , ndabiziko uzi uko  dutera imbere .",Ndumwe mubagize ishuri ryamategeko ,neutral
+"Nkumwe mubanyamuryango b'ishuri ryamategeko , ndabiziko uzi uko  dutera imbere .",Ntamuntu uri mw' ishuri ryigisha amategeko,contradiction
+"Nkumwe mubanyamuryango b'ishuri ryamategeko , ndabiziko uzi uko  dutera imbere .",Ishuri ryamategeko ryemeye abantu,entailment
+"Igiciro cyo kubaka aya mazu kirenze uko abaguzi bacu babashya kwishyura, bityo rero twishingikiriza kumpano nintwererano no kumuntu kigiticye kugirango bishobore guhenduka.",Gukora amazu byari ubuntu.,contradiction
+"Igiciro cyo kubaka aya mazu kirenze uko abaguzi bacu babashya kwishyura, bityo rero twishingikiriza kumpano nintwererano no kumuntu kigiticye kugirango bishobore guhenduka.",Amazu agomba ibikoresho kujyirango yubakwe,entailment
+"Igiciro cyo kubaka aya mazu kirenze uko abaguzi bacu babashya kwishyura, bityo rero twishingikiriza kumpano nintwererano no kumuntu kigiticye kugirango bishobore guhenduka.",Amazu yarahenze kubakwa kurusha uko twabikekaga,neutral
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi",Guhangayika kwa babyeyi nikimwe mubisunika igurishwa ryibifubiko byibinyamakuru,entailment
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi",Newsweeklies ikora ibifubiko muburyo bishimisha abana bato cyangwa abakuru. ,contradiction
+"Ibifubiko by'ibinyamakuru bya newsweeklies, bihangayikishije ababyeyi","Ababyeyi, birashoboka ko bakoresha amafaranga mukugura imodoka nshya, bituma bamamaza ibicye bimwe  byibinyamakuru. ",neutral
+"IKinyamakuru Time, gikubiyemo intabwe 12 za Bill gates zo gutsinda mugihe cya digitale.",Kim Kardashian yanditse inkuru yikinyamakuru Time kivuga intambwe 12 zikenewe kugirango umuntu atsinde mugihe cya digitale.,contradiction
+"IKinyamakuru Time, gikubiyemo intabwe 12 za Bill gates zo gutsinda mugihe cya digitale.","ikinyamakuru cya Time, gifite ifoto ya Bill Gates kujyifubiko. ",neutral
+"IKinyamakuru Time, gikubiyemo intabwe 12 za Bill gates zo gutsinda mugihe cya digitale.","Ikinyamakuru cya Time, gifite inkuru ya Bill Gates niterambere mugihe cya digitale. ",entailment
+"Irukanga bucece, irukanga gahoro gahoro, koresha igisubizo",Iruka urigusakuza,contradiction
+"Irukanga bucece, irukanga gahoro gahoro, koresha igisubizo",Iruka amaboko ahishe.,neutral
+"Irukanga bucece, irukanga gahoro gahoro, koresha igisubizo",Iruka ntawukunvise,entailment
+Paul ashaka guha ishimwe Alan greenspan kubitekerezo bye byo guchunga ubushomeri nkuko bigaragara  mubyerekeye ubukungu.,Alan Greenspan afite ibitekerezo byubukungu bijyanye nubwiyongere kubushomere.,entailment
+Paul ashaka guha ishimwe Alan greenspan kubitekerezo bye byo guchunga ubushomeri nkuko bigaragara  mubyerekeye ubukungu.,Paul ntiyariyijyera yunva Alan Greenspan cyangwa ibitekerezo bye byubukungu,contradiction
+Paul ashaka guha ishimwe Alan greenspan kubitekerezo bye byo guchunga ubushomeri nkuko bigaragara  mubyerekeye ubukungu.,Paul akekako Alan Greenspan ariwe muhanga cyane mubyubukungu azi.,neutral
+"Nkoresheje ubwifashishe bwa microsoft, namenye ko akabiko ka CD kari karigukoreshwa kwi karta yamajwi  ntabwo ari kuri poti ya IDE alibyo byabeshyaga Linux",Ntabwo narinijyera nkoresha LInux,contradiction
+"Nkoresheje ubwifashishe bwa microsoft, namenye ko akabiko ka CD kari karigukoreshwa kwi karta yamajwi  ntabwo ari kuri poti ya IDE alibyo byabeshyaga Linux",Narifite ikibazo cyo gukoresha Linux kuri moderm yanjye.,neutral
+"Nkoresheje ubwifashishe bwa microsoft, namenye ko akabiko ka CD kari karigukoreshwa kwi karta yamajwi  ntabwo ari kuri poti ya IDE alibyo byabeshyaga Linux",Narifite ikibazo na linux ,entailment
+"steve, sinshobora  gushyigura ikotomoni yawe,  Hatch yarashubije",Hatch yavuze arakaye ko atashobora guterula uruhago rwamafaranga ya Steve,neutral
+"steve, sinshobora  gushyigura ikotomoni yawe,  Hatch yarashubije",Hatch ntanyongera yarafite kuruhago rwa steve,contradiction
+"steve, sinshobora  gushyigura ikotomoni yawe,  Hatch yarashubije",Hatch yakinaga avugako atashobora no gushyigura uruhago rwamafaranga rwa  Steve,entailment
+"Aba hanga bahatamye cyane mubyubukungu n'imyijyire ya kopyuta ,ninabo bafite ukwizera gucye",Aba hanga bakompyuta ntakizere bafite,entailment
+"Aba hanga bahatamye cyane mubyubukungu n'imyijyire ya kopyuta ,ninabo bafite ukwizera gucye",Abahanga ba kompyuta ntabwo aribeza mubusabane,neutral
+"Aba hanga bahatamye cyane mubyubukungu n'imyijyire ya kopyuta ,ninabo bafite ukwizera gucye",Abahanga ba kpmpyuta bafite ejo hazaza,contradiction
+N'ibiki bindi kurusha News Quiz byo kwizeza kuri Fox ,nibike kurusha News Quiz yakwizeza kuri Fox.,contradiction
+N'ibiki bindi kurusha News Quiz byo kwizeza kuri Fox ,Nibyinshi kurusha News Quiz yakwemeza kuri Fox,entailment
+N'ibiki bindi kurusha News Quiz byo kwizeza kuri Fox ,Birashoboka ko hari byinshyi kurusha News Quiz yavuga kuri fox,neutral
+ubwiyongere bwabantu ninkumwanda murundi ruhande,Umwanda nikimwe mubigabanya ubwiyongere bwabantu,neutral
+ubwiyongere bwabantu ninkumwanda murundi ruhande,Ubwiyongere bwabantu bijyendana nigabanuka ryumwanda,entailment
+ubwiyongere bwabantu ninkumwanda murundi ruhande,Ntasano ihari hagati yubwiyongere bwabantu n'umwanda,contradiction
+"Nubwo Bill Bradley yakuriye muri st louis, ihangane gato,byari kuba bisekeje iyo Al Gore yarigukurira muri Tennessee",Bradley yavaga Arkansas,contradiction
+"Nubwo Bill Bradley yakuriye muri st louis, ihangane gato,byari kuba bisekeje iyo Al Gore yarigukurira muri Tennessee",Bradley yavaga missouri,entailment
+"Nubwo Bill Bradley yakuriye muri st louis, ihangane gato,byari kuba bisekeje iyo Al Gore yarigukurira muri Tennessee",Bradley yavaga muburengera zuba bwa st. Louis,neutral
+"Sabol yavuze ko agomba rimwe na rimwe guhahagarika, ariko nibintu bipanze neza ",Sabol ntakeneye gufata utwoturuhuko twose. ,neutral
+"Sabol yavuze ko agomba rimwe na rimwe guhahagarika, ariko nibintu bipanze neza ",sabol yavuzeko ubu noneho agomba kujyira akaruhuko gato,entailment
+"Sabol yavuze ko agomba rimwe na rimwe guhahagarika, ariko nibintu bipanze neza ",sabol yavuzeko adakeneye icyuruhuko,contradiction
+kuki iki kidakoreshwa kurubuga ?,Iki kirakoreshwa kurubuga,contradiction
+kuki iki kidakoreshwa kurubuga ?,Ibi amajyingo aya ntabwo bikoreshwa kurubuga,entailment
+kuki iki kidakoreshwa kurubuga ?,Ibi byakoreshwa rimwe na rimwe kurubuga.,neutral
+"Abapolisi bemejeko, muruna wa Joh Benet Ramsey na mushikiwe, bacyekwaho ubwicyanyi bwe.IKigaragaza nuko bose barihanze yumujyi mujyihe icyaha cyakorwaga ",Murumuna wa Joh Benet Ramsey's ntabwo yari mumujyi ubwo ubwicyanyi bwakorwaga ,entailment
+"Abapolisi bemejeko, muruna wa Joh Benet Ramsey na mushikiwe, bacyekwaho ubwicyanyi bwe.IKigaragaza nuko bose barihanze yumujyi mujyihe icyaha cyakorwaga ",Mushiki wa Jon Benet Ramsey's numwere kuko afite amutangira ubuhamya ko amarorerwa yakozwe yasohotse mumujyi,neutral
+"Abapolisi bemejeko, muruna wa Joh Benet Ramsey na mushikiwe, bacyekwaho ubwicyanyi bwe.IKigaragaza nuko bose barihanze yumujyi mujyihe icyaha cyakorwaga ",Hari ibimenyetso bihagije byogufata  murumuna wa Joh Benet Ramsey's nkumwicyanyi.,contradiction
+Ntabwo ubizineza uruhande rwuwo ushigikiye ,N'ibigaragarira buri wese uwo ushigikiye ,contradiction
+Ntabwo ubizineza uruhande rwuwo ushigikiye ,ntabwo tuzi uwo ushigikiye mumatora ,neutral
+Ntabwo ubizineza uruhande rwuwo ushigikiye ,Ntabwo tuzi uwo ushigikiye ,entailment
+"umunsi umwe , iritera mbere rijyezweho kandi rishimishije rizatabwa nkamatara yumuriro. ",Iterambere rirarambirana nyuma yigihe ,entailment
+"umunsi umwe , iritera mbere rijyezweho kandi rishimishije rizatabwa nkamatara yumuriro. ",Iterambere rirashimisha ,contradiction
+"umunsi umwe , iritera mbere rijyezweho kandi rishimishije rizatabwa nkamatara yumuriro. ",Itera mbere rirarambirana iyo udakomeje kurihindura ,neutral
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,Ntabwo aribyo gukoresha ubundi buryo bwoguhinduranya ,entailment
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,"Biremewe gusimbuza , guhundaza no guhinduranya ",contradiction
+Ubundi buryo ntibugomba gukoreshwa  guhinduranya ,Abantu benshi ntabwo bazi gukoresha ubundi buryo no kubuhinduranya ,neutral
+"Mugihe yajyiraga imyaka mirongwitandatu, muri 1895, Skeat yerekanye ibimenyetsoko yaratangiye kutangira icyo yitaho. ","Ubwo Skeat yajyeraga mumyaka mirongwi tandatu, yerekanye ibimenyetso ko ntacyo yatekerezagaho. ",contradiction
+"Mugihe yajyiraga imyaka mirongwitandatu, muri 1895, Skeat yerekanye ibimenyetsoko yaratangiye kutangira icyo yitaho. ","Ubwo Skeat yari amaze gukura, ibibazo ntabwo yabihaye agaciro kuko ntamaraga mutima yabijyiranye",entailment
+"Mugihe yajyiraga imyaka mirongwitandatu, muri 1895, Skeat yerekanye ibimenyetsoko yaratangiye kutangira icyo yitaho. ",Skeat yatangiye kwita kubindi bintu amaze gukura,neutral
+Ariko nubwakabiri  yisanze  hagati yinshuti ebyiri,"Ntabwo azi nuruhe ruhande , rwogutoramo hagati yinshutize ebyiri",neutral
+Ariko nubwakabiri  yisanze  hagati yinshuti ebyiri,"Afite umuhuza umwe gusa, wakoresheje inshutiye. ",contradiction
+Ariko nubwakabiri  yisanze  hagati yinshuti ebyiri,"Inshyuro ya kabiri , umuhuzi yakoresheje abantu batatu",entailment
+"niki ukunda cyane, imibare cyangwa siyanse ?",Ugira ihitamo ryimibare cyangwa siyanse ?,entailment
+"niki ukunda cyane, imibare cyangwa siyanse ?","Niki waga cyane , icyongereza cyangwa filozofiya ?",contradiction
+"niki ukunda cyane, imibare cyangwa siyanse ?",ushobora gukunda ibindi bintu usibye imibare na siyansi,neutral
+"Mubihe biza no mwiterambere , telephone zose zidafite radio zizahindurwa  telephone zinsinga ",telephone zitari izaradiyo bizahinduka ari telephone zitsinga,entailment
+"Mubihe biza no mwiterambere , telephone zose zidafite radio zizahindurwa  telephone zinsinga ",telephone zizahinduka bijyanye niterambere,neutral
+"Mubihe biza no mwiterambere , telephone zose zidafite radio zizahindurwa  telephone zinsinga ",telephone zitsinga ziramenyerewe cyane kurusha telephone zitariziradiyo,contradiction
+urwandiko rwanyuma twizereko utatanze iyinyandiko ahandi hanu,Dufate ko utahaye iyinyandiko undi muntu uwo ariwe wese. ,entailment
+urwandiko rwanyuma twizereko utatanze iyinyandiko ahandi hanu,"Turabiziko, mbere wariwasohoye iyi nyandiko mubinyamakuru bitano",contradiction
+urwandiko rwanyuma twizereko utatanze iyinyandiko ahandi hanu,"Turifuzako wadusinyira  wemezako , aritwe twenyine wahaye iyi nyandiko",neutral
+Umuhungu mwiza-iki kivugo gikoreshwa cyane ugisanga muri Julius caesar ,"muri julius Caesar , ijambo umuhungu mwiza ryarakoreshejwe",entailment
+Umuhungu mwiza-iki kivugo gikoreshwa cyane ugisanga muri Julius caesar ,ijambo umuhungu mwiza ryakoreshejwe guhera mukinyejana cya makumyabiri,contradiction
+Umuhungu mwiza-iki kivugo gikoreshwa cyane ugisanga muri Julius caesar ,ijambo umuhungu mwiza rikoreshwa kuri muramu wawe,neutral
+"Niba ari uko, barakururwa no kugura iyi nteguro ifite amapage  55 yamagambo, ibisobanuro n'imyivugo bitasohowe ubushize. ",iki gitabo gifite amagambo mashya atariyarasohowe mbere ,entailment
+"Niba ari uko, barakururwa no kugura iyi nteguro ifite amapage  55 yamagambo, ibisobanuro n'imyivugo bitasohowe ubushize. ",Iyi nteguro nimwe nkiyubushize,contradiction
+"Niba ari uko, barakururwa no kugura iyi nteguro ifite amapage  55 yamagambo, ibisobanuro n'imyivugo bitasohowe ubushize. ",iyi nteguro yagurishijwe inshuro zikubye ibihumbi magana tanu  mu mwaka wayo wambere.,neutral
+"Ntabwo twashimishijwe nuko byasaga ariko twabiriye ntamususu, ariko twarushijeho gukomeza umurava twaridufite , hamwe na mata yaba mama",Buriwese yitanze kurya ibiryo bahawe kandi banavugako byabibukije ibiryo bakunda kurya bari mubiruhuko,contradiction
+"Ntabwo twashimishijwe nuko byasaga ariko twabiriye ntamususu, ariko twarushijeho gukomeza umurava twaridufite , hamwe na mata yaba mama",Twiyunvisemo agahato kurya ibyo twahawe kuko ntitwashatse kubabaza abadutumiye,neutral
+"Ntabwo twashimishijwe nuko byasaga ariko twabiriye ntamususu, ariko twarushijeho gukomeza umurava twaridufite , hamwe na mata yaba mama","Ntabwo twashizeho umuhate kurya ibyo twahawe, nubwo rwose tutishimiye uko byasaga ",entailment
+Abato nabafite imyaka ingahe ?,Ndabizi neza uko abato bangana ,contradiction
+Abato nabafite imyaka ingahe ?,ubuto  nigice abantu bagira ikibazo kumenye bajyendeye kumyaka,entailment
+Abato nabafite imyaka ingahe ?,Abato bose bari munsi yimyaka makumyabiri nitano.,neutral
+"Nubwo imyunvire yabo kubihe ari muzunguruko,  kubahiriza ibihe bihita ntabwo babiha agaciro nko kwishimira kugaruka kwibihe byimboneka rimwe.","kuko imyunvire yabo kubihe iri kumurongo, ibihe bahita babiha agaciro kurusha iminsi mikuru yibihe bijyenda bigaruka ",contradiction
+"Nubwo imyunvire yabo kubihe ari muzunguruko,  kubahiriza ibihe bihita ntabwo babiha agaciro nko kwishimira kugaruka kwibihe byimboneka rimwe.","Kuko babona igihe ari umuzenguruko, iminsi mikuru yibihe bijyenda bigaruka nagaciro kuribo.",entailment
+"Nubwo imyunvire yabo kubihe ari muzunguruko,  kubahiriza ibihe bihita ntabwo babiha agaciro nko kwishimira kugaruka kwibihe byimboneka rimwe.",Bubahiriza imisi mikuru yibihe kuko bemerako igihe ari muzunguruko. ,neutral
+"Nkurujyero, bamwe bafite inkomoko yavanywe mubikoresho bikoreshwa cyagwa mukibuga aho umukino icyinirwa. ",imikino yose yitwa ukurikije ibikoresho bikoreshwa muri uwo mukino,contradiction
+"Nkurujyero, bamwe bafite inkomoko yavanywe mubikoresho bikoreshwa cyagwa mukibuga aho umukino icyinirwa. ",Hari imikino ititwa amazina hakurikije ibikoresho byayo cyangwa uburyo ikinwa. ,entailment
+"Nkurujyero, bamwe bafite inkomoko yavanywe mubikoresho bikoreshwa cyagwa mukibuga aho umukino icyinirwa. ",ibi biba cyanecyane iyo umukino ukozwe umuntu akoresheje ibikoresho byindi mikino,neutral
+"Nttabwo byoroshye ariko ndikureba ijammbo ryakatwamo kabiri ,uduce dutoya ",nabonye amagambo atatu ya kyibwamo ibice bibiri natkibazo,contradiction
+"Nttabwo byoroshye ariko ndikureba ijammbo ryakatwamo kabiri ,uduce dutoya ",Ntabwo najyize ibihe byoroshye mugushaka ijambo rya cyibwamo kabiri mubice bitoya  ,entailment
+"Nttabwo byoroshye ariko ndikureba ijammbo ryakatwamo kabiri ,uduce dutoya ",naje gukunda ibyindimi nyuma yo gutangira kwiga ibyibanze mumwaka ushize,neutral
+"Ariko ubu busobanuro  mukwitanga bwarasibwe mwisubirwamo , byasize umusomyi ntacyo yiyunguyeho kurusha mbere ",igitabo cyari cyeguriwe kuri nyina wumwanditsi.,neutral
+"Ariko ubu busobanuro  mukwitanga bwarasibwe mwisubirwamo , byasize umusomyi ntacyo yiyunguyeho kurusha mbere ",Isubirwamo ryakusanyije amakuru yose umunsomyi yarakwiriye kumenya ,contradiction
+"Ariko ubu busobanuro  mukwitanga bwarasibwe mwisubirwamo , byasize umusomyi ntacyo yiyunguyeho kurusha mbere ",isubirwamo ryitangazo ntabwo ryibanda kumakuru amwe yingenzi. ,entailment
+"Mumpera y'imyaka yikinyejana cya 19 , hariho cyane ikiganiro gihugiye kwi jambo",Byaje kunvikanaho ko jambo ritari ryemewe mukinyabupfura. ,neutral
+"Mumpera y'imyaka yikinyejana cya 19 , hariho cyane ikiganiro gihugiye kwi jambo",Ijambo yryari ihuriro ryikiganiro imyaka ishize ,entailment
+"Mumpera y'imyaka yikinyejana cya 19 , hariho cyane ikiganiro gihugiye kwi jambo",Ijambo ryaribangiranywe  mbere yikinyejana19.,contradiction

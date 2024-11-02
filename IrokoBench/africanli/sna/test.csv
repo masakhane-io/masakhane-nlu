@@ -1,0 +1,604 @@
+premise,hypothesis,label
+"Hongu, ndakanga ndisingafunge nezvazvo,asi ndainge ndasvotwa, uye, ndokapedzisira ndisisataure naye.",Handisati ndataura naye zvakare.,contradiction
+"Hongu, ndakanga ndisingafunge nezvazvo,asi ndainge ndasvotwa, uye, ndokapedzisira ndisisataure naye.",Ndakange ndakagumbuka zvekuti ndakazoerekana ndotaura naye zvekare.,entailment
+"Hongu, ndakanga ndisingafunge nezvazvo,asi ndainge ndasvotwa, uye, ndokapedzisira ndisisataure naye.",Takava nenhaurirano yakanaka chose.,neutral
+"Vakandiudza kuti, uh, kuti vaizondidanira mumwe munhu wandaizosangana naye zvese zvapera. ",Hapana chandakaudzwa pamusoro pekusangana kwangu nemumwe munhu,contradiction
+"Vakandiudza kuti, uh, kuti vaizondidanira mumwe munhu wandaizosangana naye zvese zvapera. ",Ndakaudzwa kuti ndaizoshevedzerwa mumwe murume kuti tisangane .,entailment
+"Vakandiudza kuti, uh, kuti vaizondidanira mumwe munhu wandaizosangana naye zvese zvapera. ",Murume wacho wakati nonokei kusvika .,neutral
+Pane zvakawanda zvaunogona kutaura nezvazvo pane izvozvo asi ndichazvidarikira .,Ndoda kukudzai zvose zvandoziva pamusoro pazvo!,contradiction
+Pane zvakawanda zvaunogona kutaura nezvazvo pane izvozvo asi ndichazvidarikira .,"Handitaure nezvazvo, kunyangwe paine zvakawanda zvekutaura.",entailment
+Pane zvakawanda zvaunogona kutaura nezvazvo pane izvozvo asi ndichazvidarikira .,Handisi kuzotaura nezvenhoroondo yeguta nekuti pane zvakawandisa nezvekutaura.,neutral
+Nekudaro handinyatsozive kuti nemhaka yei.,Ndine chokwadi kuti nemhaka yei.,contradiction
+Nekudaro handinyatsozive kuti nemhaka yei.,Handizive chikonzero chakaita kuti atame zvikoro.,neutral
+Nekudaro handinyatsozive kuti nemhaka yei.,Handizive kuti sei izvi zvakaitika,entailment
+"Ndini ndoga, ah, ndaigaro shandisa michina yekudzora mwero wekushanda kwemimwe michina yemukamba kanoona mafambiro endege",Handifariri kuva inin ndoga ndinoona zvemichina kudzora mwero wekushanda kwemimwe michina  kano tsvakurudza mafambiro akakodzera muchadenga.,neutral
+"Ndini ndoga, ah, ndaigaro shandisa michina yekudzora mwero wekushanda kwemimwe michina yemukamba kanoona mafambiro endege",Wongororo dzaiitwa mukamba kano tsvakurudza mafambiro akakodzera muchadenga,entailment
+"Ndini ndoga, ah, ndaigaro shandisa michina yekudzora mwero wekushanda kwemimwe michina yemukamba kanoona mafambiro endege",Taingova vashoma vaingorora michina yekudzora mwero wekushanda kwemimwe michina.,contradiction
+"Ini ndiri uh , Chief Master Sergeant, ndiri pamudyandigere, sekutaura kwaRick.",Ini ndichiri kushanda nanhasi,contradiction
+"Ini ndiri uh , Chief Master Sergeant, ndiri pamudyandigere, sekutaura kwaRick.",Ndakainda pamudya ndigere mugore ra2002.,neutral
+"Ini ndiri uh , Chief Master Sergeant, ndiri pamudyandigere, sekutaura kwaRick.",Rick akakuudzai kuti ndave pamudya ndigere,entailment
+"Pane mutarisiro wemari irikungopinda patafura pangu uye, um uh, ndeya ndingi nanhingi  Cutty, ndirozita rake remutengi.",Mutengi anonzi Cutty anoita $10000 pamwedzi,neutral
+"Pane mutarisiro wemari irikungopinda patafura pangu uye, um uh, ndeya ndingi nanhingi  Cutty, ndirozita rake remutengi.",Pane mutengi anonzi Cutty.,entailment
+"Pane mutarisiro wemari irikungopinda patafura pangu uye, um uh, ndeya ndingi nanhingi  Cutty, ndirozita rake remutengi.",Hatina mutengi anonzi Cutty.,contradiction
+Musikana anokwanisa kundibatsira anogara kuzasi kwedhorobha.,Musikana wandinoda kuti andibatsire anogara kure uko.,entailment
+Musikana anokwanisa kundibatsira anogara kuzasi kwedhorobha.,Musikana achandibatsira anogara mamaira mashanu kubva pano .,neutral
+Musikana anokwanisa kundibatsira anogara kuzasi kwedhorobha.,Hakuna munhu anokwanisa kundibatsira .,contradiction
+"Asi vainge vakapatsanurwa mukufunga kuti ndevapi vashandi vekumunda kana kuti vashandi vemumba, zvaive zvakaita sekudero",Vose vakatenderana kuti vainoshanda kuminda .,contradiction
+"Asi vainge vakapatsanurwa mukufunga kuti ndevapi vashandi vekumunda kana kuti vashandi vemumba, zvaive zvakaita sekudero",Havana kukwanisa kutenderana kuti ndiyani mushandi wemumunda uye mushandi wemumba .,entailment
+"Asi vainge vakapatsanurwa mukufunga kuti ndevapi vashandi vekumunda kana kuti vashandi vemumba, zvaive zvakaita sekudero",Havana kukwanisa kutenderana kuti ndiyani afanirwa kushanda mumunda  wedonje uye waizo korobha mumba.,neutral
+"Ndinoreva kuti vaingove, sokuti, vaive nevana vashanu, mumwe pavana ava akafa.",Vana vavo vose vakararama .,contradiction
+"Ndinoreva kuti vaingove, sokuti, vaive nevana vashanu, mumwe pavana ava akafa.",Pavana vashanu mumwe akashaya .,entailment
+"Ndinoreva kuti vaingove, sokuti, vaive nevana vashanu, mumwe pavana ava akafa.",Mwana akashaya akazvarwa ari murwere .,neutral
+"Mukadzi akati yaingova misodzi yaiyerera kubva mumaziso ake uye akabva ati, ndobva azoti Joe akakwira kuuya kuvharanda.",Paakamuudza kuti auye kuvharanda mukadzi aive nemisodzi mumaziso ake.,entailment
+"Mukadzi akati yaingova misodzi yaiyerera kubva mumaziso ake uye akabva ati, ndobva azoti Joe akakwira kuuya kuvharanda.",Mukadzi akapukuta misodzi nekukurumidza paange achangobva kusundidzira Joe kubva pavheranda ,contradiction
+"Mukadzi akati yaingova misodzi yaiyerera kubva mumaziso ake uye akabva ati, ndobva azoti Joe akakwira kuuya kuvharanda.",Mukadzi akafara kuona Joe zvokuti akabva atanga kuchema.,neutral
+"Nyangwe zvazvo ndege yaibvira, asi, yaitsva ichinyungudika nemuchibandi chesimbi yaita kuti mwaranzi ibvinze",Mwaranzi anogona kudzivirirwa panodzivirirwa moto zvakare,neutral
+"Nyangwe zvazvo ndege yaibvira, asi, yaitsva ichinyungudika nemuchibandi chesimbi yaita kuti mwaranzi ibvinze",Mwaranzi aibvinza kubva musimbi apo ndege yatsva,entailment
+"Nyangwe zvazvo ndege yaibvira, asi, yaitsva ichinyungudika nemuchibandi chesimbi yaita kuti mwaranzi ibvinze",Mwaranzi aisabvinza panguva yekupisa kwemoto,contradiction
+Ndini Chief Master Sergeant Clem Francis ari pamudyandigere we US AIR Force,Chief vari pamudyandigere wemauto emuchadenga eUS .,entailment
+Ndini Chief Master Sergeant Clem Francis ari pamudyandigere we US AIR Force,Chief vachangoenda pamudyandigere masvondo mashoma apfuura .,neutral
+Ndini Chief Master Sergeant Clem Francis ari pamudyandigere we US AIR Force,Chief vemauto emuchadenga ekuUS vachangotanga basa ravo  svondo rino .,contradiction
+Zvakasvika pakuti ndege mbiri kana nhatu dzaisvika musvondo rimwe uye handaiziva kwadzinoenda .,Ndege dzinopfuura imwe dzinosvika svondo rimwe nerimwe .,entailment
+Zvakasvika pakuti ndege mbiri kana nhatu dzaisvika musvondo rimwe uye handaiziva kwadzinoenda .,Kuwedzerwa kwendege dzinofamba kunokonzeresa matambudziko.,neutral
+Zvakasvika pakuti ndege mbiri kana nhatu dzaisvika musvondo rimwe uye handaiziva kwadzinoenda .,Hakuna ndege dziri kumbosvika .,contradiction
+"Vakanga vadzidzira basa vakapfeka mbatya dzemhepo yakamanikidzirwa, uye zvikanditorera nguva ndapfeka mbatya dzemhepo. yakamanikidzirwa",Zvinotora mwedzi inosvika mitatu kudzidzira nezvenhumbi dzevatyairi vendege dzekudzivirira kupisisa kana kutonhoresa kana vari kubhururuka .  ,neutral
+"Vakanga vadzidzira basa vakapfeka mbatya dzemhepo yakamanikidzirwa, uye zvikanditorera nguva ndapfeka mbatya dzemhepo. yakamanikidzirwa",Zvinotora nguva kudzidzira nezvenhumbi dzemuchadenga dzinoshandiswa nevatyairi  vendege .,entailment
+"Vakanga vadzidzira basa vakapfeka mbatya dzemhepo yakamanikidzirwa, uye zvikanditorera nguva ndapfeka mbatya dzemhepo. yakamanikidzirwa",Pakupera kwezuva tinogona kunge takudzidzisa mashandisirwe enhumbi dzemuchadenga dzinopfekwa nevatyairi vendege.,contradiction
+Ndinoda kutaura kuti kwakanga kusina njodzi kupinda nechimbambaira nekuti hachaizoputika kunyangwe chairova pasi zvine simba .,Chimbambaira chainge chaparadzwa simba rekuputika nemutyairi wendege .,neutral
+Ndinoda kutaura kuti kwakanga kusina njodzi kupinda nechimbambaira nekuti hachaizoputika kunyangwe chairova pasi zvine simba .,Chimbambaira chainge chisina mukana wekuputika .,entailment
+Ndinoda kutaura kuti kwakanga kusina njodzi kupinda nechimbambaira nekuti hachaizoputika kunyangwe chairova pasi zvine simba .,Pakange pane njodzi huru yekuputika kwechimbambaira.,contradiction
+Ko zvazvinotaridzika chaizvo kuti ndizvo zvandiri kuedza kuita.,Handizive kuti zvinotaridzika sei kwauri .,contradiction
+Ko zvazvinotaridzika chaizvo kuti ndizvo zvandiri kuedza kuita.,"Ndiri kuedza kuita izvi ,zviri pachena .",entailment
+Ko zvazvinotaridzika chaizvo kuti ndizvo zvandiri kuedza kuita.,Ndiri kuedza kupedzisa basa rangu muvhiki rinotevera.,neutral
+"Kunyangwe zvakadaro ,mhuka dzinorasika nguva dzose ,kunyanya mbudzi .",Mbudzi dzaipoya kubva muchirugwi zuva roga roga .,neutral
+"Kunyangwe zvakadaro ,mhuka dzinorasika nguva dzose ,kunyanya mbudzi .",Mbudzi dzaipoya kazhinji .,entailment
+"Kunyangwe zvakadaro ,mhuka dzinorasika nguva dzose ,kunyanya mbudzi .",Mbudzi dzaive dzakachengetedzwa  uye dzakachengeteka .,contradiction
+Mikova yaive yakakiyiwa patakapinda .,Mikova yose yaive yakavhurika .,contradiction
+Mikova yaive yakakiyiwa patakapinda .,Svumbunuro ndisu taive nadzo .,neutral
+Mikova yaive yakakiyiwa patakapinda .,Takapinda mukati kunyangwe zvazvo mikova yaive yakakiiwa .,entailment
+Nekudaro ndakaedza kutora uwandu hwedziripo zve ndoedza kuhutora saizvozvo .,Ndine chivimbo chekuti uwandu hwacho hwese ndihwo hwandinoda kuti izvi zvioneke .,neutral
+Nekudaro ndakaedza kutora uwandu hwedziripo zve ndoedza kuhutora saizvozvo .,Ini handina kana ruzivo rwezvekuita nehuwandu hwega ndapota ndipei ruzivo rwakawanda kuti ndigoona pasina kumira zvakanaka . ,contradiction
+Nekudaro ndakaedza kutora uwandu hwedziripo zve ndoedza kuhutora saizvozvo .,Ndichaverenga ndichashandisa huwandu huripo .,entailment
+uye kazhinji kacho zvinokonzerwa nekuti vana mai vacho vanenge vachitora zvinodhaka .,Madzimai apindwa nezvinodhaka muropa .,neutral
+uye kazhinji kacho zvinokonzerwa nekuti vana mai vacho vanenge vachitora zvinodhaka .,Vana mai havasi pazvirongwa zvekupiwa mishonga kana zvinodhaka .,contradiction
+uye kazhinji kacho zvinokonzerwa nekuti vana mai vacho vanenge vachitora zvinodhaka .,Vana amai vari kutora zvinodhaka,entailment
+Ehe kwakanaka chose kwakuchinaya here.,Ini handina basa nekunaya.,neutral
+Ehe kwakanaka chose kwakuchinaya here.,Kuno kwakanaka uye kuri kunaya.,entailment
+Ehe kwakanaka chose kwakuchinaya here.,Kunobhowa zvikurusei nezuva raramba ropisa.,contradiction
+Hupenyu hwemunhu hwakakosha uye nyangwe uchida kana kusada kubatsira mumwe,Hupenyu hwose hwakakodzera kugadziriswa nekuumbwa pahunhu uye kuwana mukana wechipiri.,neutral
+Hupenyu hwemunhu hwakakosha uye nyangwe uchida kana kusada kubatsira mumwe,Hapana munhu akakodzera kubatsirwa nekuumbwa pahunhu.,contradiction
+Hupenyu hwemunhu hwakakosha uye nyangwe uchida kana kusada kubatsira mumwe,Nyangwezvazvo pane kubatsirwa nekuumbwa pahunhu hupenyu hwaka kodzerawo.,entailment
+Iwe mukomana une dambudziko rewaya ipapo.,Handisati ndawona dambudziko rewaya rakadai,neutral
+Iwe mukomana une dambudziko rewaya ipapo.,Nyaya yewaya handiro dambudziko.,contradiction
+Iwe mukomana une dambudziko rewaya ipapo.,Pane dambudziko rinokonzerwa nekusava newaya dzirimugwara.,entailment
+Zvinoratidza sekuti kunonakidza ehe zvinoshamisa kwandiri kuti vanobvumira zvakawanda.,Handishamisike kuti vaive netsitsi,contradiction
+Zvinoratidza sekuti kunonakidza ehe zvinoshamisa kwandiri kuti vanobvumira zvakawanda.,Ndashamisika kuti vakubvumirai kutora chikafu nezvinwiwa imomo.,neutral
+Zvinoratidza sekuti kunonakidza ehe zvinoshamisa kwandiri kuti vanobvumira zvakawanda.,Ndashamisika nezvavanokwanisa kutiza nazvo vasinga sungwe.,entailment
+oh zvisinei zvisinei vana vangu umwe anemakore makumi maviri nerimwe mumwe makore makumi maviri anemana saka handidaro,Handingadero nekuti vana vangu vadarika makore makumi maviri ekuberekwa.,entailment
+oh zvisinei zvisinei vana vangu umwe anemakore makumi maviri nerimwe mumwe makore makumi maviri anemana saka handidaro,Ndingangodero nekuti nemakore avo ari pedyo nepedyo.,neutral
+oh zvisinei zvisinei vana vangu umwe anemakore makumi maviri nerimwe mumwe makore makumi maviri anemana saka handidaro,Ndinofanira kuita sekudaro nekuti vese vanoti umwe ane makore gumi umwe gumi nerimwe ekuberekwa.,contradiction
+Ehe vanhu vanogona kuva kumabasa cheronguva kana kuita pfungwao dzisina kumira zvakanaka kana vakapiwa simba rekupa pfungwa dzavo.,"Ehe, vanhu vasingagoni kuita pfungwa dzinobatsira padzinodiwa.",entailment
+Ehe vanhu vanogona kuva kumabasa cheronguva kana kuita pfungwao dzisina kumira zvakanaka kana vakapiwa simba rekupa pfungwa dzavo.,"Ehe, vanhu vangave vasina nzara.",neutral
+Ehe vanhu vanogona kuva kumabasa cheronguva kana kuita pfungwao dzisina kumira zvakanaka kana vakapiwa simba rekupa pfungwa dzavo.,"Ehe, vanhu vasina pfungwa dzakaremara.",contradiction
+"Aiwa, vachingori mukushanya sezvo vanongori vashanyi kubvira makore ekupera kwema1960.", Ivo vanga vari vashanyi kubva 1970 asati asvika .,entailment
+"Aiwa, vachingori mukushanya sezvo vanongori vashanyi kubvira makore ekupera kwema1960.",Vanofarira kushanya .,neutral
+"Aiwa, vachingori mukushanya sezvo vanongori vashanyi kubvira makore ekupera kwema1960.",Vachangobva kupedza kushanya kwavo .,contradiction
+Unoita sei aerobics.,Ungatsanangure here maitiro aungaite aerobics?,entailment
+Unoita sei aerobics., Ndinofarira aerobics nekuti ndinoda kusimbisa mwoyo wangu .,neutral
+Unoita sei aerobics.,Ndapota regai kutaura nezveaerobics.,contradiction
+Aiwa izvo zvakanaka ndanga ndisina kumbofunga nezvazvo ., Idzo ipfungwa dzisina maturo dzandakaramba svondo rapera .,contradiction
+Aiwa izvo zvakanaka ndanga ndisina kumbofunga nezvazvo .,Iyo ipfungwa yakanaka .,entailment
+Aiwa izvo zvakanaka ndanga ndisina kumbofunga nezvazvo .,Gangaidzo ramataura ipfungwa yakanaka .,neutral
+Dambanevana mazuva maviri pasvondo vakaatumidza kuti izuva rekuchengetwa kwevagari vechikuru asi mukadzi anoenda kunzvimbo yevagari vechikuru  .,Dambanevana rinovhurwa zuva rega rega kuvana vanemakore ari pasi pemashanu chete .,contradiction
+Dambanevana mazuva maviri pasvondo vakaatumidza kuti izuva rekuchengetwa kwevagari vechikuru asi mukadzi anoenda kunzvimbo yevagari vechikuru  .,Vanovatendera kuenda kanopfuura kaviri pasvondo kana vagari vechikuru vachitenderana nazvo .,neutral
+Dambanevana mazuva maviri pasvondo vakaatumidza kuti izuva rekuchengetwa kwevagari vechikuru asi mukadzi anoenda kunzvimbo yevagari vechikuru  .,Vanoritora sezuva rekuchengetwa kwevagari vechikuru asi inonzi nzvimbo yevagari vechikuru .,entailment
+ Iri ndoraive donzvo ravo oh.,Izvi ndizvo zvavaishingairira.,entailment
+ Iri ndoraive donzvo ravo oh.,Hazvisizvo zvaivamboda.,contradiction
+ Iri ndoraive donzvo ravo oh.,Vakabudirira kuzadzikisa chinangwa chavo.,neutral
+Kugona kubata pfuti zvakanaka kushandisa maoko maviri,Hafu dzepfuti dzinopotsa pakupfura inobva pakushandiswa kweruoko rumwe .,neutral
+Kugona kubata pfuti zvakanaka kushandisa maoko maviri,Nzira yakanaka kuenderera mberi nayo pakudzora pfuti kushandisa makumbo ose.,contradiction
+Kugona kubata pfuti zvakanaka kushandisa maoko maviri,Shandisa maoko ose kana uchidzidzira kudzora pfuti.,entailment
+Uh zvakangouyawo zvichibva kumwe asi handina kuziva kwazvaibva asi,Handizivi kwainobva asi inomhanyisa.,entailment
+Uh zvakangouyawo zvichibva kumwe asi handina kuziva kwazvaibva asi,Inouya ichi mhanyisa asi ndinekakuziva kwainenge ichibva.,neutral
+Uh zvakangouyawo zvichibva kumwe asi handina kuziva kwazvaibva asi,Inouya semasvisvinwa enzimbe uye ndonyatsoziva kuti inouya nguvai,contradiction
+Kwete handinyatsozivi nezvayo handifungi kudaro,Handizive zvakanyanya nezvazvo.,entailment
+Kwete handinyatsozivi nezvayo handifungi kudaro,Handina chandinoziva nezvenyaya dzerudo.,neutral
+Kwete handinyatsozivi nezvayo handifungi kudaro,Ndangandichiverenga nezvazvo kwemakore,contradiction
+Ehe anga ari musikana ane mukurumbira unozviziva,Ndinofunga kuti anozviziva kuti ainakidza,neutral
+Ehe anga ari musikana ane mukurumbira unozviziva,Aiwa aisembura,contradiction
+Ehe anga ari musikana ane mukurumbira unozviziva,Ehe mukadzi ainyatsogona.,entailment
+Ehe akafunga kutsvaka uh um uh chikorobho chokuti ushandise., Murume akakurudzira  kutengwa kwe (vacuum) mutsvairo unoita zvekusveta marara .,contradiction
+Ehe akafunga kutsvaka uh um uh chikorobho chokuti ushandise.,Murume akakurudzira kutsvagwa kwechikorobho.,entailment
+Ehe akafunga kutsvaka uh um uh chikorobho chokuti ushandise.,Murume aida kupukuta ropa nechikorobho.,neutral
+Kuno zvinhu hazvina kumira zvakanaka tichangobva mukupfurwa kwevanhu mumugwagwa mablock matatu kubva pamba pedu .,Kupfuurwa kwakaitika tingati mamaera  zana kubva pandogara .,contradiction
+Kuno zvinhu hazvina kumira zvakanaka tichangobva mukupfurwa kwevanhu mumugwagwa mablock matatu kubva pamba pedu ., Kupfuurwa kwaive pedyo nemba yangu uye kunoita kuti nditye kubuda panze . ,neutral
+Kuno zvinhu hazvina kumira zvakanaka tichangobva mukupfurwa kwevanhu mumugwagwa mablock matatu kubva pamba pedu .," Kwakave nekupfuurwa pedyo nemusha wangu ,hakuna kutombomira zvakanaka munzvimbo muno .",entailment
+uh-huh ndezvechokwadi inochinja chinja.,"Handiwirirani newe, haigaro chinja chinja.",contradiction
+uh-huh ndezvechokwadi inochinja chinja.,Ndinofunga kuti unogona kunge uine chokwadi nezve kuchinja chinja kwacho.,neutral
+uh-huh ndezvechokwadi inochinja chinja.,Unechokwadi nenyaya yekuchinja chinja kwacho.,entailment
+ Ini ndiri kuedza kushingirira kunyangwe zvakaoma .,Ndiri kuedza kushingirira.,entailment
+ Ini ndiri kuedza kushingirira kunyangwe zvakaoma .,Ini zvechokwadi ndiri kuedza nepandogona  .,neutral
+ Ini ndiri kuedza kushingirira kunyangwe zvakaoma .,Ndichazviregera ndorega kufunga zveshure .,contradiction
+Tinowana pokupinda napo mutekinoroji yeramangwana.,Tiri kuvaka zvinodiwa kugadzirira ramangawana retekinoroji.,entailment
+Tinowana pokupinda napo mutekinoroji yeramangwana.,Tinovaka matansistor kuitira ramangwana rifambiswe ne AI.,neutral
+Tinowana pokupinda napo mutekinoroji yeramangwana.,Tinoda kudzivirira kubudirira kwetekinoroji.,contradiction
+"Semuenzaniso, pokupedzisira, majini ose ano chinjakuita pepuru","Pokupedzisira, chikamu chiri pakati nepakati chemajini chino chinja kuita pepuru.",contradiction
+"Semuenzaniso, pokupedzisira, majini ose ano chinjakuita pepuru",Zvinoitika kuti majini achinje ruvara.,entailment
+"Semuenzaniso, pokupedzisira, majini ose ano chinjakuita pepuru",Dzimwe nguva majini kuita ruvara rwe bhuruu,neutral
+ Daniei Yamins inyanzvi yechidiki ine ruzivo rwesvomhu.,VaYamins inyanzvi pasvomhu.,entailment
+ Daniei Yamins inyanzvi yechidiki ine ruzivo rwesvomhu.,Chinangwa chava Yamins ialgebraic geometry.,neutral
+ Daniei Yamins inyanzvi yechidiki ine ruzivo rwesvomhu.,VaYamins inyanzvi mukuimba asi havagone zvachose svomhu .,contradiction
+" Kana zvakaita saizvozvo ,vanowanzonge vari pedyo nemuganhu here.",Ini ndinoziva havafambe vari pedyo nemuganhu.,contradiction
+" Kana zvakaita saizvozvo ,vanowanzonge vari pedyo nemuganhu here."," Ndinoda kuziva ,vanowanzonge vari muEngland?",neutral
+" Kana zvakaita saizvozvo ,vanowanzonge vari pedyo nemuganhu here.", Mutauri aida kujekeserwa kuti rungani rwavanoenda pedyo nemuganhu.,entailment
+Ndinofunga kuti pane zano rema mamolecular rinoti bioshere igaro zvigadziridza mumararamiro ayo mukuzvisumudzira mukugara nekugara,Biosphere inochinja zvikuru.,entailment
+Ndinofunga kuti pane zano rema mamolecular rinoti bioshere igaro zvigadziridza mumararamiro ayo mukuzvisumudzira mukugara nekugara,Biosphere inochinja nemamiriro ekupisa kana kutonhora.,neutral
+Ndinofunga kuti pane zano rema mamolecular rinoti bioshere igaro zvigadziridza mumararamiro ayo mukuzvisumudzira mukugara nekugara,Biosphere haimbochinji.,contradiction
+"Nekusvetuka uku, makirisitaru enguva dzose haagoni kuita ruzivo rwakawanda.",MaKirisitari enguva dzose midziyo inochengetedza ruzivo rwakawanda.,contradiction
+"Nekusvetuka uku, makirisitaru enguva dzose haagoni kuita ruzivo rwakawanda.",Makirisitari enguva dzose midziyo isingashandisike kuchengetedza ruzivo. ,entailment
+"Nekusvetuka uku, makirisitaru enguva dzose haagoni kuita ruzivo rwakawanda.",Kune mamwe marudzi emakirisitari akakoshesesa mukuchengetedza ruzivo rwezvimiro zvepasi rino ichishandisa miseve ye Laser,neutral
+"Naizvozvo, vanhu vakuru havagoni kudzidzisa vana vaduku vachinyepedzera, sezvanoisiita kana vachivabatsira kunzwisisa dambanemazwi kana mamwe mabasa anoenderana.",Vana vasati voinda kuchikoro vakazvarwa vachigona kugadzirisa dambanemazwi pane kutamba mitambo yekutevedzera,contradiction
+"Naizvozvo, vanhu vakuru havagoni kudzidzisa vana vaduku vachinyepedzera, sezvanoisiita kana vachivabatsira kunzwisisa dambanemazwi kana mamwe mabasa anoenderana.",Vana vasati voinda kuchikoro havadi rubatsiro rwakanyanya pakudzidzira zvekunyepedzera.,entailment
+"Naizvozvo, vanhu vakuru havagoni kudzidzisa vana vaduku vachinyepedzera, sezvanoisiita kana vachivabatsira kunzwisisa dambanemazwi kana mamwe mabasa anoenderana.",Vana vasati voinda kuchikoro vanoshaya unyanzvi hokutevedzera madambanemazwi vari vega.,neutral
+[Nyika ino] yakazvarwa murusununguko nemukuzvipira kuti vanhu vese vakazvarwa vakafanana.,Zvinyorwa pamusoro pechirevo ichi akanyorwa mumagwaro akawanda aitevera.,neutral
+[Nyika ino] yakazvarwa murusununguko nemukuzvipira kuti vanhu vese vakazvarwa vakafanana.,Vamwe vanhu vaitenda kuti vanhu vese vakaenzana . ,entailment
+[Nyika ino] yakazvarwa murusununguko nemukuzvipira kuti vanhu vese vakazvarwa vakafanana., Nyika ino yakavambwa padzidziso yokuti vamwe vanhu vanozvarwa varinani kupfuura vamwe.,contradiction
+Ndinofanira kumurumbidza zvakanyanya here?, Ndine chokwadi chekuti ndinoda kumurova nekuda kwekukanganisa kwake.,contradiction
+Ndinofanira kumurumbidza zvakanyanya here?, Ndiri kufunga kana achida kuvongwa zvakanyanya kubva kwandiri,entailment
+Ndinofanira kumurumbidza zvakanyanya here?, Ndinofanirwa kumurumbidza zvakanyanya here nemurudziro waaita piano? ,neutral
+Dzidziso yemaSpin network inogona inogadzirwa mumativi akasiyana.,Mamwe mativi anogona kushandiswa kuvaka dzidziso yemaSpin Network.,entailment
+Dzidziso yemaSpin network inogona inogadzirwa mumativi akasiyana.,MaSpin networks anoshandiswa zvikuru mumatekinoroji ekuchengetedzwa kweruzivo.,neutral
+Dzidziso yemaSpin network inogona inogadzirwa mumativi akasiyana.,MaSpin networks haagoni kufungwa nezvawo mumativi akasiyana.,contradiction
+"(achimhanya mhanya) Kwete, kwete, handidi kuti ufe!",Handidi kuti ufe!,entailment
+"(achimhanya mhanya) Kwete, kwete, handidi kuti ufe!",Handina hanya kana ukafa!,contradiction
+"(achimhanya mhanya) Kwete, kwete, handidi kuti ufe!",Ndingashatirwe kana iwe ukafa!,neutral
+"Akasungirirwa pachena musi wa 19 Kurume, gore ra1875, ku San Jose, muCalifonia.",California yakanga ichitendera kuurayiwa kwevanhu pajekerer kubva  muna 1875.,entailment
+"Akasungirirwa pachena musi wa 19 Kurume, gore ra1875, ku San Jose, muCalifonia.",Akaregererwa zvaaipomerwa kuita akabva aendeswa kwake.,contradiction
+"Akasungirirwa pachena musi wa 19 Kurume, gore ra1875, ku San Jose, muCalifonia.",Aka sungurirwa pamusoro urira vanhu kuti vapandukire vatongi nekuba mahachi.,neutral
+"Mumhirizhonga yehutongi, gungwa rakasvibira rinoonekwa.",Gungwa rainge rakadzika nekusvibira uye yakatsetseka kunge magirazi,contradiction
+"Mumhirizhonga yehutongi, gungwa rakasvibira rinoonekwa.",Gungwa rainge rakazara nehove diki dzaiungana pachikepe,neutral
+"Mumhirizhonga yehutongi, gungwa rakasvibira rinoonekwa.",Gungwa raive riri girinhi uye richiratidzika kufashukira,entailment
+Mutemo mutsva wainge urikuda kushandiswa kubva mukutambudzwa kwekuma 1860.,Pakazosvika makore ekuma 1870 mitemo yose yakanga isingachashandi nenyika yakanga isingachatongeki.,contradiction
+Mutemo mutsva wainge urikuda kushandiswa kubva mukutambudzwa kwekuma 1860.,Yaive nguva yairwadza yekuma 1860.,entailment
+Mutemo mutsva wainge urikuda kushandiswa kubva mukutambudzwa kwekuma 1860.,Mutemo mutsva waida kuwedzera kodzero dzevashandi.,neutral
+"Kumwe kufunga kwepamusoro, akataura, kunotanga kubuda mumataurirano evanhu, pakati pemwana nevanomumirira murudzi rwake panoitwa mubatanidzwa webasa.",Vana vadiki havagoni kupa mafungiro epamusoro.,contradiction
+"Kumwe kufunga kwepamusoro, akataura, kunotanga kubuda mumataurirano evanhu, pakati pemwana nevanomumirira murudzi rwake panoitwa mubatanidzwa webasa.",Kuredza hove ndicho chezvinhu chinhu chinembiri chinowanikwa mundudzi dzevanhu dzakasiyana siyana.,neutral
+"Kumwe kufunga kwepamusoro, akataura, kunotanga kubuda mumataurirano evanhu, pakati pemwana nevanomumirira murudzi rwake panoitwa mubatanidzwa webasa.",Kupanana zviitwa dzimwe nguva zvinobatsira kupanana kufunga kwakakwirira.,entailment
+"Dzimwe nharaunda dzaive nemarezadores kana kuti rezadoras, vari vakuru vechitendero vaitungamirira minamato pandufu kana pamabiko ekupemberera zuva resaints nepese mupirisita paanenge asipo.",Hapana nharaunda yakanga ine vatugamiriri vechitendero vakanga vasiri mapirisita.,contradiction
+"Dzimwe nharaunda dzaive nemarezadores kana kuti rezadoras, vari vakuru vechitendero vaitungamirira minamato pandufu kana pamabiko ekupemberera zuva resaints nepese mupirisita paanenge asipo.",Dzimwe nharaunda dzanga dzine vatungamiriri vechitendero vanga vasiri mapirisita.,entailment
+"Dzimwe nharaunda dzaive nemarezadores kana kuti rezadoras, vari vakuru vechitendero vaitungamirira minamato pandufu kana pamabiko ekupemberera zuva resaints nepese mupirisita paanenge asipo.",Vamwe vatungamiriri vechitendero vaive nevhudzi dema.,neutral
+"Mumitambo inoitwa nevanhu futi, pane mukana wokutamba kana kubatanidza mashandirwo zvichibatsira vana kunzwisisa kufananana nekusiyana kwevanhu munezvavanoda, mafungiro, kana kunzwa.",Vana vadiki vanogona dzidza kufanana kana kusiyana kwevanhu.,entailment
+"Mumitambo inoitwa nevanhu futi, pane mukana wokutamba kana kubatanidza mashandirwo zvichibatsira vana kunzwisisa kufananana nekusiyana kwevanhu munezvavanoda, mafungiro, kana kunzwa.",Vana vadiki vanoona kusiyana kwemarudzi evanhu.,neutral
+"Mumitambo inoitwa nevanhu futi, pane mukana wokutamba kana kubatanidza mashandirwo zvichibatsira vana kunzwisisa kufananana nekusiyana kwevanhu munezvavanoda, mafungiro, kana kunzwa.",Vana vadiki hapana chavanodzidza.,contradiction
+"Tsika yakanaka yepamusoro mukupera kwehondo yekuGerman mubumbiro remutemo, ipapo, yaive pachokwadi honzero yekuwa kuweumatongero eNazi.",Hutongi hweNazi hwaizvitendera.,contradiction
+"Tsika yakanaka yepamusoro mukupera kwehondo yekuGerman mubumbiro remutemo, ipapo, yaive pachokwadi honzero yekuwa kuweumatongero eNazi.",Hutongi hweNazi hwakauraya munhu wose akanga atora chikamu.,neutral
+"Tsika yakanaka yepamusoro mukupera kwehondo yekuGerman mubumbiro remutemo, ipapo, yaive pachokwadi honzero yekuwa kuweumatongero eNazi.",Hutongi hweNazi hwakazvimisa.,entailment
+Sonja akatanga kutevedzera mawanasikana wake kuputika kusingadzoreki kwehasha.,Hapana  munhu kuputika kusingadzoreki kwehasha.,contradiction
+Sonja akatanga kutevedzera mawanasikana wake kuputika kusingadzoreki kwehasha.,Sonja mwana .,entailment
+Sonja akatanga kutevedzera mawanasikana wake kuputika kusingadzoreki kwehasha.,Sonja akange akagumbuka .,neutral
+"Mumakore matanhatu pa makore makumi mashanu aka konzera kurwa pachavo, Dare raisango shandisa mutemo uyu.",Dare raiwanzo shandisa simbararo iri mumakumi emakore zvizovasvitsa mukurwisana pachavo.,entailment
+"Mumakore matanhatu pa makore makumi mashanu aka konzera kurwa pachavo, Dare raisango shandisa mutemo uyu.",Dare rakashandisa masimba aya kanokwana runa mumakore makumi mashanu nemashanu zvizovasvitsa mukurwisana pachavo.,neutral
+"Mumakore matanhatu pa makore makumi mashanu aka konzera kurwa pachavo, Dare raisango shandisa mutemo uyu.",Dare rakashandisa masimba aya kanokwana mamiriyoni mashanu zvizovasvitsa mukurwisana pachavo.,contradiction
+" Ndinokuvimbisai, vakuru, kuti ndakaudzwa zvizere nezvazvo.", Ndiri kukutaurirai kuti ndakapiwa ruzivo pamusoro pezvose.,entailment
+" Ndinokuvimbisai, vakuru, kuti ndakaudzwa zvizere nezvazvo.",Rufu rwemutikitivha rwandakaudzwa nezvarwo .,neutral
+" Ndinokuvimbisai, vakuru, kuti ndakaudzwa zvizere nezvazvo.",Pane zvitaurwa zvakawanda izvo ndakavanzirwa.,contradiction
+Mutinhimira wakakanganisa Captain Blood mumafungiro akadzama ekusagutsikana.,Captain Blood vakakwanisa kufunga nezvekusagutsikana kwavo pasina anovakanganisa.,contradiction
+Mutinhimira wakakanganisa Captain Blood mumafungiro akadzama ekusagutsikana.,Pfungwa dzaCaptain Blood dzakakanganiswa nemhere mhere .,entailment
+Mutinhimira wakakanganisa Captain Blood mumafungiro akadzama ekusagutsikana.,Kuchema kwekambwanana kwakasimudza Captain kubva mukudzeya kwawavaita.,neutral
+"Asi handikanganwi kuti pandakanga ndichishandiswa semuranda mumba masekuru vako kuBarbados vaindishandisa neimwe nzira murudo,",Makandibata zvakanaka pandaive muhuranda kuBarbados. ,entailment
+"Asi handikanganwi kuti pandakanga ndichishandiswa semuranda mumba masekuru vako kuBarbados vaindishandisa neimwe nzira murudo,",Wakaita utsinye hwakanyanya kwandiri uye wakandibata setsvina.,contradiction
+"Asi handikanganwi kuti pandakanga ndichishandiswa semuranda mumba masekuru vako kuBarbados vaindishandisa neimwe nzira murudo,",Sekuru vako vaindirova zvikuru pavaive tenzi wangu .,neutral
+"Apo, hapasviki mamaira matatu kubva pano,ndopaive nenyika -chidziro chisina kuinzana cheruvara rwegirinhi chaizadza kurutivi rwekumaviirira.",Nyika ineuswa nemiti yakanga yowoneka mberi.,entailment
+"Apo, hapasviki mamaira matatu kubva pano,ndopaive nenyika -chidziro chisina kuinzana cheruvara rwegirinhi chaizadza kurutivi rwekumaviirira.",Chitsuwa chavaive vosvika chaive chisina anogara .,neutral
+"Apo, hapasviki mamaira matatu kubva pano,ndopaive nenyika -chidziro chisina kuinzana cheruvara rwegirinhi chaizadza kurutivi rwekumaviirira.","Havana kukwanisa kuona kana nyika kwemamaira akati kuti, richingove zienda nakuenda regungwa chete.",contradiction
+"Ndiri mutumwa wamambo kunzvimbo dzino dzakashata, uye nehama dzepadyo dzaMambo wangu Sunderland.","Mambo vangu vane vatumwa, uye ini ndirimumwe wavo.",entailment
+"Ndiri mutumwa wamambo kunzvimbo dzino dzakashata, uye nehama dzepadyo dzaMambo wangu Sunderland.",Mambo vangu vakandituma kuno ndingati svondo rapfuura.,neutral
+"Ndiri mutumwa wamambo kunzvimbo dzino dzakashata, uye nehama dzepadyo dzaMambo wangu Sunderland.",Handitore mirairo kubva kuna Mambo wangu.,contradiction
+"Ndanga ndine chikwereti newe-kana kuti ndaifunga sekudaro, akataura.",Aisambofunga kuti  anechikwereti newe.,contradiction
+"Ndanga ndine chikwereti newe-kana kuti ndaifunga sekudaro, akataura.",Aiava anechikwereti newe cherubatsiro rwawakamupa paakange ari mupemhi asina kana kobiri zvaro.,neutral
+"Ndanga ndine chikwereti newe-kana kuti ndaifunga sekudaro, akataura.",Aifunga kuti ane chikwereti newe.,entailment
+Ndingadai ndakaziva pane kuuya pedyo pedyo neJamaica husiku.,Ndakaenda pedyo nekuJamaica zuva raive ratodoka kare.,entailment
+Ndingadai ndakaziva pane kuuya pedyo pedyo neJamaica husiku.,Ndakaenda kuJamaica ndiri mungarava huru .,neutral
+Ndingadai ndakaziva pane kuuya pedyo pedyo neJamaica husiku.,Mudzimai wangu neni takasvika muJamaica zuva rakacheka nyika .,contradiction
+Pfungwa dzwa Blood dzaive pamusoro pezvizvi nezvimwewo zvinhu paakanga arara pamubhedha,Blood haana kurota hope dzinepfungwa paive akarara pamubhedha.,contradiction
+Pfungwa dzwa Blood dzaive pamusoro pezvizvi nezvimwewo zvinhu paakanga arara pamubhedha,Blood aifunga zvakadzama akarara.,entailment
+Pfungwa dzwa Blood dzaive pamusoro pezvizvi nezvimwewo zvinhu paakanga arara pamubhedha,Blood akanga achifungisisa nezvezuva raakapedzisira kuona mai vake.,neutral
+"Chokwadi, ndichamuudza.","Zvakanaka hazvo, ndichakuudza nezvazvo.",entailment
+"Chokwadi, ndichamuudza.",Handitombotaure kana shoko kwauri.,contradiction
+"Chokwadi, ndichamuudza.",Ndirikukuudza chete nekuti wakavimbisa kusazodzokorodza izvi. ,neutral
+Ah! Kuti chingaita chii?,Mumwe arikubvunza nzira yokuenda nayo.,entailment
+Ah! Kuti chingaita chii?,Anobvunza ariega uye haana wokutaura naye.,contradiction
+Ah! Kuti chingaita chii?,Anobvunza ari kumhanya mhanya uye anoda kuziva nzira yokutora izvozvi.,neutral
+Handipe murairo wamabo zvirinyore.,Kungopa murairo waMambo hazvizi mutsika dzangu.,neutral
+Handipe murairo wamabo zvirinyore.,Ndapa pfungwa dzakadzama kumurairo waMambo.,entailment
+Handipe murairo wamabo zvirinyore.,Ndaka sayina chibvumirano chokupa murairo wamambo pasina kufunga kaviri.,contradiction
+Akazviona kuti angango dzokera mumasure nekukurumidza.,Akazviona kuti aive nezuva rose rokudzokera mumasure.,contradiction
+Akazviona kuti angango dzokera mumasure nekukurumidza.,Akazviona kuti aifanira kufunga nekurumidza.,entailment
+Akazviona kuti angango dzokera mumasure nekukurumidza.,"Dai akagara panzvimbo imwechete, aizowanikwa.",neutral
+"Huye  angoramba ari zvaaive ne kuita zvaaita mumakore matatu apfuura, akadero musikana, asi  akazvitaura achinzwisa urombo panguva ino, asisina kusvora kwaaimbenge achiita",Akanga asingafariri kuti murume akanga auraya varume vakawanda muma makore matatu apfuura.,neutral
+"Huye  angoramba ari zvaaive ne kuita zvaaita mumakore matatu apfuura, akadero musikana, asi  akazvitaura achinzwisa urombo panguva ino, asisina kusvora kwaaimbenge achiita",Akataura achifarira ushingi nehunhu hwemurume.,contradiction
+"Huye  angoramba ari zvaaive ne kuita zvaaita mumakore matatu apfuura, akadero musikana, asi  akazvitaura achinzwisa urombo panguva ino, asisina kusvora kwaaimbenge achiita",Akautura nemazwi ekusuruvara.,entailment
+Ndinofunga kuti zvaive nechekuita nemapfekeroako ake.,Ndinofunngira kuti ndizvo zvinoita vamwe vakafanana newe.,entailment
+Ndinofunga kuti zvaive nechekuita nemapfekeroako ake.,"Ndakaverenga nezve vakafanana newe, netsika dzavo.",neutral
+Ndinofunga kuti zvaive nechekuita nemapfekeroako ake.,Ndozvitora kuti hazvisi zvakajairika pane vakafanana newe.,contradiction
+Kufinyama kwakaunyanisa mhanza yake.,Kunyemwerera kukuru kwakazadza chiso chake,contradiction
+Kufinyama kwakaunyanisa mhanza yake.,Musikana akanzwa marwadzo mudumbu make.,neutral
+Kufinyama kwakaunyanisa mhanza yake.,Pameso pake paive pakafinyama.,entailment
+"Musikana akanga achimutarisa nemaziso anopenya, asi paakaona chiso chakasuruvara, nekuunyana kwemhanza kwakanyanya akabva ashandura chiso chake.",Chiso chake chakashanduka paakaona chiso chemurume.,entailment
+"Musikana akanga achimutarisa nemaziso anopenya, asi paakaona chiso chakasuruvara, nekuunyana kwemhanza kwakanyanya akabva ashandura chiso chake.",Chiso chemusikana chaka jeka paakaona kufinyama kwechiso chemurume.,contradiction
+"Musikana akanga achimutarisa nemaziso anopenya, asi paakaona chiso chakasuruvara, nekuunyana kwemhanza kwakanyanya akabva ashandura chiso chake.",Musikana aisaziva kana murume anga akamutsamwira.,neutral
+"Akafamba sembozha, achitevedza madziro akavakwa munguva yehondo, uye ndokupfuura nepamikova mikuru achipinda muchivanze.","Sezvo mikova mikuru yainge yakakiyiwa, akasvetuka waya achipinda muchivanze",contradiction
+"Akafamba sembozha, achitevedza madziro akavakwa munguva yehondo, uye ndokupfuura nepamikova mikuru achipinda muchivanze.",Mikova mikuro ndiyo yaiva yoga yokupinda nayo muchivanze.,neutral
+"Akafamba sembozha, achitevedza madziro akavakwa munguva yehondo, uye ndokupfuura nepamikova mikuru achipinda muchivanze.",Paive nemikova mikuru yaipinda muchivanze.,entailment
+"Unoindiswa mukufa, pasina mubvunzo, akataura achizvidza.",Akafunga kuti mumwe munhu achanourayiwa.,entailment
+"Unoindiswa mukufa, pasina mubvunzo, akataura achizvidza.",Akanga  ari sherifi akanga abata mbavha.,neutral
+"Unoindiswa mukufa, pasina mubvunzo, akataura achizvidza.",Akazevezera nzira  yokutiza nayo munyika kuti usapinde mujeri.,contradiction
+"Ndaizviitasei pachokwadi kuti ndivasunge, zvanga zviri mukutaurirana",Handaigona kuuya kuzovavharira mujeri,entailment
+"Ndaizviitasei pachokwadi kuti ndivasunge, zvanga zviri mukutaurirana",Ndakavasunga pandakangovaona.,contradiction
+"Ndaizviitasei pachokwadi kuti ndivasunge, zvanga zviri mukutaurirana",Handaizviregerera dai ndakavasunga.,neutral
+Ndanga ndichimutsvaka gore rose rapfuura.,Ndanga ndichimuteverera padhuze naye kwegore rose iye asinga zvizive.,neutral
+Ndanga ndichimutsvaka gore rose rapfuura.,Ndanga ndichimuteverera chete kuda kusvika kupera kwesvondo,contradiction
+Ndanga ndichimutsvaka gore rose rapfuura.,Mukufamba kwegore rapfuura ndanga ndichimuteverera.,entailment
+Miziyamu haina kusimba pama katarogu kana pakunyora mazita.,Miziyamu haidi kupiwa mazita.,neutral
+Miziyamu haina kusimba pama katarogu kana pakunyora mazita.,Miziyamu haifariri tubhuku twokushambadza,entailment
+Miziyamu haina kusimba pama katarogu kana pakunyora mazita.,Nzvimbo yakasimba muMiziyamu mabhuku aneondedzero yakazara yezvinhu.,contradiction
+Misika yeku Beijing ndiyo yedzimwe nzvimbo dziinonakidza kutenga zvinhu kupfura kumwe.,Beijing ine misika ine zvitoro zvinonakidza.,entailment
+Misika yeku Beijing ndiyo yedzimwe nzvimbo dziinonakidza kutenga zvinhu kupfura kumwe.,Misika yeku Beijing ndiyo yedzimwe nzvimbo dziinonakidza pasi rino rese.,neutral
+Misika yeku Beijing ndiyo yedzimwe nzvimbo dziinonakidza kutenga zvinhu kupfura kumwe.,Mitemo yakaoma yakagadzwa kuBeijing inorambidza misika kuva mudhorobha.,contradiction
+"Bheyi rakakurisa kumhenderekedzo yegungwakuri kuchambembe kwakadziva kumavirira kunoita nzvimbo yakanaka inomira ngarava, asi mvura nemhenderekedzo yegungwa zvinogona  kunge zvakasviba",Mvura nema hombekombe zvinogara zvakachena,contradiction
+"Bheyi rakakurisa kumhenderekedzo yegungwakuri kuchambembe kwakadziva kumavirira kunoita nzvimbo yakanaka inomira ngarava, asi mvura nemhenderekedzo yegungwa zvinogona  kunge zvakasviba",Mvura nemahombekombe zvogona kunge zviine tsvina.,entailment
+"Bheyi rakakurisa kumhenderekedzo yegungwakuri kuchambembe kwakadziva kumavirira kunoita nzvimbo yakanaka inomira ngarava, asi mvura nemhenderekedzo yegungwa zvinogona  kunge zvakasviba",Mvura yakasviba nepamusana pokurasirwa marara.,neutral
+"Idzo nhurikidzwa dzedzimba mabhanga, ne mugwagwa wadzakavakirwa wakatumidzwa zita remadunhurirwa rokuti Milla de Oro kana kuti Golden Mile",Hapana nhurikidzwa dzedzimba dziri muna Golden Mile dziri maBhanga.,contradiction
+"Idzo nhurikidzwa dzedzimba mabhanga, ne mugwagwa wadzakavakirwa wakatumidzwa zita remadunhurirwa rokuti Milla de Oro kana kuti Golden Mile",Nhurikidzwa dzedzimba dziri muGolden Mile maBhanga.,entailment
+"Idzo nhurikidzwa dzedzimba mabhanga, ne mugwagwa wadzakavakirwa wakatumidzwa zita remadunhurirwa rokuti Milla de Oro kana kuti Golden Mile","Nhurikidzwa dzedzimba dziri muGolden Mile dzine zvitoro zvakasiyana siyana, zvinosanganisira maBhangi",neutral
+"Semasikirwo azvo, nekudaro, kuwanikwa muhondo yechipiri yepasi rino rose kwakatanga ne Briitish Commonwealth Air TrainingPlan, ichishandisa matenga  akachengetedzeka ekuCanada kudzidzisa vanotyaira ndege kuti vanorwa.",Canada yaive nematenga akachengetedzeka.,entailment
+"Semasikirwo azvo, nekudaro, kuwanikwa muhondo yechipiri yepasi rino rose kwakatanga ne Briitish Commonwealth Air TrainingPlan, ichishandisa matenga  akachengetedzeka ekuCanada kudzidzisa vanotyaira ndege kuti vanorwa.",Matenga eCanada anga akasununguka kubva muzvombo zvemuchadenga.,neutral
+"Semasikirwo azvo, nekudaro, kuwanikwa muhondo yechipiri yepasi rino rose kwakatanga ne Briitish Commonwealth Air TrainingPlan, ichishandisa matenga  akachengetedzeka ekuCanada kudzidzisa vanotyaira ndege kuti vanorwa.",Matenga eCanada aiva nenjodzi.,contradiction
+"Vakaramba vaine mwoyo murefu nekubatsira, nyangwe zvazvo vaiziva kuti mhenherekedzo yavo yegungwa yakanaka yakanga isisiri yavo voga.",Varikurwadziwa  nekutsamwira munhu wese sezvo ikozvino vave kugovana mhenderekedzo dzegungwa,contradiction
+"Vakaramba vaine mwoyo murefu nekubatsira, nyangwe zvazvo vaiziva kuti mhenherekedzo yavo yegungwa yakanaka yakanga isisiri yavo voga.",Vave kugovana mhenderekedzo dzegungwa nevamwe vanhu ikozvino.,entailment
+"Vakaramba vaine mwoyo murefu nekubatsira, nyangwe zvazvo vaiziva kuti mhenherekedzo yavo yegungwa yakanaka yakanga isisiri yavo voga.",Vaisimbove varidzi vemhenderekedzo dzegungwa dzakareba mamaira mazana mashanu.,neutral
+"Kublai Khani akavaka dhorobha rake muna 1279 pamhenderekedzo ye Beihal Lake ku Beijing, kunowanika hupfumi hwake huchiri kuratidzwa nanhasi",Kublai Khani akavaka guta guru rekuTaiwan.,contradiction
+"Kublai Khani akavaka dhorobha rake muna 1279 pamhenderekedzo ye Beihal Lake ku Beijing, kunowanika hupfumi hwake huchiri kuratidzwa nanhasi",Kublai Khan  ane hupfumi ku Beijing,entailment
+"Kublai Khani akavaka dhorobha rake muna 1279 pamhenderekedzo ye Beihal Lake ku Beijing, kunowanika hupfumi hwake huchiri kuratidzwa nanhasi",kublai Khani aiva munhu airemekedzwa,neutral
+"Kukwana mumagariro nenharaunda ye Anglo zvakaita kuti zvikoro zve Protestant zvibvume vana vavo, Va Judha veku Eastern Europe vakadzidza vakabudirira  kuupfumi hwe Westmount vamwe vakatama vakaenda kunogara kuToronto.",Vajudha vekumabvazuva kweEurope vanogarisana nevamwe munharaunda zvakanaka,contradiction
+"Kukwana mumagariro nenharaunda ye Anglo zvakaita kuti zvikoro zve Protestant zvibvume vana vavo, Va Judha veku Eastern Europe vakadzidza vakabudirira  kuupfumi hwe Westmount vamwe vakatama vakaenda kunogara kuToronto.",MaJudha haadikanwe nenharaunda dzose.,neutral
+"Kukwana mumagariro nenharaunda ye Anglo zvakaita kuti zvikoro zve Protestant zvibvume vana vavo, Va Judha veku Eastern Europe vakadzidza vakabudirira  kuupfumi hwe Westmount vamwe vakatama vakaenda kunogara kuToronto.",MaJudha akakwanisa kugarisana nyore vanhu vechiAnglo.,entailment
+"Kanazvichibvira, ziva nezvebangano kutanga.",Usapinde bangano pakutanga; zvinozokanganisa zvinofadza gare gare.,contradiction
+"Kanazvichibvira, ziva nezvebangano kutanga.","Edza kunzwisise bangano kutanga, kana uchikwanisa.",entailment
+"Kanazvichibvira, ziva nezvebangano kutanga.",Uchawana chidzidzo chakanyevenuka kana ukanzwisisa chinangwa chebhuku.,neutral
+"Maanovigira vanhu vakafa, 27m(88ft) kubva pasi, makagadzirwa nedombo remarble uye rakakura 1,200sm(13.000sm)",Akavigwa muguva rakadzika mamita anopfuura makumi maviri.,entailment
+"Maanovigira vanhu vakafa, 27m(88ft) kubva pasi, makagadzirwa nedombo remarble uye rakakura 1,200sm(13.000sm)",Aive munhu wevanhu ane mukurumbira,neutral
+"Maanovigira vanhu vakafa, 27m(88ft) kubva pasi, makagadzirwa nedombo remarble uye rakakura 1,200sm(13.000sm)",Zvivharo zvake zvemakuva zvakagadzirwa nematanda.,contradiction
+Yeuka kuviga zvinhu zvako zvose zvinotakurika kubva kutsoko.,Viga zvinhu zvako kubva kutsoko.,entailment
+Yeuka kuviga zvinhu zvako zvose zvinotakurika kubva kutsoko.,"Tsoko dzinofadzwa nezvinhu zvakawanda, kusanganisira zvinhu zvako",neutral
+Yeuka kuviga zvinhu zvako zvose zvinotakurika kubva kutsoko.,Unogona kusaviga zvinhu zvako kubva kutsoko.,contradiction
+"Makore churu chimazana mana, imba yeumambo hwaEstei isati yavakwa, Milreu yakanga iri imba hombe yemunhu ane mukurumbira kumaruva.",Milreu yanga iri mamaira gumi kubva panezvimwe.,neutral
+"Makore churu chimazana mana, imba yeumambo hwaEstei isati yavakwa, Milreu yakanga iri imba hombe yemunhu ane mukurumbira kumaruva.",Milreu yanga iri  kunze kumaruva,entailment
+"Makore churu chimazana mana, imba yeumambo hwaEstei isati yavakwa, Milreu yakanga iri imba hombe yemunhu ane mukurumbira kumaruva.",Milreu yaive iri pakati pedhorobha.,contradiction
+Kupisa kana kutonhora kwegungwa kunowanzo kunge kuri pakati pe18e ne 24eC(64-75eF),"Kupisa kana kutonhora kwemugungwa kunogara kuchichinja, asi hakutonhora pakusvika  pamazaya echando",entailment
+Kupisa kana kutonhora kwegungwa kunowanzo kunge kuri pakati pe18e ne 24eC(64-75eF),Kupisa kana kutonhora kwemugungwa kunogara kuri panzvimbo imwe gore rose.,contradiction
+Kupisa kana kutonhora kwegungwa kunowanzo kunge kuri pakati pe18e ne 24eC(64-75eF),Ona kunoti pisei nguva dzemasikati kana kuchidziya,neutral
+KInabalu National Park ndiyo yedzimwe nzvimbo nhatu dzinochenegetedzwa mudunhu.,KInabalu National Park ine nzou gumi nezvipembere zvitanhatu.,neutral
+KInabalu National Park ndiyo yedzimwe nzvimbo nhatu dzinochenegetedzwa mudunhu.,"Dunhu rinenzvimbo dzakachengetedzwa, dzinosanganisira Kinabalu National Park.",entailment
+KInabalu National Park ndiyo yedzimwe nzvimbo nhatu dzinochenegetedzwa mudunhu.,Panenzvimbo nhatu dzakachengetedzwa mudunhu.,contradiction
+Uchawona mavhidhiyo enhorowondo yaAnne ne eAmsterdam payakange yakabvutwa nemifananidzo nezviumbwa zvenguva iyoyo,Hausi kuzoona mifananidzo.,contradiction
+Uchawona mavhidhiyo enhorowondo yaAnne ne eAmsterdam payakange yakabvutwa nemifananidzo nezviumbwa zvenguva iyoyo,Uchawona mifananidzo.,entailment
+Uchawona mavhidhiyo enhorowondo yaAnne ne eAmsterdam payakange yakabvutwa nemifananidzo nezviumbwa zvenguva iyoyo,Uchawona mimwe mifananidzo yekutanga.,neutral
+"Treasure Beach ndiyo nzvimbo yega yekushanyira ingataurwa nezvayo, iine mahotera matatu anowanika mumajecha ekumahombekombe",Hakauna mahotera ekusarudza akawanda kune vanhu vanoshanyira Treasure Beach.,entailment
+"Treasure Beach ndiyo nzvimbo yega yekushanyira ingataurwa nezvayo, iine mahotera matatu anowanika mumajecha ekumahombekombe",Kune hotera imwe yenyeredzi ina inowanikwa kune vashanyi vanoshanyira Treasure Beach.,neutral
+"Treasure Beach ndiyo nzvimbo yega yekushanyira ingataurwa nezvayo, iine mahotera matatu anowanika mumajecha ekumahombekombe",Treasure Beach ndiyo imwe yenzvimbo yekushanyira munzvimbo iyi.,contradiction
+"Zhizha rinounza kudziya (asi kwete kupisa) nekudziya kwemakungwa, izvo zvinenge zvakanakira kusvetukira mumvura, snorkelling uye mimwe mitambo yemvura.",Inogara iri 100 dhigirizi kana kupfuura muzhizha.,contradiction
+"Zhizha rinounza kudziya (asi kwete kupisa) nekudziya kwemakungwa, izvo zvinenge zvakanakira kusvetukira mumvura, snorkelling uye mimwe mitambo yemvura.",Inowanzoita 75 muzhizha.,neutral
+"Zhizha rinounza kudziya (asi kwete kupisa) nekudziya kwemakungwa, izvo zvinenge zvakanakira kusvetukira mumvura, snorkelling uye mimwe mitambo yemvura.",Kunodziya munguva yezhizha.,entailment
+"Pamadziva panerimwe rakatorwa nevashanyi ravanopota vachikandira mari vaine shuwiro yokuti rimwe ringabhamba pamusoro wekamba, vaine tariro yekuita rombo rakanaka.",Vanhu havambokandi mari  nekuti zvinoitisa rushambwa.,contradiction
+"Pamadziva panerimwe rakatorwa nevashanyi ravanopota vachikandira mari vaine shuwiro yokuti rimwe ringabhamba pamusoro wekamba, vaine tariro yekuita rombo rakanaka.",Vanhu vano kanda mari ye ndarama mumvura chero pakanyorwa kuti musakanda.,neutral
+"Pamadziva panerimwe rakatorwa nevashanyi ravanopota vachikandira mari vaine shuwiro yokuti rimwe ringabhamba pamusoro wekamba, vaine tariro yekuita rombo rakanaka.",Vanhu vano kanda mari ye ndarama mumvura.,entailment
+Dhorobha reNafplio inzvimbo yakanaka kushanyira kana nzvimbo yekuda masikati uchishanya.,Nafplio ine nzvimbo inoyevedza kuona.,neutral
+Dhorobha reNafplio inzvimbo yakanaka kushanyira kana nzvimbo yekuda masikati uchishanya.,Nafplio inzvimbo yakashata.,contradiction
+Dhorobha reNafplio inzvimbo yakanaka kushanyira kana nzvimbo yekuda masikati uchishanya.,Nafplio inzvimbo yakanaka,entailment
+"Ku Prinsengracht, otto Frank nemhuri yake vakahwnda mudengaremba ye bhizimisi ravo kwemakore maviri vasati vawanikwa.",Otto Frank akabatwa pazuva rechipiri.,contradiction
+"Ku Prinsengracht, otto Frank nemhuri yake vakahwnda mudengaremba ye bhizimisi ravo kwemakore maviri vasati vawanikwa.",Otto Frank akahwanda kupfuura mwedzi makumi maviri nemashanu.,entailment
+"Ku Prinsengracht, otto Frank nemhuri yake vakahwnda mudengaremba ye bhizimisi ravo kwemakore maviri vasati vawanikwa.",Otto Frank akahwanda kusvika maNazi amuwana.,neutral
+Hutungamiriri huzhinji hwenyika kana kuti hwenzvimbo hune zvakare ongororo dzemabhuku emari dzinotarisirwa.,Hutungamiri hwemunzvimbo hunozoita kuti hugadzire mitemo yahwo.,neutral
+Hutungamiriri huzhinji hwenyika kana kuti hwenzvimbo hune zvakare ongororo dzemabhuku emari dzinotarisirwa.,Hutungamiri hwenzvimbo hahuna chahunotarisirwa.,contradiction
+Hutungamiriri huzhinji hwenyika kana kuti hwenzvimbo hune zvakare ongororo dzemabhuku emari dzinotarisirwa.,Pane dzimwe ongororo dzemabhuku emari dzinotarisirwa muhutungamiri hwenzvimbo.,entailment
+Boka rinoita nezvekuchengetedzwa kwemashoko rinoita zvimisangano zvinoita  pakati pezvisere negumi nezviviri pamwedzi.,Boka rezvekuchengetedza rinowanzoita zvimisangano pfumbamwe pamwedzi.,neutral
+Boka rinoita nezvekuchengetedzwa kwemashoko rinoita zvimisangano zvinoita  pakati pezvisere negumi nezviviri pamwedzi.,Boka rinoita nezvekuchengetedza rinoita chimusangano chimwe pazuva rega rega repamwedzi.,contradiction
+Boka rinoita nezvekuchengetedzwa kwemashoko rinoita zvimisangano zvinoita  pakati pezvisere negumi nezviviri pamwedzi.,Boka rinoita nezvekuchengetedza rinoita zvimisangano zvakawanda pagore.,entailment
+"Asi, gadziro ineunyanzvi yekumavambo yangayatopedzwa kare.",Gadziro ine unyanzvi yaive nenguva yekumavambo.,entailment
+"Asi, gadziro ineunyanzvi yekumavambo yangayatopedzwa kare.",Gadziro ine unyanzvi yakangoitika muchikamu chekupedzisira.,contradiction
+"Asi, gadziro ineunyanzvi yekumavambo yangayatopedzwa kare.","Pasina nguva yekumavambo yamboitwa, gadziriro ine unyanzvi ine mukana wakakura wekusazobuda zvakanaka muzvikamu zvekumberi.",neutral
+"Nekudaro, vagadziri vezvisungo zvehururmende nevakuru vemabasa vaakutora nzira itsva dzekufunga, vachitarisa nzira dzakasiyana dzekuzadzisa zvinangwa, nekushandisa ruzivo rutsva kugadzira zvisungo zvitsva.
+",Vamiriri vehurumende vari kushandura nzira dzavo dzavanga vachishanda nadzo.,entailment
+"Nekudaro, vagadziri vezvisungo zvehururmende nevakuru vemabasa vaakutora nzira itsva dzekufunga, vachitarisa nzira dzakasiyana dzekuzadzisa zvinangwa, nekushandisa ruzivo rutsva kugadzira zvisungo zvitsva.
+",Vamiriri vehurumende vari kuedza kuwedzera simba ravo nekufunga zvakasiyana.,neutral
+"Nekudaro, vagadziri vezvisungo zvehururmende nevakuru vemabasa vaakutora nzira itsva dzekufunga, vachitarisa nzira dzakasiyana dzekuzadzisa zvinangwa, nekushandisa ruzivo rutsva kugadzira zvisungo zvitsva.
+",Vamiriri vehurumende vanoramba kushandura nzira dzemararamiro avo.,contradiction
+Magwaro edzimhosva anogona kuda kushandurwa mutauro kuitira vanoda kubatsirwa vanoverenga mimwe mitauro isiri chirungu. ,Magwaro edzimhosva anotenderwa chete kuva kuchirungu.,contradiction
+Magwaro edzimhosva anogona kuda kushandurwa mutauro kuitira vanoda kubatsirwa vanoverenga mimwe mitauro isiri chirungu. ,Magwaro edzimhosva anogona kuiswa mumutauro wechiChinese kana chiRussian.,neutral
+Magwaro edzimhosva anogona kuda kushandurwa mutauro kuitira vanoda kubatsirwa vanoverenga mimwe mitauro isiri chirungu. ,Magwaro edzimhosva anogona kuiswa mune mimwe mitauro.,entailment
+Zvimwe zvatiri kuedza parizvino zviri kuuya kana kuti zvakarongwa zvinosanganisira,Zvakawanda zvezvatiri kuedza zvava kutoitwa.,neutral
+Zvimwe zvatiri kuedza parizvino zviri kuuya kana kuti zvakarongwa zvinosanganisira,Hatina chimwezve chakarongerwa ramangwana.,contradiction
+Zvimwe zvatiri kuedza parizvino zviri kuuya kana kuti zvakarongwa zvinosanganisira,Tine chimwe chakarongwa.,entailment
+"Isaiwo zvinhu zvakaita senguva diki dzinopiwa, kudzimwa kwemafaira ekutanga nekushaikwa kwemikana yekuwana zvinyorwa zvinodikwa.",Vakadzima mafaira ekombiyuta kubva muIBM.,neutral
+"Isaiwo zvinhu zvakaita senguva diki dzinopiwa, kudzimwa kwemafaira ekutanga nekushaikwa kwemikana yekuwana zvinyorwa zvinodikwa.",Vakadzima mafaira ekombiyuta emhando yekutanga.,entailment
+"Isaiwo zvinhu zvakaita senguva diki dzinopiwa, kudzimwa kwemafaira ekutanga nekushaikwa kwemikana yekuwana zvinyorwa zvinodikwa.",Vakachengeta ese mafaira emhando yekutanga.,contradiction
+"Zvino, mumiriri mumwecheteye akamboshanya pekutanga anoshanyairazve purovhaidha mutsva kuti apindure mivhunzo nekuita hurukuro dzematambudziko anenge aonekwa mumasemburu emakiremu.",Mumiriri akashanya kweawa rimwe chete.,neutral
+"Zvino, mumiriri mumwecheteye akamboshanya pekutanga anoshanyairazve purovhaidha mutsva kuti apindure mivhunzo nekuita hurukuro dzematambudziko anenge aonekwa mumasemburu emakiremu.",Kwaiva nekushanya kwemumiriri.,entailment
+"Zvino, mumiriri mumwecheteye akamboshanya pekutanga anoshanyairazve purovhaidha mutsva kuti apindure mivhunzo nekuita hurukuro dzematambudziko anenge aonekwa mumasemburu emakiremu.",Hatina kumboshanyirwa.,contradiction
+"Kuchengetedza upfumi hakungovi nechekuita nekuwanda kweupfumi, asi upfumiwo hunepesvedzero yahunoita kusarudzo yekuhuchengetedza.",Sarudzo yekuti munhu anochengetedza here kana kusachengetedza mari inokonzerwa neupfumi hwavo.,entailment
+"Kuchengetedza upfumi hakungovi nechekuita nekuwanda kweupfumi, asi upfumiwo hunepesvedzero yahunoita kusarudzo yekuhuchengetedza.",Upfumi nezvichengetedzwa zvemari hazvina kumbofanana neipi zvayo nzira nguva zhinji.,contradiction
+"Kuchengetedza upfumi hakungovi nechekuita nekuwanda kweupfumi, asi upfumiwo hunepesvedzero yahunoita kusarudzo yekuhuchengetedza.",Vapfumi vanogona kuita mukana wakawanda wekuchengetedza chikamu chakakura chezvavanowana.,neutral
+"Semuenzaniso, rimwe sangano ratakaongorora raiva rabatanidzwa nemabhizimusi maviri raida kuti kambani ikasire kubatanidza mabhizinesi matsva uye kuronga patsva zvakare kuitira kuti zvipindirane nezvinodikwa pakuti bhizinesi rikure.","Kunyanwe panga pabatanidzwa mabhizimusi maviri, panga pasina chikonzero chekuti kambani iite muronga mutsva wehutungamiriri hwayo.",contradiction
+"Semuenzaniso, rimwe sangano ratakaongorora raiva rabatanidzwa nemabhizimusi maviri raida kuti kambani ikasire kubatanidza mabhizinesi matsva uye kuronga patsva zvakare kuitira kuti zvipindirane nezvinodikwa pakuti bhizinesi rikure.",Kubatanidza makambani maviri kuumba sangano rimwe nekuronga patsva zvakakonzera mhirizhonga panzvimbo yepabasa.,neutral
+"Semuenzaniso, rimwe sangano ratakaongorora raiva rabatanidzwa nemabhizimusi maviri raida kuti kambani ikasire kubatanidza mabhizinesi matsva uye kuronga patsva zvakare kuitira kuti zvipindirane nezvinodikwa pakuti bhizinesi rikure.",Takaongorora kambani yanga yabatanidza mabhizimusi maviri tikatozokasira kuronga patsva kuti tiite zvinoenderana nezvinoda bhizinesi ravo.,entailment
+"Magadzirirwo, taive nekushungurudzika kuti mubhadharo utenderwe tisati tanyatsoona kuti vanhu vafamba.",Taiziva kuti kubhadhara kuchanonokesa.,contradiction
+"Magadzirirwo, taive nekushungurudzika kuti mubhadharo utenderwe tisati tanyatsoona kuti vanhu vafamba.",Taifunga kuti kubhadhara kuchaitwa pasati paita cherechedzo yekuti ndizvo here.,entailment
+"Magadzirirwo, taive nekushungurudzika kuti mubhadharo utenderwe tisati tanyatsoona kuti vanhu vafamba.",Taifunga kuti mari yatakabhadhara inokasira kuenda tikazobirwa.,neutral
+"Tekinoroji yakanyanyopindana nematanho ebhizinesi mumasangano aya nekuti tekinoroji inoonekwa seinoita kuti bhizinesi riite, kwete semudziyo wekushandisa.",Chirongwa chemakombiyuta chekuronga zviri mberi chemhando yepamusoro ndiyo imwe yetekinoroji dzakakosha dzinonyanyodiwa nemabhizinesi. ,neutral
+"Tekinoroji yakanyanyopindana nematanho ebhizinesi mumasangano aya nekuti tekinoroji inoonekwa seinoita kuti bhizinesi riite, kwete semudziyo wekushandisa.",Tekinoroji ungori mudziyo kwete chinoitisa kuti bhizinesi riite.,contradiction
+"Tekinoroji yakanyanyopindana nematanho ebhizinesi mumasangano aya nekuti tekinoroji inoonekwa seinoita kuti bhizinesi riite, kwete semudziyo wekushandisa.",Mabhizinesi aya anoisa tsinhidziro yakawanda patekinoroji.,entailment
+Pfungwa mbiri dzinobuda zvakanyanya muzvinyorwa dzinogona kuzobatsira kupamazano mutsvakurudzo dzemangwana.,Zvinyorwa zvinogona kushandura maongororero atinoita masemburu edu.,neutral
+Pfungwa mbiri dzinobuda zvakanyanya muzvinyorwa dzinogona kuzobatsira kupamazano mutsvakurudzo dzemangwana.,Zvinyorwa zvinogona kushandura tsvakurudzo dzekumberi.,entailment
+Pfungwa mbiri dzinobuda zvakanyanya muzvinyorwa dzinogona kuzobatsira kupamazano mutsvakurudzo dzemangwana.,Hapana zvimwe zvekuita munyaya dzekushandura tsvakurudzo.,contradiction
+Maraini akaita mabhokisi anoratidza nzvimbo yehutano hwevatumiri vetsamba zvakabatanidzwa uye maraini ane ngoda anoratidza kurasika kwekuenda kunoshandira kune rimwe bato.,Maraini anohwerengedza kuti magariro evatumiri vematsamba ari panzvimbo yezvikamu gumi kubva muzana.,neutral
+Maraini akaita mabhokisi anoratidza nzvimbo yehutano hwevatumiri vetsamba zvakabatanidzwa uye maraini ane ngoda anoratidza kurasika kwekuenda kunoshandira kune rimwe bato.,Maraini haaratidze chimwe chinhu kunze kwenzira.,contradiction
+Maraini akaita mabhokisi anoratidza nzvimbo yehutano hwevatumiri vetsamba zvakabatanidzwa uye maraini ane ngoda anoratidza kurasika kwekuenda kunoshandira kune rimwe bato.,Maraini anoratidza huwandu hwehutano huri muvatumiri vematsamba,entailment
+"Zvichienderana nekuongorora kwenjodzi uku, Centrelink yakagadzira nzira dzakasiyana dzekudzivirira dzakanangana nekudzidzisa vanobatsirwa nevashandirwi nezvezvinodiwa zvekuzivisa mari.",Centrelink yaisaziva nzira yekugadzirisa dambudziko.,contradiction
+"Zvichienderana nekuongorora kwenjodzi uku, Centrelink yakagadzira nzira dzakasiyana dzekudzivirira dzakanangana nekudzidzisa vanobatsirwa nevashandirwi nezvezvinodiwa zvekuzivisa mari.",Centrelink yaive nenzira dzakawanda dzekudzidzisa vanhu kuripota mari yaipinda nekuti hurumende yairasikirwa nemari yakawanda nekuda kwemhosho.,neutral
+"Zvichienderana nekuongorora kwenjodzi uku, Centrelink yakagadzira nzira dzakasiyana dzekudzivirira dzakanangana nekudzidzisa vanobatsirwa nevashandirwi nezvezvinodiwa zvekuzivisa mari.",Centerlink yaive nenzira dzakawanda dzekudzidzisa vanhu kuripota mari yaipinda.,entailment
+Vakatendera ratidziro dzedesign kambani isati yaisa mari yakawanda mumidziyo nematurusi ekugadzira mapurototaipi apachinhanho cheratidziro. ,Zvino vaigona kuratidza mashandiro aiita design.,entailment
+Vakatendera ratidziro dzedesign kambani isati yaisa mari yakawanda mumidziyo nematurusi ekugadzira mapurototaipi apachinhanho cheratidziro. ,Vaigona kuratidza kambani kuti yanga isina ruzivo kuvaka mafekitari matsva.,neutral
+Vakatendera ratidziro dzedesign kambani isati yaisa mari yakawanda mumidziyo nematurusi ekugadzira mapurototaipi apachinhanho cheratidziro. ,Vanga vasina ruzivo rwekuratidzira kukosha kwekushandisa upfumi kuti hugobudisa humwe hwakawanda.,contradiction
+Kushandira pamwe kweSouth Carolina  kwakabudisa imwe budiriro gore rakatevera.,Hapana muSouth Carolina vakashanda pamwe.,contradiction
+Kushandira pamwe kweSouth Carolina  kwakabudisa imwe budiriro gore rakatevera.,SC yakashanda pamwe.,entailment
+Kushandira pamwe kweSouth Carolina  kwakabudisa imwe budiriro gore rakatevera.,Mademocrat nemarepublican ku South Carolina ari kushanda pamwe.,neutral
+"Sekureva kwemumwe ari paBhodi,  zvitupa zvechikamu 605(b) zveBhodi hazvina kupihwa pakasiyana kune Small Business Administration (SBA) Chief Counsel for Advocacy.",Bhodhi harina kupa SBA mapepa emvumo uye vakazvisiira hofisi yevaongorori.,neutral
+"Sekureva kwemumwe ari paBhodi,  zvitupa zvechikamu 605(b) zveBhodi hazvina kupihwa pakasiyana kune Small Business Administration (SBA) Chief Counsel for Advocacy.",Bhodhi harina kupa SBA mapepa emvumo.,entailment
+"Sekureva kwemumwe ari paBhodi,  zvitupa zvechikamu 605(b) zveBhodi hazvina kupihwa pakasiyana kune Small Business Administration (SBA) Chief Counsel for Advocacy.",Bhodhi raipa SBA mapepa emvumo zuva rega rega kune wese aikumbira rimwe.,contradiction
+Kana paita kupindirana kwemitengo yemahotera nezvimwewo ongororo yemafambiro acho ndopainozoitwa.,Midodo yemahotera mazhinji enyika inotambira macard ezvikwereti pakubhadhara.,neutral
+Kana paita kupindirana kwemitengo yemahotera nezvimwewo ongororo yemafambiro acho ndopainozoitwa.,Rwendo pachezvarwo rwunozoongororwa kuchishandiswa mari dzinobhadharwa muhotera.,entailment
+Kana paita kupindirana kwemitengo yemahotera nezvimwewo ongororo yemafambiro acho ndopainozoitwa.,Hapana nzira yekuongorora kuti rwendo rwakaendwa here kana kuti kwete.,contradiction
+"Semuenzaniso, rimwe guta guru redunhu ratakashanyira ine makambani eSoftware anodarika mazana matanhatu.",Madhorobha mahombe ndiwo nzvimbo dzakanakisa dzemakambani eSoftware.,neutral
+"Semuenzaniso, rimwe guta guru redunhu ratakashanyira ine makambani eSoftware anodarika mazana matanhatu.",Dhorobha rimwe rine churu chemakambani eSoftware.,entailment
+"Semuenzaniso, rimwe guta guru redunhu ratakashanyira ine makambani eSoftware anodarika mazana matanhatu.",Makambani eSoftware anowanzosada madhorobha nezvikonzero zvemitemo.,contradiction
+"Mukupima kunyatsokuita kwazvo, kugona zvese hakuitike.",Unogona kugona zvese ukanyatsoshingirira chaizvo.,contradiction
+"Mukupima kunyatsokuita kwazvo, kugona zvese hakuitike.",Haungambogoni zvese.,entailment
+"Mukupima kunyatsokuita kwazvo, kugona zvese hakuitike.",Haungagoni zvese nekuti tese tiri vanhu vekutadza .,neutral
+"Waaigara naye mumba airendesa imba kuna Hazmi naMihdar nguva ya2000 chizvarwa chemunyika chinochengetedza mutemo chichinozikanwa chose, ane ushamwari nevamwe kumapurisa nevashandi veFBI.",Hazmi na Mihdar vakatenga imba uye havana wavakazotaura naye..,contradiction
+"Waaigara naye mumba airendesa imba kuna Hazmi naMihdar nguva ya2000 chizvarwa chemunyika chinochengetedza mutemo chichinozikanwa chose, ane ushamwari nevamwe kumapurisa nevashandi veFBI.",Hazmi na Mihdar vairenda kamuri kwegore rese nemari inota madhora mazana mashanu pazuva.,neutral
+"Waaigara naye mumba airendesa imba kuna Hazmi naMihdar nguva ya2000 chizvarwa chemunyika chinochengetedza mutemo chichinozikanwa chose, ane ushamwari nevamwe kumapurisa nevashandi veFBI.",Hazmi na Mihdar vairenda kamuri.,entailment
+"Nezvemafambire avakaita kuenda kuBosnia, tarisai chinyorwa chezvechenjedzo , kubvunzurudzwa kwenhengo ye Saudi al Qaeda, munaGumiguru zuva rechitatu muna 2001.",Nhengo ye al Qaeda yakaenda kuBosnia nzendo dzinoita gumi nesere muna 2001.,neutral
+"Nezvemafambire avakaita kuenda kuBosnia, tarisai chinyorwa chezvechenjedzo , kubvunzurudzwa kwenhengo ye Saudi al Qaeda, munaGumiguru zuva rechitatu muna 2001.",Nhengo yeal Qaeda yakaenda kuBosnia.,entailment
+"Nezvemafambire avakaita kuenda kuBosnia, tarisai chinyorwa chezvechenjedzo , kubvunzurudzwa kwenhengo ye Saudi al Qaeda, munaGumiguru zuva rechitatu muna 2001.",Hapana umbowo hwenhengo yeal Qaeda ichienda kuBosnia.,contradiction
+Jane akakumbira mushandi weNew York akaiswa kune zvekutsvaka Mihdar  kusaina fomu remvumo reFISA zvichiratidza kuti mushandi ainzwisisa mabatiro aaifanira kuzoita nyaya dzeFISA.,Jane akakumbira kuti fomu remvumo reFISA  risainwe nemutongi.,neutral
+Jane akakumbira mushandi weNew York akaiswa kune zvekutsvaka Mihdar  kusaina fomu remvumo reFISA zvichiratidza kuti mushandi ainzwisisa mabatiro aaifanira kuzoita nyaya dzeFISA.,Jane akakumbira kusainirwa fomu remvumo reFISA.,entailment
+Jane akakumbira mushandi weNew York akaiswa kune zvekutsvaka Mihdar  kusaina fomu remvumo reFISA zvichiratidza kuti mushandi ainzwisisa mabatiro aaifanira kuzoita nyaya dzeFISA.,Jane akati hakuna fomu remvumo reFISA rine basa.,contradiction
+Hapana chiri kubuda sechisina kumira zvakanaka pane chainyatsocherekedzwa chiine basa maererano neongororo yepagedhe .,Umboo hunovhundutsa hwakabatwa paiitwa ongororo yepagedhi repaongororo.,contradiction
+Hapana chiri kubuda sechisina kumira zvakanaka pane chainyatsocherekedzwa chiine basa maererano neongororo yepagedhe .,Ongororo dzepagedhi rekusecha dzinosimbiswa chete  nekugona kunyumwa  kwemushandi anoongorora mikwende inopinda munyika paanenge achiita ongororo.,neutral
+Hapana chiri kubuda sechisina kumira zvakanaka pane chainyatsocherekedzwa chiine basa maererano neongororo yepagedhe .,Ongororo yepagedhe reongororo haina kuwana umbowo hunovabata.,entailment
+"Khallad azopa nhoroondo yechipiri, inoti vese vatatu vakaenda pamwe chete  kuKarachi.",Khallad akati hapana zvaaiziva nezvevatatu ava.,contradiction
+"Khallad azopa nhoroondo yechipiri, inoti vese vatatu vakaenda pamwe chete  kuKarachi.",Khallad akati vatatu ava vanogona kunge vakaenda pamwe chete.,entailment
+"Khallad azopa nhoroondo yechipiri, inoti vese vatatu vakaenda pamwe chete  kuKarachi.",Khallad akati paive nemukana wemakumi mashanu muzana wekuti vatatu ava vakaenda pamwe chete kuKarachi muna Gumiguru,neutral
+"Mhangaro yenjere, kubvunzurudzwa kwaBimalshibh, mwedzi waGumiguru zuva rekutanga gore ra2002.",Binalshibh akabvunzurudzwa nebato reFBI.,neutral
+"Mhangaro yenjere, kubvunzurudzwa kwaBimalshibh, mwedzi waGumiguru zuva rekutanga gore ra2002.",Binalshibh  akabvunzurudzwa mugore ra2002.,entailment
+"Mhangaro yenjere, kubvunzurudzwa kwaBimalshibh, mwedzi waGumiguru zuva rekutanga gore ra2002.","Binalshibh haana kumbotaurwa naye, ndobva atoshayikwa.",contradiction
+Mihdar akawana vhiza idzva reku U.S mazuva maviri musangano we CIA-FBI wapera muNewYork.,Mihdar aiva ne vhiza rekuUS rekupinda munyika.,entailment
+Mihdar akawana vhiza idzva reku U.S mazuva maviri musangano we CIA-FBI wapera muNewYork.,Mihdar haana kumbowana vhiza saka haana kuuya kuUS.,contradiction
+Mihdar akawana vhiza idzva reku U.S mazuva maviri musangano we CIA-FBI wapera muNewYork.,Mihdar akapiwa vhiza nekuti anga asina chaangatyisa .,neutral
+"Zvisinei nemakore maviri akapera kuchiitwa tsvagiridzo, FBI yakatadza kuwana mumwe aaishanda naye kana kuziva kuti aive ani chaiye .",FBI yakatadza chero kuwana murume uyu paakabuda muFlorida muna2001.,neutral
+"Zvisinei nemakore maviri akapera kuchiitwa tsvagiridzo, FBI yakatadza kuwana mumwe aaishanda naye kana kuziva kuti aive ani chaiye .",FBI yakatadza kuziva kuti murume uyu anga ari ani.,entailment
+"Zvisinei nemakore maviri akapera kuchiitwa tsvagiridzo, FBI yakatadza kuwana mumwe aaishanda naye kana kuziva kuti aive ani chaiye .",FBI yakaziva kuti murume aiva ani ikamuisa mujeri.,contradiction
+"Pari panya  yeAmerican 11, kufambiswa kwemashoko kune musoro kwekupedzisira  kubva kundege kwakaitwa nenguva dzemaawa masere nemaminiti gumi nematatu mangwanani.",Paifambiswa mashoko kubva kuAmerican11.,entailment
+"Pari panya  yeAmerican 11, kufambiswa kwemashoko kune musoro kwekupedzisira  kubva kundege kwakaitwa nenguva dzemaawa masere nemaminiti gumi nematatu mangwanani.",Paifambiswa mashoko  kubva kuAmerican 11 mushure memaminitsi mashanu ega ega.,neutral
+"Pari panya  yeAmerican 11, kufambiswa kwemashoko kune musoro kwekupedzisira  kubva kundege kwakaitwa nenguva dzemaawa masere nemaminiti gumi nematatu mangwanani.",Hapana kumbofambiswa mashoko kubva ku American 11.,contradiction
+"Kuri kuzviwana, zvaizoda kubatana nekukasira uye kune udzamu kubva kuhurumende ye German, kunova kwaizogona kunetsa kuwana.","Kana ikapedzwa ongororo, inogona kuratidza nzvimbo ine vasungwa vatatu vakatiza.",neutral
+"Kuri kuzviwana, zvaizoda kubatana nekukasira uye kune udzamu kubva kuhurumende ye German, kunova kwaizogona kunetsa kuwana.",Hurumende yeGerman inogona kunge yakanetseka nekuita tsvakurudzo nekukasira uye ine udzamu.,entailment
+"Kuri kuzviwana, zvaizoda kubatana nekukasira uye kune udzamu kubva kuhurumende ye German, kunova kwaizogona kunetsa kuwana.",Tsvagurudzo inenge isina kugozha uye iri nyore chose  kuti hurumende iite.,contradiction
+Zvinoita kuti zvibudirire izvi zvaive zvisina kukwana asi hapana zvakawanda zvakaitwa kuzviwedzera kana kuzvigadzirisa. ,Havana kushandura chirongwa chavo chekuongorora zvakanyanya.,neutral
+Zvinoita kuti zvibudirire izvi zvaive zvisina kukwana asi hapana zvakawanda zvakaitwa kuzviwedzera kana kuzvigadzirisa. ,Hapana zvavakanyanyoita kushandura zvinhu.,entailment
+Zvinoita kuti zvibudirire izvi zvaive zvisina kukwana asi hapana zvakawanda zvakaitwa kuzviwedzera kana kuzvigadzirisa. ,Vakaita zvakawanda kushandura zvinhu zvese.,contradiction
+"Email yemuongorori, asi inoratidza kuti aivhiringidza  tumitemo netumhingamupinyi twemutemo  twakawanda kunyaya dzekugovera mashoko uye mitemo inotungamiririra kushandiswa kwemashoko nevanoita mhosva dzechitsotsi atsvakwa kubudikidza nenzira dzeuchenjerii..",Muongorori akapa ongororo yakanyatsojeka,contradiction
+"Email yemuongorori, asi inoratidza kuti aivhiringidza  tumitemo netumhingamupinyi twemutemo  twakawanda kunyaya dzekugovera mashoko uye mitemo inotungamiririra kushandiswa kwemashoko nevanoita mhosva dzechitsotsi atsvakwa kubudikidza nenzira dzeuchenjerii..",Muongorori haana kujekesa zvinhu zvakawanda.,entailment
+"Email yemuongorori, asi inoratidza kuti aivhiringidza  tumitemo netumhingamupinyi twemutemo  twakawanda kunyaya dzekugovera mashoko uye mitemo inotungamiririra kushandiswa kwemashoko nevanoita mhosva dzechitsotsi atsvakwa kubudikidza nenzira dzeuchenjerii..",Ripoti yemuongorori yanga yakakanganisika zvekuti hapana akakwanisa kuiverenga.,neutral
+"Vamwe vashandi vemuhofisi vakapiwa basa rekubetsera kubvisa vaiva kustairwell vamwe vakaiswa kunobvisa vaiva muPlaza, Concourse nechitesh chePath.",Vashandi vemuhofisi vakapiwa zvekuita.,entailment
+"Vamwe vashandi vemuhofisi vakapiwa basa rekubetsera kubvisa vaiva kustairwell vamwe vakaiswa kunobvisa vaiva muPlaza, Concourse nechitesh chePath.",Vashandi vemuhofisi vaingomhanya chero kwavaidikwa.,contradiction
+"Vamwe vashandi vemuhofisi vakapiwa basa rekubetsera kubvisa vaiva kustairwell vamwe vakaiswa kunobvisa vaiva muPlaza, Concourse nechitesh chePath.",Vashandi vemuhofisi vaipiwa kwekuenda zvichibva nehukuru hwavo.,neutral
+"Musi wa9 Chikunguru, nhau dzinoshamisa dzakasvika kubva kuAfganistan.",Takwana nhau kubva kuAfghanistan.,entailment
+"Musi wa9 Chikunguru, nhau dzinoshamisa dzakasvika kubva kuAfganistan.",Hatina chatakanzwa kubva ku Afganstan kusvika muna Gumiguru,contradiction
+"Musi wa9 Chikunguru, nhau dzinoshamisa dzakasvika kubva kuAfganistan.",Takaudzwa nezvekuuya kwekurwiswa kwemuna Chikunguru zuva repfumbamwe. ,neutral
+"Kutadza kufambisa mashoko changa chiri chinhu chakakosha kuWorld Trade Center, Pentagon, neSomerset County, Pennsylvania, nzvimbo dzakaitikira tsaona kunova kune mapato anomiririra nehutongi hwakasiyana siyana hwakatirimuka. ",Mashoko akafambiswa zvakanyatsonaka zuva regumi nerimwe mwedzi wepfumbamwe.,contradiction
+"Kutadza kufambisa mashoko changa chiri chinhu chakakosha kuWorld Trade Center, Pentagon, neSomerset County, Pennsylvania, nzvimbo dzakaitikira tsaona kunova kune mapato anomiririra nehutongi hwakasiyana siyana hwakatirimuka. ",Vanhu vakava nenguva yakaoma kufambisa mashoko paWorld Trade center nekuti magetsi anga aenda tambo dzenhare dzadonha.,neutral
+"Kutadza kufambisa mashoko changa chiri chinhu chakakosha kuWorld Trade Center, Pentagon, neSomerset County, Pennsylvania, nzvimbo dzakaitikira tsaona kunova kune mapato anomiririra nehutongi hwakasiyana siyana hwakatirimuka. ",Vanhu vakava nenguva yakaoma kufambisa mashoko paWorld Trade center.,entailment
+"Tsvakurudzo yemadhatabhesi aripo ingadai yakabudisa zvitambi zvekudhiraivha, nhamba dzemota, nedzenhare.",Vaongorori vakakumbirawo kuti vaone madhatabhesi ezvebasa.,neutral
+"Tsvakurudzo yemadhatabhesi aripo ingadai yakabudisa zvitambi zvekudhiraivha, nhamba dzemota, nedzenhare.",Marudzi akawanda eruzivo aivamo mumadhatabhesi agara aripo.,entailment
+"Tsvakurudzo yemadhatabhesi aripo ingadai yakabudisa zvitambi zvekudhiraivha, nhamba dzemota, nedzenhare.",Panga pasina nzira yekuwana ruzivo pamusoro pezvidzidzo uchishandisa zvinyorwa zviripo.,contradiction
+"Achiti aive asingagutsikani nezvese zvakaitwa, mutungamiri akazviparadzanisa kubva kunaHazmi and Mihdhar, asi kwete vasati vawana rubatsiro rwavaida.",Mutungamiri akabva angobata vakuru vemutemo ipapo ndokuramba kubatsira munyaya iyi.,contradiction
+"Achiti aive asingagutsikani nezvese zvakaitwa, mutungamiri akazviparadzanisa kubva kunaHazmi and Mihdhar, asi kwete vasati vawana rubatsiro rwavaida.",Mutungamiri wesangano akapa rubatsiro zvisinei nekusagutsikana kwake.,entailment
+"Achiti aive asingagutsikani nezvese zvakaitwa, mutungamiri akazviparadzanisa kubva kunaHazmi and Mihdhar, asi kwete vasati vawana rubatsiro rwavaida.",Rubatsiro rwaive rwe mari nekubetsera kuwana mapepa ekufambisa.,neutral
+"Mugore ra2003, mazita aya akabviswa; nyaya dzose dzeutororo munyika dzose dzaakupiwa zita rimwe, 315.",Nyaya dzese dzeutororo dzinopiwa chitambi chepamusoro kuti dzekukosha.,neutral
+"Mugore ra2003, mazita aya akabviswa; nyaya dzose dzeutororo munyika dzose dzaakupiwa zita rimwe, 315.",Nyaya dzese dzeutororo dzinowana chitambi chimwe.,entailment
+"Mugore ra2003, mazita aya akabviswa; nyaya dzose dzeutororo munyika dzose dzaakupiwa zita rimwe, 315.",Nyaya yese yeutororo inotongwa yoerwa pachezvayo.,contradiction
+"Mushandi wemuhofisi akanga aona South Tower ichidonha, akamhangara kuzvikamu zve ESU mu North Tower murayiro yake yekuti vanhu vabude.",Hapana akasara ari muNorth Tower mushure mekunge South Tower yadonha.,contradiction
+"Mushandi wemuhofisi akanga aona South Tower ichidonha, akamhangara kuzvikamu zve ESU mu North Tower murayiro yake yekuti vanhu vabude.",South Tower yakadonha maminiti makumi matatu mushandi wemuhofisi asati ataura kuzvikwata zveESU muNorth Tower.,neutral
+"Mushandi wemuhofisi akanga aona South Tower ichidonha, akamhangara kuzvikamu zve ESU mu North Tower murayiro yake yekuti vanhu vabude.",Mushandi wemuhofisi akaona kudonha kweSouth tower.,entailment
+Indianapolis ndiyo pachokwadi imwe yenzvimbo dzakanakisisa dzekuti vatambi vashandire vakawanda.,Vatambi vanoda Indianapolis nekuda  kwevese vanoita zvekusarudza vatambi variko.,neutral
+Indianapolis ndiyo pachokwadi imwe yenzvimbo dzakanakisisa dzekuti vatambi vashandire vakawanda.,"Kana urimutambi, unofanira kufunga nezvekunogara kuIndianapolis.",entailment
+Indianapolis ndiyo pachokwadi imwe yenzvimbo dzakanakisisa dzekuti vatambi vashandire vakawanda.,Zvakaoma kuwana basa muIndianapolis kana uri mumafirimu kana bhizinesi remitambo sekuti inzvimbo kunyanya yetekinoroji. ,contradiction
+"Tinopa rubatsiro nenhare maawa makumi maviri nemana pazuva, mazuva manomwe pavhiki kubudikidza ne Prevention Information Resource Center &amp; Parent Help line.",Vanhu vanongogona kutibata kubudikidza netsamba kana vachishandisa email.,contradiction
+"Tinopa rubatsiro nenhare maawa makumi maviri nemana pazuva, mazuva manomwe pavhiki kubudikidza ne Prevention Information Resource Center &amp; Parent Help line.",Tinobatika nerunhare chero nguva pazuva.,entailment
+"Tinopa rubatsiro nenhare maawa makumi maviri nemana pazuva, mazuva manomwe pavhiki kubudikidza ne Prevention Information Resource Center &amp; Parent Help line.",Tinogashira nhare dzinodarika zana muvhuro nechishanu chega chega .,neutral
+"Nekuti mabhokisi aya achagara mumaputiro awo zvimwe zvipo zvese zvavhurwa,",Mabhokisi ane mabhomba anokuvadza.,neutral
+"Nekuti mabhokisi aya achagara mumaputiro awo zvimwe zvipo zvese zvavhurwa,",Mabhokisi awa achatanga kuvhurwa zvimwe zvipo zvisati zvavhurwa,contradiction
+"Nekuti mabhokisi aya achagara mumaputiro awo zvimwe zvipo zvese zvavhurwa,",Mabhokisi aya achambogara akavharwa kwenguva yakati rebei.,entailment
+"Tikachengeta mitengo yedu iri pasi, tinofanira kuuya kwamuri, vateereri vedu, kukumbira zvamungakwanisa kupa kuti zvitibetsere kubudisa chinangwa ichi.","Kuti tiite kuti mutengo wematikiti edu uve pasi pemadhora gumi, tinoda vese vevateereri vedu kupa rubatsito rwemadhora makumi maviri nemashanu.",neutral
+"Tikachengeta mitengo yedu iri pasi, tinofanira kuuya kwamuri, vateereri vedu, kukumbira zvamungakwanisa kupa kuti zvitibetsere kubudisa chinangwa ichi.","Taigona kuita kuti mitengo yedu irambe yakadzikira kana tainyatsoda, tisina mari yenyu, asi shefu vedu vanoda zvinhu zvakavanakira.",contradiction
+"Tikachengeta mitengo yedu iri pasi, tinofanira kuuya kwamuri, vateereri vedu, kukumbira zvamungakwanisa kupa kuti zvitibetsere kubudisa chinangwa ichi.",Zvamunogona kutipa zvinotibetsera kuti mitengo yedu irambe yakadzika.,entailment
+"00 akabatsira kuti zvigoneke kuti tipe gwara, kurudziro, nemufaro kuvana vanovavarira mazana mana venzvimbo yeIndianapolis.","Tinopa rutendo kune vakatipa rubatsiro rwakasununguka , takakwanisa kukoka Beyonce kuti aite konzeti yenherera dzemuIndianapolis.",neutral
+"00 akabatsira kuti zvigoneke kuti tipe gwara, kurudziro, nemufaro kuvana vanovavarira mazana mana venzvimbo yeIndianapolis.",Taive netariro yekuitira vana mutambo wekisimisi asi hatina kumbobvira tagona kuvaitira chinhu.,contradiction
+"00 akabatsira kuti zvigoneke kuti tipe gwara, kurudziro, nemufaro kuvana vanovavarira mazana mana venzvimbo yeIndianapolis.",Takakwanisa kubetsera vana vakawanda vemuIndianapolis.,entailment
+"Pekutanga, vanhu vaitora chikamu nekupa chipo chechuru chemadhora kana kudarika pagore  cheChancellor's Circle kana chemazana mashanu emadhora kana kudarika cheChancellors Associates.",Vanhu vanogona kutora chikamu kana vaparubatsiro rudiki rwemadhora makumi mashanu.,contradiction
+"Pekutanga, vanhu vaitora chikamu nekupa chipo chechuru chemadhora kana kudarika pagore  cheChancellor's Circle kana chemazana mashanu emadhora kana kudarika cheChancellors Associates.",Vanhu vanogona kutora chikamu kana vapa rubatsiro rwakakura zvinokodzera.,entailment
+"Pekutanga, vanhu vaitora chikamu nekupa chipo chechuru chemadhora kana kudarika pagore  cheChancellor's Circle kana chemazana mashanu emadhora kana kudarika cheChancellors Associates.",Vanhu vazhinji vanowanzosarudza kupa rubatsiro ku Chancellors Associates.,neutral
+Chipo chako panguva dzino chinogona kukupa rumwe rubatsiro pamutero wekupera kwegore.,"Ukaita chipo chinotangira pachuru chemadhora, unokwanisa kubatsirika nekubvisirwa mutero.",neutral
+Chipo chako panguva dzino chinogona kukupa rumwe rubatsiro pamutero wekupera kwegore.,"Kushata kwazvo, vanotiparuzivo nezvemitero vanokupai yambiro kuti usapa zvipo.",contradiction
+Chipo chako panguva dzino chinogona kukupa rumwe rubatsiro pamutero wekupera kwegore.,Munogona kubvisirwa mitero kubva kurubatsiro rwenyu.,entailment
+"Sezvamunoziva, kuvanhengo yeboka rino zvinosanganisira idzo shamwari nevakambodzidza pano vanopa churu chemadhora kana kupfuura pagore rega rega kuchikoro chemutemo.",Vamwe vanhu veboka vakapa rubatsiro rwemazana ezvuru kuchikoro.,neutral
+"Sezvamunoziva, kuvanhengo yeboka rino zvinosanganisira idzo shamwari nevakambodzidza pano vanopa churu chemadhora kana kupfuura pagore rega rega kuchikoro chemutemo.",Tine vanhu vari muboka rino vakapa madhora anodarika churu kuchikoro chemutemo.,entailment
+"Sezvamunoziva, kuvanhengo yeboka rino zvinosanganisira idzo shamwari nevakambodzidza pano vanopa churu chemadhora kana kupfuura pagore rega rega kuchikoro chemutemo.","Tiri kuronga kukumbira boka rino kupa mari kuchikoro, asi hatina kumbobvira takadaro.",contradiction
+"Semwana aikura mumakore emakumi mashanu, imwe yendangariro dzangu dzinofadza kuenda kumitambo yaibudiswa neCIvic Theatre. ","Ndaivenga kuenda kuzviratidzwa zvekudandaro semwana mudiki, ndosaka ndakazoita saindisiti. ",contradiction
+"Semwana aikura mumakore emakumi mashanu, imwe yendangariro dzangu dzinofadza kuenda kumitambo yaibudiswa neCIvic Theatre. ",Ndaifarira kuenda kudandaro ndiri mudiki.,entailment
+"Semwana aikura mumakore emakumi mashanu, imwe yendangariro dzangu dzinofadza kuenda kumitambo yaibudiswa neCIvic Theatre. ",Mutambo weCivic Theatre wandaifarira wainzi Beauty and the Beast.,neutral
+Kana wese anowana tsamba iyi akangopa chero madhora gumi nemasere.,"Wese achawana tsamba iyi: usape mari yako, ndezvechitsotsi.",contradiction
+Kana wese anowana tsamba iyi akangopa chero madhora gumi nemasere.,"Ukabvisa mari yerubatsiro madhora gumi nemasere, tinokupa chipo.",neutral
+Kana wese anowana tsamba iyi akangopa chero madhora gumi nemasere.,Tinovimba vese vakapiwa matsamba vachatipa rubatsiro rwemadhora gumi nemasere.,entailment
+"Chingobvisa chepasi, wona zviripo zvinogona kupindapo, chinja kero yako kana zvichikodzera wotumira muhamvuropu yakavharwa.",Tapota musachinja chinhu pakero dzenyu.,contradiction
+"Chingobvisa chepasi, wona zviripo zvinogona kupindapo, chinja kero yako kana zvichikodzera wotumira muhamvuropu yakavharwa.",Mune hamvuropu chena mukati ine kero yako.,neutral
+"Chingobvisa chepasi, wona zviripo zvinogona kupindapo, chinja kero yako kana zvichikodzera wotumira muhamvuropu yakavharwa.",Munogona kuchinja kero yenyu kana muchiona paine kodzero.,entailment
+Chikoro cheukoti chinoda rubatsiro rwenyu rwakasununguka kuti chienderere mberi uye kusimudzira ushasha hwacho mudzidzo.,"Tapota ipai rubatsiro rwemadhora mamiriyoni zana kuchikoro cheukoti, kana kuti munorashikirwa nekuratidzika kunoyemurika.",neutral
+Chikoro cheukoti chinoda rubatsiro rwenyu rwakasununguka kuti chienderere mberi uye kusimudzira ushasha hwacho mudzidzo.,"Chikoro cheukoti chakazadzisa chinangwa chayo chemari, saka haichdi imwe mari zvakare.",contradiction
+Chikoro cheukoti chinoda rubatsiro rwenyu rwakasununguka kuti chienderere mberi uye kusimudzira ushasha hwacho mudzidzo.,Tinovimba muchapa rubatsiro kuchikoro cheukoti.,entailment
+Zvikamu zvisere muzana yevakapinda muchirongwa vachazivisa nezvekuwedzera kweunyanzvi hwekugadzirisa kupokana.,Vanodarika hafu yevakapinda muchirongwa vachazivisa kuwedzera kweunyanzvi hwekugadzirisa kupokana.,entailment
+Zvikamu zvisere muzana yevakapinda muchirongwa vachazivisa nezvekuwedzera kweunyanzvi hwekugadzirisa kupokana.,Chikamu chimwe muzvina chete chevakapinda muchirongwa chichazivisa nezvekuwedzera kweunyanzvi hwezvekugadzirisa kupokana.,contradiction
+Zvikamu zvisere muzana yevakapinda muchirongwa vachazivisa nezvekuwedzera kweunyanzvi hwekugadzirisa kupokana.,Kwaive nevanopfuura zana vakapinda muchirongwa vakazvimirira.,neutral
+Tapota musadzokera kumashure kupinda mumazita evaipa rubatsiro vakazomira.,Zvinozonyadzisa ukamira kupa rubatsiro. ,entailment
+Tapota musadzokera kumashure kupinda mumazita evaipa rubatsiro vakazomira.,"Mazita evaitipa rubatsiro vakazomira anotsikiswa kuti pasi rose rione, saka vimbai neni, haudi kuzonyadziswa zvakadaro!",neutral
+Tapota musadzokera kumashure kupinda mumazita evaipa rubatsiro vakazomira.,"Tine vapi verubatsiro vakawanda, tapota mirai kuparubatsiro.",contradiction
+Mukana wekupinda munhandare dzedu unovhurirwa kune munhu wese ane kombiyuta nemodhemu. ,Vanhu havana chavanoda kuti vakwanise kupinda munhandare.,contradiction
+Mukana wekupinda munhandare dzedu unovhurirwa kune munhu wese ane kombiyuta nemodhemu. ,Vanhu vanoda zvese kombiyuta nemodhemu kuti vapinde munhandare.,entailment
+Mukana wekupinda munhandare dzedu unovhurirwa kune munhu wese ane kombiyuta nemodhemu. ,"Vanhu vanofanira kutakura kombiyuta nemodhemu dzavo vachipinda munhandare, kuitira kuti vawane mukana wekupinda.",neutral
+Kutengesa matikiti nemari dzekunyoresa hazvigoni kutipa mari inopedza mwaka wakazara.,Kana tingori nemari dzekutengesa matikiti nemari dzekunyoresa mwaka wedu wese unenge uine mari yakakwana.,contradiction
+Kutengesa matikiti nemari dzekunyoresa hazvigoni kutipa mari inopedza mwaka wakazara.,Mwaka wedu wakazara unoda mari yakawanda kudarika mari yekutengesa matikiti neyekunyoresa chete.,entailment
+Kutengesa matikiti nemari dzekunyoresa hazvigoni kutipa mari inopedza mwaka wakazara.,Kutengesa matikiti uye mari dzekunyoresa dzinongokwana zvikamu makumi manomwe muzana zvemari inodiwa kuti tipedze mwaka.,neutral
+ZVITSVA ZVICHANGOSVIKA CHIPO CHESE CHINOPA MUSIYANO!,Chipo chega chega chinonyorwa choziviswa mujenari redu remwedzi.,neutral
+ZVITSVA ZVICHANGOSVIKA CHIPO CHESE CHINOPA MUSIYANO!,Chipo chose chapiwa chinobetsera chimwe chinhu.,entailment
+ZVITSVA ZVICHANGOSVIKA CHIPO CHESE CHINOPA MUSIYANO!,Zvipo zvinodarika madhora zana chete ndizvo zvinoitisa mutsauko.,contradiction
+"Tine rwendo rwakakura tisati tasvika pachinangwa chedu chemadhora mazana matatu, nemakumi matanhatu nemashanu kubva kushamwari nevateveri vedu semi.",Chinangwa chedu chemari chinodarika madhora mazana matatu ezvuru.,entailment
+"Tine rwendo rwakakura tisati tasvika pachinangwa chedu chemadhora mazana matatu, nemakumi matanhatu nemashanu kubva kushamwari nevateveri vedu semi.",Tirikutarisira kuvirika rutatu zvinangwa zvedu zvemari.,neutral
+"Tine rwendo rwakakura tisati tasvika pachinangwa chedu chemadhora mazana matatu, nemakumi matanhatu nemashanu kubva kushamwari nevateveri vedu semi.",Hatina miganhu yatingaenzanisa nayo nenyaya dzemari.,contradiction
+"Civil Practice Clinic yedu yashanda kwemakore akawanda, uye manje manje takawedzera Criminal defence Clinic.",Civil Practice Clinic yedu yaana nemakore masere ichishanda.,neutral
+"Civil Practice Clinic yedu yashanda kwemakore akawanda, uye manje manje takawedzera Criminal defence Clinic.",Civil practice Clinic yedu iri kupemberera gore rayo rekutanga rakazara ichishanda mwedzi unouya.,contradiction
+"Civil Practice Clinic yedu yashanda kwemakore akawanda, uye manje manje takawedzera Criminal defence Clinic.",Civil practice Clinic yashanda kwenguva inodarika gore.,entailment
+Mari inobva kumatikiti haikwani kubhadhara mitengo yezvirongwa izvi zvese.,Zvinoratidza sekuti mutengo wezvirongwa izvi haugoni kubhadharwa wese nemari inobva kumatikiti.,entailment
+Mari inobva kumatikiti haikwani kubhadhara mitengo yezvirongwa izvi zvese.,Mutengo wezvirongwa izvi wakakwirira zvakanyanya.,neutral
+Mari inobva kumatikiti haikwani kubhadhara mitengo yezvirongwa izvi zvese.,Mutengo wetikiti unosanganisira mutengo wezvirongwa izvi.,contradiction
+Rudo runokunda zvose (kunze kwekuti uchishandira  Weekly Standard): Brit Hume ( Nhau dze Fox Svondo ) anofungidzira pakuti nemhaka yei  Lewinsky angarega.  Achiri nerudo kumutungamiri wenyika zvakanyanya zvisina tariro.,Brit Hume ndiye mutauri mukuru wenhau kuFox.,neutral
+Rudo runokunda zvose (kunze kwekuti uchishandira  Weekly Standard): Brit Hume ( Nhau dze Fox Svondo ) anofungidzira pakuti nemhaka yei  Lewinsky angarega.  Achiri nerudo kumutungamiri wenyika zvakanyanya zvisina tariro.,Brit Hume anoshandira CNN..,contradiction
+Rudo runokunda zvose (kunze kwekuti uchishandira  Weekly Standard): Brit Hume ( Nhau dze Fox Svondo ) anofungidzira pakuti nemhaka yei  Lewinsky angarega.  Achiri nerudo kumutungamiri wenyika zvakanyanya zvisina tariro.,Brit Hume anoshandira Fox.,entailment
+Zvakawanda zvaitwa nezvekupinzwa basa kwa Michael Apted kuti pave nekahunhu kanonzikwa mukurongwa wemitambo.,Michael Apted akakanganisa firimu nekumanikidzira kuti pabviswe zvese zvairatidza mwoyo wekunzwira wehunhu.,contradiction
+Zvakawanda zvaitwa nezvekupinzwa basa kwa Michael Apted kuti pave nekahunhu kanonzikwa mukurongwa wemitambo.,Michael Apted akapinzwa basa kuti pave nekahunhu mumuronga wemitambo.,entailment
+Zvakawanda zvaitwa nezvekupinzwa basa kwa Michael Apted kuti pave nekahunhu kanonzikwa mukurongwa wemitambo.,"Firimu rakaonekwa sekuti rairatidza kutonhora uye kusvota, saka zvanga zvakakosha kupinza basa Michael Apted kuwedzera kahunhu nekudiwa kwaro",neutral
+Kuyeva  musikana akapfeka jasi jena rine mamvere nebhutsu.,Musikana apfekera kunotsvedza muchando.,neutral
+Kuyeva  musikana akapfeka jasi jena rine mamvere nebhutsu.,Musikana anopfeka hembe chena.,entailment
+Kuyeva  musikana akapfeka jasi jena rine mamvere nebhutsu.,Musikana akapfeka zvitsvuku.,contradiction
+Chisina kuitwa nefirimu  kutaura kuti Kaufman anga agara achitaura kubvisa kwaaida kuzoita rufu rwake. ,Firimu haritauri Kaufman achikurukura nezvekufa kwake.,entailment
+Chisina kuitwa nefirimu  kutaura kuti Kaufman anga agara achitaura kubvisa kwaaida kuzoita rufu rwake. ,Firimu raive nebvunzurudzo yakadzika naKaufman nezvekufa kwake.,contradiction
+Chisina kuitwa nefirimu  kutaura kuti Kaufman anga agara achitaura kubvisa kwaaida kuzoita rufu rwake. ,"Firimu range rinembiri, kunyangwe raisiya nhoroondo yakakosha nezvaKaufman.",neutral
+Rockfeller akabatwa mukupa zvinoshungurudza pakatanga Avenging Angel Tarbell kubvarura nyama yake munaMcClure.,Rockfeller akapa kutsvagiridzo yegomarara.,neutral
+Rockfeller akabatwa mukupa zvinoshungurudza pakatanga Avenging Angel Tarbell kubvarura nyama yake munaMcClure.,Rockfeller aipa.,entailment
+Rockfeller akabatwa mukupa zvinoshungurudza pakatanga Avenging Angel Tarbell kubvarura nyama yake munaMcClure.,Rockfeller ainyima.,contradiction
+"Manjemanje, munyaya yezvekutengeserana muNew York, Klayman akazviwana ari rimwe divi rekupomerwa rusarura rudzi.",Klayman akapomerwa mhosva nenyaya yerusarura rudzi kuCalifornia.,contradiction
+"Manjemanje, munyaya yezvekutengeserana muNew York, Klayman akazviwana ari rimwe divi rekupomerwa rusarura rudzi.",Klayman haana kutarisira kutongwa nemhosva yekusarura rudzi.,neutral
+"Manjemanje, munyaya yezvekutengeserana muNew York, Klayman akazviwana ari rimwe divi rekupomerwa rusarura rudzi.",Paive nekupomerwa mhosva dzekusarura rudzi kuna Klayman.,entailment
+"Munhu haanganyanyotarisira vamiriri vamakambani vakazadza imba kuridza mheterwa, kusvora nekudaidzira bhuratishiti kumunyori ari panzvimbo wezvemabasa weUS.",Vamiriri vemakambani vanopfeka masutu.,neutral
+"Munhu haanganyanyotarisira vamiriri vamakambani vakazadza imba kuridza mheterwa, kusvora nekudaidzira bhuratishiti kumunyori ari panzvimbo wezvemabasa weUS.",Munhu angatarisira vamiriri vemakambani kuridza mheterwa.,contradiction
+"Munhu haanganyanyotarisira vamiriri vamakambani vakazadza imba kuridza mheterwa, kusvora nekudaidzira bhuratishiti kumunyori ari panzvimbo wezvemabasa weUS.",Munhu haangatarisiri vamiriri vemakambani kuridza mheterwa.,entailment
+"Nekuda kwekuti mukudzirwo wemunhu unonyanyoonekera pahunyanzvi wemutambi, hazvirevi kuti kuzvarwa zviri munyama hakubatsiri.",Vanhu vanomhanya vanozvarwa vaine kugona kwavo kwese.,contradiction
+"Nekuda kwekuti mukudzirwo wemunhu unonyanyoonekera pahunyanzvi wemutambi, hazvirevi kuti kuzvarwa zviri munyama hakubatsiri.",Kumhanya kunonyanyokonzerwa nekudzidzira pane kuzvarwa zviri mumunhu.,entailment
+"Nekuda kwekuti mukudzirwo wemunhu unonyanyoonekera pahunyanzvi wemutambi, hazvirevi kuti kuzvarwa zviri munyama hakubatsiri.",Vamhanyi vazhinji vanozvikoshesa vanodzidzira maawa masere pazuva.,neutral
+"Ndasvika kumba, ndakanzwa kuti United States inorega kupa zvainositumira nenzira mbiri.",Ndinofarira zvematongerwo enyika.,neutral
+"Ndasvika kumba, ndakanzwa kuti United States inorega kupa zvainositumira nenzira mbiri.",Ndakadzidza pamusoro peUnited Sates.,entailment
+"Ndasvika kumba, ndakanzwa kuti United States inorega kupa zvainositumira nenzira mbiri.",Ndakanzwa kuti United States inorega kupa zvainositumira nenzira mbiri ndisati ndasvika kumba.,contradiction
+Yunivhesiti  yekutsikisa yekaresa uye hombe pasi rese  -Oxford- ichangobva mukuzivisa kuti yavakurega nhetembo dzehurongwa hwezvinhu.,Nhetembo dzehurongwa hwezvinhu  paOxford hadzichacharambi dzichiitwa.,entailment
+Yunivhesiti  yekutsikisa yekaresa uye hombe pasi rese  -Oxford- ichangobva mukuzivisa kuti yavakurega nhetembo dzehurongwa hwezvinhu.,Yunivhesiti inembiri haina mari yekuti nhetembo dzehurongwa hwezvinhu dzirambe dzichienderera. ,neutral
+Yunivhesiti  yekutsikisa yekaresa uye hombe pasi rese  -Oxford- ichangobva mukuzivisa kuti yavakurega nhetembo dzehurongwa hwezvinhu.,Yunivhesiti inozvipira kuchengetedza nhetembo dzehurongwa hwezvinhu uye inopika kusadziregedza.,contradiction
+Pane mubairo wekunyaradza vanhu hapo. ,Mubairo wekunyaradza itwo speed blender inopiwa pachena kumunhu wese.,neutral
+Pane mubairo wekunyaradza vanhu hapo. ,Hapana divi ririnane kuvanhu muchiitiko chakadai.,contradiction
+Pane mubairo wekunyaradza vanhu hapo. ,Idzi hadzisi nyaya dzakangoipa dzega  kuvanhu.,entailment
+Mitambo haisiyo yega inobhejerwa panzvimbo dzino.,Kubheja nezvematongerwo enyika nesarudzo zvinobvumirwawo panzvimbo idzi. ,neutral
+Mitambo haisiyo yega inobhejerwa panzvimbo dzino.,Nzvimbo dzino dzinobvuma kubhejera zvemitambo chete. ,contradiction
+Mitambo haisiyo yega inobhejerwa panzvimbo dzino.,Nzvimbo dzino dzinoitirwa zvekubheja pazvinhu zvakawanda.,entailment
+"Musi wa25 Nyamavhuvhu, mushure mekunge Democratic convention yavhurwa muAtlantic City, N.J., Johnson aive nemakore makumi mashanu nematanhatu panguva iyoyo, akatyisidzira munhaurwa nhatu dzakatapwa kuti anobuda musarudzo dzekuva mukuru wenyika",Johnson akanzwa kushaya vanomutsigira. ,neutral
+"Musi wa25 Nyamavhuvhu, mushure mekunge Democratic convention yavhurwa muAtlantic City, N.J., Johnson aive nemakore makumi mashanu nematanhatu panguva iyoyo, akatyisidzira munhaurwa nhatu dzakatapwa kuti anobuda musarudzo dzekuva mukuru wenyika",Johnson haana kumbofunga zvekubuda mazviri.,contradiction
+"Musi wa25 Nyamavhuvhu, mushure mekunge Democratic convention yavhurwa muAtlantic City, N.J., Johnson aive nemakore makumi mashanu nematanhatu panguva iyoyo, akatyisidzira munhaurwa nhatu dzakatapwa kuti anobuda musarudzo dzekuva mukuru wenyika",Johnson akatyisidzira achiti anobuda mazviri.,entailment
+Lamar Alexander akabuda mukwikwidzo yekuva mutungamiri mukuru wenyika.,Pane  mumwe mumwe zvichikwidza akaregedza zvekuedza kuita mutungamiri mukuru,entailment
+Lamar Alexander akabuda mukwikwidzo yekuva mutungamiri mukuru wenyika.,Lama Alexander akaramba kurega kukwikwidza kuva mutungamiri mukuru.,contradiction
+Lamar Alexander akabuda mukwikwidzo yekuva mutungamiri mukuru wenyika.,VaAlexander vakamanikidzwa kubuda mushure mekunge mifananidzo yavo inonyadzisa yakabudiswa pachena. ,neutral
+"Pamusoro penyaya inosvoresa yekushandisa masimba eruzhinji  zvisizvo, pane kushandiswa zvisina kodzero kweFBI muofffice yetsvakurudzo dzezvekufamba yekutanga yeWhite House uye chaakuzivikanwa se Filegate.",Whitehouse yakatumira vasori veFBI kune vari kukwikwidza zvematongerwo enyika.,neutral
+"Pamusoro penyaya inosvoresa yekushandisa masimba eruzhinji  zvisizvo, pane kushandiswa zvisina kodzero kweFBI muofffice yetsvakurudzo dzezvekufamba yekutanga yeWhite House uye chaakuzivikanwa se Filegate.",Whitehouse inoshandisa FBI zvisizvo.,entailment
+"Pamusoro penyaya inosvoresa yekushandisa masimba eruzhinji  zvisizvo, pane kushandiswa zvisina kodzero kweFBI muofffice yetsvakurudzo dzezvekufamba yekutanga yeWhite House uye chaakuzivikanwa se Filegate.",Whitehouse inoshandisa FBI zvakanaka.,contradiction
+Tung akapika kutevera vanoita nezvekutenga nekutengeswa kwedzimba asi vazhinji vanofunga kuti kutaura kwake kuchadarika kuita kwake basa.,Tung haanei nevanoita zvekutenga nekutengesa dzimba.,contradiction
+Tung akapika kutevera vanoita nezvekutenga nekutengeswa kwedzimba asi vazhinji vanofunga kuti kutaura kwake kuchadarika kuita kwake basa.,Tung ari kufunga kuti vanoongorora nezvekutenga nelkutengesa dzimba vari kuita zvisingatenderwi,neutral
+Tung akapika kutevera vanoita nezvekutenga nekutengeswa kwedzimba asi vazhinji vanofunga kuti kutaura kwake kuchadarika kuita kwake basa.,Tung anoda kupesvedzera vanoita zvekutenga nekutengesa dzimba,entailment
+"Nyunyuto yaisanganisira matambudziko emitundu mundege, vashandi vemundege vakavanongosunyaira, nenzendo dzendege dzinongokanzurwa uye matambudziko ari munhanho dzokubhadhara.",Vanhu gumi vakashayiwa mitundu yavo.,neutral
+"Nyunyuto yaisanganisira matambudziko emitundu mundege, vashandi vemundege vakavanongosunyaira, nenzendo dzendege dzinongokanzurwa uye matambudziko ari munhanho dzokubhadhara.",Vanhu vakanyunyutira mitundu.,entailment
+"Nyunyuto yaisanganisira matambudziko emitundu mundege, vashandi vemundege vakavanongosunyaira, nenzendo dzendege dzinongokanzurwa uye matambudziko ari munhanho dzokubhadhara.",Panga pasina nyunyuto zvachose.,contradiction
+"Lawrence Singleton, bhinya rinozivikanwa akagura umwe weakauraya maoko uye akapedza makore masere ari mujere, asungwa nenyaya yekuuraya nekubaya mumwe mukadzi muFlorida.",Apedza kucheka maoko emumwe wevanhu vaakauraya akaedza kuaviga mumugomo wekuchengetera marara.,neutral
+"Lawrence Singleton, bhinya rinozivikanwa akagura umwe weakauraya maoko uye akapedza makore masere ari mujere, asungwa nenyaya yekuuraya nekubaya mumwe mukadzi muFlorida.",Zvaiva pachena kumunhu wese kuti nguva yavakagara mujere yakamushandura chose.,contradiction
+"Lawrence Singleton, bhinya rinozivikanwa akagura umwe weakauraya maoko uye akapedza makore masere ari mujere, asungwa nenyaya yekuuraya nekubaya mumwe mukadzi muFlorida.",VaSingleton munhu akabatwa nemhosva yekubata chibharo KuFlorida.,entailment
+Charles Lane we New Republic anoti nhau yekutapwa inongowedzera chete mbiri yaGarcaa Marquez yekusavimbika pakubidisa nhau.,Charles Lane mutori wenhau.,entailment
+Charles Lane we New Republic anoti nhau yekutapwa inongowedzera chete mbiri yaGarcaa Marquez yekusavimbika pakubidisa nhau.,Charles Lane aitengesa mota.,contradiction
+Charles Lane we New Republic anoti nhau yekutapwa inongowedzera chete mbiri yaGarcaa Marquez yekusavimbika pakubidisa nhau.,Charles Lane akahwina Pulitzer.,neutral
+Kukoti hakusiko kwega kurikuitwa  nhambe tambe yezvematongero enyika muWashington mangwanani ano,Kukoti hakusiko chete kunoitirwa zvematongerao enyika muWashington.,entailment
+Kukoti hakusiko kwega kurikuitwa  nhambe tambe yezvematongero enyika muWashington mangwanani ano,Zuva rekuita zvemasimba nezvekutongwa kwenyika rinotanga mangwanani.,neutral
+Kukoti hakusiko kwega kurikuitwa  nhambe tambe yezvematongero enyika muWashington mangwanani ano,Kune nhambe tambe kudare redzimhosva nevanhu varikuita zvisina tsarukano.,contradiction
+"Funga hako mutyairi webhurudhoza achicheka nzira munzvimbo itsva achirumbidzwa nemukuru wezvekuvaka. Ndeipi, Loyd ...",Funga hako mutyairi  webhurudhoza achirimutsa.,neutral
+"Funga hako mutyairi webhurudhoza achicheka nzira munzvimbo itsva achirumbidzwa nemukuru wezvekuvaka. Ndeipi, Loyd ...",Funga hako mutyairi webhurudhoza.,entailment
+"Funga hako mutyairi webhurudhoza achicheka nzira munzvimbo itsva achirumbidzwa nemukuru wezvekuvaka. Ndeipi, Loyd ...",Haugoni kufungidzira mutyairi webhurudhoza.,contradiction
+Ndakataura izvi mutsamba yandakanyorera chiremba. Zvakaita sekumunakidza. Ndobva anditumira chikeke chine michero paKisimusi.,Ndine chokwadi kuti chiremba vakawana tsamba yandakavatumira.,entailment
+Ndakataura izvi mutsamba yandakanyorera chiremba. Zvakaita sekumunakidza. Ndobva anditumira chikeke chine michero paKisimusi.,Handina kudya keke rakatumirwa nachiremba pakirisimasi iyoyo.,neutral
+Ndakataura izvi mutsamba yandakanyorera chiremba. Zvakaita sekumunakidza. Ndobva anditumira chikeke chine michero paKisimusi.,Chiremba vakanditumira bhodhoro rewaini pakirisimasi.,contradiction
+"Chikwata ichi chaimbozikanwa nekudaidzwa zita rekuti Beaneaters, rinogona,  nenzira inoshamisa, kutorwa sezita remadunhurirwa rechiIndian.",Chikwata chakachinja zita racho nekuti ranga risina mbiri.,neutral
+"Chikwata ichi chaimbozikanwa nekudaidzwa zita rekuti Beaneaters, rinogona,  nenzira inoshamisa, kutorwa sezita remadunhurirwa rechiIndian.",Chikwata chaive nezita mumashure meiri raigona kuonekwa sezita remadunhurirwa rechi India.,entailment
+"Chikwata ichi chaimbozikanwa nekudaidzwa zita rekuti Beaneaters, rinogona,  nenzira inoshamisa, kutorwa sezita remadunhurirwa rechiIndian.",Chikwata ichi chakangoita zita rimwe chete.,contradiction
+Ndakashaya  tsanangudzo yakadaro muduramanzwi.,Ndakawana tsanangudzo muduramanzwi.,contradiction
+Ndakashaya  tsanangudzo yakadaro muduramanzwi.,Ndakatarisa muduramanzwi ndikasaona tsanangudzo.,entailment
+Ndakashaya  tsanangudzo yakadaro muduramanzwi.,Duramanzwi randakashandisa ndiro rine tsanangudzo dzakabvumiranwa.,neutral
+Munhu anoita zvakadaro sei?,Vanhu vakawanda kudaro vanotadza kuita chinhu sei?,contradiction
+Munhu anoita zvakadaro sei?,Munhu anoita zvakashata kudaro sei?,neutral
+Munhu anoita zvakadaro sei?,Zvinogoneka sei kuti munhu aite zvakadaro?,entailment
+"Huye, rine manzwi anongozikanwa seakabva mumakore makumi maviri ezvuru,sezviri muchinyorwa chekutanga, asi rinosiya mutauro wakareruka waishandiswa nemasoja enguva yemakumi maviri ezvuru zvemakore.","Sezviri muchinyorwa chekutanga, rine mazwi akasimuka mumakore emakore makumi maviri ezvuru asi hamuna mazwi akareruka akatanga kuuya..",entailment
+"Huye, rine manzwi anongozikanwa seakabva mumakore makumi maviri ezvuru,sezviri muchinyorwa chekutanga, asi rinosiya mutauro wakareruka waishandiswa nemasoja enguva yemakumi maviri ezvuru zvemakore.",Rine mitauro yakareruka yese kubva kutanga kwenguva.,contradiction
+"Huye, rine manzwi anongozikanwa seakabva mumakore makumi maviri ezvuru,sezviri muchinyorwa chekutanga, asi rinosiya mutauro wakareruka waishandiswa nemasoja enguva yemakumi maviri ezvuru zvemakore.",Kune mitauro yakareruka yakawanda yekubva kumashure kwe makumi maviri ezvuru.,neutral
+Kana munhu anga aine dzokorodzo ya1984 anogona kungoitumira zvakare  achifanira kuzotenga bhuku iri pane muwedzeredwa wacho usingadhuri uye usina kurebesa.,Dzokorodzo yemuna1984 ndiyo yakanaka kupfuura dzimwe.,neutral
+Kana munhu anga aine dzokorodzo ya1984 anogona kungoitumira zvakare  achifanira kuzotenga bhuku iri pane muwedzeredwa wacho usingadhuri uye usina kurebesa.,Bhuku harisi kutengeswa.,contradiction
+Kana munhu anga aine dzokorodzo ya1984 anogona kungoitumira zvakare  achifanira kuzotenga bhuku iri pane muwedzeredwa wacho usingadhuri uye usina kurebesa.,Muwedzeredzwa wacho wakachipa pane bhuku racho.,entailment
+Bernstein anotsanangudza munhanganyaya.,Bernstein haazvitsananguri zvineudzamu.,neutral
+Bernstein anotsanangudza munhanganyaya.,Bernstern akangozvitsanangura mumhedziso.,contradiction
+Bernstein anotsanangudza munhanganyaya.,Nhanganyaya ine tsanangudzo.,entailment
+"Hazvisi kukurudzirwa kuti vasungwa ava vamiswe, nekuda kwengoti zvinonetsa, chero kwapera makore makumi maviri  vari mukati medzimwe tsika nemagariro kuti vanhu vekunze vanzwisise kuti chii chinonakidza pazviri.",Kunyangwe vene vemutauro chaivo vanonetseka nekunakidza vanhu.,neutral
+"Hazvisi kukurudzirwa kuti vasungwa ava vamiswe, nekuda kwengoti zvinonetsa, chero kwapera makore makumi maviri  vari mukati medzimwe tsika nemagariro kuti vanhu vekunze vanzwisise kuti chii chinonakidza pazviri.",Mutaura unosetsa ndechimwe chezvinhu zviri nyore kuti vanhu vekunze vanzwisise.,contradiction
+"Hazvisi kukurudzirwa kuti vasungwa ava vamiswe, nekuda kwengoti zvinonetsa, chero kwapera makore makumi maviri  vari mukati medzimwe tsika nemagariro kuti vanhu vekunze vanzwisise kuti chii chinonakidza pazviri.",Zvidzidzo izvi zvakagozha kunzwisiswa nemunhu wekunze.,entailment
+"Chekupedzisira, munhu anofana kuchenjerera rebeso yemutsara inoreva zvakanyatsosiyana.",Vapepeti vanowanzopinzwa basa kuti vabate mhosho yakaita seiyi.,neutral
+"Chekupedzisira, munhu anofana kuchenjerera rebeso yemutsara inoreva zvakanyatsosiyana.",Kunyora mutsetse wakareba inzira yekuti uve nechokwadi chekuti zvirikurehwa nechirevo zvabuda.,contradiction
+"Chekupedzisira, munhu anofana kuchenjerera rebeso yemutsara inoreva zvakanyatsosiyana.",Zvinorehwa nemutsara zvinogona kuchinja mukuedza kuurebesa.,entailment
+Ita kuti musoro wako nekupisa  uite dzungu.,Kuwedzera kupisa mumusoro wemunhu inzira yakanaka yekuwedzera kudzikama uye kuisa pfungwa pamwe chete.,contradiction
+Ita kuti musoro wako nekupisa  uite dzungu.,Kunyanyopisisa kunogona kukonzera dzungu nedzimwe nguva.,entailment
+Ita kuti musoro wako nekupisa  uite dzungu.,Nhasi madhigirii anga ari mashanu pasi peanowanzotarisirwa pamwaka.,neutral
+Hakuna imwe mhando yebasa ine nhoroondo yekuzvidzikisira kudai.,Mamwe mapato emabasa anozvionera pamusoro chose.,neutral
+Hakuna imwe mhando yebasa ine nhoroondo yekuzvidzikisira kudai.,Mapato emabasa mazhinji ane nhoroondo dzekuzvitarisira pasi,contradiction
+Hakuna imwe mhando yebasa ine nhoroondo yekuzvidzikisira kudai.,Hakuna rimwe basa rine nhoroondo yekuzvishora.,entailment
+"Nerudadiso, madhende akazviwanira mazita erusvoro mungano dzemuno anoshandisa mazita iwayo emadunhurirwa munhauro dzakahwanda, hurukuro dzemunogadzirwa musoro nemunheketeke dzekumba.",Mapepa acho haana mbiri zvachose.,contradiction
+"Nerudadiso, madhende akazviwanira mazita erusvoro mungano dzemuno anoshandisa mazita iwayo emadunhurirwa munhauro dzakahwanda, hurukuro dzemunogadzirwa musoro nemunheketeke dzekumba.",Mapepa iwayo haana mbiri yakanaka.,entailment
+"Nerudadiso, madhende akazviwanira mazita erusvoro mungano dzemuno anoshandisa mazita iwayo emadunhurirwa munhauro dzakahwanda, hurukuro dzemunogadzirwa musoro nemunheketeke dzekumba.",Mapepa aya ane makuhwa akanyanya kubva kumadzimai.,neutral
+Kana Lite nalight vachingoshandisirwa kutsanangura maitire edoro(sokuti,Doro rinogona kunyorwa kuti Lite kana kuti light.,entailment
+Kana Lite nalight vachingoshandisirwa kutsanangura maitire edoro(sokuti,Lite ne light mazwi anoshandiswa kutsanangura mawaini nemawhiskey.,contradiction
+Kana Lite nalight vachingoshandisirwa kutsanangura maitire edoro(sokuti,Doro reLite harina chikamu chakakura chezvinodhaka,neutral
+Zita iri rakanyanyoshandiswa kunyangwe paraisakwana uye paigona kuda rimwe.,Vanhu vanonetseka kuwana rimwe zita.,neutral
+Zita iri rakanyanyoshandiswa kunyangwe paraisakwana uye paigona kuda rimwe.,Zita iri rinonyanyoshandiswa.,entailment
+Zita iri rakanyanyoshandiswa kunyangwe paraisakwana uye paigona kuda rimwe.,Zita rinofanira kunyanyoshandiswa.,contradiction
+"Pamusoro peizvi, tine chimwe chokwadi chisingafadzi chekuti kunyora kwakanaka kazhinji kunoita kuti munhu arangarire, zvichiwedzera dambudziko.",Vanhu vakateya kunyanyorangarira runyoro rwakashata.,contradiction
+"Pamusoro peizvi, tine chimwe chokwadi chisingafadzi chekuti kunyora kwakanaka kazhinji kunoita kuti munhu arangarire, zvichiwedzera dambudziko.",Zvinhu zvakanyorwa zvakanaka kazhinji zviri nyore kurangarira pane zvakanyorwa zvakaipa.,entailment
+"Pamusoro peizvi, tine chimwe chokwadi chisingafadzi chekuti kunyora kwakanaka kazhinji kunoita kuti munhu arangarire, zvichiwedzera dambudziko.",Zvinyorwa zvakanaka zvinodhura kugadzira nehuwandu.,neutral
+"Vasangana nemaitire awa uye vakaita kushamisika, maBhiritishi akaratidza ruremekedzo rwavo nekuisa vara guru pashoko racho.",Ma Bhiritishi anga asina ruremekedzo.,contradiction
+"Vasangana nemaitire awa uye vakaita kushamisika, maBhiritishi akaratidza ruremekedzo rwavo nekuisa vara guru pashoko racho.",MaBhiritishi akatora utongi hweupfumi hwepasi rose.,neutral
+"Vasangana nemaitire awa uye vakaita kushamisika, maBhiritishi akaratidza ruremekedzo rwavo nekuisa vara guru pashoko racho.",MaBhiritishi akatengesa zvakanyanya pasi rose.,entailment
+Dzimwe nguva ndicho chinonyanyonzvenga zvakare.,Chinogona kunetsa kuoneka dzimwe nguva.,entailment
+Dzimwe nguva ndicho chinonyanyonzvenga zvakare.,Inoita ruzha rushoma tinotenda  injini yakanyatsoputirwa.,neutral
+Dzimwe nguva ndicho chinonyanyonzvenga zvakare.,Zvakagara zviri nyore kuona chero uri kure.,contradiction
+" Sezvazvinoita, kune mhando dzemutauro dzinonyatsonzikwa dzechirungu dzakawanda muBritain kudarika kuNorth America,  uye chero munhu apedza nguva yakawanda achiterera kwadziri anoziva kuti dzimwe dzinopindirana.",Britain inemhando dzemutauro wechirungu dzinonyatsonzwika dzakawanda kudarika dzekuNorth America.,entailment
+" Sezvazvinoita, kune mhando dzemutauro dzinonyatsonzikwa dzechirungu dzakawanda muBritain kudarika kuNorth America,  uye chero munhu apedza nguva yakawanda achiterera kwadziri anoziva kuti dzimwe dzinopindirana.","Mhando dzemitauro dzeNorth America nedzechiBritish dzakanyatsofanana, uye vanhu vazhinji vanonetseka kuzvipatsanura..",contradiction
+" Sezvazvinoita, kune mhando dzemutauro dzinonyatsonzikwa dzechirungu dzakawanda muBritain kudarika kuNorth America,  uye chero munhu apedza nguva yakawanda achiterera kwadziri anoziva kuti dzimwe dzinopindirana.",Vanhu vanobva kuNorth America vanonetseka kunzwa hafu yemhando dzemitauro yemaBritish.,neutral
+"Mumwe muTennesssee akatiudza akashandisa manzwi ekuti dog weather kureva 'kunze kunopisa kusina mvura', zvinogona kubva pachirevo chekuti dog days kureva kunze kusina mvura kwemuna Nyamavhuvhu.","Sematauriro ewakatiudza, dog weather yaishandiswa kutsanagudza mvura inouya mwaka wega wega nemhepo.",contradiction
+"Mumwe muTennesssee akatiudza akashandisa manzwi ekuti dog weather kureva 'kunze kunopisa kusina mvura', zvinogona kubva pachirevo chekuti dog days kureva kunze kusina mvura kwemuna Nyamavhuvhu.",Chikumi na chikunguru vanopisawo zvekuti ku Tennessee.,neutral
+"Mumwe muTennesssee akatiudza akashandisa manzwi ekuti dog weather kureva 'kunze kunopisa kusina mvura', zvinogona kubva pachirevo chekuti dog days kureva kunze kusina mvura kwemuna Nyamavhuvhu.",Kunze kunenge kuchipisa kusina mvura mazuva mazhinji muna Nyamavhuvhu.,entailment

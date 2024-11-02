@@ -1,0 +1,451 @@
+premise,hypothesis,label
+"Mpe alobi, mama, nazali na ndako.",Abengi mama na ye na ntango bus ya kelasi ekitisi ye.,neutral
+"Mpe alobi, mama, nazali na ndako.",Alobi eloko te.,contradiction
+"Mpe alobi, mama, nazali na ndako.",Ayebisi mama na ye ete azongaki.,entailment
+"Nayebaki eloko te nabandaki kosala te, na yango batindaki ngai na esika baponi na Washington.",Nakenda naino na Washington te na ntango baponaki ngai kuna nabungaki na koluka kozwa esika. ,neutral
+"Nayebaki eloko te nabandaki kosala te, na yango batindaki ngai na esika baponi na Washington.",Nayebaki malamu nini nakosala na ntango na tambolaki na Washington.,contradiction
+"Nayebaki eloko te nabandaki kosala te, na yango batindaki ngai na esika baponi na Washington.","Nabandaki kondima te na eloko na nalingaki nasala, na yango nakendaki na Washington epai wapi bapesaki ngai mokumba ya kosala rapport.",entailment
+Akokaki kokenda te,Azalaki moto ya liboso ya kobenga mpe asepeli na mosala.,contradiction
+Akokaki kokenda te,Azalaki na ndigisa te mpo azwa esika.,entailment
+Akokaki kokenda te,Azalaki na makoki te mpo akenda na bofungoli ya mizé,neutral
+"Mpe nazalaki Malamu, mpe ezalaki nyoso !","na nsima nalobi iyo, ezalaki na nsuka.",entailment
+"Mpe nazalaki Malamu, mpe ezalaki nyoso !",Nalobi te mpe ewumeli lisusu na lisusu,contradiction
+"Mpe nazalaki Malamu, mpe ezalaki nyoso !","Ntango nalobi iyo, tozwi mokano ya kobalana mokolo wana.",neutral
+Nazalaki wana mpo na komeka kotongolo ,Natongolaki malamu kobanda na ebandela.,contradiction
+Nazalaki wana mpo na komeka kotongolo ,Namekaki koyeba epai wapi mbongo ekendaki.,neutral
+Nazalaki wana mpo na komeka kotongolo ,Namekaki koyeba.,entailment
+"Mpe nkoko ya mwasi alobaka mingi lisolo ya ndeko na ye ya mwasi mpe ya mobali ya ndeko na ye ya mwasi, bazwaki mokano ya kofanda na engumba ya Augusta, mpe bamilakisaki lokola bamindele.",Ndeko ya mwasi ya nkoko ya mwasi azalaki mondele mpe akendaki kofanda na Texas.,contradiction
+"Mpe nkoko ya mwasi alobaka mingi lisolo ya ndeko na ye ya mwasi mpe ya mobali ya ndeko na ye ya mwasi, bazwaki mokano ya kofanda na engumba ya Augusta, mpe bamilakisaki lokola bamindele.",Ndeko ya mwasi ya nkoko ya mwasi azalaki mondele te.,entailment
+"Mpe nkoko ya mwasi alobaka mingi lisolo ya ndeko na ye ya mwasi mpe ya mobali ya ndeko na ye ya mwasi, bazwaki mokano ya kofanda na engumba ya Augusta, mpe bamilakisaki lokola bamindele.","Ndeko ya mwasi ya nkoko ya mwasi azalaki mondele te, kasi alingaki akoma mpo akenda na kelasi.",neutral
+"Kasi azalaki, boyebi, na ndenge ebele, lokola mwana mobali ya nkolo ya elanga, mpo azalaki mwana mobali ya moto oyo azalaki na biloko mingi.",Tata na ye azalaki na eloko te na bomoi na ye.,contradiction
+"Kasi azalaki, boyebi, na ndenge ebele, lokola mwana mobali ya nkolo ya elanga, mpo azalaki mwana mobali ya moto oyo azalaki na biloko mingi.",Tata na ye azalaki na 2000 metele ya mabele ya bilanga.,neutral
+"Kasi azalaki, boyebi, na ndenge ebele, lokola mwana mobali ya nkolo ya elanga, mpo azalaki mwana mobali ya moto oyo azalaki na biloko mingi.",Tata na ye azalaki na biloko mingi.,entailment
+Mosala na ngai ezalaki kotiya ba parachute likolo na yango mpe mompila ya bobikisi na ntango ya kokpelisa mpo na kokenda epai ya bapaya mpo na mombongo.,Nazalaki na mosala te yango na bombaki ba egbokoso nyoso na ndako.,contradiction
+Mosala na ngai ezalaki kotiya ba parachute likolo na yango mpe mompila ya bobikisi na ntango ya kokpelisa mpo na kokenda epai ya bapaya mpo na mombongo.,Natindaki ba egbokoso na Japon.,neutral
+Mosala na ngai ezalaki kotiya ba parachute likolo na yango mpe mompila ya bobikisi na ntango ya kokpelisa mpo na kokenda epai ya bapaya mpo na mombongo.,Natindaki yango.,entailment
+"Na ndenge wana, sikoyo, natikali ya kokangama.",Natali ete mokamba efandi malamu mpo nazala na kimia.,neutral
+"Na ndenge wana, sikoyo, natikali ya kokangama.",Ezali ya solo se bongo nazwaki. ,contradiction
+"Na ndenge wana, sikoyo, natikali ya kokangama.",Ezali ya solo se bongo bakangaki ngai.,entailment
+"Mpe azalaki molandi ya basi, na oh solo, azalaki lokola na libanda. Mpe na yango, oyebi, nalingaka ye te, kasi na nyoso ezali makambo na ngai",Azalaki na loboko mpe boboto.,contradiction
+"Mpe azalaki molandi ya basi, na oh solo, azalaki lokola na libanda. Mpe na yango, oyebi, nalingaka ye te, kasi na nyoso ezali makambo na ngai",Nayinaka ye mpo azalaki na lolendo makasi.,neutral
+"Mpe azalaki molandi ya basi, na oh solo, azalaki lokola na libanda. Mpe na yango, oyebi, nalingaka ye te, kasi na nyoso ezali makambo na ngai",Nazalaki moto na ye te.,entailment
+"Na ntango nabendi, ntango abendi likola ya elamba ya kozipa mpo na bimisa ye libanda ya wana, alakisi bisaleli mibale na loboko ya mwasi ya mpepo mpe efinamaki na kotambola ya mpepo.",Biloko nyoso na kati ya mpepo ezalaki malamu.,contradiction
+"Na ntango nabendi, ntango abendi likola ya elamba ya kozipa mpo na bimisa ye libanda ya wana, alakisi bisaleli mibale na loboko ya mwasi ya mpepo mpe efinamaki na kotambola ya mpepo.",Ezalaki mpasi mpo ya kobimisa ye libanda.,neutral
+"Na ntango nabendi, ntango abendi likola ya elamba ya kozipa mpo na bimisa ye libanda ya wana, alakisi bisaleli mibale na loboko ya mwasi ya mpepo mpe efinamaki na kotambola ya mpepo.","Na mpepo, bisaleli efinamaki.",entailment
+"Mpe, ayebaki mpenza malamu te.","Mawa, akokaki kotongolo malamu te mpo na ndelo ya lokota.",neutral
+"Mpe, ayebaki mpenza malamu te.","Yango, azotongolo te.",entailment
+"Mpe, ayebaki mpenza malamu te.",Ayebaki ya solo nini tozalaki kosolola.,contradiction
+Mbala mosusu ayebisaki na bato nyoso na ntango wana ngai nakebaki te.,Nayokaki te na ntango ayebisaki na bato nyoso.,entailment
+Mbala mosusu ayebisaki na bato nyoso na ntango wana ngai nakebaki te.,Nayoki nyoso alobi.,contradiction
+Mbala mosusu ayebisaki na bato nyoso na ntango wana ngai nakebaki te.,Nabandaki koloba na moto mosusu na ntango wana.,neutral
+"Tobungisaki bobele mibale, mpepo misato na ntango tozalaki kuna, na oh, eteni ya komeka.",Ndambo ya mpepo ebungaki mpo na eleko mabe ya mbula.,neutral
+"Tobungisaki bobele mibale, mpepo misato na ntango tozalaki kuna, na oh, eteni ya komeka.",Ba mpepo ebele ebungaki.,entailment
+"Tobungisaki bobele mibale, mpepo misato na ntango tozalaki kuna, na oh, eteni ya komeka.",Tobungisaki mpepo ata mbala moko te.,contradiction
+Naza na bosenga ete osala eloko moko mpo na ngai.,Naza na mposa ya lisalisi te.,contradiction
+Naza na bosenga ete osala eloko moko mpo na ngai.,Ezali mosala moko monene nalingi tosilisa yango.,neutral
+Naza na bosenga ete osala eloko moko mpo na ngai.,Eza na eloko moko naza na bosenga ya komona yango esili.,entailment
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,"Ata nkombo na yango, Ebale ya Nioka ezali na nioka te; bapesaki yango na kotalaka lolenge ya S.",contradiction
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,Snake River ezali na ba koba ya nioka ebele.,neutral
+ oh ezalaki Snake River oh  Snake River na ba nioka ebele na kati,Ebale ya Snake etondi na ba nioka.,entailment
+"ya solo ezali ezaleli ya kosala ezali eloko moko te mpo ya komikotisa na pete mpe kolikia na bilembo ya malamu, nakanisi bongo te.",Nakanisi esengeli komipesa ngonga 10 na mokolo mpo ya kokoma malamu na esika moko.,neutral
+"ya solo ezali ezaleli ya kosala ezali eloko moko te mpo ya komikotisa na pete mpe kolikia na bilembo ya malamu, nakanisi bongo te.",Nakanisi ete bosengeli komipesa mpo ya kosala malamu.,entailment
+"ya solo ezali ezaleli ya kosala ezali eloko moko te mpo ya komikotisa na pete mpe kolikia na bilembo ya malamu, nakanisi bongo te.",Ezali likambo te soki bomoni ete ezali ya solo te.,contradiction
+mpe nakanisi ete ekozala malamu na oyo tozali kosala mpo na maye matali yango nalingi koloba tokoki kobongola bato oyo bazali bantoma.,"Nayebi kaka ete ekozala motungisi mpe eza na ntina te ya kobongola ba ntoma na biso, bongo tosengeli te komeka kobongola.",contradiction
+mpe nakanisi ete ekozala malamu na oyo tozali kosala mpo na maye matali yango nalingi koloba tokoki kobongola bato oyo bazali bantoma.,"Nakanisi ete ekozala mpasi ya kobongola ba ntoma na biso, kasi tokoki komeka na nsuka.",neutral
+mpe nakanisi ete ekozala malamu na oyo tozali kosala mpo na maye matali yango nalingi koloba tokoki kobongola bato oyo bazali bantoma.,Tosengeli komema bongoana epai ya baye bazali komilakisa mpo na biso.,entailment
+mpe bakoki kozala na boboto na nsima ya kozwa mateya.,Bakomi makasi mpe malili na nsima ya nsuka ya mateya.,contradiction
+mpe bakoki kozala na boboto na nsima ya kozwa mateya.,Babongoanaka na mbangu na ntango ya mateya.,neutral
+mpe bakoki kozala na boboto na nsima ya kozwa mateya.,Na kolanda mateya bakoki kolakisa bakomi malamu.,entailment
+"mpe ekoki kokoba kino mbula zomi ntuku mibale, nakanisi ekomi ya kosekisa.",Nakanisi ekomi bozoba mpo kosamba ekoka kolanda ba mbula ebele.,neutral
+"mpe ekoki kokoba kino mbula zomi ntuku mibale, nakanisi ekomi ya kosekisa.",Nakanisi ekomi ligboma mpo ekoka kowumela ntango molai.,entailment
+"mpe ekoki kokoba kino mbula zomi ntuku mibale, nakanisi ekomi ya kosekisa.",Ewumelaka kaka poso moko.,contradiction
+"Iyo yo, osengeli kozala na moko oyo eza na nsinga te.",Bongisa oyo ozalaki na yango kala mbele ezalaki na ntina.,entailment
+"Iyo yo, osengeli kozala na moko oyo eza na nsinga te.",Oyo ozalaki na yango ezalaki version ya yango moko na nsinga.,contradiction
+"Iyo yo, osengeli kozala na moko oyo eza na nsinga te.",Ozalaki na moko mbala mosusu na boponi ya nsinga.,neutral
+Ozali koloba na bateyi to baboti?,Olobi ete ezali bayekoli to basungi moto basali ?,contradiction
+Ozali koloba na bateyi to baboti?,Ezali bateyi to baboti ?,entailment
+Ozali koloba na bateyi to baboti?,Ozali koyoka nini na maye matali baboti mpe bateyi ?,neutral
+"Eh malamu, nakanisi ete, nakanisi ete iyo, nayebi te , namanioli naino te na maye matali kotalisa soki omelaka makaya ah mpo na ngai nakosimba yango te.","Ngai naboyi kotalisa soki namelaka makaya, ntembe ezali wana te.",contradiction
+"Eh malamu, nakanisi ete, nakanisi ete iyo, nayebi te , namanioli naino te na maye matali kotalisa soki omelaka makaya ah mpo na ngai nakosimba yango te.",Nakanisi nakondima kotalisa soki namelaka makaya.,neutral
+"Eh malamu, nakanisi ete, nakanisi ete iyo, nayebi te , namanioli naino te na maye matali kotalisa soki omelaka makaya ah mpo na ngai nakosimba yango te.",Naokanisa yango kasi natali naino motuna malamu te na maye matali kotalisa soki omelaka makaya.,entailment
+Bokebi na lolenge ba nsango ya ekolo ezali kotungisa na mboka.,Kokanisa na bisika ya mboka oyo batungisami na ba nsango ya ekolo.,entailment
+Bokebi na lolenge ba nsango ya ekolo ezali kotungisa na mboka.,Etali ngai te ete nsango ya ekolo ezipa na kokanisa na maye matali mboka na biso.,contradiction
+Bokebi na lolenge ba nsango ya ekolo ezali kotungisa na mboka.,Ba nsango ya ekolo ezali kolakisa bisika ya mboka na biso na nsima.,neutral
+"kasi te, na momesano ezali sangatumbu (jupe) na simisi to kasaka to lobe to oyo bozali komona awa bongo ezali malamu mpo na ngai kosala mosala na ndako mpo nakoki kolata patalo.",Nalataka makasi te na ntango nazali kosala na ndako.,entailment
+"kasi te, na momesano ezali sangatumbu (jupe) na simisi to kasaka to lobe to oyo bozali komona awa bongo ezali malamu mpo na ngai kosala mosala na ndako mpo nakoki kolata patalo.",Nalataka eloko mosusu te kaka sweat na ntango nazali kosala na ndako.,neutral
+"kasi te, na momesano ezali sangatumbu (jupe) na simisi to kasaka to lobe to oyo bozali komona awa bongo ezali malamu mpo na ngai kosala mosala na ndako mpo nakoki kolata patalo.",Nalataka ba lobe na ntango nasalaka na ndako mpo na mimonaka kitoko.,contradiction
+"iyo, ezali na eloko moko nakoki kotongolo te ya kozala na esika mpo na kobika.",Kozala na esika ya kobika eza ndoto ekomi ya solo.,neutral
+"iyo, ezali na eloko moko nakoki kotongolo te ya kozala na esika mpo na kobika.",Esalaka ngai malamu soki nazali na esika ya kobika.,contradiction
+"iyo, ezali na eloko moko nakoki kotongolo te ya kozala na esika mpo na kobika.",Ezali esika ya bomoi ya kitoko makasi.,entailment
+"iyo iyo, boyebi ete ekotungisa ngai te lokola soki bapesi kompani na bango mbongo. ",Ekozala pete na koyeba soki kompani bapesi mbongo.,neutral
+"iyo iyo, boyebi ete ekotungisa ngai te lokola soki bapesi kompani na bango mbongo. ",Yango ekopesa ngai nkanda soki nayebi ete bapesi mbongo na kompani.,contradiction
+"iyo iyo, boyebi ete ekotungisa ngai te lokola soki bapesi kompani na bango mbongo. ",Yango ekotungisa ngai te soki bapesi kompani mbongo.,entailment
+iyo ezali mpo na biso kuna tozali na connexion na biso ya mboka ezali mabe makasi.,Connexion awa mbala mosusu ezali malamu.,neutral
+iyo ezali mpo na biso kuna tozali na connexion na biso ya mboka ezali mabe makasi.,Tozali na connexion malamu awa te.,entailment
+iyo ezali mpo na biso kuna tozali na connexion na biso ya mboka ezali mabe makasi.,Connexion na esika oyo ezali kitoko.,contradiction
+Litomba moko oyo tozali na yango ezali ya solo mobembo,Mobembo ezali eteni nalingaka mingi.,neutral
+Litomba moko oyo tozali na yango ezali ya solo mobembo,Mobembo ezali litomba oyo tozwi.,entailment
+Litomba moko oyo tozali na yango ezali ya solo mobembo,Tozwi litomba moko te.,contradiction
+ezali mabe makasi oh ngai,Nayoki balobi ete eza malamu te.,neutral
+ezali mabe makasi oh ngai,Ezali nsomo.,entailment
+ezali mabe makasi oh ngai,Ezali mabe te na nyoso.,contradiction
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,Ba dispositif nyoso ya molecule ezali mpe lokola biteni mingi.,contradiction
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,Ba dispositif ya molecule ya biteni mingi koleka ekoki kobima na ezalela ya ndenge mosusu.,entailment
+ba complexes moléculaires oyo d'ordre supérieur eza kose former mpo sélection naturelle eza capable  yako agir likolo ya ba propriétés collectives yaba agrégats  moléculaires yaboye tango ba propriétés collectives ematisaka capacité ya adaptation.,"Ba masine ya molecule basalelaka yango mpo na kobimisa ngenge, mpo na komibatela.",neutral
+Kasi nazo ndima te ete esaleli ya boye ya algorithme ekoka kozala mobimba.,Algorithme ekoki te kozwa mokano ya ndenge ya kosala sandwich ya kitoka soki moto apesi makanisi te.,neutral
+Kasi nazo ndima te ete esaleli ya boye ya algorithme ekoka kozala mobimba.,Esaleli moko te ekoki kopesa biyana na makambo na yango moko.,entailment
+Kasi nazo ndima te ete esaleli ya boye ya algorithme ekoka kozala mobimba.,Bisaleli oyo ezali kosala na kpokoso te na lolenge ya ndenge mosusu.,contradiction
+Mobeko ezali kosikola moto te kasi lisanga to ekolo mobimba.,"Mpo na kosikola, bato basengeli babongoana epai mobeko.",contradiction
+Mobeko ezali kosikola moto te kasi lisanga to ekolo mobimba.,Mobeko ekosikola Ameliki.,neutral
+Mobeko ezali kosikola moto te kasi lisanga to ekolo mobimba.,Mobeko ekobikisa lisanga na ekolo.,entailment
+Makoma ya constitution ya 1787 elobaki ete bankolo ya baoombo bakokaki kozwa baoombo oyo bakimaki na mabele ya bonsomi.,"Na 1787, mobeko moko eponamaki mpo ya kopekisa na bato mpo ya kozwa baoombo oyo bakendaki na mabele ya bonsomi.",contradiction
+Makoma ya constitution ya 1787 elobaki ete bankolo ya baoombo bakokaki kozwa baoombo oyo bakimaki na mabele ya bonsomi.,Ndambo ya makoma ya constitution ekomamaki na 1787.,entailment
+Makoma ya constitution ya 1787 elobaki ete bankolo ya baoombo bakokaki kozwa baoombo oyo bakimaki na mabele ya bonsomi.,Makoki ya kozwa baoombo na mabele ya nsomi ezalaki moko eyebanaki te.,neutral
+"Steve Harris, azali biologiste ya molecule ya Texas azalaki mopaya.",Steve Harris aboyaki kotika ndako na ye mpo na ntina ya ndenge nini. ,contradiction
+"Steve Harris, azali biologiste ya molecule ya Texas azalaki mopaya.",Steve azalaki biologiste ya libanda ya engumba.,entailment
+"Steve Harris, azali biologiste ya molecule ya Texas azalaki mopaya.",Steve akendaki kotala Californie mpo na koyekola eteni ya sika.,neutral
+"Eteni moko na moko (ebengami morada) ezalaki na bato ntuku misato mpe ntuku mitano ekabuani na biteni 2 : bato ya mpamba, babengami molandi hermanos (bandeko ya balandi) mpe bakonzi babengi harmanos ya Lus ",Koleka monkama ya ba officier basalelaki na chapitre moko na moko.,contradiction
+"Eteni moko na moko (ebengami morada) ezalaki na bato ntuku misato mpe ntuku mitano ekabuani na biteni 2 : bato ya mpamba, babengami molandi hermanos (bandeko ya balandi) mpe bakonzi babengi harmanos ya Lus ",Ba chapitre ezalaki na bato ya mpamba na ba officier.,entailment
+"Eteni moko na moko (ebengami morada) ezalaki na bato ntuku misato mpe ntuku mitano ekabuani na biteni 2 : bato ya mpamba, babengami molandi hermanos (bandeko ya balandi) mpe bakonzi babengi harmanos ya Lus ",Bato oyo bazalaki na mokumba ya kobongola bato ya liboso ya Amerike ya Kati.,neutral
+"Mpo na mbula 4 na 5, mituna ezokenda na lisanga ya koloba ( nini yango ekoleka na nsima?",Bana bayekolaka koloba te liboso ya mbula motoba.,contradiction
+"Mpo na mbula 4 na 5, mituna ezokenda na lisanga ya koloba ( nini yango ekoleka na nsima?",Bana ya mbula mitano babangaka mpo na makambo ekoya na nsima,entailment
+"Mpo na mbula 4 na 5, mituna ezokenda na lisanga ya koloba ( nini yango ekoleka na nsima?",Bana ya mbula mitano bamonaka bango lokola balobaka mabe.,neutral
+"nalolenge yabotindami yamoto, flux oyo ezo kutana moke na espace yaba etat ezo sala ete classification esalema, mpo ete tango ba etats mibale ezo kutana  kati nakoma etat nse moko na date moko yasima, ba etats oyo bibale bazwaka kombo ya equivalent nakati ya reseau",Kotambola esika moko ya ebele mpo na kokenda ekosalisa mpo na kokabola.,entailment
+"nalolenge yabotindami yamoto, flux oyo ezo kutana moke na espace yaba etat ezo sala ete classification esalema, mpo ete tango ba etats mibale ezo kutana  kati nakoma etat nse moko na date moko yasima, ba etats oyo bibale bazwaka kombo ya equivalent nakati ya reseau",Kotambola esika moko ya ebele ewuti epai ya bato.,neutral
+"nalolenge yabotindami yamoto, flux oyo ezo kutana moke na espace yaba etat ezo sala ete classification esalema, mpo ete tango ba etats mibale ezo kutana  kati nakoma etat nse moko na date moko yasima, ba etats oyo bibale bazwaka kombo ya equivalent nakati ya reseau",Kotambola esika moko ya ebele ezali kopekisa kokabola.,contradiction
+"Boye, bazo sala nako lemba te mokili ya stationnaire te wapi makambo ya kala oyo ekomi ya sika ezali naba données valides.",Mokili oyo ezali koningana te ezali na ntina te mpo na basusu soki basengeli kozwa nsango oyo eleka kala.,entailment
+"Boye, bazo sala nako lemba te mokili ya stationnaire te wapi makambo ya kala oyo ekomi ya sika ezali naba données valides.",Biloko nyoso ya eleko moko na moko ezali mpo na mokili ya ndenge nini.,contradiction
+"Boye, bazo sala nako lemba te mokili ya stationnaire te wapi makambo ya kala oyo ekomi ya sika ezali naba données valides.",Bamokili ya makanisi basalelaka yango mpo ya komilengele na ba mbula ekoya.,neutral
+Bongo Leta azali na bokonzi te na bato oyo baboyi kopesa makoki ya bomoto mpo na bato baindo.,Bato misusu na misala na bango moko baboyi kopesa makoki ya bomoto na bato baindo.,entailment
+Bongo Leta azali na bokonzi te na bato oyo baboyi kopesa makoki ya bomoto mpo na bato baindo.,Mingi ezalaki ba mindele.,neutral
+Bongo Leta azali na bokonzi te na bato oyo baboyi kopesa makoki ya bomoto mpo na bato baindo.,Leta ayebaki ezalela ya bato oyo basalaka misala na bango.,contradiction
+Bokeseni ezali te kati ya bana ya kelasi oyo bazali mike na baye ya bakolo na momekano ya kobimisa mosala.,"Ata bana ya mike na baye ya bakolo bazali kobimisa mosala ndenge moko na momekano, bayekoli ya mike basilisaka momekano na mbangu.",neutral
+Bokeseni ezali te kati ya bana ya kelasi oyo bazali mike na baye ya bakolo na momekano ya kobimisa mosala.,Bayekoli ya bilenge mpe ya bakolo ya kelasi bazwaka motuya ndenge moko na momekano.,entailment
+Bokeseni ezali te kati ya bana ya kelasi oyo bazali mike na baye ya bakolo na momekano ya kobimisa mosala.,Bayekoli ya bana mpe ya bakolo makasi bazwaka motuya ya kokesene na momekano mpo mbula ezali kosala.,contradiction
+Awa Darwin abandaki kolandela makambo ya bomoi.,Darwin abandaki kotiya mayele na ye na mbisi.,neutral
+Awa Darwin abandaki kolandela makambo ya bomoi.,Darwin abandaki na bomoi oyo ezalaki kala.,entailment
+Awa Darwin abandaki kolandela makambo ya bomoi.,Darwin atiyaki mayele esika moko mpo na koyekola biloko oyo ekufa.,contradiction
+"Epai ya bana ya mbula na nse na mbula liboso ya kelasi, ntina ya monene ezali koyoka malamu te mpo na kobandela.",Mpasi ya koyoka malamu te ya mike ezali likambo epai ya bana mike.,entailment
+"Epai ya bana ya mbula na nse na mbula liboso ya kelasi, ntina ya monene ezali koyoka malamu te mpo na kobandela.",maladie ya matoyi ezalaka incroyablement rare  epayi ya Bana Oyo baza Na mbula yambo ba Banda kelasi,contradiction
+"Epai ya bana ya mbula na nse na mbula liboso ya kelasi, ntina ya monene ezali koyoka malamu te mpo na kobandela.",Bana ya mike mingi bazwaka mpasi ya koyoka malamu te ya katikati.,neutral
+"tangu société civile ezo kanga matoyi , mabanzo ya buzoba ezo bungisa makoki na yango",mabanzo ya buzoba epesaka Kanda makasi te soki Bana ya Mboka ba yebi yango te,entailment
+"tangu société civile ezo kanga matoyi , mabanzo ya buzoba ezo bungisa makoki na yango",mabanzo ya buzoba eyebanaka na Bana ya mboka soki ebwakisami na société civile ,contradiction
+"tangu société civile ezo kanga matoyi , mabanzo ya buzoba ezo bungisa makoki na yango",mabanzo ya buzoba ebele eyebanaka te Na Bana mboka,neutral
+"yasolo, toza na posa penza yako zwa lolenge yako definir organisation yaba processus réels na mokili ezanga équilibre.",Tozali na bosenga ya lonkasa ya ndimbola mpo na komona epai wapi lingomba ezali kotambola malamu.,neutral
+"yasolo, toza na posa penza yako zwa lolenge yako definir organisation yaba processus réels na mokili ezanga équilibre.",tosengeli ko classer organisation ,entailment
+"yasolo, toza na posa penza yako zwa lolenge yako definir organisation yaba processus réels na mokili ezanga équilibre.",Tosengeli te kotiya lonkasa ya ndimbola likolo ya biloko nyoso.,contradiction
+Abengaki Lord julian,alingaki atuna Lord Julian eloko moko,entailment
+Abengaki Lord julian,Alingaki a senga lord Julian a longola muasi na ye,neutral
+Abengaki Lord julian,Lord Julian bayebaki esika azali te.,contradiction
+Jeremy Pitt ayanoli na koseka na kolaya ndai.,PE likofi mbala Moko na elongi ya moseki,contradiction
+Jeremy Pitt ayanoli na koseka na kolaya ndai.,Jeremy Pitt alayi ndai ete akobunda mpo na ekolo na ye mpe mpo na mwasi na ye.,neutral
+Jeremy Pitt ayanoli na koseka na kolaya ndai.,Moto moko aseki pembeni ya Jeremy Pitt.,entailment
+"Pitt, ye oyo atalaki scene wuta balustrade ya quart de pont, ayebisi biso ete kibo seigneurie naye ezalaki mabe lokola pasteur na pendaison.",Pitt amonaki bokonzi na ye na ndenge ya mabe te.,neutral
+"Pitt, ye oyo atalaki scene wuta balustrade ya quart de pont, ayebisi biso ete kibo seigneurie naye ezalaki mabe lokola pasteur na pendaison.",Pitt alayi ndai ete amonaki eloko te na esika ya masano.,contradiction
+"Pitt, ye oyo atalaki scene wuta balustrade ya quart de pont, ayebisi biso ete kibo seigneurie naye ezalaki mabe lokola pasteur na pendaison.",Pitt azalaki nzeneneke ya makambo ya makasi na ntango azalaki na esika ya masano.,entailment
+"Colonel andimaka, mpe asunisaki motu na malembe, alongolaki enkoti.",Colonel andimaki palata epesamaki epai ya maire ya New York.,neutral
+"Colonel andimaka, mpe asunisaki motu na malembe, alongolaki enkoti.","Colonel aboyaki eloko bapesaki ye, mpe alongolaki enkoti te mpo ya kolakisa ete aboyi.",contradiction
+"Colonel andimaka, mpe asunisaki motu na malembe, alongolaki enkoti.",Colonel alataki enkoti.,entailment
+ozali na courage yako gangela gai mpo na nakozwa yo na loboko te atako nayebi ete eza naba taches mpe  nayebi ete ozali mobomi mpe kolekaa ? atalaki nye monokko yako fungwama,Akanisaki ete mbeba ekokaki kozala genocide.,neutral
+ozali na courage yako gangela gai mpo na nakozwa yo na loboko te atako nayebi ete eza naba taches mpe  nayebi ete ozali mobomi mpe kolekaa ? atalaki nye monokko yako fungwama,"Aponi koboya kokanga maboko na ye, mpo ete ezali bosoto na mbeba.",entailment
+ozali na courage yako gangela gai mpo na nakozwa yo na loboko te atako nayebi ete eza naba taches mpe  nayebi ete ozali mobomi mpe kolekaa ? atalaki nye monokko yako fungwama,"Aponaki kozwa maboko mpo ete ezalaki mike, kitoko mpe peto.",contradiction
+"epesamelakiye nzela yako mona ete azalaki malamu mpe elombe ya kitoko ya Saint-James, Lord Julian Wade, moto oyo nani ba ntango wana esalemaki mpo naye.",Lord Julian azali na St James.,entailment
+"epesamelakiye nzela yako mona ete azalaki malamu mpe elombe ya kitoko ya Saint-James, Lord Julian Wade, moto oyo nani ba ntango wana esalemaki mpo naye.",Ye na Lord Julian Wade bakaboli ekopi na butu eleki.,neutral
+"epesamelakiye nzela yako mona ete azalaki malamu mpe elombe ya kitoko ya Saint-James, Lord Julian Wade, moto oyo nani ba ntango wana esalemaki mpo naye.",alagwaki lolango ya Lord Julian wade atakutu bomoto naye eza mabe,contradiction
+"Kasi...Kasi..Na kati ya bwato..? mokambi asalaki Na maboko elembo yabo zangi nguya, amitikaki na bo bungi na ye, PE akomaki mbala Moko kimia","direction egangaki ba minute ebele, azalaki Na Kanda PONA ekobo Oyo ezalaki ko Salama likolo ya ba ponts",contradiction
+"Kasi...Kasi..Na kati ya bwato..? mokambi asalaki Na maboko elembo yabo zangi nguya, amitikaki na bo bungi na ye, PE akomaki mbala Moko kimia",Officier azalaki na mokakatano na oyo ezalaki koleka na masuwa.,entailment
+"Kasi...Kasi..Na kati ya bwato..? mokambi asalaki Na maboko elembo yabo zangi nguya, amitikaki na bo bungi na ye, PE akomaki mbala Moko kimia",Officier ayokaki mabe ya kosanza likolo ya gbagba.,neutral
+"Yo ozali Lord Julian Wade, nayebi, alobaka mingi.",Lord Julian Wade ayambi na esengo bato babiangami.,contradiction
+"Yo ozali Lord Julian Wade, nayebi, alobaka mingi.",Lord Julian Wade ayambi bato mosusu na lolenge tokoki koloba ya koboya.,entailment
+"Yo ozali Lord Julian Wade, nayebi, alobaka mingi.","Ata bato mingi bamekaki kopusana pembeni na ye, Lord Wade atikalaki malili mpe akamoiki te.",neutral
+Mary Traill akoki kosolola na bino.,Mary Traill akoki koyebisa mingi likolo ya makako.,neutral
+Mary Traill akoki kosolola na bino.,Mary Traill ayebi nyoso mpo na.,entailment
+Mary Traill akoki kosolola na bino.,Ezali ngai moko moto nayebi.,contradiction
+"Eza na libaya ya koboma ezali kozela mwana ya mobulu na Port Royal, Blood alingaki komikotisa na likambo kasi Lord Julian apekisaki ye.",Blood ezali lisanga ya babomi bayebana bafandi na Port Royal ndenge wana Lord Julian asala makambo ebele ya kobuka mobeko na bango.,contradiction
+"Eza na libaya ya koboma ezali kozela mwana ya mobulu na Port Royal, Blood alingaki komikotisa na likambo kasi Lord Julian apekisaki ye.","Epai ya Lord Julian ezali engumba ya Port Royal, ezali engumba ya mombongo esika misala ebele ezali kosalema na ekolo.",neutral
+"Eza na libaya ya koboma ezali kozela mwana ya mobulu na Port Royal, Blood alingaki komikotisa na likambo kasi Lord Julian apekisaki ye.",Port Royal ezali na bisika mpo na kopesa etumbu na babomi.,entailment
+"Ekozala Episkopo ye moko te, elobi Wolverstone kati ya motuna na kondima.",Wolverstone atunaki motuna oyo ezalaki elembo ya komibatela na kotalaka ba misusu.,entailment
+"Ekozala Episkopo ye moko te, elobi Wolverstone kati ya motuna na kondima.",Wolverstone asololaki na episkopo lokola oyo azalaki kitoko.,neutral
+"Ekozala Episkopo ye moko te, elobi Wolverstone kati ya motuna na kondima.",Wolverstone alobaki na episkopo eloko te.,contradiction
+"bokotila koloba buzoba ya botomboki ya bato, ya bo trahison PE ya cour martiale ? blood alataki ekoti na ye, PE avand imbala moko",Blood azalaki na enkoti oyo alataki liboso ya kofanda.,entailment
+"bokotila koloba buzoba ya botomboki ya bato, ya bo trahison PE ya cour martiale ? blood alataki ekoti na ye, PE avand imbala moko","Blood  alati enkoti na ye, mpe abimi na ndako ata koloba eloko te.",contradiction
+"bokotila koloba buzoba ya botomboki ya bato, ya bo trahison PE ya cour martiale ? blood alataki ekoti na ye, PE avand imbala moko","Enkoti ya Blood ezalaki ya moindo, na nsala misato ya engondo.",neutral
+Makambo etambolaki malamu te na ye na mikolo zomi na mitano ya nsima banda andimaki etinda ya mokonzi.,Alalaki makasi na butu na koyeba ete aboyaki etinda ya mokonzi.,contradiction
+Makambo etambolaki malamu te na ye na mikolo zomi na mitano ya nsima banda andimaki etinda ya mokonzi.,Kobatela ye mpo alala te na mpokwa na ndenge andimaki etinda ya mokonzi.,entailment
+Makambo etambolaki malamu te na ye na mikolo zomi na mitano ya nsima banda andimaki etinda ya mokonzi.,Etinda ya Mokonzi ezalaki nkombo ya mosala ya lokumu na mabongi ebele.,neutral
+"Bakokumba bango, Ogle agangi.",Ogle alobi bazalaki ya kozwama.,entailment
+"Bakokumba bango, Ogle agangi.",Ogle alobi bazalaki pembeni mpo na koyoka.,neutral
+"Bakokumba bango, Ogle agangi.","Ata bayebaki ete bazalaki pembeni mpo na kobeta, Ogle abatelaki mpo na ye.",contradiction
+"Natindeli bino, capitaine Blood, mpo na ba nsango ekomeli ngai.","Nayoki ba nsango te, capitaine Blood. Osalaki yango?",contradiction
+"Natindeli bino, capitaine Blood, mpo na ba nsango ekomeli ngai.","Nazwaki nsango liboso ete natindela bino, capitaine Blood.",entailment
+"Natindeli bino, capitaine Blood, mpo na ba nsango ekomeli ngai.",Nsango nazwi episi ngai nkanda na kati na ngai.,neutral
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bokoki komona ba masuwa na nsonge ya ngomba,neutral
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bokoki komona libongo na nsonge ya ngomba.,entailment
+"nasima yako tala napembeni yaba collections yango, amataki ngomba tina ndako ya commissaire, wapi boko zwa emoneli yamalamu na côte ya pembeni mpe bisika misusu ya complexe ya arsenal ya mayi.",Bamonaka mopanzi ya libongo te na nsonge ya ngomba.,contradiction
+"Na nsima ya mboka ya Ameliki ya sudi, bokokuta lizini ya malasi, epai wapi bokoki kokela malasi na bino moko.",Kobimisa malasi ebandi kosalema kobanda na 1954.,neutral
+"Na nsima ya mboka ya Ameliki ya sudi, bokokuta lizini ya malasi, epai wapi bokoki kokela malasi na bino moko.",Lizini ya malasi ezali na esika ya nsima na Ameliki ya sudi.,entailment
+"Na nsima ya mboka ya Ameliki ya sudi, bokokuta lizini ya malasi, epai wapi bokoki kokela malasi na bino moko.",Lizini ya malasi ezali liboso ya esika ya Ameliki ya sudi.,contradiction
+"Mpo na ba ndimo mpe mananasi ya Bahamas, elikia ya kobotama esali eloko te.","Ata elengi kitoko ya mananasi, mbongo ya mobembo ezalaki likolo mpo ya koya nango na ba zando.",neutral
+"Mpo na ba ndimo mpe mananasi ya Bahamas, elikia ya kobotama esali eloko te.","Ndimo ya ngai ezalaki elonga ya monene, se ndenge bato nyoso balulaki.",contradiction
+"Mpo na ba ndimo mpe mananasi ya Bahamas, elikia ya kobotama esali eloko te.",Ndimo ya ngai ya Bahamas ezalaki monene te na ndenge bato nyoso bazalaki kolula.,entailment
+"Loboko ya ebale, ezali na nzinganzinga na 3 km(2km) ya diamètre, ezali nakozanga tembe libulu monene Oyo esalami Na bo bimisi moto ya volcan na nguya mingi","Makelele ya nkoto 2 ekokaki kosalema na makambo ebele, na mpe kopela ya moto na volcan.",neutral
+"Loboko ya ebale, ezali na nzinganzinga na 3 km(2km) ya diamètre, ezali nakozanga tembe libulu monene Oyo esalami Na bo bimisi moto ya volcan na nguya mingi",Makelele eyokani na 2 mille ewutaki te na kopela ya moto ya volcan.,contradiction
+"Loboko ya ebale, ezali na nzinganzinga na 3 km(2km) ya diamètre, ezali nakozanga tembe libulu monene Oyo esalami Na bo bimisi moto ya volcan na nguya mingi",Makelele ya 3 km ewuti mbala mosusu ya solo na kopela ya moto ya volcan.,entailment
+"kuna, scene ezali relax lokola awa te mpe probleme ya langue ekoki kotungisa bino, mais au moins, okozala na makoki ya kozwa botali ya mozindo ya société de consommation chinoise.",eza likanisi ya malamu Yako Zala Na mon limboleli Na bino,neutral
+"kuna, scene ezali relax lokola awa te mpe probleme ya langue ekoki kotungisa bino, mais au moins, okozala na makoki ya kozwa botali ya mozindo ya société de consommation chinoise.",eza na likambu ya koloba Oyo ekokaki ko lengisa biso,entailment
+"kuna, scene ezali relax lokola awa te mpe probleme ya langue ekoki kotungisa bino, mais au moins, okozala na makoki ya kozwa botali ya mozindo ya société de consommation chinoise.","Likambo ya kotungisama eza te mpo na lokota, moto nyoso azali koloba anglais.",contradiction
+"nakati ya 1936 mpe 1940,  Grèce ezalaki nanse ya bokonzi ya dictature militaire ya Ioannis Metaxas, oyo tokokanisaka mpona echi (te) retentissant oyo ye amekaki na ultimatum de Mussolini exigeant la reddition en 1940.",Grèce etikala ko kambama te Na dictateur ya soda,contradiction
+"nakati ya 1936 mpe 1940,  Grèce ezalaki nanse ya bokonzi ya dictature militaire ya Ioannis Metaxas, oyo tokokanisaka mpona echi (te) retentissant oyo ye amekaki na ultimatum de Mussolini exigeant la reddition en 1940.",Grece ezali moko ya ekolo na mokili ezalaki na dictateur.,entailment
+"nakati ya 1936 mpe 1940,  Grèce ezalaki nanse ya bokonzi ya dictature militaire ya Ioannis Metaxas, oyo tokokanisaka mpona echi (te) retentissant oyo ye amekaki na ultimatum de Mussolini exigeant la reddition en 1940.",Economi ya Grece etambolaki malamu te na eleko ya ditacture ya basoda ya Metaxas.,neutral
+Simplicité ya ba lignes romaines ya Sant Pau ezali changement ya esengo kolandisama na extravagance ya modernisme ya Barcelone mpe complexité ya architecture gothique.,Sant Pau aza Na ba singa yaba romanes te,contradiction
+Simplicité ya ba lignes romaines ya Sant Pau ezali changement ya esengo kolandisama na extravagance ya modernisme ya Barcelone mpe complexité ya architecture gothique.,Sant Pau azali Na bA traits romanesque ,entailment
+Simplicité ya ba lignes romaines ya Sant Pau ezali changement ya esengo kolandisama na extravagance ya modernisme ya Barcelone mpe complexité ya architecture gothique.,sant Pau aza Na ba eglezia,neutral
+"coup ya mikila to PE lokolo, Ebandi",Azo lenga na Pete likola ya mouvement yakolaka te,neutral
+"coup ya mikila to PE lokolo, Ebandi",Aza mutu ya mpiko PE atatabanaka te,contradiction
+"coup ya mikila to PE lokolo, Ebandi","koninga ya mukié PE Tala, Ebandi",entailment
+programme ya kobongisa ya munene esengalaki esila ti ba suka ya 2021,programme Yako bongisa ekosila yambo tobanda 2001,contradiction
+programme ya kobongisa ya munene esengalaki esila ti ba suka ya 2021,programme ya reconditionnement ekosila te yambo ko silisa mbula 2000,entailment
+programme ya kobongisa ya munene esengalaki esila ti ba suka ya 2021,"tango programme ya kobongisa eko Sila, Ekozua ba mbula mitano",neutral
+basali bazali kosala programme mpona komatisa numbre yaba flament roses yaba îles Vierges américaines mpe boko mona group yamoke oyo ebotaka malamu mbula nyonso,batu ya misala bazo sala mosala PONA ko silisa ba flamant rose,contradiction
+basali bazali kosala programme mpona komatisa numbre yaba flament roses yaba îles Vierges américaines mpe boko mona group yamoke oyo ebotaka malamu mbula nyonso,bato ya musala bazo matisa motango ya na flamand PONA ete ba zonga ndenge bozalaki sima ya bomeki ko boma Bango nionso,neutral
+basali bazali kosala programme mpona komatisa numbre yaba flament roses yaba îles Vierges américaines mpe boko mona group yamoke oyo ebotaka malamu mbula nyonso,bato mosala bazo sala Po Ete motango Yaba flamand rose emata Nakati Na Esanga ,entailment
+Bangomba ya mabangamabanga ya Serra de Tramuntana eza na pente ta makasi tii na mayi mpe bisika yako kotela ezali mingi te mpe libongo moko yamolayi ezali naba pembenipembeni,mabele ebandaki ko kweya mingi mingi Na ngomba PE ezalaki Pete te ya ko Tonga mobongo,neutral
+Bangomba ya mabangamabanga ya Serra de Tramuntana eza na pente ta makasi tii na mayi mpe bisika yako kotela ezali mingi te mpe libongo moko yamolayi ezali naba pembenipembeni,ngomba ekomisaki musala ya ko tonga libongo pasi,entailment
+Bangomba ya mabangamabanga ya Serra de Tramuntana eza na pente ta makasi tii na mayi mpe bisika yako kotela ezali mingi te mpe libongo moko yamolayi ezali naba pembenipembeni,mabongo eza nkutu mibale na Sambo pene ya ngomba,contradiction
+"Yambo ete ba américain ba zua contrôle Na yango, culebra ezalaki ko bengama esanga moseka Espagnole. Ezalaki Na kati ya ba esanga moseka ya États-unis, na katikati ya Puerto Rico PE St. Thomas",Culebra eza Na kati kati ya porto Rico na St Thomas Nakati ya Esanga moseka Ya ba américain ,entailment
+"Yambo ete ba américain ba zua contrôle Na yango, culebra ezalaki ko bengama esanga moseka Espagnole. Ezalaki Na kati ya ba esanga moseka ya États-unis, na katikati ya Puerto Rico PE St. Thomas",Culebra ezwami esika Moko na kati ya porto Rico na St Thomas Na kati ya Esanga moseka ya ba américains,contradiction
+"Yambo ete ba américain ba zua contrôle Na yango, culebra ezalaki ko bengama esanga moseka Espagnole. Ezalaki Na kati ya ba esanga moseka ya États-unis, na katikati ya Puerto Rico PE St. Thomas",Culebra ezali esika Moko boye kati ya porto Rico na St. thomas nakati ya esanga moseka ya ba américain ,neutral
+"Umeda ezali kolakisa limit nord ya quartier ya mombongo mpe ya masano  oyo eyebani mingi na kombo ya Kita (oyo elakisi kaka nord), mpe ezali penza agitation mpe ya animation ya Osaka yasika.",Umeda ezali esika te na quartier ya spectacle.,contradiction
+"Umeda ezali kolakisa limit nord ya quartier ya mombongo mpe ya masano  oyo eyebani mingi na kombo ya Kita (oyo elakisi kaka nord), mpe ezali penza agitation mpe ya animation ya Osaka yasika.",Umeda ezali esika ya monene na quartier mpo na komisepelisa.,neutral
+"Umeda ezali kolakisa limit nord ya quartier ya mombongo mpe ya masano  oyo eyebani mingi na kombo ya Kita (oyo elakisi kaka nord), mpe ezali penza agitation mpe ya animation ya Osaka yasika.",Umeda ezali na nsuka ya nord ya quartier ya komisepelisa.,entailment
+"Moto ya misato ya bosato ya hindoue ezali Brahma, mosala moko na ye ezalaki ya kokela mokili.",brahma aza ntoma ya mokristo,contradiction
+"Moto ya misato ya bosato ya hindoue ezali Brahma, mosala moko na ye ezalaki ya kokela mokili.",Brahma azali eteni ya bosato ya Hindoue.,entailment
+"Moto ya misato ya bosato ya hindoue ezali Brahma, mosala moko na ye ezalaki ya kokela mokili.",brahma aza eteni ya motuya na Bosato ya ba hindoue,neutral
+"Pedro azwi kiti ya bokonzi, ata etumba ya mandoki ekobaki ba sanza mpe motema mabe ewumelaki na ntango molai na nsima na yango.",bato ntoto zomi bakufaki Na etumba ngo,neutral
+"Pedro azwi kiti ya bokonzi, ata etumba ya mandoki ekobaki ba sanza mpe motema mabe ewumelaki na ntango molai na nsima na yango.",bitumba ezuaki ba sanza,entailment
+"Pedro azwi kiti ya bokonzi, ata etumba ya mandoki ekobaki ba sanza mpe motema mabe ewumelaki na ntango molai na nsima na yango.",bitumba esilaki kaka na mokolo moko,contradiction
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,"nasima yako sangisa ressources humaines, salle moko ebongisamaki ponna ba structure yaba entreprise yasika",neutral
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,ba structure corporative ekelamaki,entailment
+ba systèmes ya ressources humaines ekomaki consolidés mpe ba structures ya sika yaba corporatives ekomaki définies nalombangu pona ko assurer soutien ya libela mpona clientèle ya monene.,ba systems yaba reources humains ememamaki koleka ndenge ezalaki liboso,contradiction
+"atako ba strategies ya financement ebongisamaki, mbongo ezali pona mosala oyo",makoki ezali PONA misala wana,entailment
+"atako ba strategies ya financement ebongisamaki, mbongo ezali pona mosala oyo",mosolo ezali te PONA musala,contradiction
+"atako ba strategies ya financement ebongisamaki, mbongo ezali pona mosala oyo",mosolo eza mingi te PONA musala,neutral
+ba statistiques yaba nzela ya mboka nakati ya mokanda oyo ezalami kolandisama ba données ya National Mail Count ya 1989,données statistiques ya mokanda oyo ewuti na rapport ya mbula 2001,contradiction
+ba statistiques yaba nzela ya mboka nakati ya mokanda oyo ezalami kolandisama ba données ya National Mail Count ya 1989,ba stattistiques ya mokanda oyo esila ngala,neutral
+ba statistiques yaba nzela ya mboka nakati ya mokanda oyo ezalami kolandisama ba données ya National Mail Count ya 1989,mokanda oyo eza naba donnees yaba nzela ya mboka,entailment
+bakonzi baki mpe kozwa note provisoir to mpe kopola mpona ba elements nyoso,element nyoso oyo mokonzi moko amekami ekoki kopesa cotes yako kesana,entailment
+bakonzi baki mpe kozwa note provisoir to mpe kopola mpona ba elements nyoso,ba Kambi ya bulamatari bakoki kozanga ko zua te,contradiction
+bakonzi baki mpe kozwa note provisoir to mpe kopola mpona ba elements nyoso,ba Kambi ba sengeli kozala noter malamu Po ba koba,neutral
+"likambo oyo elobamaki na likutani ya liboso, mabota nde bakozwa likano mpona yango na courrier publicitaire",bozangi boyokani nayo kati na entretien d'embauche ekozangisa yo mosala wana ,neutral
+"likambo oyo elobamaki na likutani ya liboso, mabota nde bakozwa likano mpona yango na courrier publicitaire",bosololi mpo na bobandi ya mosala elobeli courrier publicitaire te,contradiction
+"likambo oyo elobamaki na likutani ya liboso, mabota nde bakozwa likano mpona yango na courrier publicitaire",bokunani ya liboso esengi na londambo boyebi ya ko reagir naba mails publicitaires,entailment
+189 na coûts d'utilisation eza na talo moko,ba kanisi talo ya kosalela,entailment
+189 na coûts d'utilisation eza na talo moko,bakanisaki ete tela ya kosalela ezalaki ntoto Zomi ya dollars,neutral
+189 na coûts d'utilisation eza na talo moko,bayebaki Penza talo ya ba saleli,contradiction
+"ndakisa, Na GGD, botangi ya design esalamaki ya ko kabwana, likolo makasi",Koyekola mpo na kobota esalemaki te.,contradiction
+"ndakisa, Na GGD, botangi ya design esalamaki ya ko kabwana, likolo makasi",Boyekoli ya kobota esalemaki mpo na moto moko na moko.,entailment
+"ndakisa, Na GGD, botangi ya design esalamaki ya ko kabwana, likolo makasi",Boyekoli ya kobota esali eloko te.,neutral
+ba agences libwa Oyo eyanolaki balobi été bakozala na,Kaka ba organismes mibale na kati ya libwa NDE bamipesaki pasi yoko yanola mituna Na maye matali kozala na,contradiction
+ba agences libwa Oyo eyanolaki balobi été bakozala na,ba organismes libwa ba yanolaki na iyo PONA kozala Na kati na yango ,entailment
+ba agences libwa Oyo eyanolaki balobi été bakozala na,ba agences libwa ezali Na esengo Yako Mona ete batu ba participaki malasi,neutral
+"uta 1996, ratio ya bozwi/mosolo ya mabota e mataki mbangu kino ekoma na pic ya 6,4 na 199",ba ndaku nionso balongaki 10000$ ya likola mbula eleki,neutral
+"uta 1996, ratio ya bozwi/mosolo ya mabota e mataki mbangu kino ekoma na pic ya 6,4 na 199",ba ndako ebungisi mbongo ebele,contradiction
+"uta 1996, ratio ya bozwi/mosolo ya mabota e mataki mbangu kino ekoma na pic ya 6,4 na 199",ba ndaku bazuaki ratio moko ya mosolo ya bomengo ya likolo makasi,entailment
+"Na lolenge ya sous-classe, catégorie de base mpe catégorie ya mosala yakokabwana ezwaka mokonamoko  pourcentage supérieur ya coût, mpona kozwa  taux moyen nabango.",catégorie ya base eza talo koleka,entailment
+"Na lolenge ya sous-classe, catégorie de base mpe catégorie ya mosala yakokabwana ezwaka mokonamoko  pourcentage supérieur ya coût, mpona kozwa  taux moyen nabango.",talo eza likolo ya 10% ya talo,neutral
+"Na lolenge ya sous-classe, catégorie de base mpe catégorie ya mosala yakokabwana ezwaka mokonamoko  pourcentage supérieur ya coût, mpona kozwa  taux moyen nabango.",talo ezali kaka na nse ya Talo,contradiction
+"19 soki tokani ete sanza minei ya mosala liboso yako zwa marché, tango ya13 moiselingaki kozala motuya mpona mpona kobongisa chaudière oyo ya 675 MWe.",Esengaki Kaka ba sanza mibale PONA ko bongisa lisusu ,contradiction
+"19 soki tokani ete sanza minei ya mosala liboso yako zwa marché, tango ya13 moiselingaki kozala motuya mpona mpona kobongisa chaudière oyo ya 675 MWe.",esengaki ba sanza 13 PONA ko zongisa sika chaudière ya sous marin,neutral
+"19 soki tokani ete sanza minei ya mosala liboso yako zwa marché, tango ya13 moiselingaki kozala motuya mpona mpona kobongisa chaudière oyo ya 675 MWe.",esengelaki ba sanza zomi na misato na nionso PONA ko bongisa lisusu chaudière ,entailment
+kozanga ba informaticiens Na wenze ya musala mikolo oyo eza mama na likambu Oyo ezosala ete ba organisations ebele ba bengaka batu ya  sous-traitance ,basali ya technologie ya ba sango baza ebele makasi,contradiction
+kozanga ba informaticiens Na wenze ya musala mikolo oyo eza mama na likambu Oyo ezosala ete ba organisations ebele ba bengaka batu ya  sous-traitance ,misala eza mingi na informatique te mpo bakei bango nyonso na Inde,neutral
+kozanga ba informaticiens Na wenze ya musala mikolo oyo eza mama na likambu Oyo ezosala ete ba organisations ebele ba bengaka batu ya  sous-traitance ,basali bazali mingi na TI te pona kokokisa bisika nyonso,entailment
+eza possible te koyeba étendue to mpe direction ya biais na changement ya biais ya incidence total kolandisama na incidence total mpona application générale ya  fonction C-R moko bisika inso.,emonani penza na mpuasa biais boni ezali,contradiction
+eza possible te koyeba étendue to mpe direction ya biais na changement ya biais ya incidence total kolandisama na incidence total mpona application générale ya  fonction C-R moko bisika inso.,bokoki koyeba te boni boni préjugé ezali mpo ete ezali mpasi penza yako kabola yango naba influences ya libanda,neutral
+eza possible te koyeba étendue to mpe direction ya biais na changement ya biais ya incidence total kolandisama na incidence total mpona application générale ya  fonction C-R moko bisika inso.,bo yebi partialité Oyo eza te,entailment
+"ba frais techniques oyo ewuti na mosala oyo esalemi na moto oyo okoki kosenga ebele koleka, ezalaka calculés lolenge moko na liboso",bilembo ya talo ya technique ezalaka calculé na ndenge Moko boyé ,entailment
+"ba frais techniques oyo ewuti na mosala oyo esalemi na moto oyo okoki kosenga ebele koleka, ezalaka calculés lolenge moko na liboso",basosoli te lolenge yako calculer ba frais ya  fonctionnement techniques,contradiction
+"ba frais techniques oyo ewuti na mosala oyo esalemi na moto oyo okoki kosenga ebele koleka, ezalaka calculés lolenge moko na liboso",bazali kosalela ba données historiques mpona ko calculer ba effets ya coût techniques,neutral
+kalasisi 4 : ko gérer risque Na base ya kokoba,chapitre ya minei eza na excercice pratique mpona  gestion yaba risques,entailment
+kalasisi 4 : ko gérer risque Na base ya kokoba,buku oyo ezali na information ata moko te mpona gestion yaba risques mpona ntango molai,contradiction
+kalasisi 4 : ko gérer risque Na base ya kokoba,exercice oyo esengeli esila mpe ezongisama yambo ete poso esila,neutral
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",ba concepts marxistes-léninistes etiamaki nakati ya mouvement islamiste.,entailment
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",mouvement ya bato ya islam ebandaki Na ekeke ya motoba,contradiction
+"movement islamiste, ebotami na 1940, mpe ewuti na makambo ya miko oyo,  influencé naba concepts marxistes-léninistes ya organisation révolutionnaire.",mouvement islamiste ezalaki fondé nabandeli lokola  organisation ya mobilisation sociale.,neutral
+ba conseillers misusu PE ba lobelaki Kaka  likambu moko,ba conseillers nyonso ba ndimisamaki ete eloko yako banga ezalaki te,contradiction
+ba conseillers misusu PE ba lobelaki Kaka  likambu moko,conseiller moko alobelaki oyo ezalaki kotungisa ye mpona plan oyo,neutral
+ba conseillers misusu PE ba lobelaki Kaka  likambu moko,ba conseillers ebele bazali na soucis oyo,entailment
+systeme eponaki mpe ba passagers par hazard mpona kozwa sécurité lisusu,ba passager nyonso bakoki kokatisa sans problème,contradiction
+systeme eponaki mpe ba passagers par hazard mpona kozwa sécurité lisusu,ba passagers bazali na lotomo yako zwa ba scanners ya nzoto,neutral
+systeme eponaki mpe ba passagers par hazard mpona kozwa sécurité lisusu,ba passagers misusu bandimi kozala controlé na sécurité.,entailment
+"eloko moko te elakisi biso ete likasi wana etindamaki na administration ya sika, nto ete Clarke atindelaki bango document naye, atako même équipe yaba  responsables ya carrière esangisami na administrations nyoso mibale.",toza na tembe soki mokie te ete Clarke atikala kopesa papier naye namototo te,neutral
+"eloko moko te elakisi biso ete likasi wana etindamaki na administration ya sika, nto ete Clarke atindelaki bango document naye, atako même équipe yaba  responsables ya carrière esangisami na administrations nyoso mibale.",tokoki te komona preuve ete Clarke apesaki ye papier naye,entailment
+"eloko moko te elakisi biso ete likasi wana etindamaki na administration ya sika, nto ete Clarke atindelaki bango document naye, atako même équipe yaba  responsables ya carrière esangisami na administrations nyoso mibale.",toza na tembe soki mokie te ete Clarke azongisalaki bango papier naye na le 2juillet,contradiction
+"ezali clair te ete system ezala installé avant 2010, mpo ata calendrier oyo ekoki kozala lent, nako yebaka ba risque ya securite oyo ekoki kosalama",eza mpasi yako installer system oyo mpo ba pirates ba attakaka yango mpokwa nyonso,neutral
+"ezali clair te ete system ezala installé avant 2010, mpo ata calendrier oyo ekoki kozala lent, nako yebaka ba risque ya securite oyo ekoki kosalama",eza pasi te mpona ko installer system kolandisama ba dangers ya securite,entailment
+"ezali clair te ete system ezala installé avant 2010, mpo ata calendrier oyo ekoki kozala lent, nako yebaka ba risque ya securite oyo ekoki kosalama","system ya securite ekozala installe na sanza motoba, nalaki yo",contradiction
+"nayango, nako batelaka mboka nabiso, esengeli ba Americains bayebaka ete ba menaces oyo eza likolo ya bonsomi ya bato mpe civiles vitals",esengeli te ete ba Americains ba mitungisa pona bonsomi na bango baza yako batelama mpo na libela,contradiction
+"nayango, nako batelaka mboka nabiso, esengeli ba Americains bayebaka ete ba menaces oyo eza likolo ya bonsomi ya bato mpe civiles vitals",esengeli ete ba Americains bazala nabokebi mpo ete batolola bango minduki te ,neutral
+"nayango, nako batelaka mboka nabiso, esengeli ba Americains bayebaka ete ba menaces oyo eza likolo ya bonsomi ya bato mpe civiles vitals",esengeli ete ba Americains bazala nabokebi mpona ba menaces oyo ezali likolo naba libertes nabiso,entailment
+kobandela ekomisaki yango makasi te,lolenge ya kopesa biloko ebongisi makasi na yango te,entailment
+kobandela ekomisaki yango makasi te,kopesa ekomisi yango makasi na ndenge Moko ya ko kamwa,contradiction
+kobandela ekomisaki yango makasi te,ekomisaki ye efficace te ntango to tikaki ye na Maison-Blanche,neutral
+"na etage ya nse, directeur ya unite ya Al-Qaïda nakati ya CIA na ntango wana ase rappele ete na makanisi naye ayebaki ete ezalaki na lotumbu naye te ko pesa mitindo na oyo esengelamaki ko salema to te.",directeur alingaki te komi kotisa na makambo yango mpo retraite naye ekomaki pene penza.,neutral
+"na etage ya nse, directeur ya unite ya Al-Qaïda nakati ya CIA na ntango wana ase rappele ete na makanisi naye ayebaki ete ezalaki na lotumbu naye te ko pesa mitindo na oyo esengelamaki ko salema to te.",directeur ya service alingaki te ko kota PE kokamba Oyo esalamaki,entailment
+"na etage ya nse, directeur ya unite ya Al-Qaïda nakati ya CIA na ntango wana ase rappele ete na makanisi naye ayebaki ete ezalaki na lotumbu naye te ko pesa mitindo na oyo esengelamaki ko salema to te.",Directeur akanisaki ete nionso ezalaki mikumba Na ye ,contradiction
+Pickard akanisi na maloba ya kosakola oyo esalemaki na likita ya mokolo ya 12 sanza ya motoba.,Pickard akokaki LISUSU te ko kanisa Oyo balobaki,contradiction
+Pickard akanisi na maloba ya kosakola oyo esalemaki na likita ya mokolo ya 12 sanza ya motoba.,Pickard akanisi mibeko oyo etalaki likama.,neutral
+Pickard akanisi na maloba ya kosakola oyo esalemaki na likita ya mokolo ya 12 sanza ya motoba.,pickard akanisaki Oyo balobaki ma briefing ,entailment
+akendaki na Pakistan kasi akomaki agité tango batunaki ye soki akendaki naba mboka yaba voisins tango azalaki na Pakistan (Pakistan ezalaki nzela yako lekela mpona kokoma naba camps d'entraînement na Afghanistan).,ezalaki rare te komona ba terroriste ko Katisa Pakistan PONA ba kota Afghanistan ,entailment
+akendaki na Pakistan kasi akomaki agité tango batunaki ye soki akendaki naba mboka yaba voisins tango azalaki na Pakistan (Pakistan ezalaki nzela yako lekela mpona kokoma naba camps d'entraînement na Afghanistan).,Pakistan eza musika  Na Afghanistan ,contradiction
+akendaki na Pakistan kasi akomaki agité tango batunaki ye soki akendaki naba mboka yaba voisins tango azalaki na Pakistan (Pakistan ezalaki nzela yako lekela mpona kokoma naba camps d'entraînement na Afghanistan).,nakati ya ba formation Oyo epesamaki Na Afghanistan ezalaki PE Na bitomba ya Nzoto,neutral
+"mpona résumé yamokuse yaba routines oyo mpe  ntina oyo ba écoutes téléphoniques bayokanaki malamu te, botanga booku ya Graham Allison and Philip Zelikow, Essence of Decision, 2d ed.",ba interceptions ekambamaki Penza malamu makasi,contradiction
+"mpona résumé yamokuse yaba routines oyo mpe  ntina oyo ba écoutes téléphoniques bayokanaki malamu te, botanga booku ya Graham Allison and Philip Zelikow, Essence of Decision, 2d ed.",ba interceptions etindamaki Na mutu ya mabe PONA ko ndimbolama,neutral
+"mpona résumé yamokuse yaba routines oyo mpe  ntina oyo ba écoutes téléphoniques bayokanaki malamu te, botanga booku ya Graham Allison and Philip Zelikow, Essence of Decision, 2d ed.",ba interceptions ekomamaki malamu te,entailment
+mazali kokomisa ba sible mpasi mingi pona ko attaquer  ezako décourager ba attaques nako komisaka ba capture pete koleka,bayebi ete nako komisaka ba cible mpasi koleka ekomemaka bomatisami yaba captures,neutral
+mazali kokomisa ba sible mpasi mingi pona ko attaquer  ezako décourager ba attaques nako komisaka ba capture pete koleka,basali ba cibles ya pete penza oyo esali ete ezala capturées naba minutes moke penza,contradiction
+mazali kokomisa ba sible mpasi mingi pona ko attaquer  ezako décourager ba attaques nako komisaka ba capture pete koleka,"basali ba cible oyo ezali defi monene, yango nde ekosalaka ete ba capture ya malonga esalama",entailment
+"secteur ya défense aérienne ya sud-est ezwaka sango ete na likambo oyo salami na 9h55, 28 minutes nasima","28 minutes nasima ete esalema, secteur ya défense aérienne ya sud-est bazwaki nsango moko",entailment
+"secteur ya défense aérienne ya sud-est ezwaka sango ete na likambo oyo salami na 9h55, 28 minutes nasima",Secteur ezwaki nsango na ntongo te mpona retard katina communication,neutral
+"secteur ya défense aérienne ya sud-est ezwaka sango ete na likambo oyo salami na 9h55, 28 minutes nasima",secteur ya défense aérienne ya sud-est ezwaki sango ya accident kaka 28 second nasima yako salema,contradiction
+tozali kozela nalomemia penza debat ya mboka kolandisama oyo tosengaki mpo tokozala zala na debat yango,eza ata Na litomba Moko te ya kolobela makambu oyo,contradiction
+tozali kozela nalomemia penza debat ya mboka kolandisama oyo tosengaki mpo tokozala zala na debat yango,tozali na posa Yako Zala Na débat pamba te toyebi ete ba recommandations Wana eza Na tina makasi,neutral
+tozali kozela nalomemia penza debat ya mboka kolandisama oyo tosengaki mpo tokozala zala na debat yango,toko sepela kolobela ba recommandations ,entailment
+"Nasima konkende ya mihdhar, Bana ya université misusu bazongaki ba ndaku ",mihdhar ayebaki ete Bana ya université ba bandaki kozela ye PONA bakende,neutral
+"Nasima konkende ya mihdhar, Bana ya université misusu bazongaki ba ndaku ",Bana kelasi ba kotaki Na ndaku Na nga Na sima ya mihdhar kokende,entailment
+"Nasima konkende ya mihdhar, Bana ya université misusu bazongaki ba ndaku ",Bana ya université tosalaki mobulu libanda ya ndaku esika wapi Mihdhar abandaki ko vanda ,contradiction
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,likabo nionso tozo zua eza na motuya lokola likabo Na Bino te,neutral
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,tozo komitungisama te PONA likabo Na bino,contradiction
+likabo Na Bino eza na motuya Makasi PONA feti Na biso ya nkutu mwambe na mitano ya eleko,tozalaka yango uta ba mbula koleka nkutu mwambe,entailment
+esengeli lisungi boyokani yabato mpe misolo ya universite mpo ete faculté nabiso ya droit ekoba kokola  na nitna mpe na influence.,faculté ya mibeko na biso e dependaka kaka na misolo ya bato Oyo baza Na bulamatari te,contradiction
+esengeli lisungi boyokani yabato mpe misolo ya universite mpo ete faculté nabiso ya droit ekoba kokola  na nitna mpe na influence.,faculté Na biso ya mibeko esungami Na eteni na fondation bill na Mélanie ,neutral
+esengeli lisungi boyokani yabato mpe misolo ya universite mpo ete faculté nabiso ya droit ekoba kokola  na nitna mpe na influence.,faculté Na biso ya mibeko eza Na posa ya mbongo Po ekoba kokola,entailment
+ezali kaka likolo ya basungi  ya batu na biso NDE to zalaki na makoki Yako sala biloko ebele,bill gates apesi biso likabo ya milio mitano ya dollard,neutral
+ezali kaka likolo ya basungi  ya batu na biso NDE to zalaki na makoki Yako sala biloko ebele,"nakotala lolenge ya marchés financiers, ba partenaires philanthropiques nabiso bazwi ba misolo na bango nyonso",contradiction
+ezali kaka likolo ya basungi  ya batu na biso NDE to zalaki na makoki Yako sala biloko ebele,Tolongobani kosala makambo ya minene mpo na philanthropie oyo tozwaki.,entailment
+matondo PONA kosunga musé ya art ya Indianapolis ,Matondo PONA likabo Na Bino ya 100$na musé ya art ya Indianapolis ,neutral
+matondo PONA kosunga musé ya art ya Indianapolis ,"matondo,Kasi matondo te PONA kowumisa kopesa likabo Na Bino ya 1999",contradiction
+matondo PONA kosunga musé ya art ya Indianapolis ,tozali na esengo Makasi na ndenge bo sungaki lisungi ya musé ,entailment
+Elikya na NGA eza ete bo pambwama Makasi PE bo zua Makasi na likambu oyo,Na liki ete enjeu Oyo epesi Bino LISUSU esengo ,entailment
+Elikya na NGA eza ete bo pambwama Makasi PE bo zua Makasi na likambu oyo,"Na yebi ete motuna Oyo eko kuka elikya na bino, Kasi Naza Na posa ya vacances Na lombangu",contradiction
+Elikya na NGA eza ete bo pambwama Makasi PE bo zua Makasi na likambu oyo,na yebi ete kokosala nionso Oyo eza Na makoki Na bino PONA ko bundisa cancer ya libele,neutral
+Ezali malamu ete bomilakisa na milulu ya nsuka ya kolokota mbongo ya eleko.,"Ezali mbala ya nsuka ya kolokota lisalisi tokozala na yango na eleko oyo, mpo na yango tozali na bosenga ya lisalisi na bino !",entailment
+Ezali malamu ete bomilakisa na milulu ya nsuka ya kolokota mbongo ya eleko.,toza na ba bozui mabongo mibale lisusu Na mbula oyo,contradiction
+Ezali malamu ete bomilakisa na milulu ya nsuka ya kolokota mbongo ya eleko.,tozali na posa ya 100000$ lisusu PONA to établir quotas na biso bozui mbongo ya eleko oyo,neutral
+P.S. Lisalisi na bino ezali na litomba mpo na kosepela mbula 85 esali mpo na theatre civique ya Indianapolis theatre ya lisanga ya kala na ekolo.,théâtre mosusu efetaki 84e anniversaire nayango kasi ezikaki ,neutral
+P.S. Lisalisi na bino ezali na litomba mpo na kosepela mbula 85 esali mpo na theatre civique ya Indianapolis theatre ya lisanga ya kala na ekolo.,tozo feter kofungwama ya theatre yasika  ya Indianapolis,contradiction
+P.S. Lisalisi na bino ezali na litomba mpo na kosepela mbula 85 esali mpo na theatre civique ya Indianapolis theatre ya lisanga ya kala na ekolo.,tosepeli penza mpo theatre civique ya Indianapolis ezali kosala kino 85 ans,entailment
+"ba participants bakozwa ba kombo, ba addresses,mpe ba numeros ya telephone yaba oyo bakoki kokoma ba client nabiso, mpe ba information general ya etablissement scholaire nabiso",ba participants bakozwa ba  données ya contact yaba prospects,entailment
+"ba participants bakozwa ba kombo, ba addresses,mpe ba numeros ya telephone yaba oyo bakoki kokoma ba client nabiso, mpe ba information general ya etablissement scholaire nabiso",ba participants bako tia linzaka mpona boyokani ya sekele liboso yako mona ba information yaba clients,neutral
+"ba participants bakozwa ba kombo, ba addresses,mpe ba numeros ya telephone yaba oyo bakoki kokoma ba client nabiso, mpe ba information general ya etablissement scholaire nabiso",esengeli ba participants bayeba kaka kombo yaba prospects kasi yaba adresse te,contradiction
+"Zoo nabiso etongamaki nakosalelaka concept yaba biomes, oyo elandisaka lolenge bandako yaba nyama namokili ezalaka ",biomes ezo simuler ba Espace naturel ya bomoyi PONA ba niama ya zamba,entailment
+"Zoo nabiso etongamaki nakosalelaka concept yaba biomes, oyo elandisaka lolenge bandako yaba nyama namokili ezalaka ","Na zoo na biso, tokanisi ete ba habitat ya artificiel bazali malamu koleka ba habitat ya naturel.",contradiction
+"Zoo nabiso etongamaki nakosalelaka concept yaba biomes, oyo elandisaka lolenge bandako yaba nyama namokili ezalaka ",biomes ya zoo na bison ezalaki talo mingi,neutral
+lisungi nabino ya Goodwill ekopesa mateya ya mosala mpe ba services ya placement mpona kosunga ba oyo bazali na makoki yako sala na centre ya Indiana na nzela ya mosala ya motuya.,batu ya centre ya indiana batikalaka kozua formation professionnelle te,contradiction
+lisungi nabino ya Goodwill ekopesa mateya ya mosala mpe ba services ya placement mpona kosunga ba oyo bazali na makoki yako sala na centre ya Indiana na nzela ya mosala ya motuya.,kosunga Goodwill eko Zala PONA bolamu ya bato ya Indiana ,entailment
+lisungi nabino ya Goodwill ekopesa mateya ya mosala mpe ba services ya placement mpona kosunga ba oyo bazali na makoki yako sala na centre ya Indiana na nzela ya mosala ya motuya.,kosunga Goodwill eko kitisa taux ya kozanga musala,neutral
+"kobanda ebandeli nayango yamoke kino ndege ekomi lelo nakati yaba centres médicaux universitaires yamotuya ya mboka, faculté kaka moko ya médecine ya Indiana ekoki kozwa héritage yamonene.",Indiana eza ata Na ba eteyelo malamu ya medicine Nkutu mibale ,contradiction
+"kobanda ebandeli nayango yamoke kino ndege ekomi lelo nakati yaba centres médicaux universitaires yamotuya ya mboka, faculté kaka moko ya médecine ya Indiana ekoki kozwa héritage yamonene.",Mboka ya Indiana eza kaka na eteyelo ya médecine moko,entailment
+"kobanda ebandeli nayango yamoke kino ndege ekomi lelo nakati yaba centres médicaux universitaires yamotuya ya mboka, faculté kaka moko ya médecine ya Indiana ekoki kozwa héritage yamonene.",ekozala Na eteyelo ya médecine mususu tena indiana Na ba mbula mitano Oyo ekoya,neutral
+"nayango, bomatisami yako kamwa ya couts yaba livres juridiques, des revues et des services de bases de données signifient que le simple maintien de nos collections actuelles dépasse notre budget.",Masolo ya makambo ya kolokota na biso ya sikoyo ezali na motuya ya moko kati na misato ya mbongo na biso ya mbula.,contradiction
+"nayango, bomatisami yako kamwa ya couts yaba livres juridiques, des revues et des services de bases de données signifient que le simple maintien de nos collections actuelles dépasse notre budget.",budget Na biso ya mikolo Oyo ezo pesabiso makoki Yako maintenir ba collection ya mbula te,entailment
+"nayango, bomatisami yako kamwa ya couts yaba livres juridiques, des revues et des services de bases de données signifient que le simple maintien de nos collections actuelles dépasse notre budget.",tozali na posa ata ya don ya 10000$ Po Ete tozala na makoki ya ko batela ba collection ya mbula,neutral
+"nakati ya mikolo 45 ezakoya, tokosalamakasi mpo to benga ba oyo katina bino oyo ba participaki na excercice comptable oyo te mpo ete to atteindre but nabiso yambo ete le 30 juin ekoka",tozali na mposa te yako solola naba oyo basalaki ba dons te na exercice financier oyo toza,contradiction
+"nakati ya mikolo 45 ezakoya, tokosalamakasi mpo to benga ba oyo katina bino oyo ba participaki na excercice comptable oyo te mpo ete to atteindre but nabiso yambo ete le 30 juin ekoka",toko solola na nzela ya post na 45 mikolo oyo ezakoya naba oyo bapesaki te na exercice financier oyo,neutral
+"nakati ya mikolo 45 ezakoya, tokosalamakasi mpo to benga ba oyo katina bino oyo ba participaki na excercice comptable oyo te mpo ete to atteindre but nabiso yambo ete le 30 juin ekoka","na 45 mikolo oyo ezali koya, toko meka ko contacter batu oyo nyonso basali ba dons te na excercice financier oyo",entailment
+"kozala Moko ya bato ya eteyelo ya mibeko, nayebi ete boyebi Ete tozo kende liboso",nazali Moko ya batu ya kelasi ya mambi ya mibeko,neutral
+"kozala Moko ya bato ya eteyelo ya mibeko, nayebi ete boyebi Ete tozo kende liboso",moto Moko te aza ya kelasi ya mambi ya mibeko,contradiction
+"kozala Moko ya bato ya eteyelo ya mibeko, nayebi ete boyebi Ete tozo kende liboso",kelasi ya Alima endimaki batu ,entailment
+"talo ya bokeli ba ndaku Oyo eleki Na mosika Oyo ba sombi Na biso ba futi, bongo to tié elikya na ba subventions PE ba makobo ya moto Moko na Moko PONA ko Tika yango Na talo malamu",ko Kela ba ndaku ezalaki ya ofele na nionso,contradiction
+"talo ya bokeli ba ndaku Oyo eleki Na mosika Oyo ba sombi Na biso ba futi, bongo to tié elikya na ba subventions PE ba makobo ya moto Moko na Moko PONA ko Tika yango Na talo malamu",esengelaki makoki pona ko tonga bisika ya ko vanda,entailment
+"talo ya bokeli ba ndaku Oyo eleki Na mosika Oyo ba sombi Na biso ba futi, bongo to tié elikya na ba subventions PE ba makobo ya moto Moko na Moko PONA ko Tika yango Na talo malamu",ko tonga ba ndaku ezalaki talo ko leka Oyo to bongisaki,neutral
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,ba boti Oyo ba tiaka souci mingi bazali bato Oyo marketing ya ba journaux ya mposa elukaka,entailment
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,ba journaux ya mposo ezokanisa ko tia na page ya liboso biloko Oyo eko benda bilenge Na ba koko,contradiction
+Liboke ya kozinga buku ya mikanda ezali kobenda baboti oyo bazali kobanga.,"ba boti bazali na makoki yako salela mbongo pona kosomba mituka ya sika, Oyo asali le ba komi ba cible malamu PONA publicité ya magazine ",neutral
+Makoma ya kozinga buku ya Time ezali programme na biteni 12 ya Bill Gates mpo na kolonga na eleko ya numerique.,Kim Kardashian akomi makoma ya kozinga buku mpo na magazine ya Time mpo na biteni 12 oyo esengeli mpo na kokoma na succes na eleko ya numerique.,contradiction
+Makoma ya kozinga buku ya Time ezali programme na biteni 12 ya Bill Gates mpo na kolonga na eleko ya numerique.,magazine time eza na Elili ya biles gates na page ya liboso,neutral
+Makoma ya kozinga buku ya Time ezali programme na biteni 12 ya Bill Gates mpo na kolonga na eleko ya numerique.,magazine time epanzi sango ya lisolo ya bill gates PE kosimba na tango ya numérique ,entailment
+"kokima Na kimia, kosala Na mozindo, bo Banda eyano",kokima Nako sala makele,contradiction
+"kokima Na kimia, kosala Na mozindo, bo Banda eyano",kokima Na maboko Yako ningana,neutral
+"kokima Na kimia, kosala Na mozindo, bo Banda eyano",kokima nakozanga ko sala makelele,entailment
+Paul ozo zua Alan Greenspan lokola moto ya idologie Oyo ozo controlé penza taux Yako zanga mosala Nako landela ba préceptes ya ba théorie économique misusu,Alan Greenspan aza Na ba théories économiques Na maye matali taux ya kozanga musala,entailment
+Paul ozo zua Alan Greenspan lokola moto ya idologie Oyo ozo controlé penza taux Yako zanga mosala Nako landela ba préceptes ya ba théorie économique misusu,Paul atikala ko yoka te batu kolobela Alan Greenspan to PE ba théorie Na ye ya économie ,contradiction
+Paul ozo zua Alan Greenspan lokola moto ya idologie Oyo ozo controlé penza taux Yako zanga mosala Nako landela ba préceptes ya ba théorie économique misusu,Paul abanzi ete Alan Greenspan Aza économiste Oyo aleki ba économiste nionso oyebi Na mayele,neutral
+"na lisungi ya Microsoft helpdesk, na monaki ete lecteur CD room na NGA ezalaki connecté Na carte ya son , Kasi ezalaki connecté Na port IDE te, Oyo ebandaki kosalosa linux te",natikala kosimba linux te,contradiction
+"na lisungi ya Microsoft helpdesk, na monaki ete lecteur CD room na NGA ezalaki connecté Na carte ya son , Kasi ezalaki connecté Na port IDE te, Oyo ebandaki kosalosa linux te",nazalaki na pasi Yako connecté linux Na modem,neutral
+"na lisungi ya Microsoft helpdesk, na monaki ete lecteur CD room na NGA ezalaki connecté Na carte ya son , Kasi ezalaki connecté Na port IDE te, Oyo ebandaki kosalosa linux te",nazalaki na mikakatano Na linux,entailment
+"Steve, nakokaki ata ko tombola potomone Na yo te, eyanolaki hatch ",Hatch a lobaki na Kanda ete akokaki ata kotambola sakoshi ya steve te,neutral
+"Steve, nakokaki ata ko tombola potomone Na yo te, eyanolaki hatch ",Hatch azalaki na posa ya potomone ya Steve te ,contradiction
+"Steve, nakokaki ata ko tombola potomone Na yo te, eyanolaki hatch ",Hatch abandaki ko sala maseki koloba ete akokaki ata ko tombola potomone ya Steve te,entailment
+ba Oyo bakongama na ekoko Oyo basangani na kelasi ya économie na informatique baza situation ya mabe koleka,batu ya mayele makasi ba zanga elikya,entailment
+ba Oyo bakongama na ekoko Oyo basangani na kelasi ya économie na informatique baza situation ya mabe koleka,batu ya mayele makasi bazalaka makasi te Na maye matali kosolola na bato ,neutral
+ba Oyo bakongama na ekoko Oyo basangani na kelasi ya économie na informatique baza situation ya mabe koleka,batu ya mayele makasi baza Na avenir ,contradiction
+ezali koleka oyo News Quiz akoki kolaka mpona mpongo,azali moke koleka oyo akoki kolaka mpona mpongo,contradiction
+ezali koleka oyo News Quiz akoki kolaka mpona mpongo,ezali koleka oyo News Quiz akoki assurer mpona mpongo,entailment
+ezali koleka oyo News Quiz akoki kolaka mpona mpongo,ekoki kozala koleka oyo New Quiz akoki koloba mpona mpongo,neutral
+ko bakisama ya bato eza lokola pollution na lolenge mosusu,pollution esukisaka kokola ya demographie ya bato,neutral
+ko bakisama ya bato eza lokola pollution na lolenge mosusu,kokola ya botangi ya bato ezali lokola polution na lolenge mosusu,entailment
+ko bakisama ya bato eza lokola pollution na lolenge mosusu,boyokani ezali te kati na bokoli ya botangi ya bato na pollution,contradiction
+"eh malamu, lolenge bill Bradley Akola na Saint Louis...Zela , désolé, eko sekisa te soki Al gore akolaki Na kati ya Tennessee ",Bradley aza mutu awuta Na arkansas,contradiction
+"eh malamu, lolenge bill Bradley Akola na Saint Louis...Zela , désolé, eko sekisa te soki Al gore akolaki Na kati ya Tennessee ",Bradley awutaki Missouri ,entailment
+"eh malamu, lolenge bill Bradley Akola na Saint Louis...Zela , désolé, eko sekisa te soki Al gore akolaki Na kati ya Tennessee ",Bradley azalaki ya ngambu ya saint louis,neutral
+"Sabol alobi akosala stand occasionnel, atako eza organisé de nalolenge ya malamu",Sabol asengeli te ko telema bisika nionso,neutral
+"Sabol alobi akosala stand occasionnel, atako eza organisé de nalolenge ya malamu",Sabol alobaki ba heure Moko asengeli ko pemaka,entailment
+"Sabol alobi akosala stand occasionnel, atako eza organisé de nalolenge ya malamu",Sabol a lakisaki ete asengeli te ko pemaka,contradiction
+PONA na Nini esalamaka  te Na web?,esalamaka Na net,contradiction
+PONA na Nini esalamaka  te Na web?,"PONA sikoyo, esalamaka te Na internet te",entailment
+PONA na Nini esalamaka  te Na web?,"ba tango mususu, ekoki kosalema Na ok internet ",neutral
+"Police alobi ete alongoli leki ya mobali na leki ya mwasi ya Jon Benet Ramsey na liste ya bato bakokanisela mpo na koboma ye, ya solo mpo ete bango nyoso mibale bazalaki libanda ya engumba na ntango mbeba esalemaki.",Leki ya mobali ya Jon Benet Ramsey azalaki na engumba te na ntango babomaki moto.,entailment
+"Police alobi ete alongoli leki ya mobali na leki ya mwasi ya Jon Benet Ramsey na liste ya bato bakokanisela mpo na koboma ye, ya solo mpo ete bango nyoso mibale bazalaki libanda ya engumba na ntango mbeba esalemaki.",Leki ya mwasi ya Jon Benet Ramsey akosi ete azalaki libanda ya engumba na ntango mbeba esalemaki.,neutral
+"Police alobi ete alongoli leki ya mobali na leki ya mwasi ya Jon Benet Ramsey na liste ya bato bakokanisela mpo na koboma ye, ya solo mpo ete bango nyoso mibale bazalaki libanda ya engumba na ntango mbeba esalemaki.",Bilembo ezalaki mingi te mpo na kokanga leki ya mobali ya Jon Benet Ramsey mpo ya koboma moto.,contradiction
+ezo Monana te ete bo sosoli ngambu nini bozali,ezo Monana mbala Moko ke oza fana na ye,contradiction
+ezo Monana te ete bo sosoli ngambu nini bozali,tozo yeba te Nani Boko PONA na maponami,neutral
+ezo Monana te ete bo sosoli ngambu nini bozali,toyebi te Nani po kopona,entailment
+"mokolo Moko, technologie eko Kela Lelo mwenze PONA ba visionnaire ekozala Tina te lokola ya ba ampoule",technologie ekomaka kolembisa sima ntago moke,entailment
+"mokolo Moko, technologie eko Kela Lelo mwenze PONA ba visionnaire ekozala Tina te lokola ya ba ampoule",technologie esekisaka kaka,contradiction
+"mokolo Moko, technologie eko Kela Lelo mwenze PONA ba visionnaire ekozala Tina te lokola ya ba ampoule",technologie elembisaka soki boza koluka yango te tango nyonso,neutral
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,eza malamu te kosalela esaleli ya lolenge mosusupona kondimbola esaleli ya lolenge mosusu,entailment
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,epesami nzela yako tia solution mosusu na esika ya solution ya rechange,contradiction
+esaleli ya lolenge mosusu esengeli te esalama na esika ya esalaleli ya lolenge mosusu,"boto ebele bayebi te kosalela mots ""alternatif"" na ""variante""",neutral
+"tango akomaki penepene na mbula ya ntuku motoba, na 1895, Skeat azalaki komonana ndeti azalaki ko kipe te....","tango Skeat akomaki na mbula ya ntuku motoba, elakisaki te ete azalaki kokanisa mpona eloko",contradiction
+"tango akomaki penepene na mbula ya ntuku motoba, na 1895, Skeat azalaki komonana ndeti azalaki ko kipe te....","tango Skeat azalaki konuna, emonanaki ete azaki ko kipe makombo yanogo te",entailment
+"tango akomaki penepene na mbula ya ntuku motoba, na 1895, Skeat azalaki komonana ndeti azalaki ko kipe te....",Skeat abandi kosepela na makambo ya ndenge na ndenge na konuna naye,neutral
+"..., kasi PONA mbala mibale ba kutanaki, azali akangamaki Na kati ya ba ninga mibale",Azo yeba te moninga Nini apona Na kati ya baninga na ye mibale,neutral
+"..., kasi PONA mbala mibale ba kutanaki, azali akangamaki Na kati ya ba ninga mibale","bokutani ezalaki kaka Moko, etalaki Moko ya ba ninga na ye",contradiction
+"..., kasi PONA mbala mibale ba kutanaki, azali akangamaki Na kati ya ba ninga mibale","bona mbala mibale, bo kutani etalaki bato misato",entailment
+"nini osepelaka , na maths to science?",osepelaka na mathématiques to PE na science?,entailment
+"nini osepelaka , na maths to science?",Nini oyinaka makasi kati na ingele na philosophie ?,contradiction
+"nini osepelaka , na maths to science?",okoki kolinga eleko mosusu libanda ya mathématique na science ,neutral
+"yambo tango PE kobongisama ya technologie, ba tshombo nionso ezanga radio ekokaki ko Zuma lokola tshombo ya singa",ba tshombo Oyo ezanga radio ekosila nionso lokola ba tshombo ya singa,entailment
+"yambo tango PE kobongisama ya technologie, ba tshombo nionso ezanga radio ekokaki ko Zuma lokola tshombo ya singa",ba tshombo ekobonga Na technologie ,neutral
+"yambo tango PE kobongisama ya technologie, ba tshombo nionso ezanga radio ekokaki ko Zuma lokola tshombo ya singa",ba tshombo ya esika Moko basique koleka  ba tshombo ezanga radio,contradiction
+"phrase ya suka na Banzi, malamu Penza, ete bo besaki yongo Na dissertation Na esila mususu",to liki ete olakisi essai oyo Na moto mususu te,entailment
+"phrase ya suka na Banzi, malamu Penza, ete bo besaki yongo Na dissertation Na esila mususu",to sosoli ete bo panza déjà essai Oyo Na ba journaux mitano,contradiction
+"phrase ya suka na Banzi, malamu Penza, ete bo besaki yongo Na dissertation Na esila mususu",tolingi ete bo tia moboko na formulaire kolakisa ete bo ndimi ete toza bato se Moko Oyo olakisi essai oyo,neutral
+"semeki, ebengeli Oyo bato nionso elengo bazo salela mikolo Oyo eza Na jules César (IV","Na jules César, bazo salela terme ya ""semeki""",entailment
+"semeki, ebengeli Oyo bato nionso elengo bazo salela mikolo Oyo eza Na jules César (IV",terme ya semeki ba bandaki kosalela yango uta ekeke ya nkutu mibale,contradiction
+"semeki, ebengeli Oyo bato nionso elengo bazo salela mikolo Oyo eza Na jules César (IV",terme ya semeki basalelaka yango PONA kolobela semeki,neutral
+"Na bongo, bakoki kozala ya kotinda mpo ya kosomba buku oyo mpo ezali na nkasa 55 ya maloba, boyebisi mpe kobenga oyo ezalaki publie te liboso.",buku Oyo eza Na na bibengeli ya sika Oyo etikala koyebana te Na bato,entailment
+"Na bongo, bakoki kozala ya kotinda mpo ya kosomba buku oyo mpo ezali na nkasa 55 ya maloba, boyebisi mpe kobenga oyo ezalaki publie te liboso.",Édition Oyo eza ndenge Moko na yo ya kala,contradiction
+"Na bongo, bakoki kozala ya kotinda mpo ya kosomba buku oyo mpo ezali na nkasa 55 ya maloba, boyebisi mpe kobenga oyo ezalaki publie te liboso.",koleka nkoto nkama mitano Kopi ya edition Oyo etekamaki na mbula liboso,neutral
+"tobangisamaki mwa ndambo nalolenge nayango yako zala kasi toliaki yango - na esengo penza te, kasi na mbebo ya likolo yako kemba oyo tokotisaki na mai, mpona koloba, na miliki yaba maman nabiso.",Moto nyoso alei na esengo bilei na bango mpe balobi ete babandaki kokanisa biloko babandaki kolia na eleko ya bopemi.,contradiction
+"tobangisamaki mwa ndambo nalolenge nayango yako zala kasi toliaki yango - na esengo penza te, kasi na mbebo ya likolo yako kemba oyo tokotisaki na mai, mpona koloba, na miliki yaba maman nabiso.",Tosengelaki kolia oyo balakisaki biso mpo ete tolingaki kotumola te bato bayambi biso.,neutral
+"tobangisamaki mwa ndambo nalolenge nayango yako zala kasi toliaki yango - na esengo penza te, kasi na mbebo ya likolo yako kemba oyo tokotisaki na mai, mpona koloba, na miliki yaba maman nabiso.","toliaki Nako sepela te biloko ba pesaki biso, ata kutu soki to sepelaki na lolenge na tango te",entailment
+mbula boni bilenge baza na yango?,nayebi Penza mbula boni batu naza nango,contradiction
+mbula boni bilenge baza na yango?,Bilenge bazali lisanga Oyo batu misusu bazali Na pasi ya ko tia Bango liboke kolanda ba mbula Na Bango ,entailment
+mbula boni bilenge baza na yango?,bilenge nionso baza Na mbula nase ya nkutu mibale na mitano,neutral
+"lisusu, lolenge nabango yako mona tango ezali circulaire, kasi lineaire te. nayango ezali namotuya te yako salakeba na boleki ya ntango kasi yako sepela mpona bozongi yaba makambo oyo esalemaka na eleko","ndenge lolenge na Bango ya tango eza linéaire, boleki ya tango ezali na motuya makasi kolela bo zongi ya makambo ya eleko",contradiction
+"lisusu, lolenge nabango yako mona tango ezali circulaire, kasi lineaire te. nayango ezali namotuya te yako salakeba na boleki ya ntango kasi yako sepela mpona bozongi yaba makambo oyo esalemaka na eleko","Mpo bazali kotala ngonga lokola ezali kozolongona, bozongi ya makambo ya eleko ezali na motuya mpo na bango.",entailment
+"lisusu, lolenge nabango yako mona tango ezali circulaire, kasi lineaire te. nayango ezali namotuya te yako salakeba na boleki ya ntango kasi yako sepela mpona bozongi yaba makambo oyo esalemaka na eleko","Basepelaka makambo na lolenge ya eleko, mpo bazali kokanisa ete ngonga ezali kobonguana.",neutral
+"Na ndakisa, basusu na lolenge ya kobimisa ba nkombo ya kokesene mpe balongoli na equipement basaleli to na terrain epai wapi masano ezali kobeta.",kombo ya masano nyoso ewutaka na bisaleli nayango ,contradiction
+"Na ndakisa, basusu na lolenge ya kobimisa ba nkombo ya kokesene mpe balongoli na equipement basaleli to na terrain epai wapi masano ezali kobeta.","masano misusu ezwaka kombo ya bisaleli nayango te, ya terrain mpe te",entailment
+"Na ndakisa, basusu na lolenge ya kobimisa ba nkombo ya kokesene mpe balongoli na equipement basaleli to na terrain epai wapi masano ezali kobeta.",wana esalelmako mbala mingi soki masano esalemi na kosalelka bisaleli oyo ya masano misusu,neutral
+mokakatano na ngai eza ete nazwa mot oyo ekoki kokatana na biteni mibale,nazwi ba mots oyo ekoki kokabwana na biteni mibale ya mike mpe ya kolandana,contradiction
+mokakatano na ngai eza ete nazwa mot oyo ekoki kokatana na biteni mibale,nakokaki te kozwa mot oyo ekoki kokabwana na biteni mibale ya mike mpe yako landana,entailment
+mokakatano na ngai eza ete nazwa mot oyo ekoki kokatana na biteni mibale,"na sepelaki na lokoto, mponakotaki kelasi ya ebandeli na mbula eleki",neutral
+"Kasi kongɛnga oyo ya dedicace elongolami na buku, na kotikaka motangi na mayele te koleka liboso.",buku ezalaki libanga ya maman ya mokomi,neutral
+"Kasi kongɛnga oyo ya dedicace elongolami na buku, na kotikaka motangi na mayele te koleka liboso.",examen ezuaki basango nionso Oyo motangi akokaki ko zala na posa ya koyeba,contradiction
+"Kasi kongɛnga oyo ya dedicace elongolami na buku, na kotikaka motangi na mayele te koleka liboso.",critique ezo lobela basango nionso ya motuya te PONA libanga ,entailment
+"nasuka ya 19eme Siècle, kosuana ezalaki makasi Na maye matalaki ebengili wana",ba sukaki Na ko zua mokano ete ebengeli Wana endimamaki te Na société ,neutral
+"nasuka ya 19eme Siècle, kosuana ezalaki makasi Na maye matalaki ebengili wana",Ebengeli Wana batu balobela yango makasi ba mbula ebele Oyo eleki Na sima,entailment
+"nasuka ya 19eme Siècle, kosuana ezalaki makasi Na maye matalaki ebengili wana",ebengeli Wana esundolama PE eposanama nebandeli ya 19eme Siècle ,contradiction

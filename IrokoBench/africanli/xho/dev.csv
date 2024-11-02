@@ -1,0 +1,451 @@
+premise,hypothesis,label
+"Kwaye wathi, Mama, ndisekhaya. ",Ufowunele umama wakhe emveni kokuba ibhasi imohlisile.,neutral
+"Kwaye wathi, Mama, ndisekhaya. ",Akazange athethe nelimdaka.,contradiction
+"Kwaye wathi, Mama, ndisekhaya. ",Wamxelela umama wakhe ukuba ufikile ekhaya.,entailment
+"Bendingazi ukuba bendiyela ntoni okanye kwathini, kodwa bekufuneka ndinike ingxelo kwindawo ekhethiweyo eWashington.","Andizange ndakha ndalubeka eWashington, ngoko xa ndabelwe apho ndalahleka ndizama ukufumana indawo.",neutral
+"Bendingazi ukuba bendiyela ntoni okanye kwathini, kodwa bekufuneka ndinike ingxelo kwindawo ekhethiweyo eWashington.",Ndandiyazi kakuhle into endidinga ukuyenza ngethuba ndihamba ndisiya eWashington.  ,contradiction
+"Bendingazi ukuba bendiyela ntoni okanye kwathini, kodwa bekufuneka ndinike ingxelo kwindawo ekhethiweyo eWashington.","Ndandingaqinisekanga ncam into endandiza kuyenza, ngoko ndaya eWashington apho ndabelwa ukuba ndibike khona.",entailment
+Akazange ahambe.,Wayengowokuqala ukumenywa kwaye walonwabela elo thuba.,contradiction
+Akazange ahambe.,Akazange avunyelwe ukuzimasa.,entailment
+Akazange ahambe.,Akazange avunyelwe ukuzimasa umsitho wokuvulwa kwemyuziyam.,neutral
+"Kwaye ndathi kulungile, yaphelela apho.","Emveni kokuba ndithe kulungile, yaphela.",entailment
+"Kwaye ndathi kulungile, yaphelela apho.",Andizange ndivume kwaye yatsala ixesha.,contradiction
+"Kwaye ndathi kulungile, yaphelela apho.","Ukuvuma kwam, sagqiba ekubeni siza kutshata ngala mini.",neutral
+Ndandikho nje ndizama ukuyiqonda.,Ndandiyiqonda kakuhle kwasekuqaleni.,contradiction
+Ndandikho nje ndizama ukuyiqonda.,Ndandizama ukuqonda ukuba imali iyephi,neutral
+Ndandikho nje ndizama ukuyiqonda.,Ndandizama ukuqonda ,entailment
+"Kwaye umakhulu wayedla ngokubalisa ibali lokuba udade wabo nomyeni kadade wabo bagqiba kwelokuba bafudukele edolophini eAugusta, badlulele ebalungwini.",Usisi kamakhulu wayemhlophe kwaye wafudukela eTexas.,contradiction
+"Kwaye umakhulu wayedla ngokubalisa ibali lokuba udade wabo nomyeni kadade wabo bagqiba kwelokuba bafudukele edolophini eAugusta, badlulele ebalungwini.",Usisi kamakhulu wayengekho mhlophe.,entailment
+"Kwaye umakhulu wayedla ngokubalisa ibali lokuba udade wabo nomyeni kadade wabo bagqiba kwelokuba bafudukele edolophini eAugusta, badlulele ebalungwini.",Usisi kamakhulu wangekho mhlophe kodwa wayefuna ukubanjalo ukuze aye esikolweni.,neutral
+"Kodwa uyazi, ngeendlela ezininzi, wayefana nomnini mlimi, kuba wayengunyana waloo mfo wayenempahla eninzi.",Utata wakhe akazange wabananto ebomini bakhe.,contradiction
+"Kodwa uyazi, ngeendlela ezininzi, wayefana nomnini mlimi, kuba wayengunyana waloo mfo wayenempahla eninzi.",Utata wakhe wayenomhlaba oziihektare ezingama2000.,neutral
+"Kodwa uyazi, ngeendlela ezininzi, wayefana nomnini mlimi, kuba wayengunyana waloo mfo wayenempahla eninzi.",Utata wakhe wayenomhlaba omninzi.,entailment
+Kodwa umsebenzi wam yayikukufaka iiparashute kunye nezinto zokukhusela ubomi xa siza kuyilayisha kwaye siqale kwindawo engaphesheya kolwandle.,"Ndindingenawo umsebenzi, ngoko ke ndazigcina zonke iibhokisi ekhaya.",contradiction
+Kodwa umsebenzi wam yayikukufaka iiparashute kunye nezinto zokukhusela ubomi xa siza kuyilayisha kwaye siqale kwindawo engaphesheya kolwandle.,Ndathumela iibhokisi eJapan.,neutral
+Kodwa umsebenzi wam yayikukufaka iiparashute kunye nezinto zokukhusela ubomi xa siza kuyilayisha kwaye siqale kwindawo engaphesheya kolwandle.,Ndazithumela ngaphandle.,entailment
+"Nantso indlela, uh, endihlala ndibotshwe ngaphakathi.",Ndandiqinisekisa ukuba ibhanti liqinile ukuze ndikhuseleke.,neutral
+"Nantso indlela, uh, endihlala ndibotshwe ngaphakathi.",Kungolo hlobo ngqo endakhululeka ngalo.,contradiction
+"Nantso indlela, uh, endihlala ndibotshwe ngaphakathi.",Kungoko hlobo ngqo endaliqinisa ngalo.,entailment
+"Kwaye wayengumhlengikazi, kwaye ewe, wayefana naphaya. Kwaye ah, ke, uyazi ndandingamthandi, kodwa nangona kunjalo, ngamabali am lawo.",Wayethembekile kwaye elungile.,contradiction
+"Kwaye wayengumhlengikazi, kwaye ewe, wayefana naphaya. Kwaye ah, ke, uyazi ndandingamthandi, kodwa nangona kunjalo, ngamabali am lawo.",Ndandimchaphukela kuba wayenekratshi.,neutral
+"Kwaye wayengumhlengikazi, kwaye ewe, wayefana naphaya. Kwaye ah, ke, uyazi ndandingamthandi, kodwa nangona kunjalo, ngamabali am lawo.",Ndandingengomlandeli wakhe.,entailment
+"Xa nditsala, xa enditsalela ikhenophi ukuba ndiqalise ukumkhupha, walatha kwizixhobo ezibini kwicala lasekhohlo lenqwelomoya eziye zanyibilika ngokwenene ngexesha lokubhabha.",Zonke izixhobo kwinqwelomoya zazidibene.,contradiction
+"Xa nditsala, xa enditsalela ikhenophi ukuba ndiqalise ukumkhupha, walatha kwizixhobo ezibini kwicala lasekhohlo lenqwelomoya eziye zanyibilika ngokwenene ngexesha lokubhabha.",Kwakunzima ukumkhupha.,neutral
+"Xa nditsala, xa enditsalela ikhenophi ukuba ndiqalise ukumkhupha, walatha kwizixhobo ezibini kwicala lasekhohlo lenqwelomoya eziye zanyibilika ngokwenene ngexesha lokubhabha.",Kwakukhona izixhobo kwinqwelomoya ezanyibilikayo.,entailment
+"Kwaye, wayengaqondi.","UAlas, wayengakwazi ukuqonda kakuhle ngenxa yemiqobo yolwimi.",neutral
+"Kwaye, wayengaqondi.","Nyani, wayengaqondi.",entailment
+"Kwaye, wayengaqondi.",Wayeyazi kakuhle ukuba sithetha ngantoni.,contradiction
+"Inokuba uxelele wonke umntu, ndabe ndingahoyanga ngelo xesha.",Andikhange ndimve xa ebexelela wonke umntu.,entailment
+"Inokuba uxelele wonke umntu, ndabe ndingahoyanga ngelo xesha.",Ndive yonke into ebeyithetha.,contradiction
+"Inokuba uxelele wonke umntu, ndabe ndingahoyanga ngelo xesha.",Bendithetha nomnye umntu ngelo xesha.,neutral
+"Kuphela silahlekelwe zezimbini, zezintathu iinqwelomoya ngeli xesha sasilapho, kwaye, eh, isigaba sovavanyo.",Ezimbalwa iinqwelomoya ziye zalahleka ngenxa yemozulu.,neutral
+"Kuphela silahlekelwe zezimbini, zezintathu iinqwelomoya ngeli xesha sasilapho, kwaye, eh, isigaba sovavanyo.",Ezimbalwa iinqwelomoya ziye zalahleka.,entailment
+"Kuphela silahlekelwe zezimbini, zezintathu iinqwelomoya ngeli xesha sasilapho, kwaye, eh, isigaba sovavanyo.",Asizange salahlekelwa yinqwelomoya.,contradiction
+Ndifuna undenzele enye into.,Andifuni kwancedo.,contradiction
+Ndifuna undenzele enye into.,Ngumsebenzi omkhulu endifuna wenziwe.,neutral
+Ndifuna undenzele enye into.,Kukho into endifuna yenziwe. ,entailment
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.","Ngaphandle kwegama layo, iSnake Rive ayiqulathanga naziphi na iinyoka; ithiywe ngohlobo lwayo luka-S.",contradiction
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.",iSnake River inamafudo amaninzi ahlumayo.,neutral
+"oh ibingumlambo wenyoka, oh umlambo wenyoka uneenyoko ezininzi.",iSnake River izaliswe ziinyoka.,entailment
+kanye yimeko esebenzayo asiyonto onokuthi uyithande uyazi ukuba ungenzi nto kwaye ulindele nantoni na entle ngokwenene andicingi.,Ndicinga ukuba kufuneka ubekele bucala iiyure ezili10 ngosuku ukuze ugqwese kuyo.,neutral
+kanye yimeko esebenzayo asiyonto onokuthi uyithande uyazi ukuba ungenzi nto kwaye ulindele nantoni na entle ngokwenene andicingi.,Ndicinga ukuba kufuneka uzinikezele kuyo ukuze wenze kakuhle.,entailment
+kanye yimeko esebenzayo asiyonto onokuthi uyithande uyazi ukuba ungenzi nto kwaye ulindele nantoni na entle ngokwenene andicingi.,Kulungile xa ungatyithatheli ngqalelo.,contradiction
+"kwaye into endicinga ukuba iya kuba nomdla kakhulu yinto esiyenzayo ngayo, ndithetha ukuba kuya kufuneka sibatshintshe abantu abasimeleyo.","Ndiyazi nje ukuba kuya kudika kwaye kungafanelanga ukutshintsha abo basimeleyo, ngoko ke akufuneki sizame ukutshintsha.",contradiction
+"kwaye into endicinga ukuba iya kuba nomdla kakhulu yinto esiyenzayo ngayo, ndithetha ukuba kuya kufuneka sibatshintshe abantu abasimeleyo.","Ndicinga ukuba kuya kuba ngumngeni ukutshintsha abo basimeleyo, kodwa kuya kuba lulutho ekugqibeleni.",neutral
+"kwaye into endicinga ukuba iya kuba nomdla kakhulu yinto esiyenzayo ngayo, ndithetha ukuba kuya kufuneka sibatshintshe abantu abasimeleyo.",Kufuneka senze utshintsho kwabo basimeleyo.,entailment
+kwaye banokulunga kakhulu emveni kokuba beqeqeshiwe.,babalukhuni kwaye babande xa belugqibile uqeqesho.,contradiction
+kwaye banokulunga kakhulu emveni kokuba beqeqeshiwe.,Batshintsha ngokukhawuleza ngeli xesha basaqeqeshwayo.,neutral
+kwaye banokulunga kakhulu emveni kokuba beqeqeshiwe.,Xa beqeqeshwa banokulunga kakhulu.,entailment
+"kwaye inokuqhuba iminyaka eli10 engama20, ndicinga ukuba noko ibaxekile.",Ndicinga ukuba yimpambano ukuba ityala elinye liqhube iminyaka emininzi kangaka.,neutral
+"kwaye inokuqhuba iminyaka eli10 engama20, ndicinga ukuba noko ibaxekile.",Ndicinga ukuba kukuphambana ukuba ingathabatha ixesha elingaka.,entailment
+"kwaye inokuqhuba iminyaka eli10 engama20, ndicinga ukuba noko ibaxekile.",Ithabatha iveki kuphela.,contradiction
+Ewe ndiqinisekile ukuba ube nentambo ezihambelayo.,"Unyanisile, le ubunayo ibingenantambo.",entailment
+Ewe ndiqinisekile ukuba ube nentambo ezihambelayo.,Le ubunayo ngokuqinisekileyo ibiluhlobo olunentambo kuphela.,contradiction
+Ewe ndiqinisekile ukuba ube nentambo ezihambelayo.,Kusenokwenzeka ukuba eyakho ibinentambo ozikhethelayo.,neutral
+uzama ukuthi ootitshala okanye abazali,Uzama ukuthi abafundi okanye uncedo lootitshala luyenzile?,contradiction
+uzama ukuthi ootitshala okanye abazali,Ingaba ngootitshala okanye ngabazali?,entailment
+uzama ukuthi ootitshala okanye abazali,Uzama ukuthini ngabazali nootitshala?,neutral
+kulungile ndiyaqikelela ukuba ndingaqikelela kakuhle andazi ukuba khange ndilungise zonke iimvakalelo zam kuvavanyo lwechiza  ndithe tye ngokupheleleyo andinakuze ndicinge ukusebenzisa iziyobisi.,"Ndichasene kakhulu nokuhlolwa kweziyobisi, akukho kuthandabuza engqondweni yam ngoko.",contradiction
+kulungile ndiyaqikelela ukuba ndingaqikelela kakuhle andazi ukuba khange ndilungise zonke iimvakalelo zam kuvavanyo lwechiza  ndithe tye ngokupheleleyo andinakuze ndicinge ukusebenzisa iziyobisi.,Ndiyacinga ukuba ndingakulungela ukuvavanyelwa iziyobisi.,neutral
+kulungile ndiyaqikelela ukuba ndingaqikelela kakuhle andazi ukuba khange ndilungise zonke iimvakalelo zam kuvavanyo lwechiza  ndithe tye ngokupheleleyo andinakuze ndicinge ukusebenzisa iziyobisi.,Ndicinga njalo kodwa andikazigocagoci iimvakalelo zam malunga nokuvavanywa kweziyobisi.,entailment
+inkathalo malunga nokuba iindaba zelizwe ziyichaphazela njani indawo yasekuhlaleni,Ixhalabe ngeendawo zasekuhlaleni ezichatshazelwa ziindaba zelizwe.,entailment
+inkathalo malunga nokuba iindaba zelizwe ziyichaphazela njani indawo yasekuhlaleni,Bendingakhathali nokuba iindaba zelizwe zithetha ngantoni malunga neengingqi zethu.,contradiction
+inkathalo malunga nokuba iindaba zelizwe ziyichaphazela njani indawo yasekuhlaleni,Amajelo eendaba esizwe enza ukuba iindawo zethu zasekuhlaleni zibonakale zisemva.,neutral
+"hayi kodwa siqhele ukuba uyasazi isiketi nebhlawuzi okanye isuti okanye ilokhwe yile uyibona apha ezantsi, ngako oko kumnandi xa ndiphangela ekhaya kuba ndiyakwazi ukunxiba ibhlukhwe",Andinxibi kakuhle xa ndisebenzela ekhaya.,entailment
+"hayi kodwa siqhele ukuba uyasazi isiketi nebhlawuzi okanye isuti okanye ilokhwe yile uyibona apha ezantsi, ngako oko kumnandi xa ndiphangela ekhaya kuba ndiyakwazi ukunxiba ibhlukhwe",Andinxibi kwanto ngaphandle kwetreksuti xa ndisebenzela ekhaya.,neutral
+"hayi kodwa siqhele ukuba uyasazi isiketi nebhlawuzi okanye isuti okanye ilokhwe yile uyibona apha ezantsi, ngako oko kumnandi xa ndiphangela ekhaya kuba ndiyakwazi ukunxiba ibhlukhwe",Ndisanxiba iilokhwe xa ndisebenzela ekhaya kuba ndiziva ndiphucukile.,contradiction
+Ewe ikho into endingayaziyo malunga nokuba nendawo yokuhlala.,Ukuba nendawo yokuhlala liphupha elizalisekileyo.,neutral
+Ewe ikho into endingayaziyo malunga nokuba nendawo yokuhlala.,Andikhathali nokuba ndinendawo yokuhlala.,contradiction
+Ewe ikho into endingayaziyo malunga nokuba nendawo yokuhlala.,Kumnandi ukuba nendawo yokuhlala.,entailment
+"ewe, ewe ndiyazi ngendingenangxaki kangako ukuba bebenenkampani exhaswa ngemali.",Bekuya kuba lula ukufumanisa ukuba inkampani ixhaswe ngemali.,neutral
+"ewe, ewe ndiyazi ngendingenangxaki kangako ukuba bebenenkampani exhaswa ngemali.",Bekuya kundicaphukisa ukufumanisa ukuba bebeyixhasa ngemali le nkampani.,contradiction
+"ewe, ewe ndiyazi ngendingenangxaki kangako ukuba bebenenkampani exhaswa ngemali.",Bekungazukundikhathaza ukuba inkampani ibixhaswa ngemali.,entailment
+Ewe kukweyethu apha phezulu sinoqhagamshelwano lwethu ezilalini lubi nyani.,Uqhagamshelwano apha ngamanye amaxesha lulungile.,neutral
+Ewe kukweyethu apha phezulu sinoqhagamshelwano lwethu ezilalini lubi nyani.,Asifumani qhagamshelwano lulungileyo apha.,entailment
+Ewe kukweyethu apha phezulu sinoqhagamshelwano lwethu ezilalini lubi nyani.,Sinoqhagamshelwano oluhle kakhulu apha.,contradiction
+Enye yeenzuzo esizifumanayo luhambo.,Ukuhamba yinxalenye endiyithandayo.,neutral
+Enye yeenzuzo esizifumanayo luhambo.,Ukuhamba yenye yenzuzo esiyifumanayo.,entailment
+Enye yeenzuzo esizifumanayo luhambo.,Asifumani kwanzuzo.,contradiction
+Imbi kakhulu loo nto.,Ndivile ukuba ayikho ntle.,neutral
+Imbi kakhulu loo nto.,Imbi kakhulu.,entailment
+Imbi kakhulu loo nto.,Ayimbanga kakhulu olo hlobo.,contradiction
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Zonke izixhobo zemolekyuli zintsonkothe ​​ngokulinganayo.,contradiction
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Izixhobo ezintsonkothileyo zeemolekyuli zinokuvela phantsi kweemeko ezithile.,entailment
+Ezi zixhobo zodidi oluphezulu lwezixhobo zemolekyuli zivela ngenxa yokuba ukhetho lwendalo luyakwazi ukusebenza kwiipropati ezidityanisiweyo zeeagrigeythi zemolekyuli xa ezo mpawu zidibeneyo zandisa ukomelela okulungelelanisiweyo.,Ezi zixhobo zemolekyuli zisetyenziselwa ukuvelisa iityhefu ezahlukeneyo ukuze zikhuseleke.,neutral
+Kodwa andikholelwa ukuba nasiphi na isixhobo esinjalo sealgorithmic sinokugqitywa.,Ialgorithm ayikwazi ukwenza isigqibo malunga nendlela yokwenza isangweji egqibeleleyo ngaphandle kobuchule bomntu.,neutral
+Kodwa andikholelwa ukuba nasiphi na isixhobo esinjalo sealgorithmic sinokugqitywa.,Akukho sixhobo esinokusombulula ngokupheleleyo le ngxaki ngokwaso.,entailment
+Kodwa andikholelwa ukuba nasiphi na isixhobo esinjalo sealgorithmic sinokugqitywa.,Ezi zixhobo zisebenza ngokugqibeleleyo phantsi kwazo naziphi na iimeko.,contradiction
+Umthetho awukhululi mntu kodwa uluntu okanye isizwe siphela.,"Ukufumana intlawulelo, umntu ngamnye kufuneka abhenele kumthetho.",contradiction
+Umthetho awukhululi mntu kodwa uluntu okanye isizwe siphela.,Umthetho uya kukhulula iMelika.,neutral
+Umthetho awukhululi mntu kodwa uluntu okanye isizwe siphela.,Umthetho uya kusindisa uluntu kunye nesizwe.,entailment
+Umbhalo womgaqosiseko wowe1787 wawuchazile ilungelo labanini makhoboka lokubuyisela amakhoboka awayebalekele kwindawo ekhululekileyo.,Ngowe1787 kwawiswa umthetho owawuyekisa abantu ukuba bangaphindi bathabathe amakhoboka awayesele ebuyele kumazwe akhululekileyo.,contradiction
+Umbhalo womgaqosiseko wowe1787 wawuchazile ilungelo labanini makhoboka lokubuyisela amakhoboka awayebalekele kwindawo ekhululekileyo.,Inxalenye yombhalo womgaqosiseko yabhalwa ngowe1787.,entailment
+Umbhalo womgaqosiseko wowe1787 wawuchazile ilungelo labanini makhoboka lokubuyisela amakhoboka awayebalekele kwindawo ekhululekileyo.,Ilungelo lokubuyisela amakhoboka kwimimandla ekhululekileyo yayingelolungelo elixhaphakileyo.,neutral
+"USteve Harris, isazi ngebhayoloji yemolekyuli evela eTexas wayetyelele.",USteve Harris wala ukushiya indlu yakhe nangasiphi na isizathu.,contradiction
+"USteve Harris, isazi ngebhayoloji yemolekyuli evela eTexas wayetyelele.",USteve wayeyingcali yebhayoloji evela ngaphandle kwedolophu.,entailment
+"USteve Harris, isazi ngebhayoloji yemolekyuli evela eTexas wayetyelele.",USteve wayetyelele eCalifornia ukuya kufunda isampula entsha.,neutral
+"Ubulungu benziwe ngamadoda aphakathi kwamashumi amathathu namashumi amahlanu kwisahluko ngasinye (esibizwa ngokuba yimoradas) kwaye ahlulwa abe ngamalungu amabini aqhelekileyo, abizwa ngokuba yihermanos disciplantes (abazalwana abohlwaya), kunye namagosa, abizwa ngokuba yihermanos de luz (abazalwana bokukhanya).",Amagosa angaphezu kwekhulu asebenza kwisahluko ngasinye.,contradiction
+"Ubulungu benziwe ngamadoda aphakathi kwamashumi amathathu namashumi amahlanu kwisahluko ngasinye (esibizwa ngokuba yimoradas) kwaye ahlulwa abe ngamalungu amabini aqhelekileyo, abizwa ngokuba yihermanos disciplantes (abazalwana abohlwaya), kunye namagosa, abizwa ngokuba yihermanos de luz (abazalwana bokukhanya).",Izahluko zaziqulathe amalungu gabalala kunye namagosa.,entailment
+"Ubulungu benziwe ngamadoda aphakathi kwamashumi amathathu namashumi amahlanu kwisahluko ngasinye (esibizwa ngokuba yimoradas) kwaye ahlulwa abe ngamalungu amabini aqhelekileyo, abizwa ngokuba yihermanos disciplantes (abazalwana abohlwaya), kunye namagosa, abizwa ngokuba yihermanos de luz (abazalwana bokukhanya).",Ezi yunithi zazinoxanduva lokuguqula abemi bomthonyama kuMbindi Merika.,neutral
+"Kubantwana abaneminyaka emi4 kunye ne5 ubudala, imibuzo ihlala ijongana nentlangano ebalisayo (Yintoni eyenzekayo emva koko?",Abantwana abadli ngokufunda ukunxibelelana bade babe neminyaka emithandathu ubudala.,contradiction
+"Kubantwana abaneminyaka emi4 kunye ne5 ubudala, imibuzo ihlala ijongana nentlangano ebalisayo (Yintoni eyenzekayo emva koko?",Abantwana abaneminyaka emihlanu baxhalabile oko kwenzekayo emva koko.,entailment
+"Kubantwana abaneminyaka emi4 kunye ne5 ubudala, imibuzo ihlala ijongana nentlangano ebalisayo (Yintoni eyenzekayo emva koko?",Abantwana abaneminyaka emihlanu ubudala bajongwa njengabantu abangakwaziyo ukuncokola.,neutral
+"Ngokuqondakalayo, ukuhamba okuguquguqukayo kancinane kwisithuba sikarhulumente kuvumela ulwahlulo, kuba xa amazwe amabini edibana kwilizwe elinye elilandela, ezo zizwe zibini ziye zahlelwa njengezilinganayo yinethiwekhi.",Ukuhamba okudibeneyo kuvumela ulwahlulo.,entailment
+"Ngokuqondakalayo, ukuhamba okuguquguqukayo kancinane kwisithuba sikarhulumente kuvumela ulwahlulo, kuba xa amazwe amabini edibana kwilizwe elinye elilandela, ezo zizwe zibini ziye zahlelwa njengezilinganayo yinethiwekhi.",Ukuhamba okudibeneyo kuphenjelelwe luluntu.,neutral
+"Ngokuqondakalayo, ukuhamba okuguquguqukayo kancinane kwisithuba sikarhulumente kuvumela ulwahlulo, kuba xa amazwe amabini edibana kwilizwe elinye elilandela, ezo zizwe zibini ziye zahlelwa njengezilinganayo yinethiwekhi.",Ukuhamba okudibeneyo kuthintela ulwahlulo.,contradiction
+"Ke ngoko, bathe gqolo bedala ilizwe elingamisiyo apho kuphela ixa elidlulileyo lamva nje linedatha esebenzayo.",Ihlabathi elingekho ngqiqweni alinqweneleki kwabanye ukuba kufuneka liphendule ngenkcazelo yembali yamandulo.,entailment
+"Ke ngoko, bathe gqolo bedala ilizwe elingamisiyo apho kuphela ixa elidlulileyo lamva nje linedatha esebenzayo.",Yonke idatha evela kulo lonke ixesha ivumelekile kulo naliphi na ilizwe.,contradiction
+"Ke ngoko, bathe gqolo bedala ilizwe elingamisiyo apho kuphela ixa elidlulileyo lamva nje linedatha esebenzayo.",Eli hlabathi licingelwayo lisetyenziselwa ukuqikelela iipatheni zemozulu.,neutral
+"Kwaye, ke ngoko, urhulumente wayengenaxanduva kwaba bantu babucala bakhanyela amalungelo oluntu kubemi abaNtsundu.",Abanye abantu babucala bawavimbele amalungelo asekuhlaleni kubemi abaNtsundu.,entailment
+"Kwaye, ke ngoko, urhulumente wayengenaxanduva kwaba bantu babucala bakhanyela amalungelo oluntu kubemi abaNtsundu.",Abantu babucala babemhlophe.,neutral
+"Kwaye, ke ngoko, urhulumente wayengenaxanduva kwaba bantu babucala bakhanyela amalungelo oluntu kubemi abaNtsundu.",Urhulumente wayenoxanduva ngokupheleleyo lokuziphatha kwabantu babucala.,contradiction
+Akukho mahluko ukhoyo phakathi kwabafundi abancinci nabadala kumanqaku ovavanyo lokuphumelela.,"Ngelixa iziphumo zovavanyo zabantwana abancinci nabadala zifana, abo bafunda nabo abancinci balugqiba ngokukhawuleza uvavanyo",neutral
+Akukho mahluko ukhoyo phakathi kwabafundi abancinci nabadala kumanqaku ovavanyo lokuphumelela.,Abafunda nabo abancinci nabadala bafumana iziphumo ezifanayo kumanqaku ovavanyo.,entailment
+Akukho mahluko ukhoyo phakathi kwabafundi abancinci nabadala kumanqaku ovavanyo lokuphumelela.,Abantwana abancinci nabakhulileyo eklasini baneziphumo zovavanyo ezahlukeneyo njengoko ubudala bungunobangela,contradiction
+UDarwin uqala ngobomi obusele bulapha.,UDarwin waqala ngokugxila kwiintlanzi.,neutral
+UDarwin uqala ngobomi obusele bulapha.,UDarwin waqala ngobomi obabusele bukho.,entailment
+UDarwin uqala ngobomi obusele bulapha.,UDarwin wayegxile kuphela ekufundeni izinto ezifileyo.,contradiction
+"Esona sizathu sixhaphakileyo ngexesha lobuncinci kunye neminyaka yokukhulisa kukuphindaphindwa kweotitis media, okanye usulelo lwendlebe ephakathi.",Usulelo lwendlebe ephakathi ngoyena nobangela uxhaphakileyo kubantwana abasafundayo okanye abancinci kakhulu.,entailment
+"Esona sizathu sixhaphakileyo ngexesha lobuncinci kunye neminyaka yokukhulisa kukuphindaphindwa kweotitis media, okanye usulelo lwendlebe ephakathi.",Iotitis media inqabe kakhulu ngexesha leminyaka yomntwana osesikolweni.,contradiction
+"Esona sizathu sixhaphakileyo ngexesha lobuncinci kunye neminyaka yokukhulisa kukuphindaphindwa kweotitis media, okanye usulelo lwendlebe ephakathi.",Uninzi lwabantwana abaselula baya kufumana usulelo lwendlebe ephakathi.,neutral
+"Xa imibutho yoluntu ingabazi ndlebe, iingcamango eziphambeneyo zilahlekelwa ngumqobo wazo.",Iingcamango eziphambeneyo azibi mbi xa zingahoywa ngabahlali.,entailment
+"Xa imibutho yoluntu ingabazi ndlebe, iingcamango eziphambeneyo zilahlekelwa ngumqobo wazo.",Iingcamango eziphambeneyo ziye zithandeke ngakumbi kuluntu xa zingahoywa ngabahlali.,contradiction
+"Xa imibutho yoluntu ingabazi ndlebe, iingcamango eziphambeneyo zilahlekelwa ngumqobo wazo.",Uninzi lwezimvo eziphambeneyo azihoywa luluntu.,neutral
+"Ngokwenene, inxalenye yento esiyidingayo yindlela yokubonakalisa ulungelelwaniso lweenkqubo zokwenyani kwihlabathi elingavisisaniyo.",Sifuna iileybhile ukuze sibone apho umbutho uqhuba kakuhle.,neutral
+"Ngokwenene, inxalenye yento esiyidingayo yindlela yokubonakalisa ulungelelwaniso lweenkqubo zokwenyani kwihlabathi elingavisisaniyo.",Kufuneka sileybhele umbutho.,entailment
+"Ngokwenene, inxalenye yento esiyidingayo yindlela yokubonakalisa ulungelelwaniso lweenkqubo zokwenyani kwihlabathi elingavisisaniyo.",Akufunekanga sileybhele nantoni na.,contradiction
+Wabhenela kwiNkosi uJulian.,Wayefuna ukubuza into ethile kwiNkosi uJulian.,entailment
+Wabhenela kwiNkosi uJulian.,Wayefuna ukucela uNkosi uJulian ukuba asindise umfazi wakhe.,neutral
+Wabhenela kwiNkosi uJulian.,INkosi uJulian yayingabonakali ndawo.,contradiction
+UJeremy Pitt waphendula ehleka ngesifungo.,UJeremy Pitt waphendula intsini ngokugigitheka kwaye ephosa into engaphezulu ebusweni bomhlekayo.,contradiction
+UJeremy Pitt waphendula ehleka ngesifungo.,UJeremy Pitt wafunga ukulwela ilizwe lakhe kunye nokumkanikazi wakhe.,neutral
+UJeremy Pitt waphendula ehleka ngesifungo.,Omnye umntu wahleka kufutshane noJeremy Pitt.,entailment
+"UPitt, owayebukele lo mboniso ekwikota dekh kaloliwe, usixelela ukuba ubukhosi bakhe babufana nengcwaba njengomfundisi oxhonywe.",UPitt wayengazange abubone ubukhosi bakhe njengengcwaba njengoko wayenjalo ngelo xesha.,neutral
+"UPitt, owayebukele lo mboniso ekwikota dekh kaloliwe, usixelela ukuba ubukhosi bakhe babufana nengcwaba njengomfundisi oxhonywe.",UPitt wafunga ukuba akazange ayibone le ndawo.,contradiction
+"UPitt, owayebukele lo mboniso ekwikota dekh kaloliwe, usixelela ukuba ubukhosi bakhe babufana nengcwaba njengomfundisi oxhonywe.",UPitt wabona indlela ubukhosi bakhe obunzulu ngayo ngexesha lomcimbi.,entailment
+"IKoloneli yayamkela, yaza emva kwexesha yaqubuda, isusa umnqwazi wayo obanzi.",IKoloneli yamkela imbasa kusodolophu wesixeko saseNew York.,neutral
+"IKoloneli yayamkela, yaza emva kwexesha yaqubuda, isusa umnqwazi wayo obanzi.",IKoloneli yakukhaba oko yayinikwa yaza yagcina umnqwazi wayo ibonakalisa ukuchasa.,contradiction
+"IKoloneli yayamkela, yaza emva kwexesha yaqubuda, isusa umnqwazi wayo obanzi.",IKoloneli yayithwele umnqwazi.,entailment
+Unoburhalarhume bokundingcikiva kuba andizukuzibamba izandla zakho xa ndisazi ukuba zidyojwe njani; xa ndikwazile ngombulali kwaye okungamandla? Wamjonga ekhamisile.,Wayekholelwa ukuba ulwaphulomthetho olwenziweyo lunokuba yimbubhiso.,neutral
+Unoburhalarhume bokundingcikiva kuba andizukuzibamba izandla zakho xa ndisazi ukuba zidyojwe njani; xa ndikwazile ngombulali kwaye okungamandla? Wamjonga ekhamisile.,Wakhetha ukungazibambi izandla zakhe kuba zidyojwe lulwaphulomthetho.,entailment
+Unoburhalarhume bokundingcikiva kuba andizukuzibamba izandla zakho xa ndisazi ukuba zidyojwe njani; xa ndikwazile ngombulali kwaye okungamandla? Wamjonga ekhamisile.,"Wakhetha ukumbamba izandla kuba zazincinci, zibuthathaka, kwaye ngaphezu kwazo zonke, zicocekile.",contradiction
+"Wavunyelwa ngokucacileyo ukuba abone ukuba yayiyintombazana entle, ebukekayo yaseSt. James's, iNkosi uJulian Wade, awayezinikele kuyo ngalo lonke ixesha.",Inkosi uJuliam isuka eSt. James.,entailment
+"Wavunyelwa ngokucacileyo ukuba abone ukuba yayiyintombazana entle, ebukekayo yaseSt. James's, iNkosi uJulian Wade, awayezinikele kuyo ngalo lonke ixesha.",Yena kunye neNkosi uJulian Wade babelane ngokumanga phezolo.,neutral
+"Wavunyelwa ngokucacileyo ukuba abone ukuba yayiyintombazana entle, ebukekayo yaseSt. James's, iNkosi uJulian Wade, awayezinikele kuyo ngalo lonke ixesha.","Uthabathekile yiNkosi uJulian Wade, ngaphandle kwemeko yakhe ebuhlungu.",contradiction
+"Kodwa ... kodwa ... ngaphakathi kule nqanawa ...? Igosa lenze umqondiso wokungabi nakuzinceda, laza lanikezela ekubhidekeni kwalo, lathi cwaka ngequbuliso.","Iofisi yakhala imizuzu, icatshukiswa buburheletyo obukwidesika yakhe.",contradiction
+"Kodwa ... kodwa ... ngaphakathi kule nqanawa ...? Igosa lenze umqondiso wokungabi nakuzinceda, laza lanikezela ekubhidekeni kwalo, lathi cwaka ngequbuliso.",Igosa lalibhidekile koko kwakusenzeka enqanaweni.,entailment
+"Kodwa ... kodwa ... ngaphakathi kule nqanawa ...? Igosa lenze umqondiso wokungabi nakuzinceda, laza lanikezela ekubhidekeni kwalo, lathi cwaka ngequbuliso.",Eli gosa lothuswa kukuzigabha kwidekhi.,neutral
+"UyiNkosi uJulian Wade, ndiyaqonda, ibingumbuliso wakhe wobubele.",INkosi uJulian Wade inike umbuliso ofudumeleyo nowamkelekileyo.,contradiction
+"UyiNkosi uJulian Wade, ndiyaqonda, ibingumbuliso wakhe wobubele.",UNkosi uJulian Wade wamkele abanye ngendlela eya kuthathwa njengeyongamileyo.,entailment
+"UyiNkosi uJulian Wade, ndiyaqonda, ibingumbuliso wakhe wobubele.","Nangona abaninzi babezamile ukusondela kuye, uLord Wade wayesoloko ebanda kwaye engenazimvakalelo.",neutral
+UMary Trail uya kukuxelela ngayo.,UMary Traill unokukuxelela ngedonki.,neutral
+UMary Trail uya kukuxelela ngayo.,UMary Traill uyayazi loo nto.,entailment
+UMary Trail uya kukuxelela ngayo.,Ndim kuphela owaziyo ngayo.,contradiction
+"Kukho isigawuli esilinde esi sigebenga sasePort Royal. IGazi ngebelingenelele kuloo nto, kodwa uNkosi uJulian wamnqanda.",IGazi ngumbutho wamazwe ngamazwe wolwaphulo mthetho osekelwe ePort Royal apho uLord Julian akhontrakthe kunye nawo ngeenjongo ezingekho mthethweni.,contradiction
+"Kukho isigawuli esilinde esi sigebenga sasePort Royal. IGazi ngebelingenelele kuloo nto, kodwa uNkosi uJulian wamnqanda.","Indawo yeNkosi uJulian ibandakanya iPort Royal, isixeko sorhwebo esiyindawo yokusebenza kulo mmandla.",neutral
+"Kukho isigawuli esilinde esi sigebenga sasePort Royal. IGazi ngebelingenelele kuloo nto, kodwa uNkosi uJulian wamnqanda.",IPort Royal inamaziko okohlwaya izaphuli mthetho.,entailment
+"Ayizukuba nguBhishophu ngokwakhe, utshilo uWolverstone, phakathi kombuzo kunye nobungqina.",UWolverstone waye wabuza umbuzo owawubonisa ukunyaniseka kwakhe kwabanye.,entailment
+"Ayizukuba nguBhishophu ngokwakhe, utshilo uWolverstone, phakathi kombuzo kunye nobungqina.",UWolverstone wayethe uBhishophu wayemhle kakhulu.,neutral
+"Ayizukuba nguBhishophu ngokwakhe, utshilo uWolverstone, phakathi kombuzo kunye nobungqina.",UWolverstone akazange athethe nto ngoBhishophu.,contradiction
+"Ngaba uya kuyeka ukutyhola uvukelo kunye nokungcatsha umbuso kunye neenkundla zokulwa? IGazi labeka umnqwazi wakhe, wahlala phantsi engabizwanga.",IGazi lalinomnqwazi alaliwunxiba phambi kokuba lihlale phantsi.,entailment
+"Ngaba uya kuyeka ukutyhola uvukelo kunye nokungcatsha umbuso kunye neenkundla zokulwa? IGazi labeka umnqwazi wakhe, wahlala phantsi engabizwanga.","IGazi labeka umnqwazi walo, laphuma egumbini lingakhange lithethe nto.",contradiction
+"Ngaba uya kuyeka ukutyhola uvukelo kunye nokungcatsha umbuso kunye neenkundla zokulwa? IGazi labeka umnqwazi wakhe, wahlala phantsi engabizwanga.","Umnqwazi wegazi wawumnyama, uneentsiba ezintathu zokhozi kuwo.",neutral
+Izinto azikhange zimhambele kakuhle kwaphela kwezi veki zimbini zidlulileyo ukusukela oko amkele uthumo lukaKumkani.,Walala kamnandi ebusuku esazi ukuba uyalukhaba uthumo lukaKumkani.,contradiction
+Izinto azikhange zimhambele kakuhle kwaphela kwezi veki zimbini zidlulileyo ukusukela oko amkele uthumo lukaKumkani.,Ukumgcina ebusuku yayikukuba walwamkela uthumo lukaKumkani.,entailment
+Izinto azikhange zimhambele kakuhle kwaphela kwezi veki zimbini zidlulileyo ukusukela oko amkele uthumo lukaKumkani.,Uthumo lukaKumkani yayisiwongo esihloniphekileyo esineembopheleleko ezininzi.,neutral
+"Bakuluhlu, wakhala uOgle.",UOgle uthe bayafikeleleka.,entailment
+"Bakuluhlu, wakhala uOgle.",UOgle uthe bangaphakathi ezindlebeni zabo.,neutral
+"Bakuluhlu, wakhala uOgle.","Nangona wayesazi ukuba baphakathi koluhlu, uOgle wayigcina kuye.",contradiction
+"Ndikuthumele, Kapteni Blood, ngenxa yeendaba ezithile ezisanda kufika kum.","Khange ndive iindaba, Kapteni Blood. Ukhe wa?",contradiction
+"Ndikuthumele, Kapteni Blood, ngenxa yeendaba ezithile ezisanda kufika kum.","Ndifumene iindaba phambi kokuba ndikuthumelele, Kapteni Blood.",entailment
+"Ndikuthumele, Kapteni Blood, ngenxa yeendaba ezithile ezisanda kufika kum.",Ezo ndaba ndizifumanayo zandothusa kakhulu.,neutral
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Ungawabona amaphenyane encotsheni yenduli.,neutral
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Ungawabona amaphenyane encotsheni yenduli.,entailment
+"Emva kokujonga ezi ngqokelela, khwela induli ukuya kwiNdlu yoMkomishinala, apho uya kufumana iimbono ezintle zonxweme olujikelezileyo kunye nenxalenye yesakhiwo sedockyard.",Awunakulubona unxweme encotsheni yenduli.,contradiction
+"Emva kommandla waseMzantsi Melika uya kufumana umzi mveliso weziqholo, apho unokuzenzela esakho esinevumba elimnandi.",Umzi mveliso weziqholo kudala esenza iimveliso ukusukela ngonyaka we1954,neutral
+"Emva kommandla waseMzantsi Melika uya kufumana umzi mveliso weziqholo, apho unokuzenzela esakho esinevumba elimnandi.",Umzi mveliso weziqholo usemva koMmandla woMzantsi Afrika.,entailment
+"Emva kommandla waseMzantsi Melika uya kufumana umzi mveliso weziqholo, apho unokuzenzela esakho esinevumba elimnandi.",Umzi mveliso weziqholo uphambi kommandla waseMzantsi Afrika.,contradiction
+"Amathemba aphakanyisiwe, kwaye aphinde aphazamiseka, phezu kwesitras yaseBahamian kunye nepayinapile.","Nangona amapayina emnandi kakhulu, iindleko zokuwathumela ngenqanawe zaziphezulu kakhulu ukuba azise emarikeni.",neutral
+"Amathemba aphakanyisiwe, kwaye aphinde aphazamiseka, phezu kwesitras yaseBahamian kunye nepayinapile.","Isitras yaseBahamian yayiyimpumelelo enkulu, njengoko wonke umntu wayeqikelele.",contradiction
+"Amathemba aphakanyisiwe, kwaye aphinde aphazamiseka, phezu kwesitras yaseBahamian kunye nepayinapile.",Isitras yaseBahamian yayingeyona inkulu njengoko wonke umntu wayenethemba.,entailment
+"Esi sandi, esiziikhilomitha ezi3 ububanzi, kucingelwa ukuba yingxolo enkulu eyavela emva kogqabhukodubulo olukhulu lwentabamlilo.","Isandi seekhilomitha ezimbini sinokubangelwa zizinto ezininzi, kuquka ukuqhuma kwevolkhano.",neutral
+"Esi sandi, esiziikhilomitha ezi3 ububanzi, kucingelwa ukuba yingxolo enkulu eyavela emva kogqabhukodubulo olukhulu lwentabamlilo.",Isandi seekhilomitha ezimbini ngokuqinisekileyo asibangelwanga ukuqhuma kwentabamlilo.,contradiction
+"Esi sandi, esiziikhilomitha ezi3 ububanzi, kucingelwa ukuba yingxolo enkulu eyavela emva kogqabhukodubulo olukhulu lwentabamlilo.",Isandi seekhilomitha ezimbini mhlawumbi sibangelwa kukuqhuma kwentabamlilo.,entailment
+"Apho lo mboniso uphumle kancinci kwaye ingxaki yolwimi inokukothusa, kodwa ubuncinci uya kukwazi ukubamba ikroba kuluntu lwabathengi baseTshayina.",Kungumbono olungileyo ukuba nomguquleli kunye nawe.,neutral
+"Apho lo mboniso uphumle kancinci kwaye ingxaki yolwimi inokukothusa, kodwa ubuncinci uya kukwazi ukubamba ikroba kuluntu lwabathengi baseTshayina.",Kukho ingxaki yolwimi enokukoyikisa.,entailment
+"Apho lo mboniso uphumle kancinci kwaye ingxaki yolwimi inokukothusa, kodwa ubuncinci uya kukwazi ukubamba ikroba kuluntu lwabathengi baseTshayina.","Awunaxhala malunga nemiba yolwimi apho, kuba wonke umntu ethetha isiNgesi.",contradiction
+"Phakathi kowe1936 no1940 iGrisi yayiphantsi kolawulo lobuzwilakhe lomkhosi kaLoannis Metaxas, ekhunjulwa nge-echi evakalayo ( hayi ) awayinikelayo ekuphenduleni isigqibo sikaMussolini sokunikezela ngowe1940.",IGrisi ayizange iphathwe nguzwilakhe wasemkhosini.,contradiction
+"Phakathi kowe1936 no1940 iGrisi yayiphantsi kolawulo lobuzwilakhe lomkhosi kaLoannis Metaxas, ekhunjulwa nge-echi evakalayo ( hayi ) awayinikelayo ekuphenduleni isigqibo sikaMussolini sokunikezela ngowe1940.",IGrisi lelinye lamazwe ehlabathini ebenozwilakhe.,entailment
+"Phakathi kowe1936 no1940 iGrisi yayiphantsi kolawulo lobuzwilakhe lomkhosi kaLoannis Metaxas, ekhunjulwa nge-echi evakalayo ( hayi ) awayinikelayo ekuphenduleni isigqibo sikaMussolini sokunikezela ngowe1940.",Uqoqosho lwaseGrisi aluzange luqhube kakuhle kangako phantsi kolawulo lobuzwilakhe baseMetaxas.,neutral
+Ubulula bemigca yeRomanesque yaseSant Pau lutshintsho olwamkelekileyo olusuka kugqithiso lwemeko yangoku yaseBarcelona kunye nobugocigoci boyilo lweGothic.,ISant Pau ayinayo imigca yeRomanesque.,contradiction
+Ubulula bemigca yeRomanesque yaseSant Pau lutshintsho olwamkelekileyo olusuka kugqithiso lwemeko yangoku yaseBarcelona kunye nobugocigoci boyilo lweGothic.,ISant Pau inemigca yeRomanesque.,entailment
+Ubulula bemigca yeRomanesque yaseSant Pau lutshintsho olwamkelekileyo olusuka kugqithiso lwemeko yangoku yaseBarcelona kunye nobugocigoci boyilo lweGothic.,ISant Pau ineecawe.,neutral
+"Ukuqhwanyaza komsila okanye ukuphaphazela, iyemka.",Kulula ukoyikiswa nakuphi na ukunyakaza ngequbuliso.,neutral
+"Ukuqhwanyaza komsila okanye ukuphaphazela, iyemka.","Ayinaloyiko, kwaye ayisayi kushukunyiswa nayintoni na.",contradiction
+"Ukuqhwanyaza komsila okanye ukuphaphazela, iyemka.",Eyona ntshukumo incinci; ayisekho.,entailment
+Inkqubo ebanzi yokuhlaziya iza kugqitywa ngasekupheleni kowama2001.,Inkqubo yokuhlaziya iza kuphela ngaphambi kokuba unyaka wama2001 uqalise.,contradiction
+Inkqubo ebanzi yokuhlaziya iza kugqitywa ngasekupheleni kowama2001.,Inkqubo yokuhlaziya ayizukwenziwa de kube semva kokuphela konyaka kowama2000.,entailment
+Inkqubo ebanzi yokuhlaziya iza kugqitywa ngasekupheleni kowama2001.,"Xa inkqubo yokuhlaziya iphelile, iya kuba ithathe iminyaka emihlanu.",neutral
+"Abasebenzi basebenza kwinkqubo yokwandisa amanani eeflamingo kwiZiqithi zaseVirgin zaseUS, kwaye uya kufumana umhlambi omncinane apha ngokuzalana ngempumelelo ngonyaka ngamnye.",Abasebenzi basebenzela ukuphelisa iiflamingo.,contradiction
+"Abasebenzi basebenza kwinkqubo yokwandisa amanani eeflamingo kwiZiqithi zaseVirgin zaseUS, kwaye uya kufumana umhlambi omncinane apha ngokuzalana ngempumelelo ngonyaka ngamnye.",Abasebenzi basebenzela ukwandisa ukuba zingaphi iiflamingo ezikwesi siqithi ukuze zikwazi ukuchacha xa ziphantse zatshabalala.,neutral
+"Abasebenzi basebenza kwinkqubo yokwandisa amanani eeflamingo kwiZiqithi zaseVirgin zaseUS, kwaye uya kufumana umhlambi omncinane apha ngokuzalana ngempumelelo ngonyaka ngamnye.",Abasebenzi basebenzela ukwandisa inani leeflamingo ezikwisiqithi.,entailment
+Iintaba ezimagqagala zeSerra de Tramuntana zitshayela ukuya elwandle ngomnqantsa apha kangangokuba kukho iindawo ezimbalwa zokufikelela kwaye izibuko elinye kunye nezibuko lalo naluphi na ubungakanani ecaleni konxweme.,Iintaba zihlala zinendawo yokudilika komhlaba kuba amazibuko awakhiwanga lula apho.,neutral
+Iintaba ezimagqagala zeSerra de Tramuntana zitshayela ukuya elwandle ngomnqantsa apha kangangokuba kukho iindawo ezimbalwa zokufikelela kwaye izibuko elinye kunye nezibuko lalo naluphi na ubungakanani ecaleni konxweme.,Iintaba zenza kube nzima ukwakha amazibuko.,entailment
+Iintaba ezimagqagala zeSerra de Tramuntana zitshayela ukuya elwandle ngomnqantsa apha kangangokuba kukho iindawo ezimbalwa zokufikelela kwaye izibuko elinye kunye nezibuko lalo naluphi na ubungakanani ecaleni konxweme.,Kukho amazibuko angama27 ecaleni kweentaba,contradiction
+ICulebra yaziwa ngokuba yiSpanish Virgin Island yade yathathwa yiMelika ilele phakathi kwePuerto Rico kunye neSt Thomas kwiZiqithi zaseVirgin zaseUS.,ICulebra iphakathi kwePuerto Rico kunye neSt. Thomas kwiiVirgin Islands zaseUS.,entailment
+ICulebra yaziwa ngokuba yiSpanish Virgin Island yade yathathwa yiMelika ilele phakathi kwePuerto Rico kunye neSt Thomas kwiZiqithi zaseVirgin zaseUS.,ICulebra ayikho ndawo kufuphi nePuerto Rico kunye neSt. Thomas kwiiVirgin Islands zaseUS.,contradiction
+ICulebra yaziwa ngokuba yiSpanish Virgin Island yade yathathwa yiMelika ilele phakathi kwePuerto Rico kunye neSt Thomas kwiZiqithi zaseVirgin zaseUS.,ICulebra yindawo ethile phakathi kwePuerto Rico kunye neSt. Thomas kwiiVirgin Islands zaseUS.,neutral
+"IUmeda iphawula isiphelo esisemantla sesithili soshishino kunye nokuzonwabisa esidume njengeKita (ithetha nje ukuba nguMntla ), kwaye yeyona nto iphambili kwisiphithiphithi seOsaka yanamhlanje.",IUmeda ayiyonxalenye yesithili sokuzonwabisa.,contradiction
+"IUmeda iphawula isiphelo esisemantla sesithili soshishino kunye nokuzonwabisa esidume njengeKita (ithetha nje ukuba nguMntla ), kwaye yeyona nto iphambili kwisiphithiphithi seOsaka yanamhlanje.",IUmeda yeyona ndawo inkulu kwisithili solonwabo.,neutral
+"IUmeda iphawula isiphelo esisemantla sesithili soshishino kunye nokuzonwabisa esidume njengeKita (ithetha nje ukuba nguMntla ), kwaye yeyona nto iphambili kwisiphithiphithi seOsaka yanamhlanje.",IUmeda yindawo esentla yesithili sokuzonwabisa.,entailment
+"Ilungu lesithathu lobathathu emnye wamaHindu nguBrahma, okuphela komsebenzi wakhe yayikukudala ihlabathi.",UBrahma ngumpostile ongumKristu.,contradiction
+"Ilungu lesithathu lobathathu emnye wamaHindu nguBrahma, okuphela komsebenzi wakhe yayikukudala ihlabathi.",IBrahma yinxalenye yobathathu emnye wamaHindu.,entailment
+"Ilungu lesithathu lobathathu emnye wamaHindu nguBrahma, okuphela komsebenzi wakhe yayikukudala ihlabathi.",IBrahma yeyona nto ibalulekileyo kubathathu emnye.,neutral
+"UPedro wathatha itrone, nangona umzabalazo wezigalo waqhubeka kangangeenyanga kunye nobukrakra obude emva koko.",Abantu abali10000 bafa emfazweni.,neutral
+"UPedro wathatha itrone, nangona umzabalazo wezigalo waqhubeka kangangeenyanga kunye nobukrakra obude emva koko.",Imfazwe yathabatha iinyanga.,entailment
+"UPedro wathatha itrone, nangona umzabalazo wezigalo waqhubeka kangangeenyanga kunye nobukrakra obude emva koko.",Imfazwe yaphela ngosuku nje olunye.,contradiction
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,"Ngokudityaniswa kwenkqubo yezabasebenzi, igumbi elitsha lezakhiwo zentsebenziswano lenziwa. ",neutral
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,Ulwakhiwo lwentsebenzisano lwenziwa. ,entailment
+Inkqubo yezabasebenzi yadityaniswa kwaye ulwakhiwo lwentsebenzisano olutsha lwakhawuleziswa lachazwa ukuqinisekisa ukuqhubeka kwenkxaso yesandisiweyo isiseko sothengiso.,Inkqubo yezabasebenzi yandisiwe ngaphezu kwendlela ibiyiyo kuqala. ,contradiction
+"Nangona izicwangciso  zenkxaso mali zingaphuculwa, inkxaso mali ikho yalo msebenzi ",Zikho izixhobo ezifumanekayo zale misebenzi. ,entailment
+"Nangona izicwangciso  zenkxaso mali zingaphuculwa, inkxaso mali ikho yalo msebenzi ",Ayikho inkxaso mali yalo msebenzi ,contradiction
+"Nangona izicwangciso  zenkxaso mali zingaphuculwa, inkxaso mali ikho yalo msebenzi ",Akukho nkxaso mali yaneleyo yalo msebenzi ,neutral
+Izibalo zeendlela zasemaphandleni ezikweli phepha zisekelwe kwidatha yeNational Mail Count yango 1989.,Izibalo ezikweli phepha zisekelwe kwingxelo yonyaka wama2001.,contradiction
+Izibalo zeendlela zasemaphandleni ezikweli phepha zisekelwe kwidatha yeNational Mail Count yango 1989.,Izibalo ezikweli phepha ziphelelwe lixesha. ,neutral
+Izibalo zeendlela zasemaphandleni ezikweli phepha zisekelwe kwidatha yeNational Mail Count yango 1989.,Eli liqulathe ulwazi kwiindlela zasemaphandleni.,entailment
+Isigqeba naso singafumana ukuphonongwa okanye ukalo ngokwephondo okanye sidodobale kwinto nganye.,Isiqalelo ngasinye apho isigqeba siyavavanywa khona kungabangela iziphumo ezahlukeneyo.,entailment
+Isigqeba naso singafumana ukuphonongwa okanye ukalo ngokwephondo okanye sidodobale kwinto nganye.,Isigqeba asikwazi ukusilela.,contradiction
+Isigqeba naso singafumana ukuphonongwa okanye ukalo ngokwephondo okanye sidodobale kwinto nganye.,Isigqeba masifumane amanqaku amahle ukuze siqhube.,neutral
+Umxholo oqulunkqwe ngexesha longeno lodliwano ndlebe yintshukumo yendlu ukubhengeza emeyile,Ukuphikisana kudliwano-ndlebe lokungena akusokuze kukufumanele umsebenzi.,neutral
+Umxholo oqulunkqwe ngexesha longeno lodliwano ndlebe yintshukumo yendlu ukubhengeza emeyile,Udliwano-ndlebe lokungena aluchazi kwanto ngokubhengeza imeyile.,contradiction
+Umxholo oqulunkqwe ngexesha longeno lodliwano ndlebe yintshukumo yendlu ukubhengeza emeyile,Udliwano-ndlebe lokungena lukwachaza kancinci malunga nendlela abantu abasabela ngayo kwisibhengezo semayile.,entailment
+Ikhulu elinashumi asibhozo anethoba kunye nomsebenzisi ndleko baqikeleleka kwindlela efanayo ,Baqikeleleka iindleko zomsebenzisi.,entailment
+Ikhulu elinashumi asibhozo anethoba kunye nomsebenzisi ndleko baqikeleleka kwindlela efanayo ,Baqikelela iindleko zomsebenzisi zeedola ezingama-10000. ,neutral
+Ikhulu elinashumi asibhozo anethoba kunye nomsebenzisi ndleko baqikeleleka kwindlela efanayo ,Babezazi ngqo iindleko zomsebenzisi ,contradiction
+"Umzekelo, kwiGGD isifundo soyilo senziwa njengomsebenzi osecaleni, isiphelo",Isifundo soyilo asizange senzeka.,contradiction
+"Umzekelo, kwiGGD isifundo soyilo senziwa njengomsebenzi osecaleni, isiphelo",Isifundo soyilo sasiqhutyelwa bucala.,entailment
+"Umzekelo, kwiGGD isifundo soyilo senziwa njengomsebenzi osecaleni, isiphelo",Isifundo soyilo asizange sabayimpumelelo.,neutral
+ZoliThoba iiArhente ziphendula kwingxelo nkxaxheba. ,KweziliThoba iiArhente zimbini kuphela ezazihluphayo ngokuphendula imibuzo yethu malunga nokuthaba inxaxheba.,contradiction
+ZoliThoba iiArhente ziphendula kwingxelo nkxaxheba. ,ZaziliThoba iiArhente ezaphendula ngokuqinisekileyo ukuba bathabathe inxaxheba.,entailment
+ZoliThoba iiArhente ziphendula kwingxelo nkxaxheba. ,Ezi arhente zonwabile kuba zifumane inxaxheba ekwizinga eliphezulu.,neutral
+"Ukusekela ngo1999, ingeniso yomlinganiselo wobutyebi wemizi unyuke waphakama ngokukhawuleza ukuya ku-6.4 ngowama1999. ",Imizi yonke irhole ama-10000 eedola ngaphezulu kunyaka ophelileyo.,neutral
+"Ukusekela ngo1999, ingeniso yomlinganiselo wobutyebi wemizi unyuke waphakama ngokukhawuleza ukuya ku-6.4 ngowama1999. ",Imizi ilahlekelwe bubutyebi obuninzi.,contradiction
+"Ukusekela ngo1999, ingeniso yomlinganiselo wobutyebi wemizi unyuke waphakama ngokukhawuleza ukuya ku-6.4 ngowama1999. ",Imizi ifumene ungeniso yomlinganiselo wobutyebi omninzi kakhulu. ,entailment
+"Kwindlela yodidi oluphantsi, isiseko kunye necandelo lokwabelana ngomsebenzi banikwe uyinge lokuphawula ngaphezu kweendleko, ukuze bafumane ukalo lwabo uluphakathi",Icandelo lesiseko lingaphezu kwendleko.,entailment
+"Kwindlela yodidi oluphantsi, isiseko kunye necandelo lokwabelana ngomsebenzi banikwe uyinge lokuphawula ngaphezu kweendleko, ukuze bafumane ukalo lwabo uluphakathi",Ixabiso linyuswe lakumyinge weshumi ngaphezu kwendleko. ,neutral
+"Kwindlela yodidi oluphantsi, isiseko kunye necandelo lokwabelana ngomsebenzi banikwe uyinge lokuphawula ngaphezu kweendleko, ukuze bafumane ukalo lwabo uluphakathi",Ixabiso lihlala lingaphantsi kwendleko. ,contradiction
+"IShumi elineThoba elingela iinyanga ezine zomsebenzi ngaphambili kwembasa yesivumelwano, ixesha lonke liphelile leenyanga ezilishumi elinesithathu ngeyibe sisidingo ukubuyisela le 675 MWe bhoyila",Kuthathe iinyanga ezimbini kuphela ukuyibuyisela.,contradiction
+"IShumi elineThoba elingela iinyanga ezine zomsebenzi ngaphambili kwembasa yesivumelwano, ixesha lonke liphelile leenyanga ezilishumi elinesithathu ngeyibe sisidingo ukubuyisela le 675 MWe bhoyila",Kuthathe iinyanga ezili-13 ukubuyisela ibhoyila ukwenzela umkhumbi wamanzi.,neutral
+"IShumi elineThoba elingela iinyanga ezine zomsebenzi ngaphambili kwembasa yesivumelwano, ixesha lonke liphelile leenyanga ezilishumi elinesithathu ngeyibe sisidingo ukubuyisela le 675 MWe bhoyila",Kuthathe iinyanga ezili-13 ngokupheleleyo ukubuyisela ibhoyila.,entailment
+Unqongophalo lwabasebenzi be-IT abanezakhono kwindawo yentengiso yangoku ihlala ingunobangela omkhulu ophembelela iinkampani zifune abasebenzi ngaphandle. ,Baninzi kakhulu abasebenzi be-IT.,contradiction
+Unqongophalo lwabasebenzi be-IT abanezakhono kwindawo yentengiso yangoku ihlala ingunobangela omkhulu ophembelela iinkampani zifune abasebenzi ngaphandle. ,Abonelanga abasebenzi be-IT kuba bonke baya eIndia,neutral
+Unqongophalo lwabasebenzi be-IT abanezakhono kwindawo yentengiso yangoku ihlala ingunobangela omkhulu ophembelela iinkampani zifune abasebenzi ngaphandle. ,Abonelanga abasebenzi be-IT ukuvala izikhewu zemisebenzi.,entailment
+Akwenzeki ukuba wazi ubungakanani okanye isalathiso somkhethe ngokupheleleyo kwisiganeko sotshintsho ngokusekelwe kwisicelo ngobubanzi benye yomsebenzi we C-R kuyo yonke indawo. ,Ucacile mninzi kangakanani umkhethe okhoyo.,contradiction
+Akwenzeki ukuba wazi ubungakanani okanye isalathiso somkhethe ngokupheleleyo kwisiganeko sotshintsho ngokusekelwe kwisicelo ngobubanzi benye yomsebenzi we C-R kuyo yonke indawo. ,Awunako ukwazi mngakanani umkhethe okhoyo ngokuba kunzima ukwehlula kwiimpembelelo zangaphandle.,neutral
+Akwenzeki ukuba wazi ubungakanani okanye isalathiso somkhethe ngokupheleleyo kwisiganeko sotshintsho ngokusekelwe kwisicelo ngobubanzi benye yomsebenzi we C-R kuyo yonke indawo. ,Awunako ukwazi mngakanani umkhethe okhoyo. ,entailment
+"Iziphumo zeendleko bugcisa, ngenxa yomsebenzi owenziwa lelinye iqela, abangawenza kwizinga elixhome umngangatho ndleko, zibalwa ngendlela efanayo nakuqala. ","Iziphumo zeendleko bugcisa, ziqonde indlela enye.",entailment
+"Iziphumo zeendleko bugcisa, ngenxa yomsebenzi owenziwa lelinye iqela, abangawenza kwizinga elixhome umngangatho ndleko, zibalwa ngendlela efanayo nakuqala. ",Abakaziqondi indlela zokubala iziphumo zeendleko zobugcisa.,contradiction
+"Iziphumo zeendleko bugcisa, ngenxa yomsebenzi owenziwa lelinye iqela, abangawenza kwizinga elixhome umngangatho ndleko, zibalwa ngendlela efanayo nakuqala. ",Basebenzise ulwazi lwembali ukubala iziphumo zeendleko zobugcisa.,neutral
+Ukuqhelanisa kwesine:lawula umngcipheko ngokuqhubekayo.,Isahluko sesine siqulathe ukuziqhelanisa kokuzilolonga kulawulo longcipheko.,entailment
+Ukuqhelanisa kwesine:lawula umngcipheko ngokuqhubekayo.,Incwadi ayiqulathanga ulwazi ngexesha elide lolawulo longcipheko.,contradiction
+Ukuqhelanisa kwesine:lawula umngcipheko ngokuqhubekayo.,Lo  msebenzi ufanele ugqitywe ungeniswe ekupheleni kweveki.,neutral
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Imibono yeMarxist-Leninist yayibandakanyiwe kwintshukumo yamaSilamsi.,entailment
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Intshukumo yama Silamsi yaqala kwinkulungwane yesithandathu. ,contradiction
+"Intshukumo yamasilamsi, yazalwa ngonyaka wa1940, sisiqhamo selizwe yale mihla, ngempembelelo yemibono ka Marxist-Leninist yovukelo mbuso. ",Intshukumo yamasilamsi yasekwa ekuqaleni njengombutho wokuhlanganisa uluntu. ,neutral
+Abanye abacebisi babonakalise inkxalabo.,Ngazwinye bonke abacebisi bavuma ukuba mabangazikhathazi nganto.,contradiction
+Abanye abacebisi babonakalise inkxalabo.,Mnye kuphela umncebisi ongazange abonise inkxalabo kweli cebo.,neutral
+Abanye abacebisi babonakalise inkxalabo.,Le nkxalabo ivakaliswe ngabacebisi abaninzi abahlukeyo.,entailment
+Inkqubo ikwakhethe abakhweli ngokungalindelekanga ukuze bafumane ukhuseleko olongesmzelelweyo lozihlola,Bonke abakhweli bafumana nje ukuzihambela ngaphandle kwengxaki.,contradiction
+Inkqubo ikwakhethe abakhweli ngokungalindelekanga ukuze bafumane ukhuseleko olongesmzelelweyo lozihlola,Abanye abakhweli bafumana uhlolo lomzimba wonke.,neutral
+Inkqubo ikwakhethe abakhweli ngokungalindelekanga ukuze bafumane ukhuseleko olongesmzelelweyo lozihlola,Abanye abakhweli bajongwa kakhulu ngocoselelo ngonoogada.,entailment
+"Asibonanga nto ebonakalisa ukuba umbono ubushwankathelwe kumabhalane omtsha okanye la Claeke wagqithisa iphepha lakhe kubo, nangona abezomsebenzi  ebandise bobabini oomabhalana. ",Sinesiqinisekiso esingumyinge wekhulu wokuba uClarke akakhange alinike mntu iphepha lakhe. ,neutral
+"Asibonanga nto ebonakalisa ukuba umbono ubushwankathelwe kumabhalane omtsha okanye la Claeke wagqithisa iphepha lakhe kubo, nangona abezomsebenzi  ebandise bobabini oomabhalana. ",Asinako ukufumana ubungqina bokuba uClarke wamnika iphepha lakhe. ,entailment
+"Asibonanga nto ebonakalisa ukuba umbono ubushwankathelwe kumabhalane omtsha okanye la Claeke wagqithisa iphepha lakhe kubo, nangona abezomsebenzi  ebandise bobabini oomabhalana. ",Siyayazi ngokuqinisekileyo ukuba uClarke wabanika iphepha lakhe kweyeKhala ngomhla we-2. ,contradiction
+"Ayicacanga inkqubo ingafakwa ngaphambi konyaka wama2010, kodwa nesi sigcini maxesha singacotha kakuhle xa sinokwenza ubungozi bokhuseleko. ",Kunzima ukufaka inkqubo ngokuba abagqekezi bayayihlasela ubusuku nobusuku.,neutral
+"Ayicacanga inkqubo ingafakwa ngaphambi konyaka wama2010, kodwa nesi sigcini maxesha singacotha kakuhle xa sinokwenza ubungozi bokhuseleko. ",Akukho ukufaka inkqubo ngenxa yeengozi zokhuseleko.,entailment
+"Ayicacanga inkqubo ingafakwa ngaphambi konyaka wama2010, kodwa nesi sigcini maxesha singacotha kakuhle xa sinokwenza ubungozi bokhuseleko. ","Inkqubo yokhuseleko izakufakwa kwiiveki ezisithandathu, ndiyathembisa.",contradiction
+"Ngoko ke, ngethuba sikhusela umhlaba, AmaMelika mabazigade izigrogriso abazenzayo kuluntu olubalulekileyo nenkululeko yabantu. ",AmaMelika akukho sidingo sokuba azikhathaze ngenkululeko yoluntu-bazakuhlala bekhuselekile.,contradiction
+"Ngoko ke, ngethuba sikhusela umhlaba, AmaMelika mabazigade izigrogriso abazenzayo kuluntu olubalulekileyo nenkululeko yabantu. ",AmaMelika mawenze isiqinisekiso sokuba imipu yabo ayithathwa.,neutral
+"Ngoko ke, ngethuba sikhusela umhlaba, AmaMelika mabazigade izigrogriso abazenzayo kuluntu olubalulekileyo nenkululeko yabantu. ",AmaMelika mawabaze iindlebe kwizigrogriso zenkululeko yethu. ,entailment
+Ukuyithumela iphinda phindwa  akukhange kuyenze isebenze ngakumbi.,Ukuyithumela akukhange kuphucule indlela ebisebenza ngayo. ,entailment
+Ukuyithumela iphinda phindwa  akukhange kuyenze isebenze ngakumbi.,Ukuyithumela kuyenze yasebenza ngokuncomekayo.,contradiction
+Ukuyithumela iphinda phindwa  akukhange kuyenze isebenze ngakumbi.,Ayikhange iyenze isebenze ngokugqwesileyo xa sasiyithumela eWhite House. ,neutral
+"Omnye umngangatho phantsi, Umqulunqi we-al Qaeda yunitji eCIA ngexesha wakhumbula kwaye akazange acinge ukuba ayingomsebenzi wakhe ukuqulunqa ekufanele kwenziwe, nokungafanelekang kwenziwe. ",Umlawuli akakhange afune ukuzibandakanya ngokuba ebesele ekufuphi ukuba atye umhlala phantsi. ,neutral
+"Omnye umngangatho phantsi, Umqulunqi we-al Qaeda yunitji eCIA ngexesha wakhumbula kwaye akazange acinge ukuba ayingomsebenzi wakhe ukuqulunqa ekufanele kwenziwe, nokungafanelekang kwenziwe. ",Umlawuli wecandelo akakhange afune ukuzibandakanya ekulawuleni oko bekusenziwa. ,entailment
+"Omnye umngangatho phantsi, Umqulunqi we-al Qaeda yunitji eCIA ngexesha wakhumbula kwaye akazange acinge ukuba ayingomsebenzi wakhe ukuqulunqa ekufanele kwenziwe, nokungafanelekang kwenziwe. ",Umlawuli wayecinga konke kuxhomekeke kuye.,contradiction
+UPickard uyayikhukhumbula ingxelo etyholayo eyenziwa kushwankathelo kweyeKhala ngomhla we-12. ,UPickard wayengakhumbuli kwasa nto  ababeyithethile.,contradiction
+UPickard uyayikhukhumbula ingxelo etyholayo eyenziwa kushwankathelo kweyeKhala ngomhla we-12. ,UPickard wakhumbula ushwankathelo lwaquka iinyaniso ngontlitheko.,neutral
+UPickard uyayikhukhumbula ingxelo etyholayo eyenziwa kushwankathelo kweyeKhala ngomhla we-12. ,UPickard wayikhumbula into eyayithethwa kushwankathelo.,entailment
+Wahambela ePakistane kodwa wakhathazeka xa wabuzwayo ukuba wayekhe waya kumazwe akufuphi ngethuba wayesePakistan (iPakistan yayiyindlela eqhelekileyo eya kwiinkampu zoqeqesho eAfghanistan).,Yayingaqheleka kubanqolobi ukuba basebenzise iPakistani ukuya eAfiganistani.,entailment
+Wahambela ePakistane kodwa wakhathazeka xa wabuzwayo ukuba wayekhe waya kumazwe akufuphi ngethuba wayesePakistan (iPakistan yayiyindlela eqhelekileyo eya kwiinkampu zoqeqesho eAfghanistan).,IPakistan kunye neAfghanistan zime kude kakhulu enye kwenye. ,contradiction
+Wahambela ePakistane kodwa wakhathazeka xa wabuzwayo ukuba wayekhe waya kumazwe akufuphi ngethuba wayesePakistan (iPakistan yayiyindlela eqhelekileyo eya kwiinkampu zoqeqesho eAfghanistan).,Uqeqesho olwafumaneka eAfghanistan lwaquka umlo wasandla nesandla.,neutral
+"Ngoshwankathelo olifutshane ezi ndlela kunye nezizathu zobuba zingquzulana mhlawumbi zazingazingazinzisanga, jonga Graham Allison kunye nePhillip Zelikow, Essence of ed. ",Abahlalutyi baphathwa ngokugqibeleleyo,contradiction
+"Ngoshwankathelo olifutshane ezi ndlela kunye nezizathu zobuba zingquzulana mhlawumbi zazingazingazinzisanga, jonga Graham Allison kunye nePhillip Zelikow, Essence of ed. ",Abahlalutyi bathunyelwa emntwini ongenguye ukumhlalutya,neutral
+"Ngoshwankathelo olifutshane ezi ndlela kunye nezizathu zobuba zingquzulana mhlawumbi zazingazingazinzisanga, jonga Graham Allison kunye nePhillip Zelikow, Essence of ed. ",Abahlalutyi babengaphathwa ngokugqibeleleyo,entailment
+"Benza kubenzima kakhulu kwezo kujoliswe kuzo ukuba bazihlasele ngokupheleleyo, kwaye bathintele uhlaselo ngokwenza  ukubanjwa kubenokwenzeka ngakumbi. ",Babeyazi ukwenza nzima kwezoo kujoliswe kuzo kungakhokhelela kwizinga eliphezulu lokuzibamba.,neutral
+"Benza kubenzima kakhulu kwezo kujoliswe kuzo ukuba bazihlasele ngokupheleleyo, kwaye bathintele uhlaselo ngokwenza  ukubanjwa kubenokwenzeka ngakumbi. ",Benza kubelula kwazo kujoliswe kuzo zabanjwa ngomzuzu nje omnye. ,contradiction
+"Benza kubenzima kakhulu kwezo kujoliswe kuzo ukuba bazihlasele ngokupheleleyo, kwaye bathintele uhlaselo ngokwenza  ukubanjwa kubenokwenzeka ngakumbi. ",Bazenzela ngokwabo ubunzima obukhulu kwezo kwakujoliswe kuzo ukuze bazakukwazi ukwenza ukubamba kwenzeke ngakumbi.,entailment
+"ISouth Air Defence Sector yaziswa ngesiganeko ngo9:55,emveni kwimizuziu eyi28. ",Emveni kwimizuziu eyi28 ebunyanisweni iSoutheast Air Defence Sector yafumana isaziso.,entailment
+"ISouth Air Defence Sector yaziswa ngesiganeko ngo9:55,emveni kwimizuziu eyi28. ",Icandelo alizange lifumane izaziso kwangethuba ngenxa yobambezeleko kunxibelelwano.,neutral
+"ISouth Air Defence Sector yaziswa ngesiganeko ngo9:55,emveni kwimizuziu eyi28. ",ISoutheast Air Defence Sector yaziswa ngesiganeko  nje ngemizuzu eyi28 sesisehlile.,contradiction
+"Sijonge kwingxoxo yelizwe lonke kwabafaneleke kule nto besiyicebisile, kwaye sizakuthaba inkxaxheba ngamandla kule ngxoko ",Akukho sizathu sokuxoxa lombandela.,contradiction
+"Sijonge kwingxoxo yelizwe lonke kwabafaneleke kule nto besiyicebisile, kwaye sizakuthaba inkxaxheba ngamandla kule ngxoko ",Sifuna ukubanengxoxo ngokuba siyazazi ezi ngcebiso zibalulekile.,neutral
+"Sijonge kwingxoxo yelizwe lonke kwabafaneleke kule nto besiyicebisile, kwaye sizakuthaba inkxaxheba ngamandla kule ngxoko ",Singathanda ukuxoxa iingcebiso. ,entailment
+"Emveni kokuba uMihdhar ehambile, abanye abafundi bafudukela endlwini. ",UMihdhar wayeyazi ukuba abafundi babelinde kuye ukuze bahambe ,neutral
+"Emveni kokuba uMihdhar ehambile, abanye abafundi bafudukela endlwini. ",Abafundi baya kwelikhaya emveni kokuhamba kukaMidhar. ,entailment
+"Emveni kokuba uMihdhar ehambile, abanye abafundi bafudukela endlwini. ",Abafundi baqhankqalaza ngaphandle kwendlu awayehla kuyo uMihdhar. ,contradiction
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85.,Isipho nesipho esisifumanayo asibalulekanga kunesakho.,neutral
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85., Asisikhathalelanga konke konke Isipho sakho.,contradiction
+Isipho sakho sibalulelile kubhiyozo lwethu lwesizini yama-85.,Besiyenza le nto iminyaka engaphaya kwama-80. ,entailment
+Kuthatha intsebenziswano yenkxaso ebucala  nenkxaso mali yedyunivesithi ukuze isikolo sethu somthetho siqhubekeke sikhule kubume nakwifuthe.,Isikolo sethu somthetho sixhomekeke kwinkxaso mali ebucala kuphela. ,contradiction
+Kuthatha intsebenziswano yenkxaso ebucala  nenkxaso mali yedyunivesithi ukuze isikolo sethu somthetho siqhubekeke sikhule kubume nakwifuthe.,Isikolo sethu somthetho sixhaswa yinxalenye nguMelinda kunye nesiseko sikaBill Gate. ,neutral
+Kuthatha intsebenziswano yenkxaso ebucala  nenkxaso mali yedyunivesithi ukuze isikolo sethu somthetho siqhubekeke sikhule kubume nakwifuthe.,Isikolo sethu somthetho sidinga imali ukuqhubeka sikhule.,entailment
+Ngoncedo kuphela lwabencedi kuphela siye sakwazi ukuphumelela kakhulu.,Bill gates unikele ngeeDola ezintlanu zesigidi. ,neutral
+Ngoncedo kuphela lwabencedi kuphela siye sakwazi ukuphumelela kakhulu.,"Ngokokunikwa ubume ntengiso kwezezimali, abancedi bethu babuyise unyawo kwinkxaso mali yabo.",contradiction
+Ngoncedo kuphela lwabencedi kuphela siye sakwazi ukuphumelela kakhulu.,"Siye saphumelela kakhulu, ngenxa yoncedo esiye salufumana. ",entailment
+Siyakubulela ngokuxhasa Indianapolis Musiyam yobugcisa kunyaka wa1999. ,Siyakubulela ngokunikela ngeDola ezili100 kwiIndianapolis musiyam yobugcisa. ,neutral
+Siyakubulela ngokuxhasa Indianapolis Musiyam yobugcisa kunyaka wa1999. ,Enkosi kodwa hayi siyabulelai ngokuphelelwa komnikelo wakho ngowama1999. ,contradiction
+Siyakubulela ngokuxhasa Indianapolis Musiyam yobugcisa kunyaka wa1999. ,Siyavuya kakhulu wanceda waxhasa umusiyam. ,entailment
+Ithemba lam uye wasikeleleka kakhulu kwaye wakhuthazeka ngulo mba. ,Ndiyathemba ukuba lo mba ukunike umdla omtsha. ,entailment
+Ithemba lam uye wasikeleleka kakhulu kwaye wakhuthazeka ngulo mba. ,"Ndiyayazi lomba uzakubangela ukuba uphelelwe lithemba, kodwa jonga kuhambo lwakho. ",contradiction
+Ithemba lam uye wasikeleleka kakhulu kwaye wakhuthazeka ngulo mba. ,Ndiyayazi uzokwenza ngako konke ekusemandleni ukulwa umhlaza webele,neutral
+Kubalulekile ukuba sive kuwe malunga nethuba lokugqibela lephulo lokunyusa imali. ,"Liphulo lethu lonikelo lokugqibela eli, esizakubanalo kweli xesha, ngoko ke sidinga uncedo lwakho. ",entailment
+Kubalulekile ukuba sive kuwe malunga nethuba lokugqibela lephulo lokunyusa imali. ,Sinamaphulo amabini okukhulisa imali kulo nyaka. ,contradiction
+Kubalulekile ukuba sive kuwe malunga nethuba lokugqibela lephulo lokunyusa imali. ,"Sidinga iiDola ezingama100,000 ukwenza izabelo zokhuliso mali kwelu xesha.",neutral
+"P. S isipho sakho sibalulekile kumbhiyozo wethu wama85 yeminyaka, senza Indianapolis Civic eyona thiyetha indala ngokuqhubekayo esebenza elizweni.","Bekukho elinye iholo leqonga  ebelibhoyozela isikhumbuzio seminyaka engama84, kodwa ke siye satsha. ",neutral
+"P. S isipho sakho sibalulekile kumbhiyozo wethu wama85 yeminyaka, senza Indianapolis Civic eyona thiyetha indala ngokuqhubekayo esebenza elizweni.",Sibhiyozela ukuvulwa okukhulu kweIndianapolis elona holo litsha lomdlalo weqonda.,contradiction
+"P. S isipho sakho sibalulekile kumbhiyozo wethu wama85 yeminyaka, senza Indianapolis Civic eyona thiyetha indala ngokuqhubekayo esebenza elizweni.",Siyavuya kakhulu ukuba iholo lomdlalo weqonga iIndianapolisi Civic isebenze iminyaka engama85.,entailment
+"Abo bathabatha inkxaxheba bazakunikwa amagama abahloli, indawo abahlala kuzo kwakunye neembolo zomnxeba, njengemvelaphi yolwazi kwisidingo sesikolo.",Abathabathi nkxaxheba bazakunikwa inkcuchacha zokuqhakamshelana nabahloli kwaye nemvelaphi yolwazi,entailment
+"Abo bathabatha inkxaxheba bazakunikwa amagama abahloli, indawo abahlala kuzo kwakunye neembolo zomnxeba, njengemvelaphi yolwazi kwisidingo sesikolo.","Abathabathi nkxaxheba bazakwenza intshayino yesivumelwano sokungavezwa kolwazi, ngaphambi kokufumabana inkcuchacha zomhloli. ",neutral
+"Abo bathabatha inkxaxheba bazakunikwa amagama abahloli, indawo abahlala kuzo kwakunye neembolo zomnxeba, njengemvelaphi yolwazi kwisidingo sesikolo.","Abo bathabathe inkxaxheba bamazi kuphela igama lomhloli, kodwa hayi indawo ahlala kuyo.",contradiction
+"Umziwethu wogcino zilwanyana wenziwa kusetyenziswa umbono weebhayomzi, elinganisa ngokwendalo yeendawo zokuhlala apho izilwanyana zihlala khona.",Iibhayomzi zilinganisa indawo yendalo yokuhlala izilwanyana.,entailment
+"Umziwethu wogcino zilwanyana wenziwa kusetyenziswa umbono weebhayomzi, elinganisa ngokwendalo yeendawo zokuhlala apho izilwanyana zihlala khona.",Kumzi wethu wezilwanyana sikholelwa ukuba indawo yokuhlala eyenziweyo yeyona ingcono kunale idaliweyo,contradiction
+"Umziwethu wogcino zilwanyana wenziwa kusetyenziswa umbono weebhayomzi, elinganisa ngokwendalo yeendawo zokuhlala apho izilwanyana zihlala khona.",Iibhayomzi kwindlu yokungcina izilwanyana yethu bezinexabiso eliphezulu kakhulu. ,neutral
+Inkxaso yakho kaGoodwill izakuquku uqeqesho lomsebenzi kunye nobeka iinkozo ukunceda ubunzima ukunika umbindi weIndiyana bafumane imisebenzi ebhadlileyo. ,Abantu abakumbindi weIndiyana abazange balufumana uqeqesho lomsebenzi.,contradiction
+Inkxaso yakho kaGoodwill izakuquku uqeqesho lomsebenzi kunye nobeka iinkozo ukunceda ubunzima ukunika umbindi weIndiyana bafumane imisebenzi ebhadlileyo. ,Ukuxhasa uGoodwill kuzakwenza bazuze abantu baseIndiyana.,entailment
+Inkxaso yakho kaGoodwill izakuquku uqeqesho lomsebenzi kunye nobeka iinkozo ukunceda ubunzima ukunika umbindi weIndiyana bafumane imisebenzi ebhadlileyo. ,Ukuxhasa uGoodwill kuzakuthoba izinga lentswelo ngqesho.,neutral
+"Ukusuka kokuqala ngokuthozama kwinqanaba layo namhlanje njengenye yeendawo yesikolo sokufunda ezobhugqirha esigqwesileyo kwisizwe, yiIndiyana kuphela eqhayisa ngesikolo sobugqirha nokuzidla ngikwenkcubeko. ",IIndiyana inezikolo zokufundela ubugqirha ezingamashumi amabini ubuncinane.,contradiction
+"Ukusuka kokuqala ngokuthozama kwinqanaba layo namhlanje njengenye yeendawo yesikolo sokufunda ezobhugqirha esigqwesileyo kwisizwe, yiIndiyana kuphela eqhayisa ngesikolo sobugqirha nokuzidla ngikwenkcubeko. ",Ilizwe laseIndiyana linesekolo esinye sokufunda ubugqirha. ,entailment
+"Ukusuka kokuqala ngokuthozama kwinqanaba layo namhlanje njengenye yeendawo yesikolo sokufunda ezobhugqirha esigqwesileyo kwisizwe, yiIndiyana kuphela eqhayisa ngesikolo sobugqirha nokuzidla ngikwenkcubeko. ","Akuzukubakho sikolo sokufundela ubugqirha kwilizwe laseIndiyana, kule minyaka imihlanu izayo.",neutral
+"Ngokunjalo ukunyuka okungaqhelekanga kwiindleko zeencwadi yemithetho, iijenalsi kunye needatha beyisi, ngokulula kuthetha ukuba ukugcina ingqokolela yethu yangoku kudlulile kuhlahlo mali. ",Ukugcina ingqokolela yethu yangoku ibiza kuphela isithathu sohlahlo lwabiwo mali lonyaka. ,contradiction
+"Ngokunjalo ukunyuka okungaqhelekanga kwiindleko zeencwadi yemithetho, iijenalsi kunye needatha beyisi, ngokulula kuthetha ukuba ukugcina ingqokolela yethu yangoku kudlulile kuhlahlo mali. ",Uhlahlo lwabiwo mali lwethu lwangoku alisivumeli ukugcina ingqokolela yethu yangoku. ,entailment
+"Ngokunjalo ukunyuka okungaqhelekanga kwiindleko zeencwadi yemithetho, iijenalsi kunye needatha beyisi, ngokulula kuthetha ukuba ukugcina ingqokolela yethu yangoku kudlulile kuhlahlo mali. ","Sidinga umnikelo weDola engama10, 000 ubuncinane ukuze sikwazi ukugcina ingqokolela yethu yangoku. ",neutral
+Sizakuzama ukuqhakamshelana nomntu ngamnye kwabangathabathanga nkxaxheba kulo nyaka kwiinsuku ezingama45 zizayo ukuze injongo yethu izokuphumezeka ngomhla obekiweyo ongam-30 Juni. ,Azinanjongo zokuphinda sinxulumane nabo bangazange banikele kulo nyaka mali. ,contradiction
+Sizakuzama ukuqhakamshelana nomntu ngamnye kwabangathabathanga nkxaxheba kulo nyaka kwiinsuku ezingama45 zizayo ukuze injongo yethu izokuphumezeka ngomhla obekiweyo ongam-30 Juni. ,"Zizokuqhakamshelana ngokwemeyile kwiinsuku elingama45 ezizayo, kwabo banganikelanga kulo nyaka mali. ",neutral
+Sizakuzama ukuqhakamshelana nomntu ngamnye kwabangathabathanga nkxaxheba kulo nyaka kwiinsuku ezingama45 zizayo ukuze injongo yethu izokuphumezeka ngomhla obekiweyo ongam-30 Juni. ,Sizakuzama ukuqhakamshelana nabo banganikelanga kulo nyaka mali kwiinsuku ezingama45 ezizayo.,entailment
+"Njengelungu lesikolo somthetho, ndiyakwazi uyayazi inkqubela phambile yethu.",Ndililungu le sikolo somthetho.,neutral
+"Njengelungu lesikolo somthetho, ndiyakwazi uyayazi inkqubela phambile yethu.",Akekho umntu ongowasesikolweni somthetho. ,contradiction
+"Njengelungu lesikolo somthetho, ndiyakwazi uyayazi inkqubela phambile yethu.",Isikolo somthetho sibamkele abantu.,entailment
+"Ixabiso lokwenziwa kwamakhaya ligqithe kakhulu kwixabiso elingabhatalwa ngabathengi, ngoko ke sixhomekeke kwindodla nakumnikelo womntu ngamnye ukuze zikwazi ukufikeleleka. ",Ukwenza amakhaya kwakungabizi mali.,contradiction
+"Ixabiso lokwenziwa kwamakhaya ligqithe kakhulu kwixabiso elingabhatalwa ngabathengi, ngoko ke sixhomekeke kwindodla nakumnikelo womntu ngamnye ukuze zikwazi ukufikeleleka. ",Amakhaya afuna izixhobo ukuze enziwe.,entailment
+"Ixabiso lokwenziwa kwamakhaya ligqithe kakhulu kwixabiso elingabhatalwa ngabathengi, ngoko ke sixhomekeke kwindodla nakumnikelo womntu ngamnye ukuze zikwazi ukufikeleleka. ",Amakhaya ebebiza imali eninzi ukwenziwa ngaphezu kokuba bekulindelekile.,neutral
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,Abazali abaxhalabileyo bangabanye bemakethe ejongiweyo yenewsweeklies.,entailment
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,INewsweeklies ziyila umogqumo pakethe zazo ukuze zibenomtsalane kubantwana abancinane kunye nabantu abadala. ,contradiction
+Umogqumo pakethe wenewsweeklies libonelela abazali abaxhalabileyo.,"Abazali bavamise ngakumbi ukuchitha imali  kwiimoto ezintsha, nto leyo eyenza ingeniso mali yokubhengeza kwicandelo leemagazini.",neutral
+Ulwegqumo lwebali  lweTime ngamanyathelo ali-12 kwenkqubo kaBill gates ukuze aphumelele kwiminyaka yedijithali. ,UKim Kardashian wabhala umogqumo bali kwiTime magazine malunga namanyathelo ali-12 adingeka kwimpumelelo kwiminyaka yedijithali.,contradiction
+Ulwegqumo lwebali  lweTime ngamanyathelo ali-12 kwenkqubo kaBill gates ukuze aphumelele kwiminyaka yedijithali. ,Imagazini yakwaTime inomfanekiso kaBill gates kwisogqumo sayo. ,neutral
+Ulwegqumo lwebali  lweTime ngamanyathelo ali-12 kwenkqubo kaBill gates ukuze aphumelele kwiminyaka yedijithali. ,Imagazini yakwaTime yenza ibali ngoBill gates nempumelelo yakhe kwiminyaka yedijithali. ,entailment
+"Baleka uthule,baleka nzulu, baleka impendulo.",Baleka ngethuba usenza ingxolo. ,contradiction
+"Baleka uthule,baleka nzulu, baleka impendulo.",Baleka iingalo zivulekile. ,neutral
+"Baleka uthule,baleka nzulu, baleka impendulo.",Baleka ngaphandle kokuviwa. ,entailment
+UPaul ubonakala ethatha uAlan Greenspan njenge-ayidiyoloji enqanda izinga lentswela ngqesho nanje ngengxelo yethiyori yezoqoqosho. ,Alan Greenspan uneethiyori  yezoqoqosho malunga nezinga lentswelo ngqesho.,entailment
+UPaul ubonakala ethatha uAlan Greenspan njenge-ayidiyoloji enqanda izinga lentswela ngqesho nanje ngengxelo yethiyori yezoqoqosho. ,UPaul akazange weva ngoAlan Greenspan okanye ngeethiyori zakhe zoqoqosho. ,contradiction
+UPaul ubonakala ethatha uAlan Greenspan njenge-ayidiyoloji enqanda izinga lentswela ngqesho nanje ngengxelo yethiyori yezoqoqosho. ,UPaul ucinga ukuba uGreenspan  yeyona ngcali yezoqoqosho ekrelekrele ayaziyo.,neutral
+"Ngokoncedo lweMayikhrosofuti ndifumanise ukuba iCD-ROM yam, mhlawumbi ibingafakwanga kakuhle kwisandi sakhe sekhadi, kwaye hayi kwiIDE pothi, ngaloo ndlela yamxaka uLinux. ",Andizange ndasebenzisana noLinux. ,contradiction
+"Ngokoncedo lweMayikhrosofuti ndifumanise ukuba iCD-ROM yam, mhlawumbi ibingafakwanga kakuhle kwisandi sakhe sekhadi, kwaye hayi kwiIDE pothi, ngaloo ndlela yamxaka uLinux. ",Ndandinengxaki yokufumana uLinux ukuze aqhagamshelane kwimodem yam. ,neutral
+"Ngokoncedo lweMayikhrosofuti ndifumanise ukuba iCD-ROM yam, mhlawumbi ibingafakwanga kakuhle kwisandi sakhe sekhadi, kwaye hayi kwiIDE pothi, ngaloo ndlela yamxaka uLinux. ",Ndandifumana iingxaki noLinux.,entailment
+"Steve, andikhange ndikwazi nokusiphakamisa isipaji sakho, watsho UHatch. ",Ngomsindo uHatch wathi akakwazi nokusiphakamisa isipaji sikaSteve.,neutral
+"Steve, andikhange ndikwazi nokusiphakamisa isipaji sakho, watsho UHatch. ",UHatch wayenalo uluvo ngesipaji sikaSteve. ,contradiction
+"Steve, andikhange ndikwazi nokusiphakamisa isipaji sakho, watsho UHatch. ",UHatch wadlala ngokuthi wayengakwazi nokusiphakamisa isipaji sikaSteve.,entailment
+"Iingqondi, ezizimele kwezoqoqosho kunye namagumbi ekhompuyutha, bazifumana bekwizikhundla ezingenathemba ngakumbi. ",Iingqondi azinathemba. ,entailment
+"Iingqondi, ezizimele kwezoqoqosho kunye namagumbi ekhompuyutha, bazifumana bekwizikhundla ezingenathemba ngakumbi. ",Iingqondi azikhontle kwintsebenziswano yoluntu. ,neutral
+"Iingqondi, ezizimele kwezoqoqosho kunye namagumbi ekhompuyutha, bazifumana bekwizikhundla ezingenathemba ngakumbi. ",Iingqondi zinekamva. ,contradiction
+Engaphezulu kwesithembiso esingenziwa yiNews Quiz ngoFox. ,Ingaphantsi kwesithembiso esingenziwa yiNews Quiz ngoFox. ,contradiction
+Engaphezulu kwesithembiso esingenziwa yiNews Quiz ngoFox. ,Ingaphezu kwesiqinisekiso esingenziwa yiNews Quiz ngoFox. ,entailment
+Engaphezulu kwesithembiso esingenziwa yiNews Quiz ngoFox. ,Mhlawumbi ingaphezulu kokungatshiwo yiNews Quiz ngoFox. ,neutral
+Ukukhula kwabantu ehlabathini kufana nongcoliseko oluya emva.,Ungcoliseko yeyona nto enqanda ukukhula kwabantu ehlabathini.,neutral
+Ukukhula kwabantu ehlabathini kufana nongcoliseko oluya emva.,Ukukhula kwabantu ehlabathini kufana nongcoliseko oluphambeneyo.,entailment
+Ukukhula kwabantu ehlabathini kufana nongcoliseko oluya emva.,Abukho ubudlelwane ubophakathi kokukhula kwabantu ehlabathini nongcoliseko.,contradiction
+"Ke, makuthiwe UBill Bradley wakhulela eSt.Louis yima, uxolo, lo nto ingahlekisa kuphela ukuba  uAl Gore ebekhulele eTennessee. ",Bradley waye ngowase Arkansas. ,contradiction
+"Ke, makuthiwe UBill Bradley wakhulela eSt.Louis yima, uxolo, lo nto ingahlekisa kuphela ukuba  uAl Gore ebekhulele eTennessee. ",UBradley waye ngowase Missourt. ,entailment
+"Ke, makuthiwe UBill Bradley wakhulela eSt.Louis yima, uxolo, lo nto ingahlekisa kuphela ukuba  uAl Gore ebekhulele eTennessee. ",UBradley wayengo wasebucala lasekholo laseSt Louis. ,neutral
+"USabol wathi, ngamanye amaxesha kufuneka athathe ikhefu elifutshane, kodwa kwa oko kuhlenga hlengiswe ngokufanelekileyo. ",USabol akakudingi ukuthatha onke la makhefu mafutshane. ,neutral
+"USabol wathi, ngamanye amaxesha kufuneka athathe ikhefu elifutshane, kodwa kwa oko kuhlenga hlengiswe ngokufanelekileyo. ","USabol waveza ukuba ngoku kwaye kwakhona , kufuneka athathe ikhefu elifutshane.",entailment
+"USabol wathi, ngamanye amaxesha kufuneka athathe ikhefu elifutshane, kodwa kwa oko kuhlenga hlengiswe ngokufanelekileyo. ",USabol waphawula ukuba akakudingi ukuthabatha ikhefu. ,contradiction
+Kutheni le nto ingafakwa kwiWebhu?,Le nto iyafakwa kwiWebhu. ,contradiction
+Kutheni le nto ingafakwa kwiWebhu?,Le nto ayisafakwa ngoku kwiWebhu. ,entailment
+Kutheni le nto ingafakwa kwiWebhu?,Le nto ingafakwa kwiWebhu kwezinye iimeko. ,neutral
+"Abakwantsasana benza ingxelo yokuba bamkhuphile usisi kaJon Benet Ramsey kunye nobhuti wakhe, ngobugqina bokuba babengekho kwidolophu ngethuba ulwaphulo mthetho lusenzeka. ","Ubhuti kaJon Benet Ramsey wayengekho sedolophi ngethuba kusehla, isehlo sukubulawa. ",entailment
+"Abakwantsasana benza ingxelo yokuba bamkhuphile usisi kaJon Benet Ramsey kunye nobhuti wakhe, ngobugqina bokuba babengekho kwidolophu ngethuba ulwaphulo mthetho lusenzeka. ",Usisi kaJon Benet Ramsey unengqina elingamadla alizakungqina ukuba wayeyengekho kwidolophu xa kwakusenzeka ukubulawa,neutral
+"Abakwantsasana benza ingxelo yokuba bamkhuphile usisi kaJon Benet Ramsey kunye nobhuti wakhe, ngobugqina bokuba babengekho kwidolophu ngethuba ulwaphulo mthetho lusenzeka. ",Kukho ubungqina obaneleyo bokubamba ubhuti kaJon Banet Ramsey njengombulali. ,contradiction
+Awuqinisekanga ngokuba ucacalwe ngokuba ukwelikabani na icala. ,Icacile ukuba uxhasa bani ,contradiction
+Awuqinisekanga ngokuba ucacalwe ngokuba ukwelikabani na icala. ,Asikwazi ukuba uxhasa bani kuvoto,neutral
+Awuqinisekanga ngokuba ucacalwe ngokuba ukwelikabani na icala. ,Asikwazi uxhasa bani,entailment
+"Ngenye imini, le iteknoloji eyenza imakethe zokuboniswa, izakufana nqwa nezibane. ",Iteknoloji iye idine emveni kwethuba. ,entailment
+"Ngenye imini, le iteknoloji eyenza imakethe zokuboniswa, izakufana nqwa nezibane. ",Iteknoloji ihlala isonwabisa. ,contradiction
+"Ngenye imini, le iteknoloji eyenza imakethe zokuboniswa, izakufana nqwa nezibane. ",Iteknoloji iyadika ukuba awuhlali uyitshintsha. ,neutral
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Akulunganga ukusebenzisa enye indlela endaweni yenye kuba ufuna ukutolika enye ,entailment
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Kuvumelekile ukutshintsha enye indlela endaweni yenye. ,contradiction
+ Akufanelekanga asetyenziswe enye indlela endaweni yenye . ,Uninzi lwabantu abakwazi ukusebenzisa enye indlela kunye nokutshintsha. ,neutral
+"Ngexesha egqiba iminyaka engamashumi amathathu ngowama1895 , USkeat wabonakalisa umbono wokuthatha ezi ngxaki kancinane ekuqaleni. ","Njengokuba USkeat wayengenga kwiminyaka yakhe engamashumi amathandathu, wayengabonakalisi ukuba kukho nanye  into ayicingayo. ",contradiction
+"Ngexesha egqiba iminyaka engamashumi amathathu ngowama1895 , USkeat wabonakalisa umbono wokuthatha ezi ngxaki kancinane ekuqaleni. ",Njengokuba wayesiya ekhula uSkeat wabonakalisa imvakalelo yokuba wazithatha kancinci iingxaki. ,entailment
+"Ngexesha egqiba iminyaka engamashumi amathathu ngowama1895 , USkeat wabonakalisa umbono wokuthatha ezi ngxaki kancinane ekuqaleni. ",USkeat waqalisa ukukhathala ngezinto ezohlukileyo ngokuba esiya ekhula. ,neutral
+"Kodwa kwindibano yesibini wayebanjwe phakathi, phakathi kwabahlobo bakhe ababini. ","Akazazi ukuba makathathe eliphi icala, phakathi kwabahlobo bakhe ababini.",neutral
+"Kodwa kwindibano yesibini wayebanjwe phakathi, phakathi kwabahlobo bakhe ababini. ","Wayenendibano enye kuphela, eyayiquka umhlobo wakhe. ",contradiction
+"Kodwa kwindibano yesibini wayebanjwe phakathi, phakathi kwabahlobo bakhe ababini. ",Indibano yakhe yesibini iquka abantu abathathu. ,entailment
+"Yeyiphi oyithanda ngcono, izobalo okanye ezobunzulu lwazi? ",Ingaba uyakhetha phakathi kwezibalo okanye ezobunzulu lwazi? ,entailment
+"Yeyiphi oyithanda ngcono, izobalo okanye ezobunzulu lwazi? ","Yeyiphi oyicaphukela kakhulu, sisiNgesi okanye ifilosofi? ",contradiction
+"Yeyiphi oyithanda ngcono, izobalo okanye ezobunzulu lwazi? ",Ungazithanda ezinye izinto ngaphandle kwezibalo nezobunzulu lwazi. ,neutral
+"Xa kunonikwa  ixesha neteknoloji ephuculiweyo. Zonke iiselula ezingenawo unomathotholo, iiselula zingaphawulwa njengeeselula zocingo. ",Iiselula ezingenaye unomathotholo zizakuphetha iiselula zocingo. ,entailment
+"Xa kunonikwa  ixesha neteknoloji ephuculiweyo. Zonke iiselula ezingenawo unomathotholo, iiselula zingaphawulwa njengeeselula zocingo. ",Iiselula zikakuphuculwa yiteknoloji. ,neutral
+"Xa kunonikwa  ixesha neteknoloji ephuculiweyo. Zonke iiselula ezingenawo unomathotholo, iiselula zingaphawulwa njengeeselula zocingo. ",Iiselula zocingo zisisiseko ngakumbi ukodlula iiselula ezingenaye unomathotholo. ,contradiction
+"Isivakalisi sokugqibela, sicingela ukuba ngokunjalo awusifakanga kwenye indawo esi sincoko.",Siyithatha ngokuba awukhange usinikele komnye umntu esi sincoko ,entailment
+"Isivakalisi sokugqibela, sicingela ukuba ngokunjalo awusifakanga kwenye indawo esi sincoko.",Siyayiqonda ukuba  wasipapasha ngaphambili esi sincoko kumaphepha ndaba amahlanu. ,contradiction
+"Isivakalisi sokugqibela, sicingela ukuba ngokunjalo awusifakanga kwenye indawo esi sincoko.",Singathanda ukuba utyikitye kwiimpepha wamkela ukuba sithi kuphela onikele kubo esi sincoko. ,neutral
+Bhuti olungileyo--olu vakalelo lesiqhelo sangoku sosetyenziso lufumaneka KuJulius Caesar (iv.,"KuJulius Caesar, igama ubhuti olungileyo liyasetyenziswa.",entailment
+Bhuti olungileyo--olu vakalelo lesiqhelo sangoku sosetyenziso lufumaneka KuJulius Caesar (iv.,"Eli gama lithi bhuti olungileyo, belisetyenziswa kuphela ukusekela kwi20th senitshuri.",contradiction
+Bhuti olungileyo--olu vakalelo lesiqhelo sangoku sosetyenziso lufumaneka KuJulius Caesar (iv.,"Eli gama lithi bhuti olungileyo, lisetyenziswa ukubhekisa kusibari.",neutral
+"Ukuba kunjalo, bangaqhubeka ukuthenga le nguqulelo ngokuba iqulathe amaphepha,anamagama angama-55, iinkcaza magama kunye nocaphulo olungapapashwanga ngaphambili. ",Le ncwadi inamagama amaninzi angazange apapashwe ngaphambili.,entailment
+"Ukuba kunjalo, bangaqhubeka ukuthenga le nguqulelo ngokuba iqulathe amaphepha,anamagama angama-55, iinkcaza magama kunye nocaphulo olungapapashwanga ngaphambili. ",Le nguqulelo ifana nenguqulelo yangaphambili.,contradiction
+"Ukuba kunjalo, bangaqhubeka ukuthenga le nguqulelo ngokuba iqulathe amaphepha,anamagama angama-55, iinkcaza magama kunye nocaphulo olungapapashwanga ngaphambili. ",Le nguqulelo yathengisa amakhulu amahlanu amawaka okhuphelo kunyaka wayo wokuqala.,neutral
+"Kwasoyikisa noko ukujongeka kwayo, kodwa saye sayitya-- ngaphandle kwentshiseko, kodwa ngomlebe uphezulu oqinileyo saye sasela, ngoko ukuthetha, ubisi lukamama wethu. ",Wonke umntu watya isidlo sakhe ngomdla kwaye waphawula ukuba sibakhumbuza izidlo zabo abazithandayo zeholide.,contradiction
+"Kwasoyikisa noko ukujongeka kwayo, kodwa saye sayitya-- ngaphandle kwentshiseko, kodwa ngomlebe uphezulu oqinileyo saye sasela, ngoko ukuthetha, ubisi lukamama wethu. ",Saziva sinyanzelekile ukutya loo nto yayibekwe phambi kwethu ngokuba sasingafuni ukukhubekisa abamkeli zindwendwe bethu. ,neutral
+"Kwasoyikisa noko ukujongeka kwayo, kodwa saye sayitya-- ngaphandle kwentshiseko, kodwa ngomlebe uphezulu oqinileyo saye sasela, ngoko ukuthetha, ubisi lukamama wethu. ","Satya sithandabuza loo nto yayibekwe phambi kwethu, nangona nje sasingayithandi indlela eyayibukeka ngayo. ",entailment
+Badala kanganani abantu abancinane? ,Ndiyazi ngqo ukuba badala kanganani abantu abancinane. ,contradiction
+Badala kanganani abantu abancinane? ,Abantu abancinane baliqela abanye labantu abenengxaki yokulahlulahlula ngokweminyaka.,entailment
+Badala kanganani abantu abancinane? ,Bonke abantu abancinane baneminyaka engaphantsi kwama-25 ubudala.,neutral
+"Ngaphandle koko, umbono wabo wexesha usetyhula, awungqalanga, ngoko ke ukuphawula ukugqitha kwexesha akubakulekanga njengokubhiyozela ukubuya kwemicimbi yexesha lonyaka. ","Njengokuba umbono wabo wexesha ungqalile, ukugqitha kwexesha kubaluleke kakhulu okogqitha ukubuya kwamaxesha onyaka emicimbi. ",contradiction
+"Ngaphandle koko, umbono wabo wexesha usetyhula, awungqalanga, ngoko ke ukuphawula ukugqitha kwexesha akubakulekanga njengokubhiyozela ukubuya kwemicimbi yexesha lonyaka. ","Ngokuba balibona ixesha njenge setyhula, umjikelo wombhiyozo wemicimbi yamaxesha onyaka lubalulekile Kubo. ",entailment
+"Ngaphandle koko, umbono wabo wexesha usetyhula, awungqalanga, ngoko ke ukuphawula ukugqitha kwexesha akubakulekanga njengokubhiyozela ukubuya kwemicimbi yexesha lonyaka. ",Babhiyozela imicimbi yexesha yonyaka ngokuba bakholelwa ukuba ixesha liyajikeleza,neutral
+"Umzekelo, ezinye zazinentsusa esusiweyo ngokucacileyo  kwizixhobo ezasetyenziswayo okanye kumabala ekudlalelwa kuwo. ",Zonke ezemidlalo zithiywa amagama emveni kwecezwana lesixhobo esisetyenziswa kumdlalo.,contradiction
+"Umzekelo, ezinye zazinentsusa esusiweyo ngokucacileyo  kwizixhobo ezasetyenziswayo okanye kumabala ekudlalelwa kuwo. ",Eminye yemidlalo ayinikwanga magama emveni kwezixhobo okanye kwebala. ,entailment
+"Umzekelo, ezinye zazinentsusa esusiweyo ngokucacileyo  kwizixhobo ezasetyenziswayo okanye kumabala ekudlalelwa kuwo. ",Le nto yenzeka rhoqo xa ezemidlalo zisenziwa kusetyenziswa izixhobo ebezihleli zikho zisuka kweminye imidlalo.,neutral
+"Ngokwemiceli mingeni, ndikhangela igama elingacazululwa kabini kancinane ngokuyimpumelelo.",Ndifumane  amagama amathathu anokucazululeka kabini kancinane ngokuyimpumelelo.,contradiction
+"Ngokwemiceli mingeni, ndikhangela igama elingacazululwa kabini kancinane ngokuyimpumelelo.",Bendingena xesha lilula ekufumaneni igama elinokucazululeka kabini ngokuncinane kubeyimpumelelo. ,entailment
+"Ngokwemiceli mingeni, ndikhangela igama elingacazululwa kabini kancinane ngokuyimpumelelo.",Ndibe nomdla kulwimi ukusukela oko ndathatha izifundo zentshayelelo kunyaka ophelileyo. ,neutral
+"Kodwa le nkcazelo ekunikezelo ishiyiwe kuphononongo, ishiya Umfundi engahlakaniphanga kunaqala.",Incwadi yayibhalelwe umama wombhali.,neutral
+"Kodwa le nkcazelo ekunikezelo ishiyiwe kuphononongo, ishiya Umfundi engahlakaniphanga kunaqala.",Uphononongo lunalo lonke ulwazi olubalulekileyo olungadingwa ukwaziwa ngumfundi.,contradiction
+"Kodwa le nkcazelo ekunikezelo ishiyiwe kuphononongo, ishiya Umfundi engahlakaniphanga kunaqala.",Uphononongo alunalo olunye lolwazi kulembalelwano. ,entailment
+Kuvalo lweminyaka lokuphela kwesentshuri engama19 kwakukho iingxoxo ezininzi malunga neli gama,Ekugqibeleni kwagqitywa ekubeni eli gama alamnkelekanga phakathi kwabantu abathobekileyo.,neutral
+Kuvalo lweminyaka lokuphela kwesentshuri engama19 kwakukho iingxoxo ezininzi malunga neli gama,Igama lalisekwele kwingxoxo iminyaka emininzi eyadlulayo.,entailment
+Kuvalo lweminyaka lokuphela kwesentshuri engama19 kwakukho iingxoxo ezininzi malunga neli gama,Igama lalilahliwe kwaye lilityelwe ngaphambi kokuphela kwesentshuri engama19.,contradiction

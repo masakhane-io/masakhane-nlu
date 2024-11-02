@@ -1,0 +1,640 @@
+{"intent":"alarm","text":"O ntsose ka 4 hoseng","spans":[{"start_byte":12,"limit_byte":20,"label":"TIME"}],"target":"TIME: 4 hoseng","example_id":"test-00000064"}
+{"intent":"alarm","text":"nka rata ho seta alamo ya 11h00","spans":[{"start_byte":26,"limit_byte":31,"label":"TIME"}],"target":"TIME: 11h00","example_id":"test-00000065"}
+{"intent":"alarm","text":"Ke nako e feng e maleba ya ho tsoha o rapele?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"alarm","text":"ke seta jwang alamo","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"alarm","text":"ke behile alamo hore ke tsohe ka nako ke ye sekolong","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"alarm","text":"Ke kopa o sete alamo ya 6 hoseng","spans":[{"start_byte":24,"limit_byte":32,"label":"TIME"}],"target":"TIME: 6 hoseng","example_id":"test-00000069"}
+{"intent":"alarm","text":"Ka 7 hoseng ke kopa o time alamo","spans":[{"start_byte":3,"limit_byte":11,"label":"TIME"}],"target":"TIME: 7 hoseng","example_id":"test-00000070"}
+{"intent":"alarm","text":"beha alamo ya nako ya ho nwa moriana","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"alarm","text":"Tima alamo","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"alarm","text":"Beha alamo ya nako ya ho ja","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"alarm","text":"Nka rata ho seta alamo","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"alarm","text":"beha alamo ya hore ke tlo qala ka 10h00 ho bala","spans":[{"start_byte":34,"limit_byte":39,"label":"TIME"}],"target":"TIME: 10h00","example_id":"test-00000075"}
+{"intent":"alarm","text":"nketsetse alamo ya 10h00","spans":[{"start_byte":19,"limit_byte":24,"label":"TIME"}],"target":"TIME: 10h00","example_id":"test-00000076"}
+{"intent":"alarm","text":"beha alamo ya 7h42 le 10h45","spans":[{"start_byte":14,"limit_byte":18,"label":"TIME"},{"start_byte":22,"limit_byte":27,"label":"TIME"}],"target":"TIME: 7h42 $$ TIME: 10h45","example_id":"test-00000077"}
+{"intent":"alarm","text":"seta alamo ya 5 hoseng ya mosebetse","spans":[{"start_byte":14,"limit_byte":22,"label":"TIME"}],"target":"TIME: 5 hoseng","example_id":"test-00000078"}
+{"intent":"alarm","text":"Hosane ke hloka alamo ya 10 hoseng","spans":[{"start_byte":25,"limit_byte":34,"label":"TIME"}],"target":"TIME: 10 hoseng","example_id":"test-00000079"}
+{"intent":"balance","text":"ke e thola jwang karata ya sekoloto?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"balance","text":"nka kgona ho fetola nomoro ya ka ya karata ya banka?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"balance","text":"Ditshebeletso tsa banka ya FNB ke bokae","spans":[{"start_byte":27,"limit_byte":30,"label":"BANK_NAME"}],"target":"BANK_NAME: FNB","example_id":"test-00000066"}
+{"intent":"balance","text":"Ke na le bokae ka kareteng ya akhaontong ya ka Investec?","spans":[{"start_byte":47,"limit_byte":55,"label":"BANK_NAME"}],"target":"BANK_NAME: Investec","example_id":"test-00000067"}
+{"intent":"balance","text":"Tjhelete e setseng ka akhaontong ya Tyme Bank e ka reka bethe?","spans":[{"start_byte":36,"limit_byte":45,"label":"BANK_NAME"}],"target":"BANK_NAME: Tyme Bank","example_id":"test-00000068"}
+{"intent":"balance","text":"o na le bokae akhaontong?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"balance","text":"Ke kolota bokae sekolong","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"balance","text":"Ha ke ntsha R1000 bankeng, ho sa la bokae? ","spans":[{"start_byte":12,"limit_byte":17,"label":"MONEY"}],"target":"MONEY: R1000","example_id":"test-00000071"}
+{"intent":"balance","text":"tjhelete e ka akhaontong ya hao e lekanetse ditlhoko tsa hao?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"balance","text":"Tjhelete e ka akhaontong ya ho boloka ke bokae kaofela?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"balance","text":"Ho na le tjhelete e kae ka ho Discovery bank?","spans":[{"start_byte":30,"limit_byte":44,"label":"BANK_NAME"}],"target":"BANK_NAME: Discovery bank","example_id":"test-00000074"}
+{"intent":"balance","text":"Karete ya Capitec e na le bokae?","spans":[{"start_byte":10,"limit_byte":17,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000075"}
+{"intent":"balance","text":"nka ntlafatsa jwang dintlha tsa ka bankeng?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"balance","text":"Ho na le bokae ka akhaontong ya Capitec?","spans":[{"start_byte":32,"limit_byte":39,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000077"}
+{"intent":"balance","text":"Ke bokae tjhelete e o kgonang ho entsha ka letsatsi bakeng ya Nedbank?","spans":[{"start_byte":62,"limit_byte":69,"label":"BANK_NAME"}],"target":"BANK_NAME: Nedbank","example_id":"test-00000078"}
+{"intent":"balance","text":"ho patala dikoloto ka nako ho boloka tjhelete.","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"bill_balance","text":"Ke tshwanela ho patala bokae Makro?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"bill_balance","text":"E nka nako e kae ho patala sekoloto sa dikete tse hlano","spans":[{"start_byte":39,"limit_byte":55,"label":"MONEY"}],"target":"MONEY: dikete tse hlano","example_id":"test-00000065"}
+{"intent":"bill_balance","text":"Ke dintho tse feng tse ke sa kgona ho dinka ka sekoloto","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"bill_balance","text":"Mphe sekoloto saka sa motlakase","spans":[{"start_byte":22,"limit_byte":31,"label":"BILL_TYPE"}],"target":"BILL_TYPE: motlakase","example_id":"test-00000067"}
+{"intent":"bill_balance","text":"Nka thola kae sekoloto saka sa banka","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"bill_balance","text":"Ho setse bokae hore ke qete sekoloto sa sekolo sa bana?","spans":[{"start_byte":28,"limit_byte":46,"label":"BILL_TYPE"}],"target":"BILL_TYPE: sekoloto sa sekolo","example_id":"test-00000069"}
+{"intent":"bill_balance","text":"Sekoloto saka sa dieta tsa Woolworths ke bokae?","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"bill_balance","text":"Ke rekela bana diteki, ke bokae?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"bill_balance","text":"Ke setse ka bokae hore ke qete sekoloto sa iPhone 14?","spans":[{"start_byte":43,"limit_byte":52,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: iPhone 14","example_id":"test-00000072"}
+{"intent":"bill_balance","text":"Petrole ya ka ke bokae","spans":[{"start_byte":0,"limit_byte":7,"label":"BILL_TYPE"}],"target":"BILL_TYPE: Petrole","example_id":"test-00000073"}
+{"intent":"bill_balance","text":"Sekoloto sa Foschini ke bokae?","spans":[{"start_byte":0,"limit_byte":20,"label":"BILL_TYPE"}],"target":"BILL_TYPE: Sekoloto sa Foschini","example_id":"test-00000074"}
+{"intent":"bill_balance","text":"Ka kgwedi ke patla founu ya konteraka bokae","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"bill_balance","text":"Ke tshwanela ho patala bokae News Cafe?","spans":[{"start_byte":29,"limit_byte":38,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: News Cafe","example_id":"test-00000076"}
+{"intent":"bill_balance","text":"Dikoloto tsa selemo se fetileng kaofela di entse bokae?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"bill_balance","text":"Ke kolota bokae Woolworths","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"bill_balance","text":"Nka kgona ho bona credit score yaka","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"book_flight","text":"Nka reka di tekete ho tswa ho sefofane sa Emirates","spans":[{"start_byte":12,"limit_byte":18,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: tekete","example_id":"test-00000064"}
+{"intent":"book_flight","text":"Ho ya Paris ka sefofane ke bokae","spans":[{"start_byte":6,"limit_byte":11,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Paris","example_id":"test-00000065"}
+{"intent":"book_flight","text":"Nka palama sefofane ka 8 hoseng","spans":[{"start_byte":23,"limit_byte":31,"label":"TIME"}],"target":"TIME: 8 hoseng","example_id":"test-00000066"}
+{"intent":"book_flight","text":"Nka namela sefofane le bakgotsi ba ka","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"book_flight","text":"Nka kgona ho kopa mme waka tjelete ya ho palama sefofane","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"book_flight","text":"Nka namela sefofane ho kae Limpopo","spans":[{"start_byte":27,"limit_byte":34,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Limpopo","example_id":"test-00000069"}
+{"intent":"book_flight","text":"He re ya durban re reka di tekete tsa sefofane ho kae","spans":[{"start_byte":9,"limit_byte":15,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: durban","example_id":"test-00000070"}
+{"intent":"book_flight","text":"A na ho nale sefofane se tswang Cape Town","spans":[{"start_byte":32,"limit_byte":41,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Cape Town","example_id":"test-00000071"}
+{"intent":"book_flight","text":"A na sefofane se ka fihla PE","spans":[{"start_byte":26,"limit_byte":28,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: PE","example_id":"test-00000072"}
+{"intent":"book_flight","text":"Mphe sefofane se yang Durban","spans":[{"start_byte":22,"limit_byte":28,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Durban","example_id":"test-00000073"}
+{"intent":"book_flight","text":"Nka palama sefofane hosane","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"book_flight","text":"Mphe sefofane se yang Gabarone","spans":[{"start_byte":22,"limit_byte":30,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Gabarone","example_id":"test-00000075"}
+{"intent":"book_flight","text":"Nka hloka bokae ho reka di tekete tsa ho ya Mozambique","spans":[{"start_byte":44,"limit_byte":54,"label":"COUNTRY"}],"target":"COUNTRY: Mozambique","example_id":"test-00000076"}
+{"intent":"book_flight","text":"Nka patala bokae tekete ya ho ya Namabia","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"book_flight","text":"Mpatlele sefofane se yang le ho kgutla Kapa ka Sontaha","spans":[{"start_byte":39,"limit_byte":43,"label":"CITY_OR_PROVINCE"},{"start_byte":47,"limit_byte":54,"label":"DATE"}],"target":"CITY_OR_PROVINCE: Kapa $$ DATE: Sontaha","example_id":"test-00000078"}
+{"intent":"book_flight","text":"He re ya Cape Town re reka di tekete tsa sefofane ho kae","spans":[{"start_byte":9,"limit_byte":18,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Cape Town","example_id":"test-00000079"}
+{"intent":"book_hotel","text":"nka kgona ho patala sekoloto sa hoteleng ha nyane ha nyane","spans":[{"start_byte":20,"limit_byte":40,"label":"BILL_TYPE"}],"target":"BILL_TYPE: sekoloto sa hoteleng","example_id":"test-00000064"}
+{"intent":"book_hotel","text":"mphe hotele e ke ka robalang ho yona e durban","spans":[{"start_byte":39,"limit_byte":45,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: durban","example_id":"test-00000065"}
+{"intent":"book_hotel","text":"mphe hotele e sa tureng e pela table mountain","spans":[{"start_byte":31,"limit_byte":45,"label":"PLACE_NAME"}],"target":"PLACE_NAME: table mountain","example_id":"test-00000066"}
+{"intent":"book_hotel","text":"Ke hotele efe ya maemo a hodimo Free State?","spans":[{"start_byte":32,"limit_byte":42,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Free State","example_id":"test-00000067"}
+{"intent":"book_hotel","text":"Ke etela PE ka Labobedi, mpatlele hotele e phehang dijo tsa setso.","spans":[{"start_byte":9,"limit_byte":11,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: PE","example_id":"test-00000068"}
+{"intent":"book_hotel","text":"ke di hotele tse feng tse presidente e robalang ho yona","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"book_hotel","text":"nka patala bokae ho robala matsatsi a mararo hoteleng","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"book_hotel","text":"Mphe lenane la dihotele tse sa bitseng haholo Gauteng.","spans":[{"start_byte":46,"limit_byte":53,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Gauteng","example_id":"test-00000071"}
+{"intent":"book_hotel","text":"mphe di hotele tse ratwang ke batho ba hoba le tjhelete","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"book_hotel","text":"Mpatlele hotele e haufi le OR Tambo.","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"book_hotel","text":"ke nnete hotele ya sun city e na le lewatle la yona","spans":[{"start_byte":9,"limit_byte":27,"label":"HOTEL_NAME"}],"target":"HOTEL_NAME: hotele ya sun city","example_id":"test-00000074"}
+{"intent":"book_hotel","text":"Mphe lenane la dihotele tsa maemo a hodimo Gauteng.","spans":[{"start_byte":43,"limit_byte":50,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Gauteng","example_id":"test-00000075"}
+{"intent":"book_hotel","text":"ke e feng hotele a turang e pelaka","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"book_hotel","text":"mphe hotele e sa tureng e pela God's window","spans":[{"start_byte":31,"limit_byte":43,"label":"PLACE_NAME"}],"target":"PLACE_NAME: God's window","example_id":"test-00000077"}
+{"intent":"book_hotel","text":"a na ba fana ka hetara ka mariya hoteleng","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"book_hotel","text":"a na bana ba dumelletsehile hoteleng tsa sandton","spans":[{"start_byte":41,"limit_byte":48,"label":"PLACE_NAME"}],"target":"PLACE_NAME: sandton","example_id":"test-00000079"}
+{"intent":"calendar_update","text":"Nka kgona ho seta dihopotso tse ngata ka letsatsi le leng khalendareng","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"calendar_update","text":"Khalenda ya Afrika Borwa e tshwana le ya Lesotho na","spans":[{"start_byte":12,"limit_byte":24,"label":"COUNTRY"},{"start_byte":41,"limit_byte":48,"label":"COUNTRY"}],"target":"COUNTRY: Afrika Borwa $$ COUNTRY: Lesotho","example_id":"test-00000065"}
+{"intent":"calendar_update","text":"Nka kgona ho thola melaetsa ya khalenda email yaka","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"calendar_update","text":"Seta letsatsi la kgono waka la tswalo","spans":[{"start_byte":5,"limit_byte":37,"label":"CALENDAR_EVENT"}],"target":"CALENDAR_EVENT: letsatsi la kgono waka la tswalo","example_id":"test-00000067"}
+{"intent":"calendar_update","text":"Kgwedi ya Hlakola e na le matsatsi a ma kae","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"calendar_update","text":"Letsatsi la Phupjane 16 le emetse eng khalendareng","spans":[{"start_byte":12,"limit_byte":23,"label":"DATE"}],"target":"DATE: Phupjane 16","example_id":"test-00000069"}
+{"intent":"calendar_update","text":"Na ho na le di khalendara tse fapaneng lefatsheng","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"calendar_update","text":"Mphe khalenda yaka ya kgwedi ya Hlakubela","spans":[{"start_byte":32,"limit_byte":41,"label":"DATE"}],"target":"DATE: Hlakubela","example_id":"test-00000071"}
+{"intent":"calendar_update","text":"Tlosa lebaka la ka la ka la 14 Hlakola khalendareng","spans":[{"start_byte":28,"limit_byte":38,"label":"DATE"}],"target":"DATE: 14 Hlakola","example_id":"test-00000072"}
+{"intent":"calendar_update","text":"Mphe khalenda yaka ya kgwedi ya Motsheanong","spans":[{"start_byte":32,"limit_byte":43,"label":"DATE"}],"target":"DATE: Motsheanong","example_id":"test-00000073"}
+{"intent":"calendar_update","text":"Na khalendara di a fapana ho ya ka dinaha tse fapaneng","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"calendar_update","text":"Mphe khalenda yaka ya kgwedi ya Hlakola","spans":[{"start_byte":32,"limit_byte":39,"label":"DATE"}],"target":"DATE: Hlakola","example_id":"test-00000075"}
+{"intent":"calendar_update","text":"Tlosa dihopotse tsa ka tsa hosane kaofela","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"calendar_update","text":"Na nkaba le di khalaneda tse pedi founung yaka","spans":[{"start_byte":25,"limit_byte":33,"label":"NUMBER"}],"target":"NUMBER: tse pedi","example_id":"test-00000077"}
+{"intent":"calendar_update","text":"Tlosa kopano yaka le Monghadi Smith ya 8 Motsheanong","spans":[{"start_byte":21,"limit_byte":35,"label":"PERSONAL_NAME"},{"start_byte":39,"limit_byte":52,"label":"DATE"}],"target":"PERSONAL_NAME: Monghadi Smith $$ DATE: 8 Motsheanong","example_id":"test-00000078"}
+{"intent":"calendar_update","text":"Seta hore bekeng e tlang ke ya ngola sekolong","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso ya 5","spans":[{"start_byte":20,"limit_byte":21,"label":"NUMBER"}],"target":"NUMBER: 5","example_id":"test-00000064"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso ya 9 hoseng","spans":[{"start_byte":20,"limit_byte":28,"label":"TIME"}],"target":"TIME: 9 hoseng","example_id":"test-00000065"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso ya Bob ya hoseng","spans":[{"start_byte":20,"limit_byte":23,"label":"PERSONAL_NAME"},{"start_byte":27,"limit_byte":33,"label":"TIME"}],"target":"PERSONAL_NAME: Bob $$ TIME: hoseng","example_id":"test-00000066"}
+{"intent":"cancel_reservation","text":"Romela molaetsa ho hlakola peeletso","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"cancel_reservation","text":"Ke hlakola jwang peeletso yaka","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"cancel_reservation","text":"Ho baneng peeletso e le bohlokwa","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"cancel_reservation","text":"Nka patala bokae ha nka hlakola peeletso","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso yaka ya Kream","spans":[{"start_byte":25,"limit_byte":30,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Kream","example_id":"test-00000071"}
+{"intent":"cancel_reservation","text":"Hakesa batle ho etsa peeletso ke ka etsa jwang","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso yaka ya dijo tsa hoseng","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"cancel_reservation","text":"Nka hlakola peeletso ya ho ya Spur na","spans":[{"start_byte":30,"limit_byte":34,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Spur","example_id":"test-00000074"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso yaka ya Aurum ya hosane","spans":[{"start_byte":25,"limit_byte":30,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Aurum","example_id":"test-00000075"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso ya 3","spans":[{"start_byte":20,"limit_byte":21,"label":"NUMBER"}],"target":"NUMBER: 3","example_id":"test-00000076"}
+{"intent":"cancel_reservation","text":"Hlakola peeletso ya Johnny ya 8 ko Tasha's","spans":[{"start_byte":20,"limit_byte":26,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Johnny","example_id":"test-00000077"}
+{"intent":"cancel_reservation","text":"Ke tsebisa jwang hore ke lata bakeng sa peeletso yaka ya resturante","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"cancel_reservation","text":"Nka romela molaetsa ho hlakola peeletso","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"car_rental","text":"Nka kgona ho hira koloi kgwedi kaofela?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"car_rental","text":"Nka kgona ho hira koloi dihora tse malwa feela?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"car_rental","text":"Koloi e rentilweng etla le tanka e tletseng peterole?","spans":[{"start_byte":44,"limit_byte":52,"label":"BILL_TYPE"}],"target":"BILL_TYPE: peterole","example_id":"test-00000066"}
+{"intent":"car_rental","text":"Nka sebedisa akhaonto yaka ya banka ho hira koloi e Amerika","spans":[{"start_byte":52,"limit_byte":59,"label":"COUNTRY"}],"target":"COUNTRY: Amerika","example_id":"test-00000067"}
+{"intent":"car_rental","text":"Ke tlameha ke be le liscense na","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"car_rental","text":"Ho hira koloi o hloka eng?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"car_rental","text":"Nka patala bokae ha ke hira koloi matsatsi a mane?","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"car_rental","text":"O ka kgona ho ikgethela koloi ha o hira koloi","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"car_rental","text":"Ho hira koloi  ke bokae?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"car_rental","text":"Ke koloi tse feng tse turang","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"car_rental","text":"Nka kgona ho fetola dikarolo tsa koloi e rentilweng?","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"car_rental","text":"Ho ka etsahalang ha osa kgutlisi koloi e rentiweng","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"car_rental","text":"Nka kgona ho hira koloi le letroko ka nako e le nngwe?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"car_rental","text":"Hoka etsahala eng ha nka feta moo ke tshwanetseng ho fella teng ka koloi e rentilweng?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"car_rental","text":"Ke hloka bokae ho hira koloi?","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"car_rental","text":"Nka patala bokae ha ke hira koloi matsatsi a mabedi?","spans":[{"start_byte":43,"limit_byte":51,"label":"NUMBER"}],"target":"NUMBER: a mabedi","example_id":"test-00000079"}
+{"intent":"confirm_reservation","text":"Nka kgona ho patala peheletso ka letsatsi la peheletso?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"confirm_reservation","text":"nka kgona ho kenya peheletso ya bana ba sekolo?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"confirm_reservation","text":"reka kgona ho tla ka katse restjhurenteng?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"confirm_reservation","text":"Sheba peheletso ya ka ya 5pm Mike's Kitchen","spans":[{"start_byte":25,"limit_byte":28,"label":"TIME"},{"start_byte":29,"limit_byte":43,"label":"RESTAURANT_NAME"}],"target":"TIME: 5pm $$ RESTAURANT_NAME: Mike's Kitchen","example_id":"test-00000067"}
+{"intent":"confirm_reservation","text":"Na o ka rata ho netefatsa dintlha tsa peheletso ya hao?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"confirm_reservation","text":"restjhurent ya lona e hole hole hokae le hotele ya ho robala?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"confirm_reservation","text":"kenya peheletso hore le khone ho dula kaofela ha lona.","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"confirm_reservation","text":"Na peheletso ya ka e patetswe.","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"confirm_reservation","text":"re ka kgona ho robala restjhurenteng?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"confirm_reservation","text":"Na peheletso ya rona ya di tafole e mahala.","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"confirm_reservation","text":"Ke kopa tafole ya batho ba tsheletseng Wimpy","spans":[{"start_byte":39,"limit_byte":44,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Wimpy","example_id":"test-00000074"}
+{"intent":"confirm_reservation","text":"mpeheleng peheletso ya tafole pela festere.","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"confirm_reservation","text":"Nka kgona ho patala peheletso ka PayPAL?","spans":[{"start_byte":33,"limit_byte":39,"label":"PAYMENT_COMPANY"}],"target":"PAYMENT_COMPANY: PayPAL","example_id":"test-00000076"}
+{"intent":"confirm_reservation","text":"na le a re binela ha re tlile restjhurenteng?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"confirm_reservation","text":"na dipeheletso tsohle di a tshwana tsohle?","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"confirm_reservation","text":"netefatso ya peheletso ya hao e rometswe ka emeili.","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"cook_time","text":"Nako e loketseng ya ho pheha ke efe bakeng sa [mokhwa o kgethehileng wa ho pheha?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"cook_time","text":"ke hloka ho hadika hlapi nako e kae?","spans":[{"start_byte":19,"limit_byte":24,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: hlapi","example_id":"test-00000065"}
+{"intent":"cook_time","text":"Ke lokela ho hadika konofolo?","spans":[{"start_byte":20,"limit_byte":28,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: konofolo","example_id":"test-00000066"}
+{"intent":"cook_time","text":"nama ya kgomo e hadikiwa nako e kae ontong","spans":[{"start_byte":0,"limit_byte":13,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: nama ya kgomo","example_id":"test-00000067"}
+{"intent":"cook_time","text":"Ho nka nako e kae ho hadika tlhapi ka ontong?","spans":[{"start_byte":28,"limit_byte":34,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tlhapi","example_id":"test-00000068"}
+{"intent":"cook_time","text":"Raese o e pheha nako e kae ka microwave","spans":[{"start_byte":0,"limit_byte":5,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Raese","example_id":"test-00000069"}
+{"intent":"cook_time","text":"Ho nka nako e kae ho hadika di Russian?","spans":[{"start_byte":31,"limit_byte":38,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Russian","example_id":"test-00000070"}
+{"intent":"cook_time","text":"Ha ke batla ho pheha nama e tshwanang le ya KFC ke e hadika nako e kae","spans":[{"start_byte":44,"limit_byte":47,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: KFC","example_id":"test-00000071"}
+{"intent":"cook_time","text":"Ho pheha stampa ho nka nako e kae","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"cook_time","text":"Ho pheha mahe ho nka nako e kae?","spans":[{"start_byte":9,"limit_byte":13,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: mahe","example_id":"test-00000073"}
+{"intent":"cook_time","text":"Ho nka nako e kae hore tee e hatsele","spans":[{"start_byte":23,"limit_byte":26,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tee","example_id":"test-00000074"}
+{"intent":"cook_time","text":"Manyepe a dinotshi a dula nako e kae pele a bola?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"cook_time","text":"Ho nka nako e kae ho pheha sejo se itseng kapa sejana hore se be se phethahetseng?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"cook_time","text":"Na nako ea ho pheha e fetoha haeba ho sa latelwe diresepe?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"cook_time","text":"nka thola kae risepe ya ho baka dikuku?","spans":[{"start_byte":32,"limit_byte":38,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: dikuku","example_id":"test-00000078"}
+{"intent":"cook_time","text":"Ho nka nako e kae ho phehela ba lelapa dijo tsa sontaha","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"exchange_rate","text":"Nka fumana Thebe tse kae ka 100 US Dollars?","spans":[{"start_byte":28,"limit_byte":42,"label":"MONEY"}],"target":"MONEY: 100 US Dollars","example_id":"test-00000064"}
+{"intent":"exchange_rate","text":"Ke eng e naleng boleng mahareng a ranta le naira?","spans":[{"start_byte":34,"limit_byte":39,"label":"CURRENCY"},{"start_byte":43,"limit_byte":48,"label":"CURRENCY"}],"target":"CURRENCY: ranta $$ CURRENCY: naira","example_id":"test-00000065"}
+{"intent":"exchange_rate","text":"Na ponto ya Borithane e ngata ho feta ranta?","spans":[{"start_byte":3,"limit_byte":8,"label":"CURRENCY"},{"start_byte":12,"limit_byte":21,"label":"COUNTRY"},{"start_byte":38,"limit_byte":43,"label":"CURRENCY"}],"target":"CURRENCY: ponto $$ COUNTRY: Borithane $$ CURRENCY: ranta","example_id":"test-00000066"}
+{"intent":"exchange_rate","text":"Nka fumana Won ya Korea borwa e kae bakeng sa Yuan ya China ya 1,000?","spans":[{"start_byte":11,"limit_byte":29,"label":"CURRENCY"},{"start_byte":46,"limit_byte":68,"label":"MONEY"}],"target":"CURRENCY: Won ya Korea borwa $$ MONEY: Yuan ya China ya 1,000","example_id":"test-00000067"}
+{"intent":"exchange_rate","text":"Ke di dolara tse kae tsa Canada tseo nka di fapanysng bakeng sa 500 Australian Dollars?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"exchange_rate","text":"60 000 Australian Dollar ho Ranta ya Afrika Borwa ke bokae?","spans":[{"start_byte":0,"limit_byte":24,"label":"MONEY"},{"start_byte":28,"limit_byte":33,"label":"CURRENCY"},{"start_byte":37,"limit_byte":49,"label":"COUNTRY"}],"target":"MONEY: 60 000 Australian Dollar $$ CURRENCY: Ranta $$ COUNTRY: Afrika Borwa","example_id":"test-00000069"}
+{"intent":"exchange_rate","text":"ke eng phaphang mahareng a Dolara ya Canada ho Japanese Yen?","spans":[{"start_byte":27,"limit_byte":43,"label":"CURRENCY"},{"start_byte":47,"limit_byte":59,"label":"CURRENCY"}],"target":"CURRENCY: Dolara ya Canada $$ CURRENCY: Japanese Yen","example_id":"test-00000070"}
+{"intent":"exchange_rate","text":"Nka fumana li-Indian Rupees tse kae bakeng sa 100 Swiss Francs?","spans":[{"start_byte":14,"limit_byte":27,"label":"CURRENCY"},{"start_byte":46,"limit_byte":62,"label":"MONEY"}],"target":"CURRENCY: Indian Rupees $$ MONEY: 100 Swiss Francs","example_id":"test-00000071"}
+{"intent":"exchange_rate","text":"phapang ya Ponto tse hlano ya Borithane ho Ranta ya Afrika Borwa ke bokae?","spans":[{"start_byte":11,"limit_byte":39,"label":"MONEY"},{"start_byte":43,"limit_byte":64,"label":"MONEY"}],"target":"MONEY: Ponto tse hlano ya Borithane $$ MONEY: Ranta ya Afrika Borwa","example_id":"test-00000072"}
+{"intent":"exchange_rate","text":"1 Australian Dollar ho Japanese Yen ke bokae?","spans":[{"start_byte":0,"limit_byte":19,"label":"MONEY"},{"start_byte":23,"limit_byte":35,"label":"CURRENCY"}],"target":"MONEY: 1 Australian Dollar $$ CURRENCY: Japanese Yen","example_id":"test-00000073"}
+{"intent":"exchange_rate","text":"Nka fumana maluti a ma kae a Lesotho bakeng sa R100 ya Afrika Borwa ?","spans":[{"start_byte":11,"limit_byte":17,"label":"CURRENCY"},{"start_byte":29,"limit_byte":36,"label":"COUNTRY"},{"start_byte":47,"limit_byte":51,"label":"MONEY"},{"start_byte":55,"limit_byte":67,"label":"COUNTRY"}],"target":"CURRENCY: maluti $$ COUNTRY: Lesotho $$ MONEY: R100 $$ COUNTRY: Afrika Borwa","example_id":"test-00000074"}
+{"intent":"exchange_rate","text":"R10000 e etsa bokae ha e fihla ho naira","spans":[{"start_byte":0,"limit_byte":6,"label":"MONEY"},{"start_byte":34,"limit_byte":39,"label":"CURRENCY"}],"target":"MONEY: R10000 $$ CURRENCY: naira","example_id":"test-00000075"}
+{"intent":"exchange_rate","text":"phapang bakeng sa 1 Yen ya Japane ho Ranta ke bokae?","spans":[{"start_byte":18,"limit_byte":33,"label":"MONEY"},{"start_byte":37,"limit_byte":42,"label":"CURRENCY"}],"target":"MONEY: 1 Yen ya Japane $$ CURRENCY: Ranta","example_id":"test-00000076"}
+{"intent":"exchange_rate","text":"ke bokae 10000 naira ha e fihla ho ranta","spans":[{"start_byte":9,"limit_byte":20,"label":"MONEY"},{"start_byte":35,"limit_byte":40,"label":"CURRENCY"}],"target":"MONEY: 10000 naira $$ CURRENCY: ranta","example_id":"test-00000077"}
+{"intent":"exchange_rate","text":"1,000 Indian Rupee ho Ranta ya Afrika Borwa ke bokae?","spans":[{"start_byte":0,"limit_byte":18,"label":"MONEY"},{"start_byte":22,"limit_byte":27,"label":"CURRENCY"},{"start_byte":31,"limit_byte":43,"label":"COUNTRY"}],"target":"MONEY: 1,000 Indian Rupee $$ CURRENCY: Ranta $$ COUNTRY: Afrika Borwa","example_id":"test-00000078"}
+{"intent":"exchange_rate","text":"Nka reka di-Euro tse kae ka 1,000 British Pound?","spans":[{"start_byte":9,"limit_byte":16,"label":"CURRENCY"},{"start_byte":28,"limit_byte":47,"label":"MONEY"}],"target":"CURRENCY: di-Euro $$ MONEY: 1,000 British Pound","example_id":"test-00000079"}
+{"intent":"food_last","text":"Mahe a senyeha moraho ha nako e kae?","spans":[{"start_byte":0,"limit_byte":4,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Mahe","example_id":"test-00000064"}
+{"intent":"food_last","text":"Na nka kenya tapole sehatsetsing?","spans":[{"start_byte":13,"limit_byte":19,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tapole","example_id":"test-00000065"}
+{"intent":"food_last","text":"Lebese le senyeha moraho ha nako e kae ka sehatsetsing","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Lebese","example_id":"test-00000066"}
+{"intent":"food_last","text":"Pasta e phehilweng e nka nako e kae sehatsetsing?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"food_last","text":"Dijo tsa makotikoti di a bola?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"food_last","text":"Mokopu o senyeha moraho ha nako e kae?","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Mokopu","example_id":"test-00000069"}
+{"intent":"food_last","text":"Burger ya restjhurenteng e bola ka mora nako e kae kamora ho e reka?","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Burger","example_id":"test-00000070"}
+{"intent":"food_last","text":"Mohodu o a senyeha o le sehatsetsing?","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Mohodu","example_id":"test-00000071"}
+{"intent":"food_last","text":"anyanese e tala ya bola?","spans":[{"start_byte":0,"limit_byte":8,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: anyanese","example_id":"test-00000072"}
+{"intent":"food_last","text":"Ditholwana di nka nako e kae pele di senyeha?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"food_last","text":"ke na le tomoso e dutseng kgwedi tse 5 hlano e sa sebedisiwe, na nka e ja?","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"food_last","text":"Nka ja mahe ao ke a bedisitseng bekeng e fetileng?","spans":[{"start_byte":7,"limit_byte":11,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: mahe","example_id":"test-00000075"}
+{"intent":"food_last","text":"A na ho bolokehile ho ja borotho bo bodileng moraho ha matsatsi a mabedi","spans":[{"start_byte":25,"limit_byte":44,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: borotho bo bodileng","example_id":"test-00000076"}
+{"intent":"food_last","text":"Nka boloka jwang raese hore e se ke ya bola ha ke sena sehatsetsi","spans":[{"start_byte":17,"limit_byte":22,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: raese","example_id":"test-00000077"}
+{"intent":"food_last","text":"Na nka nwa tee ka ma mepe a dinotshi?","spans":[{"start_byte":11,"limit_byte":14,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tee","example_id":"test-00000078"}
+{"intent":"food_last","text":"Nka etsa eng hore diapole tse ebotsweng di se ke tsa fetoha mmala o sootho?","spans":[{"start_byte":18,"limit_byte":25,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: diapole","example_id":"test-00000079"}
+{"intent":"freeze_account","text":"ke kopa le kwale akhaonto ya Standard Bank","spans":[{"start_byte":29,"limit_byte":42,"label":"BANK_NAME"}],"target":"BANK_NAME: Standard Bank","example_id":"test-00000064"}
+{"intent":"freeze_account","text":"Banka e bula akhaonto e kwetsweng ka mora nako e kae?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"freeze_account","text":"Kwala akhaonto ya Capitec","spans":[{"start_byte":18,"limit_byte":25,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000066"}
+{"intent":"freeze_account","text":"Ho etsahala eng ha akhaonto e kwetswe","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"freeze_account","text":"Ke kopa o kwale akhaonto ya ka ya Nedbank","spans":[{"start_byte":34,"limit_byte":41,"label":"BANK_NAME"}],"target":"BANK_NAME: Nedbank","example_id":"test-00000068"}
+{"intent":"freeze_account","text":"Ke batla ho kwala akhaoto ya Nedbank hanghang","spans":[{"start_byte":29,"limit_byte":36,"label":"BANK_NAME"}],"target":"BANK_NAME: Nedbank","example_id":"test-00000069"}
+{"intent":"freeze_account","text":"Ke hloka hore akhaoto ya Capitec e kwalwe hona jwale","spans":[{"start_byte":25,"limit_byte":32,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000070"}
+{"intent":"freeze_account","text":"Ke kopa o kwale akhaonto ya ka","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"freeze_account","text":"Ke eng dintho tse ka etsang hore akhaonto e kwalwe.","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"freeze_account","text":"Ka kopo, kwala akhaonto ya ka ya banka","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"freeze_account","text":"kwala diakhaonto tsa ka kaofela","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"freeze_account","text":"Banka e kwedtse khaonto ya Nedbank, nka thusahala jwang.","spans":[{"start_byte":27,"limit_byte":34,"label":"BANK_NAME"}],"target":"BANK_NAME: Nedbank","example_id":"test-00000075"}
+{"intent":"freeze_account","text":"ke hloka ho emisa akhaonto ya Capitec hoba ke belaela ho nale tjhelete e kesa etsebeng ho yona.","spans":[{"start_byte":30,"limit_byte":37,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000076"}
+{"intent":"freeze_account","text":"kwala akhaontho tsa ka kaofela","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"freeze_account","text":"banka e kwala akhaonto ka tlasa mabaka afe?","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"freeze_account","text":"Ha ke sa batla akhaonto ya banka ya FNB, e kwale hanghang","spans":[{"start_byte":36,"limit_byte":39,"label":"BANK_NAME"}],"target":"BANK_NAME: FNB","example_id":"test-00000079"}
+{"intent":"ingredients_list","text":"ke kopa o mphe di risepe tsa setjhu sa nku","spans":[{"start_byte":29,"limit_byte":42,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: setjhu sa nku","example_id":"test-00000064"}
+{"intent":"ingredients_list","text":"Na ke hloka o tshela kase ha ke etsa salate?","spans":[{"start_byte":21,"limit_byte":25,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: kase","example_id":"test-00000065"}
+{"intent":"ingredients_list","text":"Nama ya di bolo e etsiwa jwang?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"ingredients_list","text":"ke hloka dirisepe tse fe ho baka kuku ya kase?","spans":[{"start_byte":33,"limit_byte":45,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: kuku ya kase","example_id":"test-00000067"}
+{"intent":"ingredients_list","text":"Ke mefuta e jwang ya dijo e ka etsang hore motho a kule?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"ingredients_list","text":"ke kopa risepe ya apple pie","spans":[{"start_byte":18,"limit_byte":27,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: apple pie","example_id":"test-00000069"}
+{"intent":"ingredients_list","text":"Mphe metswako ya ho baka borotho ba konofolo","spans":[{"start_byte":25,"limit_byte":44,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: borotho ba konofolo","example_id":"test-00000070"}
+{"intent":"ingredients_list","text":"Na ke tshela lebese ha ke baka dikuku?","spans":[{"start_byte":13,"limit_byte":19,"label":"DISH_OR_FOOD"},{"start_byte":31,"limit_byte":37,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: lebese $$ DISH_OR_FOOD: dikuku","example_id":"test-00000071"}
+{"intent":"ingredients_list","text":"Nka pheha Spiral Ham jwang?","spans":[{"start_byte":10,"limit_byte":20,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Spiral Ham","example_id":"test-00000072"}
+{"intent":"ingredients_list","text":"ke kopa risepe ya ho pheha mokopu?","spans":[{"start_byte":27,"limit_byte":33,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: mokopu","example_id":"test-00000073"}
+{"intent":"ingredients_list","text":"Ngolle risepe le metswako ya ho pheha senuku","spans":[{"start_byte":38,"limit_byte":44,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: senuku","example_id":"test-00000074"}
+{"intent":"ingredients_list","text":"Motoho wa mabele o phehwa jwang?","spans":[{"start_byte":0,"limit_byte":16,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Motoho wa mabele","example_id":"test-00000075"}
+{"intent":"ingredients_list","text":"Hore nama ka kolobe e be monate, nka tshela metswako e feng?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"ingredients_list","text":"mugg and bean ba sebedisa risepe e feng ho baka kuku ya chokolete?","spans":[{"start_byte":0,"limit_byte":13,"label":"RESTAURANT_NAME"},{"start_byte":48,"limit_byte":65,"label":"DISH_OR_FOOD"}],"target":"RESTAURANT_NAME: mugg and bean $$ DISH_OR_FOOD: kuku ya chokolete","example_id":"test-00000077"}
+{"intent":"ingredients_list","text":"Ke baka jwang pie?","spans":[{"start_byte":14,"limit_byte":17,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: pie","example_id":"test-00000078"}
+{"intent":"ingredients_list","text":"ke kopa risepe ya french twast","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"interest_rate","text":"Sekgahla sa tswala sa sekoloto sa dikete tse leshome ke bokae","spans":[{"start_byte":34,"limit_byte":52,"label":"NUMBER"}],"target":"NUMBER: dikete tse leshome","example_id":"test-00000064"}
+{"intent":"interest_rate","text":"Ke patala sekgahla sa tswala Gautrain?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"interest_rate","text":"Sekgahla sa tswala se thusa dikgwebo ka ho fapana jwang?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"interest_rate","text":"A na mashonisa o roba molawo ka sekgahla sa hae sa tswala?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"interest_rate","text":"Tswala ya ka ya Investec e tsamaya jwang","spans":[{"start_byte":16,"limit_byte":24,"label":"BANK_NAME"}],"target":"BANK_NAME: Investec","example_id":"test-00000068"}
+{"intent":"interest_rate","text":"A na tjhelete yaka e ka nyamela ka hara banka","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"interest_rate","text":"Nka patala sekgahla sa tswala pele ho sekoloto sefe kapa sefe?","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"interest_rate","text":"Sekgahla sa tswala sa Capitec ke bokae","spans":[{"start_byte":22,"limit_byte":29,"label":"BANK_NAME"}],"target":"BANK_NAME: Capitec","example_id":"test-00000071"}
+{"intent":"interest_rate","text":"A na ha banka e nyametsa tjhelete yaka ba kgutlisa ka sekgahla sa tswala","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"interest_rate","text":"Sekgahla sa tswala sa Nedbank ke bokae","spans":[{"start_byte":22,"limit_byte":29,"label":"BANK_NAME"}],"target":"BANK_NAME: Nedbank","example_id":"test-00000073"}
+{"intent":"interest_rate","text":"Mphe phesente ya sekgahla sa tswala ya discovery bank","spans":[{"start_byte":39,"limit_byte":53,"label":"BANK_NAME"}],"target":"BANK_NAME: discovery bank","example_id":"test-00000074"}
+{"intent":"interest_rate","text":"Ha ke etsa kadimo bankeng ke tlameha ho ba fa sekgahla se sekae sa tswala?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"interest_rate","text":"Ke patala sekgahla sa tswala sekolong sa bana?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"interest_rate","text":"Mphe phesente ya sekgahla sa tswala ya nedbank","spans":[{"start_byte":39,"limit_byte":46,"label":"BANK_NAME"}],"target":"BANK_NAME: nedbank","example_id":"test-00000077"}
+{"intent":"interest_rate","text":"Nka bona hokae sekgahla sa tswala yaka","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"interest_rate","text":"Nka patala sekgahla sa tswala ya banka hokae?","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"international_visa","text":"Ke tlameha ho fumana visa pele ke ya Japan","spans":[{"start_byte":37,"limit_byte":42,"label":"COUNTRY"}],"target":"COUNTRY: Japan","example_id":"test-00000064"}
+{"intent":"international_visa","text":"Visa e tla hlokahala ho ya Morocco","spans":[{"start_byte":27,"limit_byte":34,"label":"COUNTRY"}],"target":"COUNTRY: Morocco","example_id":"test-00000065"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya moo","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya Botswana","spans":[{"start_byte":24,"limit_byte":32,"label":"COUNTRY"}],"target":"COUNTRY: Botswana","example_id":"test-00000067"}
+{"intent":"international_visa","text":"Ntsebise haeba ke tla hloka visa ya more ha keya Morocco","spans":[{"start_byte":49,"limit_byte":56,"label":"COUNTRY"}],"target":"COUNTRY: Morocco","example_id":"test-00000068"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya South Korea","spans":[{"start_byte":24,"limit_byte":35,"label":"COUNTRY"}],"target":"COUNTRY: South Korea","example_id":"test-00000069"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya etela Japan","spans":[{"start_byte":30,"limit_byte":35,"label":"COUNTRY"}],"target":"COUNTRY: Japan","example_id":"test-00000070"}
+{"intent":"international_visa","text":"Ana ke hloka visa ya mose ha ke ya south korea","spans":[{"start_byte":35,"limit_byte":46,"label":"COUNTRY"}],"target":"COUNTRY: south korea","example_id":"test-00000071"}
+{"intent":"international_visa","text":"Haeba ke ya Columbia, ana ke hloka visa","spans":[{"start_byte":12,"limit_byte":20,"label":"COUNTRY"}],"target":"COUNTRY: Columbia","example_id":"test-00000072"}
+{"intent":"international_visa","text":"Ana ke hloka visa ya mose ha ke ya south vietnem","spans":[{"start_byte":35,"limit_byte":48,"label":"COUNTRY"}],"target":"COUNTRY: south vietnem","example_id":"test-00000073"}
+{"intent":"international_visa","text":"Ana ke hloka visa ha ke etela naha eo","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"international_visa","text":"Nka hloka visa ya ho eta ha ke tjhakela Congo","spans":[{"start_byte":40,"limit_byte":45,"label":"COUNTRY"}],"target":"COUNTRY: Congo","example_id":"test-00000075"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya Morocco","spans":[{"start_byte":24,"limit_byte":31,"label":"COUNTRY"}],"target":"COUNTRY: Morocco","example_id":"test-00000076"}
+{"intent":"international_visa","text":"Ana ho hlokahala visa ka mehla ho etela naha tse ding","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"international_visa","text":"Ke mefuta e mekae ya divisa tseo o di tsebang","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"international_visa","text":"Ana ke hloka visa ho ya Congo","spans":[{"start_byte":24,"limit_byte":29,"label":"COUNTRY"}],"target":"COUNTRY: Congo","example_id":"test-00000079"}
+{"intent":"make_call","text":"Tshwara Rorisang ka mohala","spans":[{"start_byte":8,"limit_byte":16,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Rorisang","example_id":"test-00000064"}
+{"intent":"make_call","text":"Letsetsa ba Chicken Licken o reke nama","spans":[{"start_byte":12,"limit_byte":26,"label":"RESTAURANT_NAME"},{"start_byte":34,"limit_byte":38,"label":"DISH_OR_FOOD"}],"target":"RESTAURANT_NAME: Chicken Licken $$ DISH_OR_FOOD: nama","example_id":"test-00000065"}
+{"intent":"make_call","text":"letsetsa ba Pretoria Zoo bakeng la leeto la sekolo","spans":[{"start_byte":12,"limit_byte":24,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Pretoria Zoo","example_id":"test-00000066"}
+{"intent":"make_call","text":"Letsetsa ba lapeng o ba jwetse hore wa nyalwa","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"make_call","text":"Mme o na o letseditse ho o tsebisa hore nkgono wa kula","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"make_call","text":"Letsetsa Palesa","spans":[{"start_byte":9,"limit_byte":15,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Palesa","example_id":"test-00000069"}
+{"intent":"make_call","text":"Ntate waka o itse o tla ntetsetsa","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"make_call","text":"letsetsa KFC o reke dijo","spans":[{"start_byte":9,"limit_byte":12,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: KFC","example_id":"test-00000071"}
+{"intent":"make_call","text":"Ke mang a ntetseditseng?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"make_call","text":"Na ba lefapha la thuto ba letsitse?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"make_call","text":"letsetsa Ragadi Pulane","spans":[{"start_byte":16,"limit_byte":22,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Pulane","example_id":"test-00000074"}
+{"intent":"make_call","text":"Ke hloka hore o letsetse Mohlakolara","spans":[{"start_byte":25,"limit_byte":36,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Mohlakolara","example_id":"test-00000075"}
+{"intent":"make_call","text":"Takatso hloka ho letsetswa","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"make_call","text":"Tshwara mohala Thapelo o ntsa leka ho ho letsetsa","spans":[{"start_byte":15,"limit_byte":22,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Thapelo","example_id":"test-00000077"}
+{"intent":"make_call","text":"ke kopa o letsetse ngaka modiri molema","spans":[{"start_byte":19,"limit_byte":38,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: ngaka modiri molema","example_id":"test-00000078"}
+{"intent":"make_call","text":"Ho nale motho e ke tlameha ho mo letsetsa","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"meal_suggestion","text":"Mphe dijo tse nang le meroho e mengata","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"meal_suggestion","text":"Baeti ba Amerika nka ba phehela eng?","spans":[{"start_byte":9,"limit_byte":16,"label":"COUNTRY"}],"target":"COUNTRY: Amerika","example_id":"test-00000065"}
+{"intent":"meal_suggestion","text":"Mphe lenane la dijo tse fanang ka mafolofolo.","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"meal_suggestion","text":"Ntatemoholo o na le ramatiki, nka mo phehela dijo tse jwang?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"meal_suggestion","text":"Mphe lenane la dijo tsa motshehare tse ahanag mmele.","spans":[{"start_byte":15,"limit_byte":34,"label":"MEAL_PERIOD"}],"target":"MEAL_PERIOD: dijo tsa motshehare","example_id":"test-00000068"}
+{"intent":"meal_suggestion","text":"Metswalle yaka e tseleng, nka e rekela dijo dife kapele?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"meal_suggestion","text":"Ke dijo dife tse monate tsa Nigeria?","spans":[{"start_byte":28,"limit_byte":35,"label":"COUNTRY"}],"target":"COUNTRY: Nigeria","example_id":"test-00000070"}
+{"intent":"meal_suggestion","text":"Mphe dijo tseo nka di phehang tse tswang Nigeria","spans":[{"start_byte":41,"limit_byte":48,"label":"COUNTRY"}],"target":"COUNTRY: Nigeria","example_id":"test-00000071"}
+{"intent":"meal_suggestion","text":"Nka pheha dijo dife ka mariha ha ke na le baeti?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"meal_suggestion","text":"Nka ja fried rice ya matjhaena ka eng?","spans":[{"start_byte":7,"limit_byte":17,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: fried rice","example_id":"test-00000073"}
+{"intent":"meal_suggestion","text":"Mphe lebenkele le rekisang dijo tsa Makorea","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"meal_suggestion","text":"Mphe dijo tseo nka di phehang tse tswang Botswana","spans":[{"start_byte":41,"limit_byte":49,"label":"COUNTRY"}],"target":"COUNTRY: Botswana","example_id":"test-00000075"}
+{"intent":"meal_suggestion","text":"Mphe seno se senang tswekere e ngata","spans":[{"start_byte":20,"limit_byte":28,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tswekere","example_id":"test-00000076"}
+{"intent":"meal_suggestion","text":"Ke phoofo efe e ka phehang phuthu?","spans":[{"start_byte":3,"limit_byte":9,"label":"DISH_OR_FOOD"},{"start_byte":27,"limit_byte":33,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: phoofo $$ DISH_OR_FOOD: phuthu","example_id":"test-00000077"}
+{"intent":"meal_suggestion","text":"Nka phehela baeti ba tswang Giyani masonja?","spans":[{"start_byte":28,"limit_byte":34,"label":"PLACE_NAME"},{"start_byte":35,"limit_byte":42,"label":"DISH_OR_FOOD"}],"target":"PLACE_NAME: Giyani $$ DISH_OR_FOOD: masonja","example_id":"test-00000078"}
+{"intent":"meal_suggestion","text":"Batho ba Thailand ba pheha dijo tsa mofuta ofe?","spans":[{"start_byte":9,"limit_byte":17,"label":"COUNTRY"}],"target":"COUNTRY: Thailand","example_id":"test-00000079"}
+{"intent":"min_payment","text":"Ho nka sekoloto bankeng ke bokae?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"min_payment","text":"Thuso ya bo ngaka ya theko e tlase ke bokae?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"min_payment","text":"Ke qala ho patala ho tloha ho bokae shopong ya Edgars","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"min_payment","text":"Ke hloka ho patala bokae bakeng sa dikgalase tsa mahlo kgwedi le kgwedi?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"min_payment","text":"Nka patala bokae sekolotong saka sa Ackermans?","spans":[{"start_byte":17,"limit_byte":45,"label":"BILL_TYPE"}],"target":"BILL_TYPE: sekolotong saka sa Ackermans","example_id":"test-00000068"}
+{"intent":"min_payment","text":"Tjhelete e nyane eo nka e batalang sekolotong sa verizon ke bokae","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"min_payment","text":"Nke patala bonyane bo bokae akhaontong yaka ya Telkom?","spans":[{"start_byte":28,"limit_byte":53,"label":"BILL_TYPE"}],"target":"BILL_TYPE: akhaontong yaka ya Telkom","example_id":"test-00000070"}
+{"intent":"min_payment","text":"Ke tlameha ho patala ho tloha ho bokae sekolotong saka sa Mr Price?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"min_payment","text":"Nka ka patala bokae sekolotong saka sa verizon","spans":[{"start_byte":39,"limit_byte":46,"label":"PAYMENT_COMPANY"}],"target":"PAYMENT_COMPANY: verizon","example_id":"test-00000072"}
+{"intent":"min_payment","text":"Ke qala ho patala ho tloha ho bokae lebenkeleng la Edgars?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"min_payment","text":"Ke tlameha ho patala ho tloha ho bokae ka tekesing e yang toropong","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"min_payment","text":"Kgoho ya sekolokoto ya Woolworths e ka bitsa bonyane bo bokae?","spans":[{"start_byte":0,"limit_byte":19,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: Kgoho ya sekolokoto","example_id":"test-00000075"}
+{"intent":"min_payment","text":"Nka patala bonyane bo bokae sefofaneng se yang Bloemfontein?","spans":[{"start_byte":47,"limit_byte":59,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Bloemfontein","example_id":"test-00000076"}
+{"intent":"min_payment","text":"Ho na le tjhelete e kae ka bankeng ya Discovery le ya Nedbank?","spans":[{"start_byte":38,"limit_byte":47,"label":"BANK_NAME"},{"start_byte":54,"limit_byte":61,"label":"BANK_NAME"}],"target":"BANK_NAME: Discovery $$ BANK_NAME: Nedbank","example_id":"test-00000077"}
+{"intent":"min_payment","text":"Ke bokae tjhelete e ka tlase eo nka e patalang sekolotong sa mohala","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"min_payment","text":"Ke bokae bonyane bo nka bo patalang bakeng sa ho loha moriri wa ka?","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"pay_bill","text":"hake nale mathata a ho patala keya hokae?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"pay_bill","text":"ho patala ho qala ka bwake?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"pay_bill","text":"nkgopotse ho patala dikoloto ha ke qeta ho kgola?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"pay_bill","text":"hwa khoneha ho patala dikoloto ka banka engoe?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"pay_bill","text":"kemang aka patalang sekoloto sa lebenkele Lewis?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"pay_bill","text":"Lefa akhaonto ya diaparo ya Edgars","spans":[{"start_byte":5,"limit_byte":24,"label":"ACCOUNT_TYPE"}],"target":"ACCOUNT_TYPE: akhaonto ya diaparo","example_id":"test-00000069"}
+{"intent":"pay_bill","text":"lya lumela re patale ka chake?","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"pay_bill","text":"ke mang a ka nthusang ho patala sekoloto saka sa motlakase?","spans":[{"start_byte":32,"limit_byte":58,"label":"BILL_TYPE"}],"target":"BILL_TYPE: sekoloto saka sa motlakase","example_id":"test-00000071"}
+{"intent":"pay_bill","text":"lefa masepala wa Johannesburg","spans":[{"start_byte":17,"limit_byte":29,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Johannesburg","example_id":"test-00000072"}
+{"intent":"pay_bill","text":"ke hloka ong thuse ho patala ka akhaonto ya tjheke .","spans":[{"start_byte":32,"limit_byte":50,"label":"ACCOUNT_TYPE"}],"target":"ACCOUNT_TYPE: akhaonto ya tjheke","example_id":"test-00000073"}
+{"intent":"pay_bill","text":"ke kopa kadimo ya R100 ke tla e lefa ha kgwedi e fela","spans":[{"start_byte":18,"limit_byte":22,"label":"MONEY"}],"target":"MONEY: R100","example_id":"test-00000074"}
+{"intent":"pay_bill","text":"ho bohlokwa ho patala sekoloto sa motlakase?","spans":[{"start_byte":34,"limit_byte":43,"label":"BILL_TYPE"}],"target":"BILL_TYPE: motlakase","example_id":"test-00000075"}
+{"intent":"pay_bill","text":"lefa batho meputso ha ba patala ka nako?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"pay_bill","text":"Mathata a ho se lefe dikoloto ka nako ke a fe?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"pay_bill","text":"Lefella ditjeho tsa sekolo","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"pay_bill","text":"nka kgona ho patala ka founu?","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"pin_change","text":"nka kgona ho founela banka hore ba mphe phini e ntjha","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"pin_change","text":"ke phini e feng e mpe ka ho fetisisa","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"pin_change","text":"ho tlabe ho etsahalang hake ke tlameha ke kenye phini yaka ha bedi","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"pin_change","text":"seta phini yaka ya twitter hore e be 36849","spans":[{"start_byte":37,"limit_byte":42,"label":"NUMBER"}],"target":"NUMBER: 36849","example_id":"test-00000067"}
+{"intent":"pin_change","text":"ke tjhentjha jwang phini yaka ya instagram","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"pin_change","text":"Nketsetse phini e thata ya banka","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"pin_change","text":"ke eng hape e nka e sebedisa jwalo ka phini","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"pin_change","text":"ke tjhentjha phini ya ifounu jwang","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"pin_change","text":"mphe tsela ya ho fetola phini ya ka ya email","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"pin_change","text":"ke kae mo nka boloka phini yaka ya banka","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"pin_change","text":"nka kgona ho buwa phini yaka kantle hore ke e ngole","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"pin_change","text":"nkaba le phini tse kae founung yaka","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"pin_change","text":"hobaneng akhaonte tse ngata di hloka phini","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"pin_change","text":"nka sebedisa ditshwantswaho hore ebe phini yaka ya founu","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"pin_change","text":"mphe phini e maatla ya spotify","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"pin_change","text":"a na nka sebedisa sefahleho saka ho bula founu yaka","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"play_music","text":"Nka bapala mmino youtube","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"play_music","text":"Bapala pina ya her old friends ya PND","spans":[{"start_byte":15,"limit_byte":30,"label":"SONG_NAME"},{"start_byte":34,"limit_byte":37,"label":"ARTIST_NAME"}],"target":"SONG_NAME: her old friends $$ ARTIST_NAME: PND","example_id":"test-00000065"}
+{"intent":"play_music","text":"A na mmino waka o ka bapala hantle ka hara koloi","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"play_music","text":"Mphe sebini se tsibisahalang sa amapiyano","spans":[{"start_byte":32,"limit_byte":41,"label":"MUSIC_GENRE"}],"target":"MUSIC_GENRE: amapiyano","example_id":"test-00000067"}
+{"intent":"play_music","text":"Ke mofuta o feng wa mmino o ratwang naheng ya Mexico","spans":[{"start_byte":46,"limit_byte":52,"label":"COUNTRY"}],"target":"COUNTRY: Mexico","example_id":"test-00000068"}
+{"intent":"play_music","text":"Bapala mmino wa Khaya Mthethwa","spans":[{"start_byte":16,"limit_byte":30,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Khaya Mthethwa","example_id":"test-00000069"}
+{"intent":"play_music","text":"Mphe sebini se tsibahalang naheng ya kenya","spans":[{"start_byte":37,"limit_byte":42,"label":"COUNTRY"}],"target":"COUNTRY: kenya","example_id":"test-00000070"}
+{"intent":"play_music","text":"Mphe mmino o monate wa Drake","spans":[{"start_byte":23,"limit_byte":28,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Drake","example_id":"test-00000071"}
+{"intent":"play_music","text":"Khaya Mthwethwa ke sebini wa mmino o feng","spans":[{"start_byte":0,"limit_byte":15,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Khaya Mthwethwa","example_id":"test-00000072"}
+{"intent":"play_music","text":"Ke sebini se feng se mamellwang haholo ho spotify","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"play_music","text":"Mapantsula ba mamela mmino o feng","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"play_music","text":"Mphe mmino o monate wa Whitney Houston","spans":[{"start_byte":23,"limit_byte":38,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Whitney Houston","example_id":"test-00000075"}
+{"intent":"play_music","text":"Ho baneng re patalla ho bapala mmino","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"play_music","text":"Ke mmino o feng o ka nrobatsa","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"play_music","text":"Ho etsahalang ka mmino wa sebini ha se hlokahetsa","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"play_music","text":"Mphe sebini se tsibahalang naheng ya amerika","spans":[{"start_byte":37,"limit_byte":44,"label":"COUNTRY"}],"target":"COUNTRY: amerika","example_id":"test-00000079"}
+{"intent":"plug_type","text":"Kenya e sebedisa di outlelete tse jwang","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"plug_type","text":"kamore ya bana e hloka polaka tse jwang","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"plug_type","text":"Ke hobaneng naha ya USA e sebedisa plaka ya type A le B","spans":[{"start_byte":20,"limit_byte":23,"label":"COUNTRY"}],"target":"COUNTRY: USA","example_id":"test-00000066"}
+{"intent":"plug_type","text":"Hobaneng mefuta ya di plaka difapane naha ka naha","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"plug_type","text":"mphe mefuta ya di polaka tsa amerika","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"plug_type","text":"Ke di naha dife tse sebedisa di outlet tse tshwanang","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"plug_type","text":"Na kontinente ya Afrika kaofela ha yona e sebedisa di outlelete tsa motlakase tse tshwanang","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"plug_type","text":"ba sebedisa polaka tse jwang frans","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"plug_type","text":"Batla sebaka se haufi mo ke ka rekang conveter teng","spans":[{"start_byte":38,"limit_byte":46,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: conveter","example_id":"test-00000072"}
+{"intent":"plug_type","text":"mphe mefuta ya di polaka tsa dubai","spans":[{"start_byte":29,"limit_byte":34,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: dubai","example_id":"test-00000073"}
+{"intent":"plug_type","text":"Ke ka tseba jwang hore ke rekile conveter e hantle","spans":[{"start_byte":33,"limit_byte":41,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: conveter","example_id":"test-00000074"}
+{"intent":"plug_type","text":"ba sebedisa polaka tse jwang London","spans":[{"start_byte":29,"limit_byte":35,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: London","example_id":"test-00000075"}
+{"intent":"plug_type","text":"Plaka ya ka e sebetsa jwang","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"plug_type","text":"Naha e na e sebedisa di plaka tse jwang","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"plug_type","text":"Diplaka tse sebediswang Norway","spans":[{"start_byte":24,"limit_byte":30,"label":"COUNTRY"}],"target":"COUNTRY: Norway","example_id":"test-00000078"}
+{"intent":"plug_type","text":"Brazil e sbedisa mofuta o feng wa plaka","spans":[{"start_byte":0,"limit_byte":6,"label":"COUNTRY"}],"target":"COUNTRY: Brazil","example_id":"test-00000079"}
+{"intent":"recipe","text":"Mphe resepe ya enchiladas","spans":[{"start_byte":15,"limit_byte":25,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: enchiladas","example_id":"test-00000064"}
+{"intent":"recipe","text":"Mhe resepe ya salate ya ditapole e nang ke kase","spans":[{"start_byte":14,"limit_byte":47,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: salate ya ditapole e nang ke kase","example_id":"test-00000065"}
+{"intent":"recipe","text":"Mphe resepe ya ho baka matokomane","spans":[{"start_byte":23,"limit_byte":33,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: matokomane","example_id":"test-00000066"}
+{"intent":"recipe","text":"O ka mpha lesedi hore ke etsa jwang ceviche","spans":[{"start_byte":36,"limit_byte":43,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: ceviche","example_id":"test-00000067"}
+{"intent":"recipe","text":"Ke kopa thuso ka ditaelo tsa ho etsa curry ya kgoho","spans":[{"start_byte":37,"limit_byte":51,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: curry ya kgoho","example_id":"test-00000068"}
+{"intent":"recipe","text":"Ke pheha jwang kgoho","spans":[{"start_byte":15,"limit_byte":20,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: kgoho","example_id":"test-00000069"}
+{"intent":"recipe","text":"Kgoho ya Sesotho e phehwa jwang?","spans":[{"start_byte":0,"limit_byte":16,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Kgoho ya Sesotho","example_id":"test-00000070"}
+{"intent":"recipe","text":"Nama ya kgomo e phehwa nako e kae","spans":[{"start_byte":0,"limit_byte":13,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: Nama ya kgomo","example_id":"test-00000071"}
+{"intent":"recipe","text":"Ke qala jwang ho esa hlama ya leqebekwane","spans":[{"start_byte":30,"limit_byte":41,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: leqebekwane","example_id":"test-00000072"}
+{"intent":"recipe","text":"ho baneng re baka ka 180 ka onto","spans":[{"start_byte":21,"limit_byte":24,"label":"NUMBER"}],"target":"NUMBER: 180","example_id":"test-00000073"}
+{"intent":"recipe","text":"Ke hloka resepe ya creamy spinach","spans":[{"start_byte":19,"limit_byte":33,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: creamy spinach","example_id":"test-00000074"}
+{"intent":"recipe","text":"Ke pheha dijo jwang hore di se tjhe","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"recipe","text":"Mphe resepe ya papa ya Sesotho le hore ke e etsa jwang","spans":[{"start_byte":15,"limit_byte":19,"label":"DISH_OR_FOOD"},{"start_byte":23,"limit_byte":30,"label":"LANGUAGE_NAME"}],"target":"DISH_OR_FOOD: papa $$ LANGUAGE_NAME: Sesotho","example_id":"test-00000076"}
+{"intent":"recipe","text":"Mpontshe disalete tse fapaneng","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"recipe","text":"Mpatlete resepe ya dikuku","spans":[{"start_byte":19,"limit_byte":25,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: dikuku","example_id":"test-00000078"}
+{"intent":"recipe","text":"Mphe resepe ya dibiskiti tsa kgemere","spans":[{"start_byte":15,"limit_byte":36,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: dibiskiti tsa kgemere","example_id":"test-00000079"}
+{"intent":"restaurant_reservation","text":"nka kgona ho peheletso ya kopano ya  tsa bosiu ya khampani?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"restaurant_reservation","text":"nka kgona ho behela tafole kopano ya kgwebo?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"restaurant_reservation","text":"Etsa peheletso ya dijo ka 7pm restjhurenteng ya Mama Africa","spans":[{"start_byte":26,"limit_byte":29,"label":"TIME"},{"start_byte":48,"limit_byte":59,"label":"RESTAURANT_NAME"}],"target":"TIME: 7pm $$ RESTAURANT_NAME: Mama Africa","example_id":"test-00000066"}
+{"intent":"restaurant_reservation","text":"na nka behela tafole bakeng sa  tsa maitsiboya Mug and Bean?","spans":[{"start_byte":47,"limit_byte":59,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Mug and Bean","example_id":"test-00000067"}
+{"intent":"restaurant_reservation","text":"li peheletso li bohlokwa kapa nka kgona ho kena fela nako engwe le engwe?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"restaurant_reservation","text":"Mpatlele tafole ya batho ba 15 Mzansi Restuarant","spans":[{"start_byte":28,"limit_byte":30,"label":"NUMBER"},{"start_byte":31,"limit_byte":48,"label":"RESTAURANT_NAME"}],"target":"NUMBER: 15 $$ RESTAURANT_NAME: Mzansi Restuarant","example_id":"test-00000069"}
+{"intent":"restaurant_reservation","text":"nka kgona ho kenya peheletso ya letsatsi la baratani Marco's African Place?","spans":[{"start_byte":32,"limit_byte":52,"label":"CALENDAR_EVENT"},{"start_byte":53,"limit_byte":74,"label":"RESTAURANT_NAME"}],"target":"CALENDAR_EVENT: letsatsi la baratani $$ RESTAURANT_NAME: Marco's African Place","example_id":"test-00000070"}
+{"intent":"restaurant_reservation","text":"na nka behela tafole tsatsi laka la tswalo?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"restaurant_reservation","text":"Na Seven Colours Eatery e a bulwa bakeng sa mekete e poraefete","spans":[{"start_byte":3,"limit_byte":23,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Seven Colours Eatery","example_id":"test-00000072"}
+{"intent":"restaurant_reservation","text":"nka kgona ho behela labohlano bosiu?","spans":[{"start_byte":20,"limit_byte":29,"label":"DATE"},{"start_byte":30,"limit_byte":35,"label":"TIME"}],"target":"DATE: labohlano $$ TIME: bosiu","example_id":"test-00000073"}
+{"intent":"restaurant_reservation","text":"nka kgona ho kenya peheletso ya mokete ya batho ba 100 Pitso's Kitchen?","spans":[{"start_byte":51,"limit_byte":54,"label":"NUMBER"},{"start_byte":55,"limit_byte":70,"label":"RESTAURANT_NAME"}],"target":"NUMBER: 100 $$ RESTAURANT_NAME: Pitso's Kitchen","example_id":"test-00000074"}
+{"intent":"restaurant_reservation","text":"nka kgona ho behela tafole tsatsi le bohlokwa?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"restaurant_reservation","text":"pele re tla peheletsong re tshwanetse re patale?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"restaurant_reservation","text":"e teng tjhelete e patalwang hao kenya peheletso?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"restaurant_reservation","text":"nka kenya peheletso ya batho batswang naheng tse ding batlo utlwa dijo tsa Afrika Borwa?","spans":[{"start_byte":75,"limit_byte":87,"label":"COUNTRY"}],"target":"COUNTRY: Afrika Borwa","example_id":"test-00000078"}
+{"intent":"restaurant_reservation","text":"ya dumelwa peheletso ya batho ba fetang leshome Gold Resturant?","spans":[{"start_byte":40,"limit_byte":47,"label":"NUMBER"},{"start_byte":48,"limit_byte":62,"label":"RESTAURANT_NAME"}],"target":"NUMBER: leshome $$ RESTAURANT_NAME: Gold Resturant","example_id":"test-00000079"}
+{"intent":"restaurant_reviews","text":"Batho ba e thabela Thabang Basotho?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"restaurant_reviews","text":"Ke restjhurente e feng e rekisang pootjie kos?","spans":[{"start_byte":34,"limit_byte":45,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: pootjie kos","example_id":"test-00000065"}
+{"intent":"restaurant_reviews","text":"Na batho ba e thabela kofi ya star bucks?","spans":[{"start_byte":22,"limit_byte":26,"label":"DISH_OR_FOOD"},{"start_byte":30,"limit_byte":40,"label":"RESTAURANT_NAME"}],"target":"DISH_OR_FOOD: kofi $$ RESTAURANT_NAME: star bucks","example_id":"test-00000066"}
+{"intent":"restaurant_reviews","text":"Di Dunked wings tsa Libu's kitchen di monate","spans":[{"start_byte":3,"limit_byte":15,"label":"DISH_OR_FOOD"},{"start_byte":20,"limit_byte":34,"label":"RESTAURANT_NAME"}],"target":"DISH_OR_FOOD: Dunked wings $$ RESTAURANT_NAME: Libu's kitchen","example_id":"test-00000067"}
+{"intent":"restaurant_reviews","text":"Ke restjhurente e feng e turang ha holo?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"restaurant_reviews","text":"Na batho ba e thabela galitos?","spans":[{"start_byte":22,"limit_byte":29,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: galitos","example_id":"test-00000069"}
+{"intent":"restaurant_reviews","text":"Kofi ya Gracie's corner e monate na?","spans":[{"start_byte":0,"limit_byte":4,"label":"DISH_OR_FOOD"},{"start_byte":8,"limit_byte":23,"label":"RESTAURANT_NAME"}],"target":"DISH_OR_FOOD: Kofi $$ RESTAURANT_NAME: Gracie's corner","example_id":"test-00000070"}
+{"intent":"restaurant_reviews","text":"Icecream e monate ke ya spur kapa wimpy?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"restaurant_reviews","text":"ke restjhurente e feng pretoria e phehang dijo tsa setso?","spans":[{"start_byte":23,"limit_byte":31,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: pretoria","example_id":"test-00000072"}
+{"intent":"restaurant_reviews","text":"Dijo tsa Rhapsody's di monate?","spans":[{"start_byte":9,"limit_byte":19,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: Rhapsody's","example_id":"test-00000073"}
+{"intent":"restaurant_reviews","text":"O ka etsa dintlha tse kae ka kakaretso ka dijo tsa restjhurenteng ya La Parada?","spans":[{"start_byte":69,"limit_byte":78,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: La Parada","example_id":"test-00000074"}
+{"intent":"restaurant_reviews","text":"O ka reka nama ya Chicken Licken hape?","spans":[{"start_byte":10,"limit_byte":14,"label":"DISH_OR_FOOD"},{"start_byte":18,"limit_byte":32,"label":"RESTAURANT_NAME"}],"target":"DISH_OR_FOOD: nama $$ RESTAURANT_NAME: Chicken Licken","example_id":"test-00000075"}
+{"intent":"restaurant_reviews","text":"Bohobe ba restjhurente ya Manny's bo monate?","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"},{"start_byte":26,"limit_byte":33,"label":"RESTAURANT_NAME"}],"target":"DISH_OR_FOOD: Bohobe $$ RESTAURANT_NAME: Manny's","example_id":"test-00000076"}
+{"intent":"restaurant_reviews","text":"Bareki ba McDonald's ba file restjhurente di naledi tse kae?","spans":[{"start_byte":10,"limit_byte":20,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: McDonald's","example_id":"test-00000077"}
+{"intent":"restaurant_reviews","text":"A na spur se na le ditulo tsa ka ntle?","spans":[{"start_byte":5,"limit_byte":9,"label":"RESTAURANT_NAME"}],"target":"RESTAURANT_NAME: spur","example_id":"test-00000078"}
+{"intent":"restaurant_reviews","text":"Na dikuku tsa Lesedi's cookies di monate?","spans":[{"start_byte":3,"limit_byte":9,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: dikuku","example_id":"test-00000079"}
+{"intent":"restaurant_suggestion","text":"ke kopa ong shebele restjhurente e rekisang  tsa Mamexican e naleng linaledi tse hlano.","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"restaurant_suggestion","text":"nka thola kae restjhurente tse rekisang makhala?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"restaurant_suggestion","text":"ke kopa mefuta ya direstjhurente tse ntle Gauteng","spans":[{"start_byte":42,"limit_byte":49,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Gauteng","example_id":"test-00000066"}
+{"intent":"restaurant_suggestion","text":"nka thola dijo tse monate kae mona South Korea?","spans":[{"start_byte":35,"limit_byte":46,"label":"COUNTRY"}],"target":"COUNTRY: South Korea","example_id":"test-00000067"}
+{"intent":"restaurant_suggestion","text":"nka thola kfc hokae mona kapa restjhurente e rekisang nama ya kgoho?","spans":[{"start_byte":10,"limit_byte":13,"label":"RESTAURANT_NAME"},{"start_byte":54,"limit_byte":67,"label":"DISH_OR_FOOD"}],"target":"RESTAURANT_NAME: kfc $$ DISH_OR_FOOD: nama ya kgoho","example_id":"test-00000068"}
+{"intent":"restaurant_suggestion","text":"ke restjhurente efe e rekisang pizza?","spans":[{"start_byte":31,"limit_byte":36,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: pizza","example_id":"test-00000069"}
+{"intent":"restaurant_suggestion","text":"ke direstjhurente dife tse besang nama e monate e tummeng Atlanta?","spans":[{"start_byte":34,"limit_byte":38,"label":"DISH_OR_FOOD"},{"start_byte":58,"limit_byte":65,"label":"CITY_OR_PROVINCE"}],"target":"DISH_OR_FOOD: nama $$ CITY_OR_PROVINCE: Atlanta","example_id":"test-00000070"}
+{"intent":"restaurant_suggestion","text":"Pasta e monate nka e fumana kae Paris?","spans":[{"start_byte":0,"limit_byte":5,"label":"DISH_OR_FOOD"},{"start_byte":32,"limit_byte":37,"label":"CITY_OR_PROVINCE"}],"target":"DISH_OR_FOOD: Pasta $$ CITY_OR_PROVINCE: Paris","example_id":"test-00000071"}
+{"intent":"restaurant_suggestion","text":"ke restjhurente efe e rekisang dijo tsa lewatleng?","spans":[{"start_byte":31,"limit_byte":49,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: dijo tsa lewatleng","example_id":"test-00000072"}
+{"intent":"restaurant_suggestion","text":"ke restjhurente efe e tummeng ka bohobe Paris?","spans":[{"start_byte":40,"limit_byte":45,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Paris","example_id":"test-00000073"}
+{"intent":"restaurant_suggestion","text":"ke direstjhurente di fe tse rekisang makwenya mona Las-vegas?","spans":[{"start_byte":37,"limit_byte":45,"label":"DISH_OR_FOOD"},{"start_byte":51,"limit_byte":60,"label":"CITY_OR_PROVINCE"}],"target":"DISH_OR_FOOD: makwenya $$ CITY_OR_PROVINCE: Las-vegas","example_id":"test-00000074"}
+{"intent":"restaurant_suggestion","text":"ke restjhurente efe ya  e rekisang  tsa Afrika borwa mona Boston?","spans":[{"start_byte":40,"limit_byte":52,"label":"COUNTRY"},{"start_byte":58,"limit_byte":64,"label":"CITY_OR_PROVINCE"}],"target":"COUNTRY: Afrika borwa $$ CITY_OR_PROVINCE: Boston","example_id":"test-00000075"}
+{"intent":"restaurant_suggestion","text":"liteng li restjhurente tsa linaledi tse hlano mo Paris?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"restaurant_suggestion","text":"ke restjhurente efe e turang mo Pretora?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"restaurant_suggestion","text":"Restjhurente e itlhommeng pele e ho kae ka hara Cape Town? ","spans":[{"start_byte":48,"limit_byte":57,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Cape Town","example_id":"test-00000078"}
+{"intent":"restaurant_suggestion","text":"Mpatlele direstjhurente tse rekisang pizza Los Angeles?","spans":[{"start_byte":37,"limit_byte":42,"label":"DISH_OR_FOOD"},{"start_byte":43,"limit_byte":54,"label":"CITY_OR_PROVINCE"}],"target":"DISH_OR_FOOD: pizza $$ CITY_OR_PROVINCE: Los Angeles","example_id":"test-00000079"}
+{"intent":"share_location","text":"A na UJ e hole le WITS","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"share_location","text":"Ke sebaka se feng se tsebahalng ka monate","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"share_location","text":"Ke kae mo nka ya ka uber ya tjhelete e nyane","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"share_location","text":"Ke mang a kgonang ho bona sebaka seo ke leng ho sona","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"share_location","text":"Nthomelle location ya Centurion","spans":[{"start_byte":22,"limit_byte":31,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Centurion","example_id":"test-00000068"}
+{"intent":"share_location","text":"Mphe sebaka se hantle sa hodula","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"share_location","text":"Ke ka tlasa mabaka a feng nka tlameha ho senda sebaka se ke leng ho sona","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"share_location","text":"Mphe location ya Bloemfontein","spans":[{"start_byte":17,"limit_byte":29,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Bloemfontein","example_id":"test-00000071"}
+{"intent":"share_location","text":"Mphe sebaka se hantle sa ho renta","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"share_location","text":"Mphe location ya Polokwane","spans":[{"start_byte":17,"limit_byte":26,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Polokwane","example_id":"test-00000073"}
+{"intent":"share_location","text":"Mphe location ya direstjhurente tse ntle","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"share_location","text":"Mphe location ya Cape Town","spans":[{"start_byte":17,"limit_byte":26,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Cape Town","example_id":"test-00000075"}
+{"intent":"share_location","text":"Nka kgona ho pota lefatse kaofela","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"share_location","text":"Mphe location ya dikoloi tse ngata","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"share_location","text":"Mphe sebaka se nka tawela ho sona","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"share_location","text":"A na batswadi baka ba ka bona sebaka se ke leng ho sona","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"shopping_list_update","text":"mafura e theohile, a kenye lelaneng la ntho tseo ke ilo di reka","spans":[{"start_byte":0,"limit_byte":6,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: mafura","example_id":"test-00000064"}
+{"intent":"shopping_list_update","text":"Ngola terinki lelaneng la ntho tseo ke ilo di reka","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"shopping_list_update","text":"Kenya dihwete tse phehuweng lenaneng le dijo","spans":[{"start_byte":6,"limit_byte":13,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: dihwete","example_id":"test-00000066"}
+{"intent":"shopping_list_update","text":"Eketsa mapheho a kgoho letotong la","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"shopping_list_update","text":"kenya raese letotong la dijo","spans":[{"start_byte":6,"limit_byte":11,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: raese","example_id":"test-00000068"}
+{"intent":"shopping_list_update","text":"tjhokolete ya PS ha e yo lenaneng la dijo tse monate, e kenye","spans":[{"start_byte":0,"limit_byte":16,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: tjhokolete ya PS","example_id":"test-00000069"}
+{"intent":"shopping_list_update","text":"kenya lesebe lelaneng la ntho tseo ke ilo di reka ","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"shopping_list_update","text":"ngola nama ya kgoho letototong la dijo","spans":[{"start_byte":6,"limit_byte":19,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: nama ya kgoho","example_id":"test-00000071"}
+{"intent":"shopping_list_update","text":"kenya tjhokolete ya Jungle Bar lenaneng la dijo tse tswekere tse ilo rekwa","spans":[{"start_byte":6,"limit_byte":30,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: tjhokolete ya Jungle Bar","example_id":"test-00000072"}
+{"intent":"shopping_list_update","text":"na ditamati  di teng letotong la dijo?","spans":[{"start_byte":3,"limit_byte":11,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: ditamati","example_id":"test-00000073"}
+{"intent":"shopping_list_update","text":"ngola veini lenaneng la dijo","spans":[{"start_byte":6,"limit_byte":11,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: veini","example_id":"test-00000074"}
+{"intent":"shopping_list_update","text":"eketsa mahe ke bokae lebenkeleng","spans":[{"start_byte":7,"limit_byte":11,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: mahe","example_id":"test-00000075"}
+{"intent":"shopping_list_update","text":"meroho e hwammeng e monate, e kenye lelaneng la ntho tseo ke ilo di reka","spans":[{"start_byte":0,"limit_byte":17,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: meroho e hwammeng","example_id":"test-00000076"}
+{"intent":"shopping_list_update","text":"ditamati tsa 2kg ke bokae? di ngole letototong la dijo","spans":[{"start_byte":0,"limit_byte":8,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: ditamati","example_id":"test-00000077"}
+{"intent":"shopping_list_update","text":"se lebale malana a dikgoho lenaneng","spans":[{"start_byte":10,"limit_byte":26,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: malana a dikgoho","example_id":"test-00000078"}
+{"intent":"shopping_list_update","text":"Kenya dijo tsa ntjha lelaneng la ntho tseo ke ilo di reka","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"spending_history","text":"Ke rekile mabidi ka bokae kgweding e fetileng","spans":[{"start_byte":10,"limit_byte":16,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: mabidi","example_id":"test-00000064"}
+{"intent":"spending_history","text":"Re sebedisa bokae matsatsing a ha re reka dijo tsa direstjhurenteng","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"spending_history","text":"Pakiso o rekile tlhapi ya bokae maobane","spans":[{"start_byte":0,"limit_byte":6,"label":"PERSONAL_NAME"},{"start_byte":16,"limit_byte":22,"label":"DISH_OR_FOOD"}],"target":"PERSONAL_NAME: Pakiso $$ DISH_OR_FOOD: tlhapi","example_id":"test-00000066"}
+{"intent":"spending_history","text":"Ke rometse Palesa bokae kgweding e fetileng","spans":[{"start_byte":11,"limit_byte":17,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Palesa","example_id":"test-00000067"}
+{"intent":"spending_history","text":"Ke rekile dipale ka bokae maobane","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"spending_history","text":"Ho kuta moriri ke bokae","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"spending_history","text":"ke rekile lebese la bokae selemong se fetileng","spans":[{"start_byte":10,"limit_byte":16,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: lebese","example_id":"test-00000070"}
+{"intent":"spending_history","text":"ke rekile koloi ya bokae","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"spending_history","text":"Re rekile disepa tsa bokae kgweding ena","spans":[{"start_byte":10,"limit_byte":16,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: disepa","example_id":"test-00000072"}
+{"intent":"spending_history","text":"Banka e nkile bokae dikgweding tse tharo tse fetileng","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"spending_history","text":"Ke rekile dieta ka bokae","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"spending_history","text":"Ke sebedisitse bokae bakeng sa peterole ya koloi","spans":[{"start_byte":31,"limit_byte":39,"label":"BILL_TYPE"}],"target":"BILL_TYPE: peterole","example_id":"test-00000075"}
+{"intent":"spending_history","text":"Ke sebedisitse karolo e kae ya mokgolo wa ka ho reka nama ya kalakunu","spans":[{"start_byte":53,"limit_byte":69,"label":"DISH_OR_FOOD"}],"target":"DISH_OR_FOOD: nama ya kalakunu","example_id":"test-00000076"}
+{"intent":"spending_history","text":"Ke sebedisitse bokae bakeng sa ho etsa moriri","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"spending_history","text":"Ke sebedisitse bokae ya dipalangwang tsa ho ya sekolong","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"spending_history","text":"ke lokisitse koloi ka bokae maoba","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"text","text":"Romela Reabetswe molaetsa o mmolelle ke mo romelletse tjhelete","spans":[{"start_byte":7,"limit_byte":16,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Reabetswe","example_id":"test-00000064"}
+{"intent":"text","text":"Ke tseba jwang ha ke thotse molaetsa","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"text","text":"Mphe molaetsa wa matshediso","spans":[{"start_byte":17,"limit_byte":27,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: matshediso","example_id":"test-00000066"}
+{"intent":"text","text":"Ke romelletse mang molaetsa bosiu","spans":[{"start_byte":28,"limit_byte":33,"label":"TIME"}],"target":"TIME: bosiu","example_id":"test-00000067"}
+{"intent":"text","text":"Romela Mpho molaetsa wa kuku ya mokete wa ngwana","spans":[{"start_byte":7,"limit_byte":11,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Mpho","example_id":"test-00000068"}
+{"intent":"text","text":"Nka kgona ho romela molaetsa mothong ya sa boneng","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"text","text":"Hlakola molaetsa wa MTN","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"text","text":"Nka romela molaetsa ho mang","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"text","text":"Nka ngola molaetsa ka khomphutha na","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"text","text":"Romela molaetsa wa kopano hosane","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"text","text":"Romela Karabo molaetsa hore founu ke bokae","spans":[{"start_byte":7,"limit_byte":13,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Karabo","example_id":"test-00000074"}
+{"intent":"text","text":"Nka romela molaetsa ho kae","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"text","text":"Romela Mokete molaetsa o mmolelle a tlise buka yaka","spans":[{"start_byte":7,"limit_byte":13,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Mokete","example_id":"test-00000076"}
+{"intent":"text","text":"Romela Neo molaetsa hore Johnny o hlokahetse","spans":[{"start_byte":7,"limit_byte":10,"label":"PERSONAL_NAME"},{"start_byte":25,"limit_byte":31,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Neo $$ PERSONAL_NAME: Johnny","example_id":"test-00000077"}
+{"intent":"text","text":"Romela Brenda molaetsa hore koloi yaka e robehile","spans":[{"start_byte":7,"limit_byte":13,"label":"PERSONAL_NAME"}],"target":"PERSONAL_NAME: Brenda","example_id":"test-00000078"}
+{"intent":"text","text":"Romela bakgotsi baka molaetsa hore ke tseleng","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"time","text":"ho nka dihora tse kae ho ya Salzburg o tswa Munich ka koloi?","spans":[{"start_byte":28,"limit_byte":36,"label":"CITY_OR_PROVINCE"},{"start_byte":44,"limit_byte":50,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Salzburg $$ CITY_OR_PROVINCE: Munich","example_id":"test-00000064"}
+{"intent":"time","text":"ke nako mang hona jwale Istabul?","spans":[{"start_byte":24,"limit_byte":31,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Istabul","example_id":"test-00000065"}
+{"intent":"time","text":"ke hoseng kapa ke motsheare Mumbai?","spans":[{"start_byte":28,"limit_byte":34,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Mumbai","example_id":"test-00000066"}
+{"intent":"time","text":"hobaneng nako eba telele ka nako tse ding?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"time","text":"ha nka tsamaya ka maoto ho tswa Pretoria Keya Johanesburg ke tlo nka nako e kae?","spans":[{"start_byte":32,"limit_byte":40,"label":"CITY_OR_PROVINCE"},{"start_byte":46,"limit_byte":57,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Pretoria $$ CITY_OR_PROVINCE: Johanesburg","example_id":"test-00000068"}
+{"intent":"time","text":"nako ya Afrika Borwa le Lesotho di a tshwana?","spans":[{"start_byte":8,"limit_byte":20,"label":"COUNTRY"},{"start_byte":24,"limit_byte":31,"label":"COUNTRY"}],"target":"COUNTRY: Afrika Borwa $$ COUNTRY: Lesotho","example_id":"test-00000069"}
+{"intent":"time","text":"ke nako mang hona jwale Germany?","spans":[{"start_byte":24,"limit_byte":31,"label":"COUNTRY"}],"target":"COUNTRY: Germany","example_id":"test-00000070"}
+{"intent":"time","text":"ho nka nako e kae ho ya Afrika o tswa Amerika?","spans":[{"start_byte":38,"limit_byte":45,"label":"COUNTRY"}],"target":"COUNTRY: Amerika","example_id":"test-00000071"}
+{"intent":"time","text":"ho nka nako e kae ho tswa Lesotho o tla Gauteng ka sefofane?","spans":[{"start_byte":26,"limit_byte":33,"label":"COUNTRY"},{"start_byte":40,"limit_byte":47,"label":"CITY_OR_PROVINCE"}],"target":"COUNTRY: Lesotho $$ CITY_OR_PROVINCE: Gauteng","example_id":"test-00000072"}
+{"intent":"time","text":"ke nako e kae ho tswa Limpopo ho ya Gauteng?","spans":[{"start_byte":22,"limit_byte":29,"label":"CITY_OR_PROVINCE"},{"start_byte":36,"limit_byte":43,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Limpopo $$ CITY_OR_PROVINCE: Gauteng","example_id":"test-00000073"}
+{"intent":"time","text":"Singapore e morao ka dihora lile kae ho London?","spans":[{"start_byte":0,"limit_byte":9,"label":"COUNTRY"},{"start_byte":40,"limit_byte":46,"label":"CITY_OR_PROVINCE"}],"target":"COUNTRY: Singapore $$ CITY_OR_PROVINCE: London","example_id":"test-00000074"}
+{"intent":"time","text":"diwatjhe di rekiswa mabenkeleng a fe ?","spans":[{"start_byte":0,"limit_byte":8,"label":"SHOPPING_ITEM"}],"target":"SHOPPING_ITEM: diwatjhe","example_id":"test-00000075"}
+{"intent":"time","text":"ho nka nako ekae ho tswa New York oya Chicago ka sefofane?","spans":[{"start_byte":25,"limit_byte":33,"label":"CITY_OR_PROVINCE"},{"start_byte":38,"limit_byte":45,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: New York $$ CITY_OR_PROVINCE: Chicago","example_id":"test-00000076"}
+{"intent":"time","text":"tokyo le chicago di arohanywa ke hora tse kae?","spans":[{"start_byte":0,"limit_byte":5,"label":"CITY_OR_PROVINCE"},{"start_byte":9,"limit_byte":16,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: tokyo $$ CITY_OR_PROVINCE: chicago","example_id":"test-00000077"}
+{"intent":"time","text":"ke nako mang California?","spans":[{"start_byte":13,"limit_byte":23,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: California","example_id":"test-00000078"}
+{"intent":"time","text":"ke nako mang hona jwale India?","spans":[{"start_byte":24,"limit_byte":29,"label":"COUNTRY"}],"target":"COUNTRY: India","example_id":"test-00000079"}
+{"intent":"timezone","text":"ke naha efe e sebedisang sebaka sa Eastern African time (EAT)","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"timezone","text":"ke nako mang hona jwale Lesotho ?","spans":[{"start_byte":24,"limit_byte":31,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho","example_id":"test-00000065"}
+{"intent":"timezone","text":"ke nako mang hona jwale Buddapest?","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"timezone","text":"ke nako mang hona jwale Fernando de Noronha?","spans":[{"start_byte":24,"limit_byte":43,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Fernando de Noronha","example_id":"test-00000067"}
+{"intent":"timezone","text":"Ke nako mang Greece?","spans":[{"start_byte":13,"limit_byte":19,"label":"COUNTRY"}],"target":"COUNTRY: Greece","example_id":"test-00000068"}
+{"intent":"timezone","text":"ke naha efe e sebedisang Brasilia Time (BRT)?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"timezone","text":"phapang ya nako keng pakeng tsa Santo Domingo le New York?","spans":[{"start_byte":32,"limit_byte":45,"label":"CITY_OR_PROVINCE"},{"start_byte":49,"limit_byte":57,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Santo Domingo $$ CITY_OR_PROVINCE: New York","example_id":"test-00000070"}
+{"intent":"timezone","text":"dinaha tse ding disiana ka jwang ka dinako?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"timezone","text":"phapang ya nako keng pakeng tsa Hong Kong le Sydney?","spans":[{"start_byte":32,"limit_byte":41,"label":"CITY_OR_PROVINCE"},{"start_byte":45,"limit_byte":51,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Hong Kong $$ CITY_OR_PROVINCE: Sydney","example_id":"test-00000072"}
+{"intent":"timezone","text":"Dinaha di fapana jwang ka dinako?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"timezone","text":"ke nako mang hona jwale Libya?","spans":[{"start_byte":24,"limit_byte":29,"label":"COUNTRY"}],"target":"COUNTRY: Libya","example_id":"test-00000074"}
+{"intent":"timezone","text":"na dinaha kaofela di na le nako e tshwanang?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"timezone","text":"ke nako mang hona jwale London?","spans":[{"start_byte":24,"limit_byte":30,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: London","example_id":"test-00000076"}
+{"intent":"timezone","text":"ke nako mang hona Georgetown?","spans":[{"start_byte":18,"limit_byte":28,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Georgetown","example_id":"test-00000077"}
+{"intent":"timezone","text":"ke naha efe e sebedisang nako e tshwanang le ya Lesotho?","spans":[{"start_byte":48,"limit_byte":55,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho","example_id":"test-00000078"}
+{"intent":"timezone","text":"San Salvador e sebakeng sefe sa nako?","spans":[{"start_byte":0,"limit_byte":12,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: San Salvador","example_id":"test-00000079"}
+{"intent":"transactions","text":"ho nka nako e kae hore banka e o romele molaetsa wa tjhelete?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"transactions","text":"nka kgona ho fetola nomoro ya lekunutu ya karate ya ka ya banka ke sa ya bankeng?","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"transactions","text":"ke kopa o romele dinomoro tsa akhaonto yaka ka emeili.","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"transactions","text":"nka kgona ho hula tjhelete ya tjheke ka founu?","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"transactions","text":"tjhelete e ke e rometseng e tsamaile?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"transactions","text":"ke na le bokae ka karateng ya sekoloto?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"transactions","text":"nka kgona ho sebedisa founu ho romela motho a Australia tjhelete?","spans":[{"start_byte":46,"limit_byte":55,"label":"COUNTRY"}],"target":"COUNTRY: Australia","example_id":"test-00000070"}
+{"intent":"transactions","text":"ho na le ditjeho tse sa lefellwang kgweding ena, ke bokae?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"transactions","text":"nka kgona ho patala karate ya sekoloto ka ya ho ho boloka?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"transactions","text":"nka kgona ho patala dikoloto ka karete ya FNB?","spans":[{"start_byte":42,"limit_byte":45,"label":"BANK_NAME"}],"target":"BANK_NAME: FNB","example_id":"test-00000073"}
+{"intent":"transactions","text":"ha tjheke e hanne ho ntsha tjhelete na banka e kgona ho bona hore mathata ke eng?","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"transactions","text":"Lefa tjhelete ya rente?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"transactions","text":"nka kgona ho emisa karata ya sekoloto?","spans":[{"start_byte":19,"limit_byte":37,"label":"ACCOUNT_TYPE"}],"target":"ACCOUNT_TYPE: karata ya sekoloto","example_id":"test-00000076"}
+{"intent":"transactions","text":"bonase ya ka ya mosebetsing ke bokae?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"transactions","text":"ho nka nako e kae hore banka e kwale akhaonto?","spans":[],"target":"","example_id":"test-00000078"}
+{"intent":"transactions","text":"hara kgwedi tse pedi tse fetileng ke kgwedi efe eo ke sebedisitseng tjhelete engata?","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"transfer","text":"Na nka kgona ho romella motho a senang akhaonto ya banka tjhelete?","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"transfer","text":"Tsela ya ho boloka tjhelete FNB ke efe?","spans":[{"start_byte":28,"limit_byte":31,"label":"BANK_NAME"}],"target":"BANK_NAME: FNB","example_id":"test-00000065"}
+{"intent":"transfer","text":"Na nka kgona ho romela tjhelete ka PayPal?","spans":[{"start_byte":35,"limit_byte":41,"label":"PAYMENT_COMPANY"}],"target":"PAYMENT_COMPANY: PayPal","example_id":"test-00000066"}
+{"intent":"transfer","text":"Nka romela motho ya Lesotho tjhelete ka banka ya Afrika Borwa?","spans":[{"start_byte":20,"limit_byte":27,"label":"COUNTRY"},{"start_byte":49,"limit_byte":61,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho $$ COUNTRY: Afrika Borwa","example_id":"test-00000067"}
+{"intent":"transfer","text":"Romela Tshwane Municipality tjhelete ya motlakase.","spans":[{"start_byte":40,"limit_byte":49,"label":"BILL_TYPE"}],"target":"BILL_TYPE: motlakase","example_id":"test-00000068"}
+{"intent":"transfer","text":"Na nka kgona ho kenya karate ya ka ho ATM ya banka e ngwe?","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"transfer","text":"Ke tsela efe e sireletsehileng ya ho romela tjhelete?","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"transfer","text":"Romela Lesedi R300 akhaontong ya Capitec.","spans":[{"start_byte":7,"limit_byte":13,"label":"PERSONAL_NAME"},{"start_byte":14,"limit_byte":18,"label":"MONEY"},{"start_byte":33,"limit_byte":40,"label":"BANK_NAME"}],"target":"PERSONAL_NAME: Lesedi $$ MONEY: R300 $$ BANK_NAME: Capitec","example_id":"test-00000071"}
+{"intent":"transfer","text":"Na nka kgona ho romela tjhelete ka motjhini wa banka e ngwe ho ya bankeng e ngwe?","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"transfer","text":"Romela Palesa R3000 akhaontong ya USA.","spans":[{"start_byte":7,"limit_byte":13,"label":"PERSONAL_NAME"},{"start_byte":14,"limit_byte":19,"label":"MONEY"},{"start_byte":34,"limit_byte":37,"label":"COUNTRY"}],"target":"PERSONAL_NAME: Palesa $$ MONEY: R3000 $$ COUNTRY: USA","example_id":"test-00000073"}
+{"intent":"transfer","text":"Na nka kgona ho ntsha tjhelete lebenkeleng lea PicknPay?","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"transfer","text":"Ke rometse tjhelete ho batswadi maobane?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"transfer","text":"Na nka kgona ho romella motho a naheng e ngwe tjhelete a sebedisa banka ya naha eno?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"transfer","text":"Na nka kgona ho ntsha tjhelete lebenkeleng la PEP?","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"transfer","text":"Na nka kgona ho romela tjhelete ke sebedisa SSL?","spans":[{"start_byte":44,"limit_byte":47,"label":"PAYMENT_COMPANY"}],"target":"PAYMENT_COMPANY: SSL","example_id":"test-00000078"}
+{"intent":"transfer","text":"na nka kgona ho thibela ho romelwa ha tjhelete akhaontong ya mokitlale?","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"translate","text":"Fetolela ke kopa metsi ka Sexhosa.","spans":[{"start_byte":26,"limit_byte":33,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sexhosa","example_id":"test-00000064"}
+{"intent":"translate","text":"Batho ba baholo ba dumediswa jwang ka Seswati?","spans":[{"start_byte":38,"limit_byte":45,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seswati","example_id":"test-00000065"}
+{"intent":"translate","text":"Fetolela ke ya mosebetsing ka Seswati.","spans":[{"start_byte":30,"limit_byte":37,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seswati","example_id":"test-00000066"}
+{"intent":"translate","text":"Ke a o rata ke eng ka isiNdebele?","spans":[{"start_byte":22,"limit_byte":32,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: isiNdebele","example_id":"test-00000067"}
+{"intent":"translate","text":"Ntlo ke eng ka Seswati?","spans":[{"start_byte":15,"limit_byte":22,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seswati","example_id":"test-00000068"}
+{"intent":"translate","text":"Dijo di bitswa eng ka Sevenda?","spans":[{"start_byte":22,"limit_byte":29,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sevenda","example_id":"test-00000069"}
+{"intent":"translate","text":"Ke dumedisa jwang ka Sepedi?","spans":[{"start_byte":21,"limit_byte":27,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sepedi","example_id":"test-00000070"}
+{"intent":"translate","text":"O re eng ha o sadisa hantle ka Sedatjhe?","spans":[{"start_byte":31,"limit_byte":39,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sedatjhe","example_id":"test-00000071"}
+{"intent":"translate","text":"Lehapu ke eng ka Setsonga?","spans":[{"start_byte":0,"limit_byte":6,"label":"DISH_OR_FOOD"},{"start_byte":17,"limit_byte":25,"label":"LANGUAGE_NAME"}],"target":"DISH_OR_FOOD: Lehapu $$ LANGUAGE_NAME: Setsonga","example_id":"test-00000072"}
+{"intent":"translate","text":"Koloi ke eng ka Sefora?","spans":[{"start_byte":16,"limit_byte":22,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sefora","example_id":"test-00000073"}
+{"intent":"translate","text":"O dumedisa jwang ka Setsonga hoseng, motsheare le mantsiboya?","spans":[{"start_byte":20,"limit_byte":28,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Setsonga","example_id":"test-00000074"}
+{"intent":"translate","text":"Fetolela metsi ka Seshona.","spans":[{"start_byte":18,"limit_byte":25,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seshona","example_id":"test-00000075"}
+{"intent":"translate","text":"Fetolela ho a bata ka Seshona.","spans":[{"start_byte":22,"limit_byte":29,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seshona","example_id":"test-00000076"}
+{"intent":"translate","text":"Fetolela ngwana o ithotetse ka Sexhosa.","spans":[{"start_byte":31,"limit_byte":38,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Sexhosa","example_id":"test-00000077"}
+{"intent":"translate","text":"Fetolela ke ya mabenkeleng ka Seswati.","spans":[{"start_byte":30,"limit_byte":37,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Seswati","example_id":"test-00000078"}
+{"intent":"translate","text":"Titjhere ka Setswana ke eng?","spans":[{"start_byte":12,"limit_byte":20,"label":"LANGUAGE_NAME"}],"target":"LANGUAGE_NAME: Setswana","example_id":"test-00000079"}
+{"intent":"travel_notification","text":"ke tlameha ho tsebisa sekolo saka hore haufinyane ke ya Zimbali","spans":[{"start_byte":56,"limit_byte":63,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Zimbali","example_id":"test-00000064"}
+{"intent":"travel_notification","text":"ka kopo, tsebisa ba heso hore ke tlabe ke le Abuja ho tloha Mmesa ho fihla Tshitwe","spans":[{"start_byte":45,"limit_byte":50,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Abuja","example_id":"test-00000065"}
+{"intent":"travel_notification","text":"Tsebisa Batswalle baka hore ke ya Ghana ka di 3 Tshitwe ho Fihla ka di 5 Mmesa","spans":[{"start_byte":34,"limit_byte":39,"label":"COUNTRY"},{"start_byte":46,"limit_byte":55,"label":"DATE"},{"start_byte":71,"limit_byte":78,"label":"DATE"}],"target":"COUNTRY: Ghana $$ DATE: 3 Tshitwe $$ DATE: 5 Mmesa","example_id":"test-00000066"}
+{"intent":"travel_notification","text":"ke etela matjhabeng mme ke hloka ho tsebisa mookamedi waka","spans":[],"target":"","example_id":"test-00000067"}
+{"intent":"travel_notification","text":"Tsebisa banka yaka hore ke ya Dubai.","spans":[{"start_byte":30,"limit_byte":35,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Dubai","example_id":"test-00000068"}
+{"intent":"travel_notification","text":"O hopotse mosuwe ka ketelo ya rona ya ho ya North West","spans":[{"start_byte":44,"limit_byte":54,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: North West","example_id":"test-00000069"}
+{"intent":"travel_notification","text":"Ke tlo etela Lesotho haufinyane ke tlo hloka ho tsebisa ba lelapa","spans":[{"start_byte":13,"limit_byte":20,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho","example_id":"test-00000070"}
+{"intent":"travel_notification","text":"Tsebisa banka yaka hore ke tla be ke le Nigeria ho tloha ka di 29 Motsheanong.","spans":[{"start_byte":40,"limit_byte":47,"label":"COUNTRY"},{"start_byte":63,"limit_byte":77,"label":"DATE"}],"target":"COUNTRY: Nigeria $$ DATE: 29 Motsheanong","example_id":"test-00000071"}
+{"intent":"travel_notification","text":"Hlokomedisa bo Rangwani hore ke tlo fihla Quthing bekeng e latelang moqebelo","spans":[{"start_byte":42,"limit_byte":49,"label":"PLACE_NAME"},{"start_byte":50,"limit_byte":76,"label":"DATE"}],"target":"PLACE_NAME: Quthing $$ DATE: bekeng e latelang moqebelo","example_id":"test-00000072"}
+{"intent":"travel_notification","text":"Tsebisa banka yaka hore ke tlabe ke le Kenya ho tlhoha 5 Hlakubele ho isa 10 Mmesa.","spans":[{"start_byte":39,"limit_byte":44,"label":"COUNTRY"},{"start_byte":55,"limit_byte":66,"label":"DATE"},{"start_byte":74,"limit_byte":82,"label":"DATE"}],"target":"COUNTRY: Kenya $$ DATE: 5 Hlakubele $$ DATE: 10 Mmesa","example_id":"test-00000073"}
+{"intent":"travel_notification","text":"Ka kopo, tsebisa mohlakolara hore ka di 27 ke tlabe ke le Klerksdorp","spans":[{"start_byte":40,"limit_byte":42,"label":"DATE"},{"start_byte":58,"limit_byte":68,"label":"CITY_OR_PROVINCE"}],"target":"DATE: 27 $$ CITY_OR_PROVINCE: Klerksdorp","example_id":"test-00000074"}
+{"intent":"travel_notification","text":"Tsebisa banka yaka hore ke tla be ke le Cape Town hosane.","spans":[{"start_byte":40,"limit_byte":49,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Cape Town","example_id":"test-00000075"}
+{"intent":"travel_notification","text":"Bolella moahisane ke ya mose.","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"travel_notification","text":"Romela Mpho Mosia imeile ya hore ke ya Qatar ho tloha ka di 17 Mmesa ho fihla ka di 2 Phuphu","spans":[{"start_byte":7,"limit_byte":17,"label":"PERSONAL_NAME"},{"start_byte":39,"limit_byte":44,"label":"COUNTRY"},{"start_byte":60,"limit_byte":68,"label":"DATE"},{"start_byte":84,"limit_byte":92,"label":"DATE"}],"target":"PERSONAL_NAME: Mpho Mosia $$ COUNTRY: Qatar $$ DATE: 17 Mmesa $$ DATE: 2 Phuphu","example_id":"test-00000077"}
+{"intent":"travel_notification","text":"Tsebisa monyadi hore moruti o tla fihla moqebelo ho tswa Orkney","spans":[{"start_byte":40,"limit_byte":48,"label":"DATE"},{"start_byte":57,"limit_byte":63,"label":"PLACE_NAME"}],"target":"DATE: moqebelo $$ PLACE_NAME: Orkney","example_id":"test-00000078"}
+{"intent":"travel_notification","text":"Ke tlo etela Israel haufinyana mme ke hloka ho tsebisa baratuwa baka","spans":[{"start_byte":13,"limit_byte":19,"label":"COUNTRY"}],"target":"COUNTRY: Israel","example_id":"test-00000079"}
+{"intent":"travel_suggestion","text":"Motho ya qalang ho etela KZN a ka ya kae?","spans":[{"start_byte":25,"limit_byte":28,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: KZN","example_id":"test-00000064"}
+{"intent":"travel_suggestion","text":"Ke kae moo lewatle le sa tlaleng batho teng KZN?","spans":[{"start_byte":44,"limit_byte":47,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: KZN","example_id":"test-00000065"}
+{"intent":"travel_suggestion","text":"Ke dintho dife tseo nka di etsang ha ke etela Coffee Bay?","spans":[{"start_byte":46,"limit_byte":56,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Coffee Bay","example_id":"test-00000066"}
+{"intent":"travel_suggestion","text":"Bahahlaudi ba thabela ho etsa eng ha ba fihla Mpumalanga","spans":[{"start_byte":46,"limit_byte":56,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Mpumalanga","example_id":"test-00000067"}
+{"intent":"travel_suggestion","text":"Gold Reef city e provensing e fe","spans":[{"start_byte":0,"limit_byte":14,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Gold Reef city","example_id":"test-00000068"}
+{"intent":"travel_suggestion","text":"Ke tshwanela ho lefa bokae ho kena Clarens Winery?","spans":[{"start_byte":35,"limit_byte":49,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Clarens Winery","example_id":"test-00000069"}
+{"intent":"travel_suggestion","text":"Ke dibaka dife tseo nka di etelang Durban?","spans":[{"start_byte":35,"limit_byte":41,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Durban","example_id":"test-00000070"}
+{"intent":"travel_suggestion","text":"Phaka e bolokehileng e hokae","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"travel_suggestion","text":"Ke dijo dife tseo nka di tsamaisang le veine ha ke le Clarens?","spans":[{"start_byte":39,"limit_byte":44,"label":"DISH_OR_FOOD"},{"start_byte":54,"limit_byte":61,"label":"PLACE_NAME"}],"target":"DISH_OR_FOOD: veine $$ PLACE_NAME: Clarens","example_id":"test-00000072"}
+{"intent":"travel_suggestion","text":"Dijo tse monate di rekiswa direstjhurented dife Polokwane","spans":[{"start_byte":48,"limit_byte":57,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Polokwane","example_id":"test-00000073"}
+{"intent":"travel_suggestion","text":"Ho nka nako e kae ka sefofane ho tloha Johannesburg ho ya Gqeberha?","spans":[{"start_byte":39,"limit_byte":51,"label":"CITY_OR_PROVINCE"},{"start_byte":58,"limit_byte":66,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Johannesburg $$ CITY_OR_PROVINCE: Gqeberha","example_id":"test-00000074"}
+{"intent":"travel_suggestion","text":"Pakeng tsa Kenya le Cameroon nka ya kae","spans":[{"start_byte":11,"limit_byte":16,"label":"COUNTRY"},{"start_byte":20,"limit_byte":28,"label":"COUNTRY"}],"target":"COUNTRY: Kenya $$ COUNTRY: Cameroon","example_id":"test-00000075"}
+{"intent":"travel_suggestion","text":"Na ho na le mekete e etsahalang KZN ka Lwetse ha ke eta?","spans":[{"start_byte":32,"limit_byte":35,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: KZN","example_id":"test-00000076"}
+{"intent":"travel_suggestion","text":"Ke dintho dife tseo nka di rekang ha ke le Gqeberha?","spans":[{"start_byte":43,"limit_byte":51,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Gqeberha","example_id":"test-00000077"}
+{"intent":"travel_suggestion","text":"Ke dibaka dife tsa boithabiso tseo nka di etelang Dubai?","spans":[{"start_byte":50,"limit_byte":55,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Dubai","example_id":"test-00000078"}
+{"intent":"travel_suggestion","text":"Ke dife dijo tse tsebahalang haholo Swaziland?","spans":[{"start_byte":36,"limit_byte":45,"label":"COUNTRY"}],"target":"COUNTRY: Swaziland","example_id":"test-00000079"}
+{"intent":"update_playlist","text":"Nka kgona ho mamela lenane la mmino la motho o mong","spans":[],"target":"","example_id":"test-00000064"}
+{"intent":"update_playlist","text":"A na nka kgona ho kopanela lenane la mmino le mokgotsi waka","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"update_playlist","text":"Ke kae mo re ka kgona ho mamela di pina ka nako e lengwe","spans":[],"target":"","example_id":"test-00000066"}
+{"intent":"update_playlist","text":"Kopanya lenane la mmino la Manana le Lloyiso","spans":[{"start_byte":27,"limit_byte":33,"label":"ARTIST_NAME"},{"start_byte":37,"limit_byte":44,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Manana $$ ARTIST_NAME: Lloyiso","example_id":"test-00000067"}
+{"intent":"update_playlist","text":"Etsa lenane la mmino la pina tsa Mafikizolo","spans":[{"start_byte":33,"limit_byte":43,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Mafikizolo","example_id":"test-00000068"}
+{"intent":"update_playlist","text":"A na apple music e ka nketsetsa lenane la mmino na","spans":[],"target":"","example_id":"test-00000069"}
+{"intent":"update_playlist","text":"Nka kgona ho etsa lenane la mmino ka apple music","spans":[],"target":"","example_id":"test-00000070"}
+{"intent":"update_playlist","text":"Mphe lenane la mmino la pina tsa maindiya","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"update_playlist","text":"A na youtube e ka nketsetsa lenane la mmino na","spans":[],"target":"","example_id":"test-00000072"}
+{"intent":"update_playlist","text":"Etsa lenane la mmino la pina tsa Beyonce","spans":[{"start_byte":33,"limit_byte":40,"label":"ARTIST_NAME"}],"target":"ARTIST_NAME: Beyonce","example_id":"test-00000073"}
+{"intent":"update_playlist","text":"Ke etsa lenane la mmino jwang ka soundcloud","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"update_playlist","text":"Mphe lenane la mmino la pina tsa housu","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"update_playlist","text":"A na nka kgona ho romella mokgotsi wakka lenane la mmino laka","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"update_playlist","text":"A na nka kgona ho thibela bana ho mamela lenane la mmino tsaka","spans":[],"target":"","example_id":"test-00000077"}
+{"intent":"update_playlist","text":"Mphe lenane la mmino wa classic","spans":[{"start_byte":15,"limit_byte":31,"label":"MUSIC_GENRE"}],"target":"MUSIC_GENRE: mmino wa classic","example_id":"test-00000078"}
+{"intent":"update_playlist","text":"Nka kgona ho etsa lenane la mmino ka spotify","spans":[],"target":"","example_id":"test-00000079"}
+{"intent":"weather","text":"Pula e ya na Kapa kajeno?","spans":[{"start_byte":13,"limit_byte":17,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Kapa","example_id":"test-00000064"}
+{"intent":"weather","text":"Mphe maemo a lehodimo a hosane thapama.","spans":[],"target":"","example_id":"test-00000065"}
+{"intent":"weather","text":"Na borokgo ba Sandton bo hohotswe ke sefefo?","spans":[{"start_byte":14,"limit_byte":21,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Sandton","example_id":"test-00000066"}
+{"intent":"weather","text":"Maemo a lehodimo a jwang Pretoria bekeng e tlang?","spans":[{"start_byte":25,"limit_byte":33,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Pretoria","example_id":"test-00000067"}
+{"intent":"weather","text":"Na motjheso o theohile kantle?","spans":[],"target":"","example_id":"test-00000068"}
+{"intent":"weather","text":"Maemo a lehodimo a Lesotho a fapane le a Afrika Borwa?","spans":[{"start_byte":19,"limit_byte":26,"label":"COUNTRY"},{"start_byte":41,"limit_byte":53,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho $$ COUNTRY: Afrika Borwa","example_id":"test-00000069"}
+{"intent":"weather","text":"Na Bethlehem ho na sefako?","spans":[{"start_byte":3,"limit_byte":12,"label":"PLACE_NAME"}],"target":"PLACE_NAME: Bethlehem","example_id":"test-00000070"}
+{"intent":"weather","text":"Maru a tlabe a thibile hosane?","spans":[],"target":"","example_id":"test-00000071"}
+{"intent":"weather","text":"Mphe maemo a lehodimo a kgwedi kaofela a Johannesburg, Bryanston. ","spans":[{"start_byte":41,"limit_byte":53,"label":"CITY_OR_PROVINCE"},{"start_byte":55,"limit_byte":64,"label":"PLACE_NAME"}],"target":"CITY_OR_PROVINCE: Johannesburg $$ PLACE_NAME: Bryanston","example_id":"test-00000072"}
+{"intent":"weather","text":"Re lebelle moya bekeng e?","spans":[],"target":"","example_id":"test-00000073"}
+{"intent":"weather","text":"Letsatsi le dikela neng ka sehla sa selemo?","spans":[],"target":"","example_id":"test-00000074"}
+{"intent":"weather","text":"Kajeno ho a bata kapa ho a tjhesa?","spans":[],"target":"","example_id":"test-00000075"}
+{"intent":"weather","text":"Na ho tla ba le moya hosane?","spans":[],"target":"","example_id":"test-00000076"}
+{"intent":"weather","text":"Letsatsi le tjhaba ka nako mang mariha? ","spans":[{"start_byte":32,"limit_byte":38,"label":"TIME"}],"target":"TIME: mariha","example_id":"test-00000077"}
+{"intent":"weather","text":"Difefo tsa Durban di hohola matlo?","spans":[{"start_byte":11,"limit_byte":17,"label":"CITY_OR_PROVINCE"}],"target":"CITY_OR_PROVINCE: Durban","example_id":"test-00000078"}
+{"intent":"weather","text":"Dithabeng tsa Lesotho ho a bata?","spans":[{"start_byte":14,"limit_byte":21,"label":"COUNTRY"}],"target":"COUNTRY: Lesotho","example_id":"test-00000079"}

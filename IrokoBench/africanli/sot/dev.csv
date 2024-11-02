@@ -1,0 +1,451 @@
+premise,hypothesis,label
+Ya ba o re mme ke lapeng,O ile a letsetsa mme wa hae hang ha bese ya sekolo e mo theola.,neutral
+Ya ba o re mme ke lapeng,Ha a ka a bua letho.,contradiction
+Ya ba o re mme ke lapeng,O ile a bolella mme wa hae hore o fihlile hae.,entailment
+"Ke ne ke sa tsebe ke ilo etsa eng, jwale ka iswa sebakeng seo ke neng ke se kgethetswe Washington.","Ha ke so ka ke ya Washington, jwale ha ke iswa moo, ke ile ka lahleha ke batlana le sebaka seo ke yang ho sona.",neutral
+"Ke ne ke sa tsebe ke ilo etsa eng, jwale ka iswa sebakeng seo ke neng ke se kgethetswe Washington.",Ke ne ke tseba hantle seo ke neng ke tshwanela ho se etsa ha ke ne ke ya Washington.,contradiction
+"Ke ne ke sa tsebe ke ilo etsa eng, jwale ka iswa sebakeng seo ke neng ke se kgethetswe Washington.","Ke ne ke se na bonnete ba hore ke ilo etsa eng, jwale ke ile ka ya Washington moo ke neng ke kgethetswe ho ya teng.",entailment
+Ha a ka ba a ya.,E ne e le motho wa pele wa ho mengwa mme a thabela phihlelo eo.,contradiction
+Ha a ka ba a ya.,O ne a sa dumellwa ho ba teng.,entailment
+Ha a ka ba a ya.,O ne a sa dumellwa ho ya pulong ya museamo.,neutral
+"Yaba ke re holokile, yaba e fella moo.","Kamora hore ke dumele, ya fela.",entailment
+"Yaba ke re holokile, yaba e fella moo.",Ke ile ka hana yaba e tswela pele ha e fele.,contradiction
+"Yaba ke re holokile, yaba e fella moo.","Eitse ha ke dumela, ra nka qeto ya hore re tla nyalana letsatsing lona leo.",neutral
+Ke ne ke le moo ke leka feela ho utlwisisa se etsahalang.,Ke ne ke e utlwisisa hantle ho tloha qalong.,contradiction
+Ke ne ke le moo ke leka feela ho utlwisisa se etsahalang.,Ke ne ke leka ho utlwisisa hore tjhelete e ile kae.,neutral
+Ke ne ke le moo ke leka feela ho utlwisisa se etsahalang.,Ke ne ke leka ho utlwisisa.,entailment
+"Nkgono o ne a rata ho re qoqela ka ka moo ausi wa hae le monna wa hae ba ileng ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.",Ausi wa nkgono o ne a le mosweu mme a fallela Texas.,contradiction
+"Nkgono o ne a rata ho re qoqela ka ka moo ausi wa hae le monna wa hae ba ileng ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.",Ausi wa nkgono e ne e se lekgowa.,entailment
+"Nkgono o ne a rata ho re qoqela ka ka moo ausi wa hae le monna wa hae ba ileng ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.","Ausi wa nkgono e ne e se lekgowa, efela o ne a batla ho ba lekgowa hore feela a kene sekolo.",neutral
+"Nkgono o ne a rata ho re qoqela ka hore ausi wa hae le monna wa hae ba ile ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.",Ntate wa hae o ne a se na letho bophelong.,contradiction
+"Nkgono o ne a rata ho re qoqela ka hore ausi wa hae le monna wa hae ba ile ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.",Ntate wa hae o ne a ena le dihektara tse 2000 tsa masimo.,neutral
+"Nkgono o ne a rata ho re qoqela ka hore ausi wa hae le monna wa hae ba ile ba nka qeto ya hore ba tla fallela toropong, Augusta, ba phele le makgowa.",Ntate wa hae o ne a ena le thepa e ngata.,entailment
+Empa mosebetsi wa ka e ne e le ho beha dipharatjhute ho yona le dintho tse pholosang bophelo ha re laetjha mme re ya mose ho mawatle. ,"Ke ne ke sa sebetse, jwale ke ile ka boloka mabokose ohle lapeng.",contradiction
+Empa mosebetsi wa ka e ne e le ho beha dipharatjhute ho yona le dintho tse pholosang bophelo ha re laetjha mme re ya mose ho mawatle. ,Ke ile ka romella mabokose Japane.,neutral
+Empa mosebetsi wa ka e ne e le ho beha dipharatjhute ho yona le dintho tse pholosang bophelo ha re laetjha mme re ya mose ho mawatle. ,Ke ile ka a romella.,entailment
+"Jwale, ke ka moo ke dulang ke itlamme ka lebanta.",Ke ile ka netefatsa hore lebanta le ntlamme ka tsela e tiileng hore ke bolokehe.,neutral
+"Jwale, ke ka moo ke dulang ke itlamme ka lebanta.",Ke yona hantle tsela eo ke ileng ka tlamollwa ka yona.,contradiction
+"Jwale, ke ka moo ke dulang ke itlamme ka lebanta.",Eo ke tsela eo ke neng ke tlanngwe ka yona hantle.,entailment
+"E ne e le rabasadi, ebile a phethesela. Hape, o a tseba, ke ne ke sa mothabele, efela tseo ke pale tsa ka.",O ne a tshepahala ebile a lokile.,contradiction
+"E ne e le rabasadi, ebile a phethesela. Hape, o a tseba, ke ne ke sa mothabele, efela tseo ke pale tsa ka.",Ke ne ke mohloile hobane o ne a ikgohomosa.,neutral
+"E ne e le rabasadi, ebile a phethesela. Hape, o a tseba, ke ne ke sa mothabele, efela tseo ke pale tsa ka.",Ke ne ke se molatedi wa hae.,entailment
+"Ha ke hula, le yena a nkgulela kanoping hore ke montshe, o supa disebediswa tse pedi ka lehlakoreng le letshehadi la sefofane tse qhebedihileng ha sefofane se ntse se fofa.",Disebediswa tsohle tsa sefofane di ne di le maemong a hantle.,contradiction
+"Ha ke hula, le yena a nkgulela kanoping hore ke montshe, o supa disebediswa tse pedi ka lehlakoreng le letshehadi la sefofane tse qhebedihileng ha sefofane se ntse se fofa.",Ho ne ho le boima ho mo ntsha.,neutral
+"Ha ke hula, le yena a nkgulela kanoping hore ke montshe, o supa disebediswa tse pedi ka lehlakoreng le letshehadi la sefofane tse qhebedihileng ha sefofane se ntse se fofa.",Ho ne ho na le disebediswa tse qhebedihileng sefofaneng.,entailment
+O ne a sa utlwisisi.,Alas o ne a sa utlwisisi hantle ka lebaka la bothata ba puo.,neutral
+O ne a sa utlwisisi.,"Le jwale, o ne a sa utlwisisi.",entailment
+O ne a sa utlwisisi.,O ne a tseba hantle hore re bua ka eng.,contradiction
+"Mohlomong o bolelletse batho kaofela, mme ke ne ke sa mamela ka nako eo.",Ha ke a mo utlwa ha a ne a bolella batho kaofela.,entailment
+"Mohlomong o bolelletse batho kaofela, mme ke ne ke sa mamela ka nako eo.",Ke utlwile ntho e nngwe le e nngwe a e buileng.,contradiction
+"Mohlomong o bolelletse batho kaofela, mme ke ne ke sa mamela ka nako eo.",Ke ne ke bua le motho e mong ka nako eo.,neutral
+"Ho lahlehile difofane tse pedi, tse tharo ha re ntse re le moo, le nako ya ditekolo.",Difofafe tse mmalwa di lahlehile ka lebaka la maemo a lehodimo.,neutral
+"Ho lahlehile difofane tse pedi, tse tharo ha re ntse re le moo, le nako ya ditekolo.",Ho lahlehile difofane tse mmalwa.,entailment
+"Ho lahlehile difofane tse pedi, tse tharo ha re ntse re le moo, le nako ya ditekolo.",Ha re so ka re lahlehelwa ke sefofane.,contradiction
+Ke hloka hore o nketsetse ho itseng.,Ha ke hloke thuso.,contradiction
+Ke hloka hore o nketsetse ho itseng.,Ke mosebetsi o moholo oo ke hlokang hore o etswe.,neutral
+Ke hloka hore o nketsetse ho itseng.,Ho na le seo ke hlokang hore se etswe.,entailment
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.","Ntle le lebitso la yona, Snake River ha e na dinoha, e bitswa tjena ka lebaka la sebopeho sa yona.",contradiction
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.",Snake River e na le dikolopata tse ngata.,neutral
+"Oho, e ne e le Snake River, oho Snake River e nang le dinoha tse ngata.",Snake River e tletse ka dinoha.,entailment
+"Lejwale, ke boemo bo mahlahahlaha, ha se ntho eo o ka ikenyang ho yona mme wa lebella mosebetsi o kgabane, kannete ha ke nahane jwalo.",Ke nahana hore o tlameha ho inehela ka dihora tse 10 ka letsatsi hore o etse mosebetsi o tswileng matsoho ho yona.,neutral
+"Lejwale, ke boemo bo mahlahahlaha, ha se ntho eo o ka ikenyang ho yona mme wa lebella mosebetsi o kgabane, kannete ha ke nahane jwalo.",Ke nahana hore o tshwanela ho inehela ho yona hore o e tsebe hantle.,entailment
+"Lejwale, ke boemo bo mahlahahlaha, ha se ntho eo o ka ikenyang ho yona mme wa lebella mosebetsi o kgabane, kannete ha ke nahane jwalo.",Ha ho na bothata ha o sa e nkele hloohong.,contradiction
+"ke nahana hore se tlo kgahlisa ke seo re tla se etsa, re tlo tlameha ho kgetha batho ba tla re emela hape","Ke a tseba hore ho tla be ho sa kgahlise ebile ho sa hlokahale hore re kgethe baemedi ba bang, jwale ha re a tshwanela le hore re leke ho ba fetola.",contradiction
+"ke nahana hore se tlo kgahlisa ke seo re tla se etsa, re tlo tlameha ho kgetha batho ba tla re emela hape",Ke nahana e tla ba phephetso ho fetola baemedi efela e tla ba ntho e molemo qetellong.,neutral
+"ke nahana hore se tlo kgahlisa ke seo re tla se etsa, re tlo tlameha ho kgetha batho ba tla re emela hape",Re tlameha ho etsa phethoho baemeding ba rona.,entailment
+mme e ka ba batho ba hantle hape kamora hore ba rupellwe.,Ba a tiha kamora hore ba qete thupello ya bona.,contradiction
+mme e ka ba batho ba hantle hape kamora hore ba rupellwe.,Ba fetoha kapele ha ba ntse ba le thupellong.,neutral
+mme e ka ba batho ba hantle hape kamora hore ba rupellwe.,"Ha ba le thupellong, e ka ba batho ba thabisang.",entailment
+e ka tswela pele dilemo tse mashome a mabedi mme ke nahana hore ke ntho e senang kelello,Ke nahana ke bohlanya hore nyewe e le nngwe e ka nka dilemo tse telele tjena.,neutral
+e ka tswela pele dilemo tse mashome a mabedi mme ke nahana hore ke ntho e senang kelello,Ke nahana ke bohlanya hore e ka nka nako e telele tjena.,entailment
+e ka tswela pele dilemo tse mashome a mabedi mme ke nahana hore ke ntho e senang kelello,E nka bene fela.,contradiction
+mohlomong o ne o na le e senang mohala,"Ke nnete, eo o neng o na le yona e ne e se na mohala.",entailment
+mohlomong o ne o na le e senang mohala,Eo o neng o na le yona e ne e na le mohala.,contradiction
+mohlomong o ne o na le e senang mohala,Mohlomong o ne o na le e nang le kgetho ya mohala.,neutral
+O re matitjhere kapa batswadi?,Na o re ke mothusi wa baithuti kapa wa matitjhere a e entseng?,contradiction
+O re matitjhere kapa batswadi?,Ke matitjhere kapa batswadi?,entailment
+O re matitjhere kapa batswadi?,O reng ka batswadi le matitjhere?,neutral
+"tjhehe ke nahana e ka ba jwalo, ke nahana jwalo, ha ke tsebe, ke ke ke, ha ke tsebe maikutlo a ka a eme kae ka teko ya dithethefatsi, eh, ha ke sebedise dithethefatsi, ha ke di nahane le ho di nahana","Ke kgahlanong le teko ya dithethefatsi, ha ke na le qeyaqeyo.",contradiction
+"tjhehe ke nahana e ka ba jwalo, ke nahana jwalo, ha ke tsebe, ke ke ke, ha ke tsebe maikutlo a ka a eme kae ka teko ya dithethefatsi, eh, ha ke sebedise dithethefatsi, ha ke di nahane le ho di nahana",Ke nahana hore ke tla dumela ho nkuwa teko ya dithethefatsi.,neutral
+"tjhehe ke nahana e ka ba jwalo, ke nahana jwalo, ha ke tsebe, ke ke ke, ha ke tsebe maikutlo a ka a eme kae ka teko ya dithethefatsi, eh, ha ke sebedise dithethefatsi, ha ke di nahane le ho di nahana",Ke nahana jwalo empa ha ke so nahanesisi taba ya teko ya dithethefatsi.,entailment
+o kgathalla ka kamoo ditaba tsa naha di amang sebaka sa selehae,O ngongoreha ka hore dibaka tsa mahae di angwa jwang ke ditaba tsa naha.,entailment
+o kgathalla ka kamoo ditaba tsa naha di amang sebaka sa selehae,Ha ke kgathalle hore ditaba tsa naha di hlahisa eng ka dibaka tsa mahae.,contradiction
+o kgathalla ka kamoo ditaba tsa naha di amang sebaka sa selehae,Ditsi tsa ditaba tsa naha di etsa ekare dibaka tsa mahae di morao.,neutral
+"tjhehe, fela re a tseba ke sekete, sekete le bolousu kapa sutu kapa mose ke tseo o di bona tlase mona, jwale ho monate ho nna ho sebeletsa hae hobane nka apara marikgwe",Ha ke apare diaparo tsa mosebetsing ha ke sebeletsa hae.,entailment
+"tjhehe, fela re a tseba ke sekete, sekete le bolousu kapa sutu kapa mose ke tseo o di bona tlase mona, jwale ho monate ho nna ho sebeletsa hae hobane nka apara marikgwe",Ha ke apare letho ntle le diterekesutu ha ke sebeletsa hae.,neutral
+"tjhehe, fela re a tseba ke sekete, sekete le bolousu kapa sutu kapa mose ke tseo o di bona tlase mona, jwale ho monate ho nna ho sebeletsa hae hobane nka apara marikgwe",Ke ntse ke apara mese le ha ke sebeletsa hae hobane ke ipona ke le motle.,contradiction
+"eya, hona le ho hong ka ho ba le sebaka seo o dulang ho sona ha ke tsebe",Ho ba le sebaka seo o dulang ho sona ke toro e phethahalang.,neutral
+"eya, hona le ho hong ka ho ba le sebaka seo o dulang ho sona ha ke tsebe",Ha ke kgathalle hore na ke na le sebaka sa ho dula na.,contradiction
+"eya, hona le ho hong ka ho ba le sebaka seo o dulang ho sona ha ke tsebe",Ho monate ho ba le sebaka seo o dulang ho sona.,entailment
+eya ke a tseba nkeke ka ba ka kgathalla hakaalo ha e ne eba ba ne ba na le khamphani e tshehetswang ka ditjhelete,Ho ka ba bonolo ho fumana hore khamphani e tshehetswa ka ditjhelete na.,neutral
+eya ke a tseba nkeke ka ba ka kgathalla hakaalo ha e ne eba ba ne ba na le khamphani e tshehetswang ka ditjhelete,Ho ka nkwatisa ho tseba hore ba ile ba fa khamphani  thuso ya tjhelete.,contradiction
+eya ke a tseba nkeke ka ba ka kgathalla hakaalo ha e ne eba ba ne ba na le khamphani e tshehetswang ka ditjhelete,Nkeke ka kgathatseha ha e le hore khamphani e ne e thuswa ka ditjhelete.,entailment
+eya ke ya rona mona re na le dikgokahano tsa mahaeng tse mpe haholo,Dikgokahano tsa mona di hantle ka nako e nngwe.,neutral
+eya ke ya rona mona re na le dikgokahano tsa mahaeng tse mpe haholo,Ha re na dikgokahano tse hantle mona.,entailment
+eya ke ya rona mona re na le dikgokahano tsa mahaeng tse mpe haholo,Re na le dikgokahano tse tswang pele mona.,contradiction
+melemo e meng eo re e fumang ke ho hahlaula,Ho hahlaula ke karolo eo ke e ratang.,neutral
+melemo e meng eo re e fumang ke ho hahlaula,Ho hahlaula ke e nngwe ya melemo eo re e fumanang.,entailment
+melemo e meng eo re e fumang ke ho hahlaula,Ha re fumane melemo efe kapa efe.,contradiction
+e e mpe haholo e eh ke,Ke utlwile ha ho monate.,neutral
+e e mpe haholo e eh ke,Ho hobe.,entailment
+e e mpe haholo e eh ke,Ho hobe ho hang.,contradiction
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa kaofela tse nang le dimolekhule ha ho bonolo ho di sebedisa.,contradiction
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa tsa dimolekhule tseo ho seng bonolo ho di sebedisa di ka ba teng tlasa maemo a itseng.,entailment
+Disebediswa tsena tse nang le dimolekhule tsa maemo a hodimo di fumaneha hobane kgetho ya tlhaho e kgona ho ba teng thepeng ya dimolekhule tse jwalo ha thepa e kopaneng e eketsa bokgoni,Disebediswa tsena tsa dimolekhule di sebediswa haholo ho hlahisa tjhefu bakeng sa tshireletso.,neutral
+Empa ha ke kgolwe hore sesebediswa se fe kapa sefe sa algorithm se ka fella.,Algorithm e ke ke ya kgona ho nka qeto ya ho etsa borotho bo hlabosang ntle le hore motho a thuse.,neutral
+Empa ha ke kgolwe hore sesebediswa se fe kapa sefe sa algorithm se ka fella.,Ha hona sesebediswa se tla rarolla bothata bona ka bo sona.,entailment
+Empa ha ke kgolwe hore sesebediswa se fe kapa sefe sa algorithm se ka fella.,Disebediswa tsena di sebetsa hantle tlasa maemo a fe kapa a fe.,contradiction
+"Molao ha o lopolle motho ya le mong fela, empa le setjhaba kapa naha ka kakaretso.","Bakeng sa topollo, batho ba tshwanela ho tshepa molao.",contradiction
+"Molao ha o lopolle motho ya le mong fela, empa le setjhaba kapa naha ka kakaretso.",Molao o tla lopolla Amerika.,neutral
+"Molao ha o lopolle motho ya le mong fela, empa le setjhaba kapa naha ka kakaretso.",Molao o tla pholosa setjhaba le naha.,entailment
+Molaetsa wa molaotheo wa 1787 o ne o re beng ba makgoba ba na le tokelo ya ho lata makgoba a bona a balehetseng sebakeng sa tokoloho.,Ka 1787 ho bile le molao wa ho kgaotsa batho ho kgutlisa makgoba a balehetseng dinaheng tse ding tse lokolohileng.,contradiction
+Molaetsa wa molaotheo wa 1787 o ne o re beng ba makgoba ba na le tokelo ya ho lata makgoba a bona a balehetseng sebakeng sa tokoloho.,Karolo e nngwe ya molaetsa wa molaotheo e ne e ngotswe ka 1787.,entailment
+Molaetsa wa molaotheo wa 1787 o ne o re beng ba makgoba ba na le tokelo ya ho lata makgoba a bona a balehetseng sebakeng sa tokoloho.,Tokelo ya ho lata makgoba dibakeng tsa tokoloho e ne e sa tuma.,neutral
+"Steve Harris, setsebi sa baeloji ya dimolekhule ya tswang Texas o ne a etile.",Steve Harris o ne a hana ho tsamaya ha hae tlasa mabaka a fe kapa e fe.,contradiction
+"Steve Harris, setsebi sa baeloji ya dimolekhule ya tswang Texas o ne a etile.",Steve e ne e le rabaeloji ya tswang toropong e nngwe.,entailment
+"Steve Harris, setsebi sa baeloji ya dimolekhule ya tswang Texas o ne a etile.",Steve o ne a etetse California ho lo hlwela sampole e ntjha.,neutral
+"Botho bo ne bo kenyeletsa banna ba pakeng tsa mashome a mararo le a mahlano karolo ka nngwe (ba bitswa moradas) mme ba arolwa ka ditho tse pedi, tse neng di bitswa hermanos disciplantes (banna ba neng ba kgalema), le bahlanka, ba neng ba bitswa hermanos de luz (banna ba lesedi).",Bahlanka ba fetang lekgolo ba ne ba sebetsa karolong ka nngwe. ,contradiction
+"Botho bo ne bo kenyeletsa banna ba pakeng tsa mashome a mararo le a mahlano karolo ka nngwe (ba bitswa moradas) mme ba arolwa ka ditho tse pedi, tse neng di bitswa hermanos disciplantes (banna ba neng ba kgalema), le bahlanka, ba neng ba bitswa hermanos de luz (banna ba lesedi).",Karolo e ne e na le ditho tse tlwaelehileng le bahlanka.,entailment
+"Botho bo ne bo kenyeletsa banna ba pakeng tsa mashome a mararo le a mahlano karolo ka nngwe (ba bitswa moradas) mme ba arolwa ka ditho tse pedi, tse neng di bitswa hermanos disciplantes (banna ba neng ba kgalema), le bahlanka, ba neng ba bitswa hermanos de luz (banna ba lesedi).",Diyuniti tsena di ne di ikarabella ho fetoleng batho ba batsho Amerika e Bohareng.,neutral
+"Bakeng sa bana ba dilemo tse 4 le tse 5, dipotso hangata di bua ka tsela eo dipale di phetwang ka yona ( Ho etsahala eng kamora moo?",Bana hangata ha ba ithute puo ho fihlela ba ba dilemo tse tsheletseng.,contradiction
+"Bakeng sa bana ba dilemo tse 4 le tse 5, dipotso hangata di bua ka tsela eo dipale di phetwang ka yona ( Ho etsahala eng kamora moo?",Bana ba dilemo tse hlano ba ngongoreha ka hore ke eng e latelang e tlo etsahalang eng.,entailment
+"Bakeng sa bana ba dilemo tse 4 le tse 5, dipotso hangata di bua ka tsela eo dipale di phetwang ka yona ( Ho etsahala eng kamora moo?",Bana ba dilemo tse hlano ba nkuwa e le batho ba sa kgoneng ho bua hantle.,neutral
+"Ha re nahana hantle, phallo e kopaneng sebakeng se tsitsitseng e etsa hore ho be le tlhophiso, hobane ha dibaka tse pedi di kopanela sebakeng se le seng dibaka tse di se di hlophiswa jwaloka dibaka tse lekanang ke tselatshebetso.",Phallo e kopaneng e etsa hore ho be le tlhophiso.,entailment
+"Ha re nahana hantle, phallo e kopaneng sebakeng se tsitsitseng e etsa hore ho be le tlhophiso, hobane ha dibaka tse pedi di kopanela sebakeng se le seng dibaka tse di se di hlophiswa jwaloka dibaka tse lekanang ke tselatshebetso.",Phallo e kopaneng e susumetswa ke setjhaba.,neutral
+"Ha re nahana hantle, phallo e kopaneng sebakeng se tsitsitseng e etsa hore ho be le tlhophiso, hobane ha dibaka tse pedi di kopanela sebakeng se le seng dibaka tse di se di hlophiswa jwaloka dibaka tse lekanang ke tselatshebetso.",Phallo e kopaneng e thibela tlhophiso.,contradiction
+"Leha ho le jwalo, ba tswela pele ho etsa hore lefatshe le sa tsitsang moo bophelo bo fetileng e leng bona bo nang le lesedi le utlwahalang.",Lefatshe le sa tsitsang ha le kgahlise bathong ba bang haeba le tshwanela ho nka maikarabelo leseding la nako e fetileng.,entailment
+"Leha ho le jwalo, ba tswela pele ho etsa hore lefatshe le sa tsitsang moo bophelo bo fetileng e leng bona bo nang le lesedi le utlwahalang.",Lesedi lohle la nako yohle e fetileng le bohlokwa lefatsheng le fe kapa le fe.,contradiction
+"Leha ho le jwalo, ba tswela pele ho etsa hore lefatshe le sa tsitsang moo bophelo bo fetileng e leng bona bo nang le lesedi le utlwahalang.",Mafatshe ana a inahanelwang a sebediswa ho sheba hore maemo a lehodimo a tla ba jwang.,neutral
+"Mme, leha ho le jwalo, mmuso o ne o se na boikarabelo bakeng sa batho bana ba poraefete ba neng ba hanetsa batho ba batsho ditokelo tsa bophelo.",Batho ba bang ba poraefete ba ne ba hanetsa batho ba batsho ditokelo tsa bophelo.,entailment
+"Mme, leha ho le jwalo, mmuso o ne o se na boikarabelo bakeng sa batho bana ba poraefete ba neng ba hanetsa batho ba batsho ditokelo tsa bophelo.",Batho ba poraefete e ne e le makgowa.,neutral
+"Mme, leha ho le jwalo, mmuso o ne o se na boikarabelo bakeng sa batho bana ba poraefete ba neng ba hanetsa batho ba batsho ditokelo tsa bophelo.",Mmuso o ne o nka boikarabelo ka maitshwaro a batho ba poraefete.,contradiction
+Ha hona phapang pakeng tsa baithutimmoho ba banyane le ba baholo ha ho tluwa ho diphetho.,"Le ha diphetho tsa baithutimmoho ba banyane le ba baholo di tshwana, ba banyane ba qeta ho ngola teko ka pele",neutral
+Ha hona phapang pakeng tsa baithutimmoho ba banyane le ba baholo ha ho tluwa ho diphetho.,Baithutimmoho ba banyane le ba baholo ba tlelase e le nngwe ba fumana diphetho tse tshwanang.,entailment
+Ha hona phapang pakeng tsa baithutimmoho ba banyane le ba baholo ha ho tluwa ho diphetho.,Baithutimmoho ba banyane le ba baholo ba na le diphetho tse fapaneng hobane dilemo di bapala karolo,contradiction
+Darwin o qala ka bophelo mona.,Darwin o qadile ka ho tsepamisa maikutlo ditlhaping.,neutral
+Darwin o qala ka bophelo mona.,Darwin o qadile ka bophelo bo neng bo se bo le teng.,entailment
+Darwin o qala ka bophelo mona.,Darwin o ne a tsepamisitse maikutlo ho ithuteng ka ntho tse shweleng.,contradiction
+"Sesosa se tlwaelehileng bongwaneng le dilemong tse qalang tsa sekolo ke otitis media e iphetang, kapa tshwaetso ya tsebe e bohareng.",Tshwaetso ya tsebe e bohareng ke sesosa se tlwaelehileng baneng. ,entailment
+"Sesosa se tlwaelehileng bongwaneng le dilemong tse qalang tsa sekolo ke otitis media e iphetang, kapa tshwaetso ya tsebe e bohareng.",Otitis media ke ntho e sa tlwaelehang haholo ngwaneng ya dilemong tse qalang tsa sekolo.,contradiction
+"Sesosa se tlwaelehileng bongwaneng le dilemong tse qalang tsa sekolo ke otitis media e iphetang, kapa tshwaetso ya tsebe e bohareng.",Bana ba bangata ba tla ba le tshwaetso ya tsebe e bohareng.,neutral
+"Ha setjhaba se sa mamele, mehopolo e hlwahlwa e a lahleha.",Mehopolo e hlwahlwa e a lahleha ha e sa natswe ke setjhaba.,entailment
+"Ha setjhaba se sa mamele, mehopolo e hlwahlwa e a lahleha.",Mehopolo e hlwahlwa e tuma haholo setjhabeng ha e sa natswe ke setjhaba.,contradiction
+"Ha setjhaba se sa mamele, mehopolo e hlwahlwa e a lahleha.",Mehopolo e mengata e hlwahlwa ha e kgathallwe ke setjhaba.,neutral
+"Kannete, karolo ya seo re se hlokang ke tsela ya ho hlophisa ditshebetso tsa mokgatlo tsa nnete lefatsheng le sa tsitsang.",Re hloka matshwao hore re bone hore ke kae moo mokgatlo o sebetsang hantle teng.,neutral
+"Kannete, karolo ya seo re se hlokang ke tsela ya ho hlophisa ditshebetso tsa mokgatlo tsa nnete lefatsheng le sa tsitsang.",Re hloka ho tshwaya mokgatlo.,entailment
+"Kannete, karolo ya seo re se hlokang ke tsela ya ho hlophisa ditshebetso tsa mokgatlo tsa nnete lefatsheng le sa tsitsang.",Ha re a tshwanela ho tshwaya eng kapa eng.,contradiction
+O batlile thuso ho Morena Julian.,O ne a batla ho kopa Morena Julian ho hong.,entailment
+O batlile thuso ho Morena Julian.,O ne a batla ho kopa Morena Julian hore a boloke mosadi wa hae.,neutral
+O batlile thuso ho Morena Julian.,Morena Julian o ne a sa bonahale.,contradiction
+Jeremy Pitt o ile a araba setsheho ka kano.,Jeremy Pitt o ile a araba setsheho ka ho tsheha ha nyane le ho betsa motho ya neng a tsheha ka feisi sefahlehong.,contradiction
+Jeremy Pitt o ile a araba setsheho ka kano.,Jeremy Pitt o ile a ikana hore o tla lwanela naha ya habo le mofumahadi wa hae.,neutral
+Jeremy Pitt o ile a araba setsheho ka kano.,Ho na le motho a tshehileng pela Jeremy Pitt.,entailment
+"Pitt, ya neng a shebelletse ketsahalo ho tswa sekepeng, o re bolella hore morena wa hae o ne a nkelwa hloohong.",Pitt o ne a so ka a bona morena wa hae a nkelwa hloohong jwalo ka nako eo.,neutral
+"Pitt, ya neng a shebelletse ketsahalo ho tswa sekepeng, o re bolella hore morena wa hae o ne a nkelwa hloohong.",Pitt o ile a ikana hore ha a bona ketsahalo le ha nayane.,contradiction
+"Pitt, ya neng a shebelletse ketsahalo ho tswa sekepeng, o re bolella hore morena wa hae o ne a nkelwa hloohong.",Pitt o ile a bona ka moo morena wa hae a neng a nkela dintho hloohong ka nako eo ya ketsahalo.,entailment
+"Kolonele o ile a e amohela, mme a inama hanyane, a tlosa katiba ya hae e sephara.",Kolonele o ile a amohela kgau ya medale ho tswa ho majoro wa New York City.,neutral
+"Kolonele o ile a e amohela, mme a inama hanyane, a tlosa katiba ya hae e sephara.",Kolonele o hanne seo a neng a se fuwa mme a se role katiba e le letshwao la ho hanana le se etsahalang.,contradiction
+"Kolonele o ile a e amohela, mme a inama hanyane, a tlosa katiba ya hae e sephara.",Kolonele o ne a rwetse katiba.,entailment
+O na le sebete sa ho nkgalema hobane ke sa batle ho tshwara matsoho a hao a ditshila; ke tseba hantle hore o mmolai ebile o etsa tse fetang moo? O ile a mo sheba a ahlame.,O ne a dumela hore tlolo ya molao e entsweng e ka nna ya eba ke poloa e sehloho.,neutral
+O na le sebete sa ho nkgalema hobane ke sa batle ho tshwara matsoho a hao a ditshila; ke tseba hantle hore o mmolai ebile o etsa tse fetang moo? O ile a mo sheba a ahlame.,O kgethile hore a se ke a tshwara matsoho a hae hobane a ne a kganathetse tlolo ya molao.,entailment
+O na le sebete sa ho nkgalema hobane ke sa batle ho tshwara matsoho a hao a ditshila; ke tseba hantle hore o mmolai ebile o etsa tse fetang moo? O ile a mo sheba a ahlame.,"O kgethile ho mo tshwara matsoho hobane a ne a le manyane, a fokola, mme ntho ya bohlokwa ke hore a ne a hlwekile.",contradiction
+"O ne a bona hore Morena Julian Wade ya tswang St. James eo e leng mohlankana ya kgahlisang ya tletseng papadi, o ne a hohetse mosadi e mong.",Morena Julian o tswa St. James.,entailment
+"O ne a bona hore Morena Julian Wade ya tswang St. James eo e leng mohlankana ya kgahlisang ya tletseng papadi, o ne a hohetse mosadi e mong.",Yena le Morena Julian Wade ba ile ba sunana bosiu bo fetileng.,neutral
+"O ne a bona hore Morena Julian Wade ya tswang St. James eo e leng mohlankana ya kgahlisang ya tletseng papadi, o ne a hohetse mosadi e mong.","O kgahluwe ke Morena Julian Wade, ho sa natswe bohlaswa ba hae.",contradiction
+"Empa… empa… ke palame sekepe se…? Mohlanka wa molao o ne a bonahala a kgathetse matla, hape, a inehela pherekanong ya hae, a kgutsa hang-hang.","Ofisi e ile ya baka lerata metsotsonyana, e halefisitswe ke maitshwaro a hae a hlephileng sekepeng.",contradiction
+"Empa… empa… ke palame sekepe se…? Mohlanka wa molao o ne a bonahala a kgathetse matla, hape, a inehela pherekanong ya hae, a kgutsa hang-hang.",Mohlanka wa molao o ne a ferekantswe ke se neng se etsahala sekepeng.,entailment
+"Empa… empa… ke palame sekepe se…? Mohlanka wa molao o ne a bonahala a kgathetse matla, hape, a inehela pherekanong ya hae, a kgutsa hang-hang.",Mohlanka wa molao o ne a tshositswe ke ka moo ho neng ho hlatswa ka teng sekepeng.,neutral
+"O Morena Julian Wade, ke a utlwisisa, e ne e le tumediso ya hae e mabifi.",Morena Julian Wade o ile a fana ka tumediso e mofuthu.,contradiction
+"O Morena Julian Wade, ke a utlwisisa, e ne e le tumediso ya hae e mabifi.",Morena Julian Wade o ile a amohela ba bang ka mokgwa o ka hlaloswang o le mabifi. ,entailment
+"O Morena Julian Wade, ke a utlwisisa, e ne e le tumediso ya hae e mabifi.","Leha ba bangata ba ile ba leka ho bua le yena, Morena Wade o ne a sa bontshe maikutlo hangata.",neutral
+Mary Traill o tla o bolella ka yona.,Mary Traill a ka o bolella ka tonki.,neutral
+Mary Traill o tla o bolella ka yona.,Mary Traill o a tseba ka yona.,entailment
+Mary Traill o tla o bolella ka yona.,Ke nna feela ke tsebang ka yona.,contradiction
+"Setlokotsebe sena se emetswe ke ho fanyehwa kwana Port Royal. Blood e ka be e itshuntse, empa Morena Julian a emisa se neng se tla etsahala.",Blood ke mokgatlo wa matjhaba wa dinokwane o Port Royal oo Morena Julian a o sebedisang bakeng sa diketso tse seng molaong.,contradiction
+"Setlokotsebe sena se emetswe ke ho fanyehwa kwana Port Royal. Blood e ka be e itshuntse, empa Morena Julian a emisa se neng se tla etsahala.","Puso ya Morena Julian e kenyeletsa Port Royal, toropo ya kgwebo eo e leng sebaka sa diketsahalo lebatoweng.",neutral
+"Setlokotsebe sena se emetswe ke ho fanyehwa kwana Port Royal. Blood e ka be e itshuntse, empa Morena Julian a emisa se neng se tla etsahala.",Port Royal e na le setsi sa ho ahlola dinokwane.,entailment
+"E ke ke ya e ba Bishopo ka bo yena, ho bolela Wolverstone, nakong ya dipotso le boitlamo.",Wolverstone o ne a botsitse potso e bontshitseng boikemelo ho ba bang.,entailment
+"E ke ke ya e ba Bishopo ka bo yena, ho bolela Wolverstone, nakong ya dipotso le boitlamo.",Wolverstone o ne a boletse hore Bishopo ke e mong wa ba batle haholo.,neutral
+"E ke ke ya e ba Bishopo ka bo yena, ho bolela Wolverstone, nakong ya dipotso le boitlamo.",Wolverstone ha a ka ba a bua letho ka Bishopo.,contradiction
+"Na o tla lesa ho bua ka moferefere le boipelaetso le makgotla a masole? Blood o ile a rwala katiba ya hae, mme a dula fatshe a sa bitswa.",Blood o ne a na le katiba eo a ileng a e rwala pele a dula fatshe.,entailment
+"Na o tla lesa ho bua ka moferefere le boipelaetso le makgotla a masole? Blood o ile a rwala katiba ya hae, mme a dula fatshe a sa bitswa.","Blood o rwetse katiba ya hae, mme a tswa ntle a sa re letho.",contradiction
+"Na o tla lesa ho bua ka moferefere le boipelaetso le makgotla a masole? Blood o ile a rwala katiba ya hae, mme a dula fatshe a sa bitswa.","Katiba ya Blood e ne e le ntsho, e na le masiba a mararo a ntsu.",neutral
+Dintho ha di a mo tsamaela hantle dibekeng tse pedi tse fetileng haesale hoba a amohelwe khomishemeng ya Morena.,O robetse hantle bosiu a tseba hore o hanne thomo ya Morena.,contradiction
+Dintho ha di a mo tsamaela hantle dibekeng tse pedi tse fetileng haesale hoba a amohelwe khomishemeng ya Morena.,Ntho e neng e mo hlobaetsa ke taba ya hore o amohetse thomo ya Morena.,entailment
+Dintho ha di a mo tsamaela hantle dibekeng tse pedi tse fetileng haesale hoba a amohelwe khomishemeng ya Morena.,Thomo ya morena e ne e le maemo a phahameng haholo a nang le maikarabelo a mangata.,neutral
+"Ba haufinyana, ke Ogle ya llang.",Ogle o itse ba ka kgona ho fihla ho bona.,entailment
+"Ba haufinyana, ke Ogle ya llang.",Ogle o itse ba sebakeng seo o kgonang ho ba utlwa ha ba bua.,neutral
+"Ba haufinyana, ke Ogle ya llang.","Leha a ne a tseba hore ba haufinyana, Ogle ha a ka ba a bua.",contradiction
+"Ke romme motho ho wena, Mokapotene Blood, ka lebaka la ditaba tseo ke qetang ho di utlwa.","Ha ke so ka ke utlwa ditaba dife kapa dife, Mokapotene Blood. Wena?",contradiction
+"Ke romme motho ho wena, Mokapotene Blood, ka lebaka la ditaba tseo ke qetang ho di utlwa.","Ke utlwile ditaba pele ke romela motho ho wena, Mokapotene Blood.",entailment
+"Ke romme motho ho wena, Mokapotene Blood, ka lebaka la ditaba tseo ke qetang ho di utlwa.",Ditaba tseo ke di utlwileng di ntshositse haholo.,neutral
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",O kgona ho bona dikepe hodima thaba.,neutral
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",O bona lebopo ha o le hodima thaba.,entailment
+"Kamora ho sheba dipokello tsena, o palame thaba o ye Ntlong ya Mokhomishenara, moo ho nang le lebopo le letle le dibaka tse le potapotileng mmoho le sebaka seo sekepe se leng ho sona.",Ha o bone lebopo ha o le hodima thaba.,contradiction
+"Kamora Borwa ba Amerika o tla fumana Feme ya Dinkgisa Monate, moo o tla iketsetsa senkgisa monate sa hao.",Feme ya Dinkgisa Monate haesale e sebetse ho tloha 1954.,neutral
+"Kamora Borwa ba Amerika o tla fumana Feme ya Dinkgisa Monate, moo o tla iketsetsa senkgisa monate sa hao.",Feme ya Dinkgisa Monate e kamora Sebaka sa Afrika Borwa.,entailment
+"Kamora Borwa ba Amerika o tla fumana Feme ya Dinkgisa Monate, moo o tla iketsetsa senkgisa monate sa hao.",Feme ya Dinkgisa Monate e ka pela sebaka sa Afrika Borwa.,contradiction
+Tshepo e ne e phahame ka lamunu le penapole tsa Bahamia.,"Leha dipenapole di ne di le monate, tjhelete ya ho di posa hore di tlo rekiswa e ne e phahame haholo.",neutral
+Tshepo e ne e phahame ka lamunu le penapole tsa Bahamia.,"Dilamunu tsa Bahamia di ile tsa e ba katleho e kgolo, jwaloka ka ha ho ne ho lebelletswe .",contradiction
+Tshepo e ne e phahame ka lamunu le penapole tsa Bahamia.,Dilamunu tsa Bahamia di ne di se ntle ka moo batho ba neng ba tshepile kateng.,entailment
+"Ho thwe modumo o utlwahetseng bohole ba 3km (dimaele tse 2), e ka ba sekoti se hlahileng ha ho ne ho qhoma seretse se tjhesang.","Modumo o utlwahetseng bohole ba dimaele tse 2 o ka be o bakuwe ke ntho tse ngata, ho akga ho qhoma ha seretse se tjhesang.",neutral
+"Ho thwe modumo o utlwahetseng bohole ba 3km (dimaele tse 2), e ka ba sekoti se hlahileng ha ho ne ho qhoma seretse se tjhesang.",Modumo o utlwahetseng bohole ba dimaele tse 2 ha o a bakwa ke ho qhoma ha seretse se tjhesang.,contradiction
+"Ho thwe modumo o utlwahetseng bohole ba 3km (dimaele tse 2), e ka ba sekoti se hlahileng ha ho ne ho qhoma seretse se tjhesang.",Modumo o utlwahetseng bohole ba dimaele tse 2 mohlomong o bakuwe ke ho qhoma ha seretse se tjhesang.,entailment
+"Moo ho batla ho sa phethesele leha puo e ka o fa bothata, efela bonyane o tla tseba ka tsela eo Matjhaena a etsang kgwebo ka teng.",Ke mohopolo o motle ho tsamaya le mofetoledi.,neutral
+"Moo ho batla ho sa phethesele leha puo e ka o fa bothata, efela bonyane o tla tseba ka tsela eo Matjhaena a etsang kgwebo ka teng.",Ho na le bothata ba puo bo ka o tshosang.,entailment
+"Moo ho batla ho sa phethesele leha puo e ka o fa bothata, efela bonyane o tla tseba ka tsela eo Matjhaena a etsang kgwebo ka teng.","Ha ho hlokahale hore o kgathatsehe ka mathata ba puo, ka ha batho kaofela ba bua Senyesemane.",contradiction
+"Pakeng tsa 1936 le 1940 Greece e ne e le tlasa kgatello ya sesole sa Ioannis Metaxas, ya neng a hopolwa ka ho araba qeto ya Mussolini ya ho inehela ka 1940 ka (tjhehe) e neng e utlwahala.",Greece ha e so ka e buswa ke mohatelli wa sesole.,contradiction
+"Pakeng tsa 1936 le 1940 Greece e ne e le tlasa kgatello ya sesole sa Ioannis Metaxas, ya neng a hopolwa ka ho araba qeto ya Mussolini ya ho inehela ka 1940 ka (tjhehe) e neng e utlwahala.",Greece ke e nngwe ya dinaha tse nang le mohatelli.,entailment
+"Pakeng tsa 1936 le 1940 Greece e ne e le tlasa kgatello ya sesole sa Ioannis Metaxas, ya neng a hopolwa ka ho araba qeto ya Mussolini ya ho inehela ka 1940 ka (tjhehe) e neng e utlwahala.",Moruo wa Greece o ne o se hantle tlasa kgatello ya sesole se hatellang sa Metaxas.,neutral
+Bonolo ba mela ya Sant Pau’s Romanesque ke phetoho e ntle e tswang majabajabeng a Barcelona le dintlha tsa moaho wa Gothic.,Sant Pau ha e na mela ya Romanesque.,contradiction
+Bonolo ba mela ya Sant Pau’s Romanesque ke phetoho e ntle e tswang majabajabeng a Barcelona le dintlha tsa moaho wa Gothic.,Sant Pau e na le mela ya Romanesque.,entailment
+Bonolo ba mela ya Sant Pau’s Romanesque ke phetoho e ntle e tswang majabajabeng a Barcelona le dintlha tsa moaho wa Gothic.,Sant Pau e na le dikereke.,neutral
+"Ka panyo ya leeihlo feela, e ile.",E tshoswa ha bonolo ke metsamao ya tshohanyetso.,neutral
+"Ka panyo ya leeihlo feela, e ile.","Ha e tshabe letho, mme ha e tshoswe ke letho.",contradiction
+"Ka panyo ya leeihlo feela, e ile.","Motsamao o monyane feela, e ile.",entailment
+Lenaneo le leholo la ntjhafatso le tla phethelwa ha 2001 e fela.,Lenaneo la ntjhafatso le tla fela pele 2001 e thwasa.,contradiction
+Lenaneo le leholo la ntjhafatso le tla phethelwa ha 2001 e fela.,Lenaneo la ntjhafatso le ke ke la fela pele 2000 e fela.,entailment
+Lenaneo le leholo la ntjhafatso le tla phethelwa ha 2001 e fela.,"Ha lenaneo la ntjhafatso le fela, le tla be le nkile dilemo tse hlano.",neutral
+"Basebetsi ba sebetsana le lenaneo la ho eketsa difolaminko US Virgin Islands, mme o tla fumana mohlape o monyane mona o ntseng o qhotsa ka katleho selemo le selemo.",Basebetsi ba sebetsana le ho fedisa difolaminko. ,contradiction
+"Basebetsi ba sebetsana le lenaneo la ho eketsa difolaminko US Virgin Islands, mme o tla fumana mohlape o monyane mona o ntseng o qhotsa ka katleho selemo le selemo.",Basebetsi ba sebetsana le ho eketsa difolaminko tse sehlekehlekeng hore di se ke tsa fela.,neutral
+"Basebetsi ba sebetsana le lenaneo la ho eketsa difolaminko US Virgin Islands, mme o tla fumana mohlape o monyane mona o ntseng o qhotsa ka katleho selemo le selemo.",Basebetsi ba sebetsana le ho eketsa difolaminko tse sehlekehlekeng.,entailment
+Dithaba tse majwe tsa Serra de Tramuntana di hohola ho ya fihla lewatleng mme ka lebaka leo ho na le dibaka tse mmalwa tseo o ka kenang lewatleng ka tsona le boemakepe bo le bong lebopong.,Dithaba di dula di e na le ho ritsa ha mobu ebile ha ho bonolo ho aha boemakepe moo.,neutral
+Dithaba tse majwe tsa Serra de Tramuntana di hohola ho ya fihla lewatleng mme ka lebaka leo ho na le dibaka tse mmalwa tseo o ka kenang lewatleng ka tsona le boemakepe bo le bong lebopong.,Dithaba ha di etse hore kaho ya maemakepe e be bonolo.,entailment
+Dithaba tse majwe tsa Serra de Tramuntana di hohola ho ya fihla lewatleng mme ka lebaka leo ho na le dibaka tse mmalwa tseo o ka kenang lewatleng ka tsona le boemakepe bo le bong lebopong.,Ho na le maemakepe a 27 a iphaphithang le dithaba.,contradiction
+"Culebra e ne e tsejwa e le Spanish Virgin Island ho fihlela Amerika e e nka, e bohareng pakeng tsa Puerto Rico le St. Thomas ho la US Virgin Islands.",Culebra e pakeng tsa Puerto Rico le St. Thomas ho la US Virgin Islands.,entailment
+"Culebra e ne e tsejwa e le Spanish Virgin Island ho fihlela Amerika e e nka, e bohareng pakeng tsa Puerto Rico le St. Thomas ho la US Virgin Islands.",Culebra ha e pela Puerto Rico le St. Thomas ho la US Virgin Islands.,contradiction
+"Culebra e ne e tsejwa e le Spanish Virgin Island ho fihlela Amerika e e nka, e bohareng pakeng tsa Puerto Rico le St. Thomas ho la US Virgin Islands.",Culebra e kae kae pakeng tsa Puerto Rico le St. Thomas ho la US Virgin Islands.,neutral
+"Umeda e tshwaya pheletso ya leboya ya setereke sa kgwebo le boithabiso se tsebahalang ka Kita (e bolelang Leboya), mme ke yona e bontshang sephethephethe sa Osaka.",Umeda ha se karolo ya setereke sa boithabiso.,contradiction
+"Umeda e tshwaya pheletso ya leboya ya setereke sa kgwebo le boithabiso se tsebahalang ka Kita (e bolelang Leboya), mme ke yona e bontshang sephethephethe sa Osaka.",Umeda ke karolo e kgolo ya setereke sa boithabiso.,neutral
+"Umeda e tshwaya pheletso ya leboya ya setereke sa kgwebo le boithabiso se tsebahalang ka Kita (e bolelang Leboya), mme ke yona e bontshang sephethephethe sa Osaka.",Umeda ke pheletso ya leboya ya setereke sa boithabiso.,entailment
+"Setho sa boraro ba terone ba Hindu ke Brahma, eo mosebetsi wa hae e neng e le ho bopa lefatshe. ",Brahma ke mopostola wa Mokreste.,contradiction
+"Setho sa boraro ba terone ba Hindu ke Brahma, eo mosebetsi wa hae e neng e le ho bopa lefatshe. ",Brahma ke karolo ya boraro ba terone ba Hindu.,entailment
+"Setho sa boraro ba terone ba Hindu ke Brahma, eo mosebetsi wa hae e neng e le ho bopa lefatshe. ",Brahma ke karolo ya bohlokwa ya boraro bo terone.,neutral
+"Pedro o ile a nka terone, leha ntwa ya dipolotiki e ile ya tswela pele dikgwedi le kgalefo nako e telele kamora moo.",Batho ba 10000 ba shwele ntweng.,neutral
+"Pedro o ile a nka terone, leha ntwa ya dipolotiki e ile ya tswela pele dikgwedi le kgalefo nako e telele kamora moo.",Ntwa e nkile dikgwedi tse telele.,entailment
+"Pedro o ile a nka terone, leha ntwa ya dipolotiki e ile ya tswela pele dikgwedi le kgalefo nako e telele kamora moo.",Ntwa e fedile kamora letsatsi.,contradiction
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,"Ka ho matlafatsa ditsamaiso tsa disebediswa tsa batho, ho ile ha thehwa meralo e metjha ya kgwebo.",neutral
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,Meralo ya dikgwebo e ile ya thehwa.,entailment
+Tsamaiso ya disebediswa tsa batho e ile ya matlafatswa mme meralo e metjha e ile ya lokiswa kapele ho netefatsa tshehetso e tswelletseng ho bareki.,Tsamaiso ya disebediswa tsa batho e ile ya atoloswa ho feta ya mmuso wa bona o fetilelng.,contradiction
+"Leha leano la tshehetso ya ditjhelete le ka ntlafatswa, tshehetso ya tjhelete e a fumaneha bakeng sa mosebetsi ona.",Ho na le disebediswa tse fumanehang bakeng sa mesebetsi ena.,entailment
+"Leha leano la tshehetso ya ditjhelete le ka ntlafatswa, tshehetso ya tjhelete e a fumaneha bakeng sa mosebetsi ona.",Ha ho na tshehetso ya ditjhelete bakeng sa mosebetsi.,contradiction
+"Leha leano la tshehetso ya ditjhelete le ka ntlafatswa, tshehetso ya tjhelete e a fumaneha bakeng sa mosebetsi ona.",Ha ho na tshehetso ya ditjhelete e lekaneng bakeng sa mosebetsi.,neutral
+Dipalopalo tse tekuweng pampiring ena ka ditsela tsa mahae di itshetlehile leseding la 1989 la National Mail Count.,Dipalopalo tse pampiring ena di itshetlehile tlalehong ya 2001.,contradiction
+Dipalopalo tse tekuweng pampiring ena ka ditsela tsa mahae di itshetlehile leseding la 1989 la National Mail Count.,Dipalopalo tse pampiring ena ke tsa kgale.,neutral
+Dipalopalo tse tekuweng pampiring ena ka ditsela tsa mahae di itshetlehile leseding la 1989 la National Mail Count.,Pampiri ena e kenyeletsa le data ho ditsela tsa mahae.,entailment
+Ba baholo ba ka amohela tekanyetso kapa ho se atlehe ha karolo e nngwe le e nngwe. ,Karolo e nngwe le e nngwe e lekuweng ke ba baholo e ka qetella tekanyetsong e fapaneng. ,entailment
+Ba baholo ba ka amohela tekanyetso kapa ho se atlehe ha karolo e nngwe le e nngwe. ,Ba baholo ba ke ke ba feila.,contradiction
+Ba baholo ba ka amohela tekanyetso kapa ho se atlehe ha karolo e nngwe le e nngwe. ,Ba baholo ba lokela ho lekanyetswa hantle hore ba tswele pele.,neutral
+Taba e buuwang dipuisanong tsa pele ke maiikutlo a lengolo la papatso. ,Ho se dumellane dipuisanong tsa pele ho ka se o fumanele mosebetsi.,neutral
+Taba e buuwang dipuisanong tsa pele ke maiikutlo a lengolo la papatso. ,Dipuisanong tsa pele ha di bolele letho ka lengolo la papatso.,contradiction
+Taba e buuwang dipuisanong tsa pele ke maiikutlo a lengolo la papatso. ,Dipuisanong tsa pele di kenyeletsa hanyane kamoo batho ba ikutlwang ka lengolo la papatso. ,entailment
+189 le ditjeo tsa mosebedisi di akantswe ka tsela e tshwanang.,Ba lepile ka ditjeo tsa mosebedisi.,entailment
+189 le ditjeo tsa mosebedisi di akantswe ka tsela e tshwanang.,Ba nehanne hore ditjeho ke $10000,neutral
+189 le ditjeo tsa mosebedisi di akantswe ka tsela e tshwanang.,Ba tsebile hantle ditjeo tsa mosebedisi.,contradiction
+"Ka mohlala, GGD, thuto ya moralo e entswe jwalo ka mosebetsi o arohaneng, pheletsong.",Thuto ya moralo ha e a etsahala.,contradiction
+"Ka mohlala, GGD, thuto ya moralo e entswe jwalo ka mosebetsi o arohaneng, pheletsong.",Thuto ya moralo e ile ya etswa ka ho arohana.,entailment
+"Ka mohlala, GGD, thuto ya moralo e entswe jwalo ka mosebetsi o arohaneng, pheletsong.",Thuto ya moralo ha e a atleha.,neutral
+Mekgatlo yohle e robong e nka karolo ho,Mekgatlo e mmedi fela ho e robong e ikgathaditse ho arabela dipotso tsa rona mabapi le ho nka karolo. ,contradiction
+Mekgatlo yohle e robong e nka karolo ho,Ho ne ho na le mekgatlo e robong e arabileng hantle hore ba nkile karolo.,entailment
+Mekgatlo yohle e robong e nka karolo ho,Mekgatlo ena e robong e thabetse hore ba bile le ho nka karolo ho phahameng.,neutral
+"Ho tloha ka 1996, kabo ya moruo wa malapa e eketsehile haholo ka 6.4 ka 1999. ",Malapa ohle a amohetse $10000 kahodimo selemo se fetileng.,neutral
+"Ho tloha ka 1996, kabo ya moruo wa malapa e eketsehile haholo ka 6.4 ka 1999. ",Malapa a ne a lahlehelwa ke moruo o mongata.,contradiction
+"Ho tloha ka 1996, kabo ya moruo wa malapa e eketsehile haholo ka 6.4 ka 1999. ",Malapa a fumane kabo e kgolo ya moruo.,entailment
+"Ka katamelo e ntle, motheo le sehlopha sa workshare di fuwa karolo ya peresente  hodima tjeo, e le ho fumana sekgahla se lekaneng.",Motheo wa sehlopha o kahodimo ho tjeo.,entailment
+"Ka katamelo e ntle, motheo le sehlopha sa workshare di fuwa karolo ya peresente  hodima tjeo, e le ho fumana sekgahla se lekaneng.",Theko ke 10% kahodimo ho tjeo.,neutral
+"Ka katamelo e ntle, motheo le sehlopha sa workshare di fuwa karolo ya peresente  hodima tjeo, e le ho fumana sekgahla se lekaneng.",Theko e dula e le kahodimo ho tjeo.,contradiction
+"Ka ho nka dikgwedi tse nne tsa mosebetsi pele ho konteraka, palohare ya nako e fetileng ya dikgwedi tse 13 e ne e ka ba ho eketsa 675 MWe  ho boilara ena.",Ho nkile dikgwedi tse pedi fela ho e kenya.,contradiction
+"Ka ho nka dikgwedi tse nne tsa mosebetsi pele ho konteraka, palohare ya nako e fetileng ya dikgwedi tse 13 e ne e ka ba ho eketsa 675 MWe  ho boilara ena.",Ho nkile dikgwedi tse 13 ho kenya boilara bakeng sa submarine. ,neutral
+"Ka ho nka dikgwedi tse nne tsa mosebetsi pele ho konteraka, palohare ya nako e fetileng ya dikgwedi tse 13 e ne e ka ba ho eketsa 675 MWe  ho boilara ena.",Ho nkile palohare ya dikgwedi tse leshome le metso e meraro ho kenya boilara. ,entailment
+Ho haella ha basebetsi ba rupetsweng ba IT mmarakeng wa jwale hangata ke lebaka le leholo le qobellang mekgatlo ho aba tshebetso ya bona. ,Ho na le basebetsi ba bangata haholo ba IT.,contradiction
+Ho haella ha basebetsi ba rupetsweng ba IT mmarakeng wa jwale hangata ke lebaka le leholo le qobellang mekgatlo ho aba tshebetso ya bona. ,Ha ho na basebetsi ba lekaneng ba IT hoba kaofela ba ile India.,neutral
+Ho haella ha basebetsi ba rupetsweng ba IT mmarakeng wa jwale hangata ke lebaka le leholo le qobellang mekgatlo ho aba tshebetso ya bona. ,Ha ho na basebetsi ba lekaneng ba IT ho ka tlatsa dikgeo tsa mesebetsi.,entailment
+Ha ho kgonahale ho tseba katoloso kapa lehlakore la kgethollo phethohong ya ketsahalo o itshetlehile ho kopo ya kakaretso ya C-R function e le nngwe.,Ho hlakile hore ho na le kgethollo e kae.,contradiction
+Ha ho kgonahale ho tseba katoloso kapa lehlakore la kgethollo phethohong ya ketsahalo o itshetlehile ho kopo ya kakaretso ya C-R function e le nngwe.,O ka se tsebe hore ke kgethollo e kae e teng hobane ho thata ho e arola ho tswa dikgahlamelong tse ding.,neutral
+Ha ho kgonahale ho tseba katoloso kapa lehlakore la kgethollo phethohong ya ketsahalo o itshetlehile ho kopo ya kakaretso ya C-R function e le nngwe.,O ka se tsebe hore ho na le kgethollo e kae.,entailment
+"Ditshusumetso tsa tekgeniki tsa ditjeo, ho ya ka mosebetsi o entsweng ke mokgatlo o ka di etsang ka tjeo e hodimo, di boetse di balwa ka tsela e tshwanang le pele. ",Ditshusumetso tsa tjeo ya tekgeniki di etswa ka tsela e le nngwe.,entailment
+"Ditshusumetso tsa tekgeniki tsa ditjeo, ho ya ka mosebetsi o entsweng ke mokgatlo o ka di etsang ka tjeo e hodimo, di boetse di balwa ka tsela e tshwanang le pele. ",Ha ba so tsebe hore ditshusumetso tsa tjeo ya tekgeniki di balwa jwang. ,contradiction
+"Ditshusumetso tsa tekgeniki tsa ditjeo, ho ya ka mosebetsi o entsweng ke mokgatlo o ka di etsang ka tjeo e hodimo, di boetse di balwa ka tsela e tshwanang le pele. ",Ba sebedisa palo ya hisitori ho bala ditshusumetso tsa ditjeo ya tekgeniki.,neutral
+Tlhakiso ya 4: Laola kotsi motheong o tswellang.,Kgaolo ya bone e na le kwetliso ya ho laola kotsi.,entailment
+Tlhakiso ya 4: Laola kotsi motheong o tswellang.,Buka ha e na lesedi ka taolo ya kotsi ya nako e telele.,contradiction
+Tlhakiso ya 4: Laola kotsi motheong o tswellang.,Kwetliso ena e lokela ho qetwa ho be ho fanwe ka yona ha beke e fela.,neutral
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mehopolo ya Marxist-Leninist e ile ya kopanngwa ho mokgatlo wa Islam.,entailment
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mokgatlo wa Islam o ile wa qalwa ka dilemokgolo tsa botshelela.,contradiction
+"Mokgatlo wa Islam o thehilweng ka bo 1940, ke sephetho sa lefatshe la jwale, o hlohleleditswe ke mohopolo wa Marxist-Leninist wa phetoho ya puso.",Mokgatlo wa Islam o ile wa qalwa e le mokgatlo wa ho kopanya setjhaba. ,neutral
+Baeletsi ba bang ba hlahisitse ngongoreho ena.,Baeletsi kaofela ba dumetse ntle ho kganyetso hore ha ho letho le kgathatsang.,contradiction
+Baeletsi ba bang ba hlahisitse ngongoreho ena.,Ke moeletsi a le mong fela a sa kang a hlahisa ngongoreho ka leano lena.,neutral
+Baeletsi ba bang ba hlahisitse ngongoreho ena.,Ngongoreho ena e arolwa ke baeletsi ba mmalwa ba fapaneng.,entailment
+Tsamaiso e boetse e ikgethile bapalami ba tlamehang ho lekodisiswa bakeng sa tshireletso e eketsehileng. ,Bapalami bohle ba itsamaela ntle ho bothata.,contradiction
+Tsamaiso e boetse e ikgethile bapalami ba tlamehang ho lekodisiswa bakeng sa tshireletso e eketsehileng. ,Bapalami ba bang ba fumana sekene sa mmele kaofela.,neutral
+Tsamaiso e boetse e ikgethile bapalami ba tlamehang ho lekodisiswa bakeng sa tshireletso e eketsehileng. ,Bapalami ba bang ba lekodisiswa ke bahlanka ba tshireletso.,entailment
+"Ha re a fumana tshupiso ya hore mohopolo o ile wa tshetlehelwa tsamaiso e ntjha kapa hore Clarke o fetiseditse dipampiri ho bona, le hoja sehlopha se tshwanang sa tsamaiso",Re na le bonnete ba 100% hore Clarke ha a fa mang kapa mang pampiri ya hae.,neutral
+"Ha re a fumana tshupiso ya hore mohopolo o ile wa tshetlehelwa tsamaiso e ntjha kapa hore Clarke o fetiseditse dipampiri ho bona, le hoja sehlopha se tshwanang sa tsamaiso",Ha re fumane bopaki ba hore Clarke o mo file pampiri ya hae.,entailment
+"Ha re a fumana tshupiso ya hore mohopolo o ile wa tshetlehelwa tsamaiso e ntjha kapa hore Clarke o fetiseditse dipampiri ho bona, le hoja sehlopha se tshwanang sa tsamaiso",Re tseba hantle hore Clarke o ba file pampiri ya hae ka Phupu 2.,contradiction
+"Ha ho a hlaka hore tsamaiso e tla kenngwa pele ho 2010, empa le lenane lena la nako le monyebe haholo, ho ya ka dikotsi tsa tshireletso. ",Ho thata ho kenya tsamaiso hobane di-hackers di e hlasela bosiu bo bong le bo bong.,neutral
+"Ha ho a hlaka hore tsamaiso e tla kenngwa pele ho 2010, empa le lenane lena la nako le monyebe haholo, ho ya ka dikotsi tsa tshireletso. ",Ha ho bonolo ho kenya tsamaiso ka lebaka la dikotsi tsa tshireletso.,entailment
+"Ha ho a hlaka hore tsamaiso e tla kenngwa pele ho 2010, empa le lenane lena la nako le monyebe haholo, ho ya ka dikotsi tsa tshireletso. ","Tsamaiso ya tshireletso e tla kenngwa dibekeng tse tsheletseng, ke a tshepisa. ",contradiction
+"Kahoo, ha re sireletsa motse wa rona, maAmerika a lokela ho ela hloko ka ditshoso bathong ba bohlokwa le ditokelong tsa botho.",MaAmerika ha a hloke ho kgathatseha ka ditokelo tsa bona tsa botho -ba tla dula ba sireleditswe.,contradiction
+"Kahoo, ha re sireletsa motse wa rona, maAmerika a lokela ho ela hloko ka ditshoso bathong ba bohlokwa le ditokelong tsa botho.",MaAmerika a lokela ho etsa bonnete ba hore dithunya tsa bona ha di nkuwe.,neutral
+"Kahoo, ha re sireletsa motse wa rona, maAmerika a lokela ho ela hloko ka ditshoso bathong ba bohlokwa le ditokelong tsa botho.",MaAmerika a lokela ho tsepamisa maikutlo ka ditshoso ho tokoloho tsa rona.,entailment
+Ho e tsamaisa kgafetsa ha ho a etsa e atlehe haholo.,Tsamaiso ha e a ntlafatsa ka moo e neng e atlehile ka teng.,entailment
+Ho e tsamaisa kgafetsa ha ho a etsa e atlehe haholo.,Ho tsamaisa ho e atlehisitse haholo.,contradiction
+Ho e tsamaisa kgafetsa ha ho a etsa e atlehe haholo.,Ha ke a e etsa ebe le katleho e kalo ha re ne re e isa White House.,neutral
+"Boemo bo tlase bo latelang, molaodi wa yuniti ya al Qaeda CIA ka nako eo a hopola hore ha a ka a nahana hore e ne e le mosebetsi wa hae ho laola se lokelang ho etswa kapa ho se etswe. ",Molaodi o ne a sa batle ho itshunya hoba o ne a se a tlo beha meja fatshe.,neutral
+"Boemo bo tlase bo latelang, molaodi wa yuniti ya al Qaeda CIA ka nako eo a hopola hore ha a ka a nahana hore e ne e le mosebetsi wa hae ho laola se lokelang ho etswa kapa ho se etswe. ",Molaodi wa yuniti o ne a sa batle ho itshunya ho taolong ya se neng se se se entswe.,entailment
+"Boemo bo tlase bo latelang, molaodi wa yuniti ya al Qaeda CIA ka nako eo a hopola hore ha a ka a nahana hore e ne e le mosebetsi wa hae ho laola se lokelang ho etswa kapa ho se etswe. ",Molaodi o ne a nahana hore tsohle di matleng a hae.,contradiction
+Pickard o hopola polelo e entsweng kopanong ka Phupu 12.,Pickard ha a ka a hopola letho le buuweng.,contradiction
+Pickard o hopola polelo e entsweng kopanong ka Phupu 12.,Pickard o ile a hopola hore kopano e kwetse dintlha tsa kotsi.,neutral
+Pickard o hopola polelo e entsweng kopanong ka Phupu 12.,Pickard o ile a hopola se buuweng kopanong.,entailment
+O ile a ya Pakistan empa a se ke a phuthuloha ha a botswa hore o ile dinaheng tse haufi ha a ne a le Pakistan (Pakistan e ne e le tsela ya e tlwaelehileng dikampong tsa boikwetliso Afghanistan) ,Ho ne ho sa makatse hore marabele a paroletse Pakistan ho ya Afghanistan.,entailment
+O ile a ya Pakistan empa a se ke a phuthuloha ha a botswa hore o ile dinaheng tse haufi ha a ne a le Pakistan (Pakistan e ne e le tsela ya e tlwaelehileng dikampong tsa boikwetliso Afghanistan) ,Pakistan le Afghanistan di arohane haholo.,contradiction
+O ile a ya Pakistan empa a se ke a phuthuloha ha a botswa hore o ile dinaheng tse haufi ha a ne a le Pakistan (Pakistan e ne e le tsela ya e tlwaelehileng dikampong tsa boikwetliso Afghanistan) ,Kwetliso e entsweng Afghanistan e ne e kenyeletsa ntwa ya haufi.,neutral
+"Bakeng sa kakaretso ya mekgwa ena le mabaka a hore hobaneng ditshitiso di sa nahanwa hantle, bona Graham Allison le Phillip Zelikow. ",Ditshitiso di ile tsa tshwarwa hantle haholo.,contradiction
+"Bakeng sa kakaretso ya mekgwa ena le mabaka a hore hobaneng ditshitiso di sa nahanwa hantle, bona Graham Allison le Phillip Zelikow. ",Ditshitiso di ile tsa romelwa ho motho a fosahetseng bakeng sa tlhahlobo.,neutral
+"Bakeng sa kakaretso ya mekgwa ena le mabaka a hore hobaneng ditshitiso di sa nahanwa hantle, bona Graham Allison le Phillip Zelikow. ",Ditshitiso ha di a ka tsa tshwarwa ka mokgwa o nepahetseng.,entailment
+"Ba etsa ho be thata ho hlasela diphofu ka katleho, mme ba thibela ditlhaselo ka ho etsa tshwaro ntho e bobebe. ",Ba tsebile hore ho thatafatsa diphofu ho tla lebisa ho sekgahleng se phahameng sa batshwaruwa.,neutral
+"Ba etsa ho be thata ho hlasela diphofu ka katleho, mme ba thibela ditlhaselo ka ho etsa tshwaro ntho e bobebe. ",Ba bebofaleditse diphofu hoo di ileng tsa tshwara ka metsotso fela.,contradiction
+"Ba etsa ho be thata ho hlasela diphofu ka katleho, mme ba thibela ditlhaselo ka ho etsa tshwaro ntho e bobebe. ","Ba etsa diqholotso di be le phephetso haholo, jwale ba etsa ho tshwara ho etsahale hangata. ",entailment
+"Southeast Air Defense Sector e ile ya tsebiswa ka ketsahalo kamora metsotso e 9:55,28. ",Metsotso e 28 kamora ntlha Southeast Air Defense Sector e ile ya fumana tsebiso. ,entailment
+"Southeast Air Defense Sector e ile ya tsebiswa ka ketsahalo kamora metsotso e 9:55,28. ",Setsi ha se a ka sa fumana ditsebiso ka nako ka lebaka la tieho ya puisano. ,neutral
+"Southeast Air Defense Sector e ile ya tsebiswa ka ketsahalo kamora metsotso e 9:55,28. ",Southeast Air Defense Sector e ile ya fumana lentswe la ketsahalo kamora metsotswana e 28 fela kamora hore e etsahale. ,contradiction
+"Re shebela pele phehisano ya naha ka diphetho tsa hore ho entswe qeto efe, mme re tla nka karolo haholo phehisanong eo. ",Ha ho na lebaka la ho phehisana ka sehlooho sena.,contradiction
+"Re shebela pele phehisano ya naha ka diphetho tsa hore ho entswe qeto efe, mme re tla nka karolo haholo phehisanong eo. ",Re batla ho ba le phehisano hobane re a tseba ditshisinyo tsena di bohlokwa. ,neutral
+"Re shebela pele phehisano ya naha ka diphetho tsa hore ho entswe qeto efe, mme re tla nka karolo haholo phehisanong eo. ",Re ne re ka rata ho phehisa ditshisinyo.,entailment
+"Kamora hore Mihdhar a tsamaye, baithuti ba bang ba ile ba kena ntlong.",Mihdhar o tsebile hore baithuti ba ne ba mo emetse a tsamaye.,neutral
+"Kamora hore Mihdhar a tsamaye, baithuti ba bang ba ile ba kena ntlong.",Bana ba sekolo ba ile ba ya hae kamora hore Mihdhar a tsamaye.,entailment
+"Kamora hore Mihdhar a tsamaye, baithuti ba bang ba ile ba kena ntlong.",Baithuti ba ile ba ipelaetsa kantle ho ntlo eo Mihdhar a neng a dula ho yona.,contradiction
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Mpho e nngwe le e nngwe eo re e tholang ha e bohlokwa jwalo ka ya hao.,neutral
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Ha re kgathalle mpho ya hao.,contradiction
+Mpho ya hao e bohlokwa ketekong ya rona ya sehla sa bo 85.,Esale re etsa sena ho feta dilemo tse mashome a robedi.,entailment
+Ho nka tshwarisano ya tshehetso e ikemetseng le tshehetso ya tjhelete ya Yunivesithi hore sekolo sa rona sa molao se tswelle pele ho hola ka boemo le kgahlamelo.,Sekolo sa rona sa molao se tshepetse ho tshehetso ya tjhelete e ikemetseng fela. ,contradiction
+Ho nka tshwarisano ya tshehetso e ikemetseng le tshehetso ya tjhelete ya Yunivesithi hore sekolo sa rona sa molao se tswelle pele ho hola ka boemo le kgahlamelo.,Sekolo sa rona sa molao se tshehetswa karolong e nngwe ke Setheo sa Melinda le Bill Gates . ,neutral
+Ho nka tshwarisano ya tshehetso e ikemetseng le tshehetso ya tjhelete ya Yunivesithi hore sekolo sa rona sa molao se tswelle pele ho hola ka boemo le kgahlamelo.,Sekolo sa rona sa molao se hloka tjhelete ho tswela pele ho hola.,entailment
+Ka thuso fela ya batshehetsi ba rona ba thusang re kgonne ho fihlela tse kgolo. ,Bill Gates o re nehetse $5 milione.,neutral
+Ka thuso fela ya batshehetsi ba rona ba thusang re kgonne ho fihlela tse kgolo. ,"Ho latela boemo ba mebaraka ya ditjhelete, batshehetsi ba rona ba thusang ba ikguletse morao ka ditshehetso tsohle tsa bona tsa ditjhelete. ",contradiction
+Ka thuso fela ya batshehetsi ba rona ba thusang re kgonne ho fihlela tse kgolo. ,"Re kgonne ho fihlela tse ngata, ka lebaka la dithuso tseo re di fumaneng.",entailment
+Re a o leboha ka ho tshehetsa Indianapolis Museum of Art ka 1999.,Re a o leboha ka monehelo wa $100 ho Indianapolis Museum of Art.,neutral
+Re a o leboha ka ho tshehetsa Indianapolis Museum of Art ka 1999.,Re a leboha ebile ha re lebohe ho fela ha menehelo ya hao ka 1999.,contradiction
+Re a o leboha ka ho tshehetsa Indianapolis Museum of Art ka 1999.,Re thabile haholo ka thuso ya ho tshehetsa museamo.,entailment
+Tshepo ya ka ke hore o ne o hlohonolofaditswe haholo le ho kgothatswa ke taba eo. ,Ke tshepa hore taba ena e o file mafolofolo a matjha.,entailment
+Tshepo ya ka ke hore o ne o hlohonolofaditswe haholo le ho kgothatswa ke taba eo. ,"Ke a tseba taba ena e o bakela ho kgathatseha, empa thabela leeto la hao.",contradiction
+Tshepo ya ka ke hore o ne o hlohonolofaditswe haholo le ho kgothatswa ke taba eo. ,Ke a tseba o tla etsa tsohle tse matleng a hao ho lwantsha kankere ya ho nyantsha.. ,neutral
+Ho bohlokwa hore re utlwe ho tswa ho wena ka nako ena ya ho qetela ya letsholo la pokello ya tjhelete la sehla. ,"Hona ke letsholo la monehelo la ho qetela leo re tla ba le lona sehleng sena, jwale re hloka thuso ya hao. ",entailment
+Ho bohlokwa hore re utlwe ho tswa ho wena ka nako ena ya ho qetela ya letsholo la pokello ya tjhelete la sehla. ,Re na le matsholo a mabedi a pokello ya tjhelete selemong sena.,contradiction
+Ho bohlokwa hore re utlwe ho tswa ho wena ka nako ena ya ho qetela ya letsholo la pokello ya tjhelete la sehla. ,"Re hloka $100,000 e eketsehileng ho etsa karolo ya rona ya pokello ya tjhelete sehleng sena.",neutral
+P.S. Mpho ya hao e bohlokwa ho keteko ya rona ya dilemo tse 85 e etsang Indianapolis Civic Theatre ebe theatre e kgolo e tswellang ho sebetsa setjhabeng. ,"Ho ne ho na le kalana e nngwe e sa tswa keteka dilemo tsa yona tse 84 e theuwe, empa e ile ya tjha.",neutral
+P.S. Mpho ya hao e bohlokwa ho keteko ya rona ya dilemo tse 85 e etsang Indianapolis Civic Theatre ebe theatre e kgolo e tswellang ho sebetsa setjhabeng. ,Re keteka pulo ya kalana e ntjha ya Indianapolis.,contradiction
+P.S. Mpho ya hao e bohlokwa ho keteko ya rona ya dilemo tse 85 e etsang Indianapolis Civic Theatre ebe theatre e kgolo e tswellang ho sebetsa setjhabeng. ,Re thabile haholo hore Indianapolis Civic Theater esale e sebetsa ka dilemo tse 85.,entailment
+"Bao ba nkang karolo ba tla fuwa mabitso a lebeletsweng, diaterese le dinomoro tsa mohala, hammoho le tlhahisoleseding ka ditlhoko tsa sekolo.",Bankakarolo ba tla fuwa dinomoro tsa bahwebi le tlhahisoleseding.,entailment
+"Bao ba nkang karolo ba tla fuwa mabitso a lebeletsweng, diaterese le dinomoro tsa mohala, hammoho le tlhahisoleseding ka ditlhoko tsa sekolo.","Bankakarolo ba tla lokela ho saena tumellano e patang lesedi, pele ba ka fumana dintlha tsa bahwebi.",neutral
+"Bao ba nkang karolo ba tla fuwa mabitso a lebeletsweng, diaterese le dinomoro tsa mohala, hammoho le tlhahisoleseding ka ditlhoko tsa sekolo.","Bao ba nkang karolo ba ka tseba fela mabitso a bahwebi, empa eseng diaterese tsa bona. ",contradiction
+"Serapa sa rona sa diphoofolo se entswe ho sebediswa kgopolo ya di-biome, tse susumelletsang bodulo ba tlhaho moo diphoofolo di dulang.",Di-biome di susumelletsa diphoofolo bodulo ba tlhaho.,entailment
+"Serapa sa rona sa diphoofolo se entswe ho sebediswa kgopolo ya di-biome, tse susumelletsang bodulo ba tlhaho moo diphoofolo di dulang.","Serapeng sa rona sa diphoofolo, re dumela hore madulo ao eseng a nnete a ka kwano ho feta a tlhaho.",contradiction
+"Serapa sa rona sa diphoofolo se entswe ho sebediswa kgopolo ya di-biome, tse susumelletsang bodulo ba tlhaho moo diphoofolo di dulang.",Di-biomes serapeng sa rona sa diphoofolo di ne di le theko e hodimo.,neutral
+Tshehetso ya hao ya Goodwill e tla fana ka kwetliso ya mosebetsi le ditshebeletso tsa ho beha ho thusa ho sebetsa bohareng ba Indiana ho fumana mosebetsi o utlwahalang.,Batho bohareng ba Indiana ha ba ka ba fumana kwetliso ya mosebetsi.,contradiction
+Tshehetso ya hao ya Goodwill e tla fana ka kwetliso ya mosebetsi le ditshebeletso tsa ho beha ho thusa ho sebetsa bohareng ba Indiana ho fumana mosebetsi o utlwahalang.,Ho tshehetsa Goodwill ho tla tswela batho ba Indiana molemo.,entailment
+Tshehetso ya hao ya Goodwill e tla fana ka kwetliso ya mosebetsi le ditshebeletso tsa ho beha ho thusa ho sebetsa bohareng ba Indiana ho fumana mosebetsi o utlwahalang.,Ho tshehetsa Goodwill ho tla fokotsa sekgahla sa ho hloka mosebetsi.,neutral
+"Ho tloha qalong ya yona e nyenyane ho ya ho maemo a yona kajeno, jwalo ka setsi se tswileng matsoho sa kalafo setjhabeng, sekolo sa Indiana sa kalafo se ikgantsha ka ..... ",Indiana e na le bonyane dikolo tse mashome a mabedi tsa kalafo.,contradiction
+"Ho tloha qalong ya yona e nyenyane ho ya ho maemo a yona kajeno, jwalo ka setsi se tswileng matsoho sa kalafo setjhabeng, sekolo sa Indiana sa kalafo se ikgantsha ka ..... ",Mmuso wa Indiana o na le sekolo se le seng fela sa kalafo.,entailment
+"Ho tloha qalong ya yona e nyenyane ho ya ho maemo a yona kajeno, jwalo ka setsi se tswileng matsoho sa kalafo setjhabeng, sekolo sa Indiana sa kalafo se ikgantsha ka ..... ",Ha ho na ba le sekolo se seng sa kalafo Indiana dilemong tse hlano tse tlang.,neutral
+"Le ha ho le jwalo, keketseho e tshosang ditjeong tsa dibuka tsa molao, dijenale, le ditshebeletso tsa dipalopalo di bolela hore ho hlokomela pokello ya rona ya jwale ho feta tekanyetso ya rona",Ho hlokomela pokello ya rona ya jwale ho qosa fela boraro ba tekanyetso ya rona ya selemo.,contradiction
+"Le ha ho le jwalo, keketseho e tshosang ditjeong tsa dibuka tsa molao, dijenale, le ditshebeletso tsa dipalopalo di bolela hore ho hlokomela pokello ya rona ya jwale ho feta tekanyetso ya rona",Tekanyetso ya rona ya jwale ha e re dumelle hore re lokise pokello ya rona ya jwale.,entailment
+"Le ha ho le jwalo, keketseho e tshosang ditjeong tsa dibuka tsa molao, dijenale, le ditshebeletso tsa dipalopalo di bolela hore ho hlokomela pokello ya rona ya jwale ho feta tekanyetso ya rona","Re hloka bonyane $10,000 ya menehelo ho re dumella hore re lokise pokello ya rona ya jwale. ",neutral
+Re tla leka ho letsetsa e mong le e mong wa lona a sa nkang karolo selemong sena sa lekgetho matsatsing a 45 a tlang e le hore sepheo sa rona se ka fihlelwa ka nako ya qetelo ya Phupjane 30.,Ha re na maikemisetso a ho ka letsetsa bao ba sa kang ba nehela selemong sena sa lekgetho.,contradiction
+Re tla leka ho letsetsa e mong le e mong wa lona a sa nkang karolo selemong sena sa lekgetho matsatsing a 45 a tlang e le hore sepheo sa rona se ka fihlelwa ka nako ya qetelo ya Phupjane 30.,Re tla buisana ka mangolo matsatsing a 45 a tlang ho bao ba sa nehelang selemong sena sa lekgetho. ,neutral
+Re tla leka ho letsetsa e mong le e mong wa lona a sa nkang karolo selemong sena sa lekgetho matsatsing a 45 a tlang e le hore sepheo sa rona se ka fihlelwa ka nako ya qetelo ya Phupjane 30.,Re tla leka ho letsetsa bao ba sa kang ba nehela selemong sena sa lekgetho matsatsing a 45 a tlang. ,entailment
+"Jwalo ka setho sa sekolo sa molao, ke a tseba hore o etse hloko kgatelopele ya rona. ",Ke setho sa sekolo sa molao.,neutral
+"Jwalo ka setho sa sekolo sa molao, ke a tseba hore o etse hloko kgatelopele ya rona. ",Ha ho motho a sekolong sa molao.,contradiction
+"Jwalo ka setho sa sekolo sa molao, ke a tseba hore o etse hloko kgatelopele ya rona. ",Sekolo sa molao se amohetse batho.,entailment
+"Tjeo ya ho theha matlo ana e feta hole seo bareki ba rona ba ka se patalang, jwale re tshepetse ho ditjhelete tsa mphuwafela le dinehelo tsa motho ka mong.",Ho theha matlo e ne e le mahala.,contradiction
+"Tjeo ya ho theha matlo ana e feta hole seo bareki ba rona ba ka se patalang, jwale re tshepetse ho ditjhelete tsa mphuwafela le dinehelo tsa motho ka mong.",Matlo a ne a hloka disebediswa hore a thehwe.,entailment
+"Tjeo ya ho theha matlo ana e feta hole seo bareki ba rona ba ka se patalang, jwale re tshepetse ho ditjhelete tsa mphuwafela le dinehelo tsa motho ka mong.",Matlo a ne a tura haholo ho a aha ho feta kamoo ho neng ho lebeletswe.,neutral
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,Batswadi ba kgathatsehileng ke bona ba kgethwang dipapatsang tsa dikoranta tse beke.,entailment
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,Dikoranta tsa beke di rala dipakana tsa bokantle ba tsona hore di hohele ho bana ba banyane kapa batho ba baholo. ,contradiction
+Dipakana tsa bokantle ba dikoranta tsa beke e thabisa batswadi ba kgathatsehileng.,"Batswadi ba na le kgonahalo ya sebedisa tjhelete ho reka dikoloi tse ntjha, ho ba etsa ebe babapatsi ba bohlokwa ba makasine.",neutral
+Pale e ka sehloohong ya Time ke mehato e 12 ya Bill Gates bakeng sa ho atleha dilemong tsa digital.,Kim Kardashian o ngotse pale e ka sehloohong bakeng sa makasine wa Time ka mehato e 12 e hlokahalang hore o atlehe ho dilemo tsa digital. Solly Letuka ,contradiction
+Pale e ka sehloohong ya Time ke mehato e 12 ya Bill Gates bakeng sa ho atleha dilemong tsa digital.,Makasine ya Time e na le setshwantsho sa Bill Gates ka ntle.,neutral
+Pale e ka sehloohong ya Time ke mehato e 12 ya Bill Gates bakeng sa ho atleha dilemong tsa digital.,Makasine ya Time e na le pale ka Bill Gates le katleho dilemong tsa dijithale.,entailment
+"Matha o thotse, Matha ka ho teba, Mathisa Karabo",Matha o etsa lerata.,contradiction
+"Matha o thotse, Matha ka ho teba, Mathisa Karabo",Matha ka diphaka di fapakana.,neutral
+"Matha o thotse, Matha ka ho teba, Mathisa Karabo",Matha ntle le ho utluwa.,entailment
+Paul o shebahala a nka Alan Greenspan e le motho a dumelang mohopolong o itseng ya  laolang sekgahla sa ho hloka mosebetsi ho ya ka balaodi ba mehopolo ya ikhonomi.,Alan Greenspan o na le mehopolo ya ikhonomi mabapi le ka sekgahla sa tlhokeho ya mosebetsi. ,entailment
+Paul o shebahala a nka Alan Greenspan e le motho a dumelang mohopolong o itseng ya  laolang sekgahla sa ho hloka mosebetsi ho ya ka balaodi ba mehopolo ya ikhonomi.,Paul ha a so ka a utlwela ka Alan Greenspan kapa mehopolo ya hae ya ikhonomi . ,contradiction
+Paul o shebahala a nka Alan Greenspan e le motho a dumelang mohopolong o itseng ya  laolang sekgahla sa ho hloka mosebetsi ho ya ka balaodi ba mehopolo ya ikhonomi.,Paul o nahana Alan Greenspan ke raikhonomi e bohlale a e tsebang.,neutral
+"Ka thuso ya Microsoft Helpdesk ke hlokometse hore CD-ROM drive ya ka e ne e hoketswe ho sound card eseng ho IDE port, mme jwalo le ho thibela Linux. ",Ha ke so sebetsane le Linux.,contradiction
+"Ka thuso ya Microsoft Helpdesk ke hlokometse hore CD-ROM drive ya ka e ne e hoketswe ho sound card eseng ho IDE port, mme jwalo le ho thibela Linux. ",Ke ne ke na le bothata ba ho fumana Linux ho hokela ho modem wa ka.,neutral
+"Ka thuso ya Microsoft Helpdesk ke hlokometse hore CD-ROM drive ya ka e ne e hoketswe ho sound card eseng ho IDE port, mme jwalo le ho thibela Linux. ",Ke ne ke na le bothata ka Linux.,entailment
+"Steve, ke ne ke sa kgone le ho phahamisa mokotlana wa hao wa tjhelete, Hatch a kgutlisetsa.",Hatch o buile ka kgalefo hore o ne a sa kgone le ho pahamisa walete ya Steve.,neutral
+"Steve, ke ne ke sa kgone le ho phahamisa mokotlana wa hao wa tjhelete, Hatch a kgutlisetsa.",Hatch o ne a se na maikutlo mabapi le mokotlana wa tjhelete wa Steve.,contradiction
+"Steve, ke ne ke sa kgone le ho phahamisa mokotlana wa hao wa tjhelete, Hatch a kgutlisetsa.",Hatch o ile a swaswa ka hore o ne a sa kgone le ho phahamisa walete ya Steve.,entailment
+"Di-nerds, tse dulang phaposing ya thuto ya ikhonomi le khomputha, ba boetse ba na le boemo bo sa tshepiseng.",Ditsebi ha di na tshepo.,entailment
+"Di-nerds, tse dulang phaposing ya thuto ya ikhonomi le khomputha, ba boetse ba na le boemo bo sa tshepiseng.",Ditsebi di hlwahlwa ka ho buisana le batho.,neutral
+"Di-nerds, tse dulang phaposing ya thuto ya ikhonomi le khomputha, ba boetse ba na le boemo bo sa tshepiseng.",Ditsebi di na le bokamoso.,contradiction
+E ka fetang seo News Quiz e se tshepisang mabapi le Fox.,Ke tlase ho seo News Quiz e se tshepisang mabapi le Fox.,contradiction
+E ka fetang seo News Quiz e se tshepisang mabapi le Fox.,Ke ho fetang News Quiz ho ka tshepisang mabapi le Fox.,entailment
+E ka fetang seo News Quiz e se tshepisang mabapi le Fox.,E ka fetang seo News Quiz e se buang ka Fox.,neutral
+Kgolo ya setjhaba ekare ke ho kgutlela morao ha tshilafatso.,Tshilafatso ke ntlha e thibelang kgolo ya setjhaba.,neutral
+Kgolo ya setjhaba ekare ke ho kgutlela morao ha tshilafatso.,Kgolo ya setjhaba e tshwana le inverse pollution.,entailment
+Kgolo ya setjhaba ekare ke ho kgutlela morao ha tshilafatso.,Ha ho na kamano mahareng a kgolo ya setjhaba le tshilafatso.,contradiction
+"Jwale, ho latela hore Bill Bradley o holetse St. Louis, tshwarelo, hoo ho tla thabisa haeba Al Gore a ne a holetse Tennessee.",Bradley o ne a tswa Arkansas.,contradiction
+"Jwale, ho latela hore Bill Bradley o holetse St. Louis, tshwarelo, hoo ho tla thabisa haeba Al Gore a ne a holetse Tennessee.",Bradley o ne a tswa Missouri.,entailment
+"Jwale, ho latela hore Bill Bradley o holetse St. Louis, tshwarelo, hoo ho tla thabisa haeba Al Gore a ne a holetse Tennessee.",Bradley o ne a tswa karolong e ka botjhabela ya St Louis.,neutral
+"Sabol o ile a re o lokela ho nkakgafetsa, empa le hoo ho hlophisitswe ka mokgwa o kgodisang. ",Sabol ha a hloke ho nka kgefutso tseo tsohle.,neutral
+"Sabol o ile a re o lokela ho nkakgafetsa, empa le hoo ho hlophisitswe ka mokgwa o kgodisang. ",Sabol o boletse hore hona jwale le kamehla o lokela ho etsa pit stop.,entailment
+"Sabol o ile a re o lokela ho nkakgafetsa, empa le hoo ho hlophisitswe ka mokgwa o kgodisang. ",Sabol o tshwahile hore ha a hloke ho ka nka dikgefu.,contradiction
+Hobaneng sena se sa etsahale websaeteng?,Sena se etsahala websaeteng,contradiction
+Hobaneng sena se sa etsahale websaeteng?,Sena ha se etsahale websateng ha jwale.,entailment
+Hobaneng sena se sa etsahale websaeteng?,Sena se ka etsahala diketsahalong tse ding ho Web.,neutral
+"Mapolesa a tsebisitse hore ba qheletse ka thoko hore abuti wa Ramsey le ausi wa hae ke le babelaelwa polaong ya hae, hobane bobedi ba ne ba le siyo  topropong ha bokebekwa bo etsahala. ",Abuti wa Jon Benet Ramsey o ne a le siyo toropong ha polao e ne e etswa.,entailment
+"Mapolesa a tsebisitse hore ba qheletse ka thoko hore abuti wa Ramsey le ausi wa hae ke le babelaelwa polaong ya hae, hobane bobedi ba ne ba le siyo  topropong ha bokebekwa bo etsahala. ",Ausi wa Jon Benet Ramsey o na le bopaki bo matla ba hore o ne a le siyo toropong ha bokebekwa bo ne bo etsahala. ,neutral
+"Mapolesa a tsebisitse hore ba qheletse ka thoko hore abuti wa Ramsey le ausi wa hae ke le babelaelwa polaong ya hae, hobane bobedi ba ne ba le siyo  topropong ha bokebekwa bo etsahala. ",Ho na le bopaki bo lekaneng ho ka tshwara abuti wa Jon Benet Ramsey jwalo ka mmolai.,contradiction
+Ha o na bonnete ba hore o ne o hlakile ka hore o lehlakoreng la mang.,Ho hlakile hore o tshehetsa mang.,contradiction
+Ha o na bonnete ba hore o ne o hlakile ka hore o lehlakoreng la mang.,Ha re tsebe hore o tshehetsa mang dikgethong. ,neutral
+Ha o na bonnete ba hore o ne o hlakile ka hore o lehlakoreng la mang.,Ha re tsebe hore o tshehetsa mang.,entailment
+"Ka letsatsi le leng, thekenoloji eo kajeno e thehang mmaraka bakeng sa ba shebelang pele, e tla ba hloka thahasello jwaloka lebone. Solly Letuka ",Thekenoloji e a tena kamora nako.,entailment
+"Ka letsatsi le leng, thekenoloji eo kajeno e thehang mmaraka bakeng sa ba shebelang pele, e tla ba hloka thahasello jwaloka lebone. Solly Letuka ",Thekenoloji e dula e le monate!,contradiction
+"Ka letsatsi le leng, thekenoloji eo kajeno e thehang mmaraka bakeng sa ba shebelang pele, e tla ba hloka thahasello jwaloka lebone. Solly Letuka ",Thekenoloji e a tena ha o sa e fetole kgafetsa.,neutral
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Ha ho a loka ho sebedisa alternative ho bolela alternate.,entailment
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Ho dumelletswe ho kenya alternate bakeng sa alternative.,contradiction
+Alternative ha e a lokela ho sebediswa sebakeng sa alternate.,Batho ba bangata ha ba tsebe hore o sebedisa jwang ka nepo alternative le alternate.,neutral
+"Ka nako eo a kenang dilemong tsa hae tsa bo mashome a tsheletseng, ka 1985, Skeat o fanne ka pontsho ya hore o ne a qala ho se tsotelle ditaba. ","Ha Skeat a kena dilemong tsa hae tsa bo mashome a tsheletseng, ha a ka a fana ka pontsho ya hore o ne a nahana ka sefe kapa sefe.",contradiction
+"Ka nako eo a kenang dilemong tsa hae tsa bo mashome a tsheletseng, ka 1985, Skeat o fanne ka pontsho ya hore o ne a qala ho se tsotelle ditaba. ",Ha Skeat a tsofala o ile a ntsha pontsho ya hore o nkile dintho hanyane.,entailment
+"Ka nako eo a kenang dilemong tsa hae tsa bo mashome a tsheletseng, ka 1985, Skeat o fanne ka pontsho ya hore o ne a qala ho se tsotelle ditaba. ",Skeat o ile a qala ho kgathalla ka dintho tse fapaneng ha a tsofala.,neutral
+...empa lekgetlo la bobedi la ketsahalo o ne tshwarehile dipakeng tsa metswalle e mmedi.,Ha a tsebe a kgethe lehlakore lefe pakeng tsa metswalle ya hae e mmedi.,neutral
+...empa lekgetlo la bobedi la ketsahalo o ne tshwarehile dipakeng tsa metswalle e mmedi.,"O na le ketsahalo e le nngwe fela, e amang motswalle wa hae.",contradiction
+...empa lekgetlo la bobedi la ketsahalo o ne tshwarehile dipakeng tsa metswalle e mmedi.,Lekgetlong la bobedi ketsahalo e ama batho ba bararo.,entailment
+"O rata efe haholo, Math kapa Science?",O na le seo o se ratang ho Math kapa Science?,entailment
+"O rata efe haholo, Math kapa Science?","O hloile eng haholo, English kapa Philosophy?",contradiction
+"O rata efe haholo, Math kapa Science?",O ka rata dintho tse ding ntle ho Math le Science.,neutral
+"Ho ya ka nako le thekenoloji e ntlafetseng, difouno tsohle tseo eseng tsa radio di tla ngolwa e le difouno tsa mohala.",Difouno tse eseng tsa radio tsohle di tla qetela e le di wire phones.,entailment
+"Ho ya ka nako le thekenoloji e ntlafetseng, difouno tsohle tseo eseng tsa radio di tla ngolwa e le difouno tsa mohala.",Difouno di tla ntlafala ka thekenoloji.,neutral
+"Ho ya ka nako le thekenoloji e ntlafetseng, difouno tsohle tseo eseng tsa radio di tla ngolwa e le difouno tsa mohala.",Difounu tsa mehala di tlwaelehile ho feta difouno tseo eseng tsa radio.,contradiction
+Polelo ya ho qetela: Re akanya hore ha o so nehelane ka moqoqo ona nqa e nngwe,Re nka hore ha o a fana ka moqoqo ona ho mang kapa mang.,entailment
+Polelo ya ho qetela: Re akanya hore ha o so nehelane ka moqoqo ona nqa e nngwe,Re a utlwisisa hore o phatlaladitse moqoqo ona nako e fetileng dikoranteng tse hlano.,contradiction
+Polelo ya ho qetela: Re akanya hore ha o so nehelane ka moqoqo ona nqa e nngwe,Re tla rata ho saena foromo e amohelang hore ke rona fela bao o fanneng ka moqoqo ho bona. ,neutral
+abuti a lokileng- polelo ena ya common present usage e fumanwa ho Julius Caesar iv.,"Ho Julius Caesar, lentswe lena abuti a lokileng le a sebediswa.",entailment
+abuti a lokileng- polelo ena ya common present usage e fumanwa ho Julius Caesar iv.,Lentswe abuti a lokileng le sebedisitswe fela ho tloha ka mongwahakgolo wa bo 20.,contradiction
+abuti a lokileng- polelo ena ya common present usage e fumanwa ho Julius Caesar iv.,Lentswe abuti a lokileng le sebediswa ho bolela sware.,neutral
+"Haeba ho le jwalo, ba ka nna ba hlohleletswa ho reka kgatiso hobane e na le maqephe a 55 a mantswe, ditlhaloso, le diqotso tse sa kang tsa phatlalatswa pele.",Buka ena e na le mantswe a mangata a matjha a neng a sa phatlalatswa pele.,entailment
+"Haeba ho le jwalo, ba ka nna ba hlohleletswa ho reka kgatiso hobane e na le maqephe a 55 a mantswe, ditlhaloso, le diqotso tse sa kang tsa phatlalatswa pele.",Kgatiso ena e tshwana le kgatiso e fetileng.,contradiction
+"Haeba ho le jwalo, ba ka nna ba hlohleletswa ho reka kgatiso hobane e na le maqephe a 55 a mantswe, ditlhaloso, le diqotso tse sa kang tsa phatlalatswa pele.",Kgatiso ena e rekisitse ho feta di-copy tse diketse tse makgolo a mahlano selemong sa yona sa pele. ,neutral
+"Re ile ra tshoswa ke tjhebahalo ya yona ka tsela e itseng, empa re ile ra e ja-kantle ho thahasello, empa ka pou e tiileng ya katlase re nwele, ka ho tjho jwalo, ka lebese la Mme wa rona.                                                                                                               ",Bohle ka motlotlo ba ile ba ja dijo tsa bona mme ba bolela hore di ba hopotsa dijo tsa bona tseo ba di ratang tsa matsatsi a phomolo.,contradiction
+"Re ile ra tshoswa ke tjhebahalo ya yona ka tsela e itseng, empa re ile ra e ja-kantle ho thahasello, empa ka pou e tiileng ya katlase re nwele, ka ho tjho jwalo, ka lebese la Mme wa rona.                                                                                                               ","Re ile ra ikutlwa re qobellehile ho ja se neng se beuwe kapele ho rona, hobane re ne re sa batle ho kgopisa baamohedi ba rona",neutral
+"Re ile ra tshoswa ke tjhebahalo ya yona ka tsela e itseng, empa re ile ra e ja-kantle ho thahasello, empa ka pou e tiileng ya katlase re nwele, ka ho tjho jwalo, ka lebese la Mme wa rona.                                                                                                               ","Re ile ra ja se neng se beuwe kapele ho rona ka lesisitheho, leha re ne re sa rate tjhebeho ya sona.",entailment
+Batho ba banyane ba dilemo di kae?,Ke tseba hantle hore batho ba banyane ba bakae ka dilemo.,contradiction
+Batho ba banyane ba dilemo di kae?,Batho ba banyane ke sehlopha seo batho ba bang ba nang le bothata ba ho se arola ka dilemo.,entailment
+Batho ba banyane ba dilemo di kae?,Batho ba banyane kaofela ba katlase ho dilemo tse mashome a mabedi le metso e mehlano.,neutral
+"Ntle ho moo, mohopolo wa bona wa nako o sedikadikwe. ha o a otloloha, jwale ho tshwaya nako ha se ho bohlokwa ho feta ho keteka ho kgutla ha mekete ya sehla.","Jwalo kaha mohopolo wa bona wa nako o otlolohile, nako ya bona e bohlokwa haholo ho feta ho kgutla ha mekete ya sehla.",contradiction
+"Ntle ho moo, mohopolo wa bona wa nako o sedikadikwe. ha o a otloloha, jwale ho tshwaya nako ha se ho bohlokwa ho feta ho keteka ho kgutla ha mekete ya sehla.","Hobane ba sheba nako jwaloka sedikadikwe, ho kgutla ha mekete ya sehla ho bohlokwa haholo ho bona",entailment
+"Ntle ho moo, mohopolo wa bona wa nako o sedikadikwe. ha o a otloloha, jwale ho tshwaya nako ha se ho bohlokwa ho feta ho keteka ho kgutla ha mekete ya sehla.",Ba keteka mekete ya sehla hobane ba dumela hore nako e sebopeho sa s.,neutral
+"Ka mohlala, tse ding di na le dikarolwana tse tlositsweng ho sebediswa disebediswa  kapa lebala leo ho bapallwang papadi. ",Dipapadi kaofela di rehelletswe ka disebediswa tse sebediswang papading.,contradiction
+"Ka mohlala, tse ding di na le dikarolwana tse tlositsweng ho sebediswa disebediswa  kapa lebala leo ho bapallwang papadi. ",Dipapadi tse ding ha di a rehellwa ka disebediswa kapa lebala.,entailment
+"Ka mohlala, tse ding di na le dikarolwana tse tlositsweng ho sebediswa disebediswa  kapa lebala leo ho bapallwang papadi. ",Sena se etsahala hangata ha papadi e qaduwe ho sebediswa disebediswa tse ntseng di le teng ho tswa dipapading tse ding.,neutral
+"Bakeng sa diphephetso, ke sa batlana le lentswe le ka arolwang ka tatelano ka dikarolo tse pedi tse nyane.",Ke fumane mantswe a mararo a ka arolwang ka tatelano dikarolo tse pedi tse nyane.,contradiction
+"Bakeng sa diphephetso, ke sa batlana le lentswe le ka arolwang ka tatelano ka dikarolo tse pedi tse nyane.",Ha ke a ba le nako e bonolo ya ho fumana lentswe le ka arolwang ka tatelano dikarolo tse nyane tse pedi.,entailment
+"Bakeng sa diphephetso, ke sa batlana le lentswe le ka arolwang ka tatelano ka dikarolo tse pedi tse nyane.","Ke bile le thahasello ho puo, ho tloha ke nkile tlelase ya ho qala selemo se fetileng.",neutral
+"Empa kganya ho dedication e siuwe tshekatshekong, ho siyang mmadi a se bohlale ho feta pele.",Buka e ne e nehetswe ho Mme wa mongodi.,neutral
+"Empa kganya ho dedication e siuwe tshekatshekong, ho siyang mmadi a se bohlale ho feta pele.",Tshekatsheko e akareditse lesedi kaofela leo mmadi a ka hlokang ho le tseba.,contradiction
+"Empa kganya ho dedication e siuwe tshekatshekong, ho siyang mmadi a se bohlale ho feta pele.",Tshekatsheko ha e akaretse lesedi le leng le bohlokwa ho tswa ho dedication.,entailment
+"Dilemong tsa ho qetela tsa mongwahakgolo wa 19, ho ne ho na le puisano e ngata mabapi le the word.",Ho ile ha qetellwa ho nkuwe qeto ya hore the word e ne e sa amohelehe ho polite company.,neutral
+"Dilemong tsa ho qetela tsa mongwahakgolo wa 19, ho ne ho na le puisano e ngata mabapi le the word.",The word e bile ntlha ya ngangisano dilemo tse ngata tse fetileng.,entailment
+"Dilemong tsa ho qetela tsa mongwahakgolo wa 19, ho ne ho na le puisano e ngata mabapi le the word.",The word e ile ya nyahlatswa le ho lebalwa pele ho mafelo a mongwahakgolo wa bo-19.,contradiction

@@ -1,0 +1,451 @@
+premise,hypothesis,label
+"Egblɔ be, dada, megbɔ va aƒeme","esime sukubɔsua ɖii teti ko la, eyɔ nɔa.",neutral
+"Egblɔ be, dada, megbɔ va aƒeme",Megblɔ nya aɖeke o.,contradiction
+"Egblɔ be, dada, megbɔ va aƒeme",Egblɔ na nɔa be yegbɔ.,entailment
+"Nyemenya nu si me mele ta ƒom ɖe o, ale woɖom ɖe washington ƒe akpa aɖe.","Nyemeyi Washington kpɔ o ta, esime woɖem ɖo ɖe afi ma la, mebu esime mele didim be mayi ɖe teƒea.",neutral
+"Nyemenya nu si me mele ta ƒom ɖe o, ale woɖom ɖe washington ƒe akpa aɖe.",Menya nu si tututu wɔ ge mala esime mezɔ ɖo ta Washington.,contradiction
+"Nyemenya nu si me mele ta ƒom ɖe o, ale woɖom ɖe washington ƒe akpa aɖe.","Nyemeka ɖe nu si wɔ ge mele tututu la dzi o, ale meyi ɖe Washington, afi si wobia tso asinye le be malé nya ɖi.",entailment
+Mete ŋu yii o.,Eyae nye ame gbãtɔ si wokpe eye wòkpɔ gome le nutekpɔa me,contradiction
+Mete ŋu yii o.,Womeɖe mɔ nae be wòakpɔ gome le eme o.,entailment
+Mete ŋu yii o.,Mekpɔ mɔ ayi ɖe aklamakpɔa kpeƒe o,neutral
+"Eye mele abe OK ene, evɔ !","Esi megblɔ be ɛ̃ ko la, nu sia nu wu enu.",entailment
+"Eye mele abe OK ene, evɔ !",Megblɔ be o eye nua gayi edzi kpee,contradiction
+"Eye mele abe OK ene, evɔ !","Esi megblɔ be ɛ̃ la, míeɖui be míaɖe mía nɔewo gbe ma gbe",neutral
+Ɖe ko meli nenema hele agbagba dzem be mase nua gɔme,Mese egɔme tso gɔmedzedzea ke,contradiction
+Ɖe ko meli nenema hele agbagba dzem be mase nua gɔme,Menɔ agbagba dzem be manya afi si gaa nɔ yiyim.,neutral
+Ɖe ko meli nenema hele agbagba dzem be mase nua gɔme,Menɔ agbagba dzem be mase nua gɔme,entailment
+Eye mama gblɔa eƒẽa kple enyoa siwo ɖui be yewoayi ɖatsi dugã me le Augusta ale be yewoadze abe yevuwo ene la ƒe nya.,Mama ƒe ƒèa nye yevunyɔnu eye wòʋu yi Texas,contradiction
+Eye mama gblɔa eƒẽa kple enyoa siwo ɖui be yewoayi ɖatsi dugã me le Augusta ale be yewoadze abe yevuwo ene la ƒe nya.,Mama ƒe ƒèa menye yevunyɔnu o.,entailment
+Eye mama gblɔa eƒẽa kple enyoa siwo ɖui be yewoayi ɖatsi dugã me le Augusta ale be yewoadze abe yevuwo ene la ƒe nya.,"Mama ƒe ƒèa menye yevunyɔnu o, gake edi be yenyee ale be yeate ŋu de suku.",neutral
+"Edze le go geɖe me abe agbledela aɖe ƒe vi ene,elabena enye ameƒomevi ma si nye kesinɔtɔ la ƒe viŋutsu",Naneke menɔ fofoa si le eƒe agbe me kpɔ o.,contradiction
+"Edze le go geɖe me abe agbledela aɖe ƒe vi ene,elabena enye ameƒomevi ma si nye kesinɔtɔ la ƒe viŋutsu",Agblenyigba acres 2000 nɔ fofoa si,neutral
+"Edze le go geɖe me abe agbledela aɖe ƒe vi ene,elabena enye ameƒomevi ma si nye kesinɔtɔ la ƒe viŋutsu",Kesinɔnu geɖe nɔ fofoa si.,entailment
+"Dɔdeasinyee nye be mada kpodzowu alo tsiƒuwu ɖe edzi nenye be míele dzram ɖo ɖi, eye míedze esia gɔme le dzronyigba aɖe dzi le afi aɖe.","Dɔ menɔ asinye o ta, medzra goawo katã ɖo ɖi ɖe aƒeme",contradiction
+"Dɔdeasinyee nye be mada kpodzowu alo tsiƒuwu ɖe edzi nenye be míele dzram ɖo ɖi, eye míedze esia gɔme le dzronyigba aɖe dzi le afi aɖe.",Meɖo goawo ɖe Japon,neutral
+"Dɔdeasinyee nye be mada kpodzowu alo tsiƒuwu ɖe edzi nenye be míele dzram ɖo ɖi, eye míedze esia gɔme le dzronyigba aɖe dzi le afi aɖe.",Metsɔwo dɔ̃ asidɔ̃,entailment
+"Nenemae, fifia, melé fɔ̃ ɖe eŋu",Mekpɔ egbɔ be wobla beleti la nyuie ale be manɔ dedie,neutral
+"Nenemae, fifia, melé fɔ̃ ɖe eŋu",Nenema tutue yameʋua de asi gege mee.,contradiction
+"Nenemae, fifia, melé fɔ̃ ɖe eŋu",Nenema tututue woblam .,entailment
+"Asidzila gã aɖe wònye, eye oh ɛ̃, enɔ abe ame tsiablɔto ene. Eye le esia ta, nyae bena, nyemelɔ̃nae o, esiawo katã nye nye ŋutɔ nye nyawo.",Enɔa gbedzi eye wòfatu,contradiction
+"Asidzila gã aɖe wònye, eye oh ɛ̃, enɔ abe ame tsiablɔto ene. Eye le esia ta, nyae bena, nyemelɔ̃nae o, esiawo katã nye nye ŋutɔ nye nyawo.",Metsrii elabena edana ŋutɔ.,neutral
+"Asidzila gã aɖe wònye, eye oh ɛ̃, enɔ abe ame tsiablɔto ene. Eye le esia ta, nyae bena, nyemelɔ̃nae o, esiawo katã nye nye ŋutɔ nye nyawo.",Nyemenye elɔ̃lawo dometɔ ɖeka o.,entailment
+"Esime meʋu, esime wòʋu mɔxenua ale be madze eɖeɖe do le afi ma la, etsɔ dɔwɔnu eve fiam le yameʋua ƒe miame, esiwo sre le yameʋua ƒe dzòdzò me.",Yameʋua kukudɔwɔnuawo katã nɔ dedie.,contradiction
+"Esime meʋu, esime wòʋu mɔxenua ale be madze eɖeɖe do le afi ma la, etsɔ dɔwɔnu eve fiam le yameʋua ƒe miame, esiwo sre le yameʋua ƒe dzòdzò me.",Esesẽ be maɖee do le eme.,neutral
+"Esime meʋu, esime wòʋu mɔxenua ale be madze eɖeɖe do le afi ma la, etsɔ dɔwɔnu eve fiam le yameʋua ƒe miame, esiwo sre le yameʋua ƒe dzòdzò me.",Dɔwɔnu aɖewo sre le yameʋua me,entailment
+Eye mese egɔme tututu o.,"Dzɔgbevɔ̃etɔe la, mete ŋu se nugɔme nyuie o le gbemase ta.",neutral
+Eye mese egɔme tututu o.,"Le nyateƒe me la, menɔ naneke me sem o.",entailment
+Eye mese egɔme tututu o.,Enya nu si gblɔm míele la nyuie.,contradiction
+Anye ne egblɔe na ame mlɔeawo katã evɔ nyemenɔ to ɖom wo le ɣeyiɣi ma tututu me o.,Nyemeɖo toe esime wògblɔe na ame mlɔeawo katã o.,entailment
+Anye ne egblɔe na ame mlɔeawo katã evɔ nyemenɔ to ɖom wo le ɣeyiɣi ma tututu me o.,Mese nu siwo katã wògblɔ.,contradiction
+Anye ne egblɔe na ame mlɔeawo katã evɔ nyemenɔ to ɖom wo le ɣeyiɣi ma tututu me o.,Menɔ nu ƒom na ame bubu le ɣe ma ɣi.,neutral
+"Yameʋu eve, etɔ̃ ko míebu esi míenɔ afi ma, eye, euh, dodokpɔnyagbea.",Yameʋu aɖewo bu le yame ƒe nɔnɔme ta,neutral
+"Yameʋu eve, etɔ̃ ko míebu esi míenɔ afi ma, eye, euh, dodokpɔnyagbea.",Yameʋu geɖe bu,entailment
+"Yameʋu eve, etɔ̃ ko míebu esi míenɔ afi ma, eye, euh, dodokpɔnyagbea.",Míebu yameʋu aɖeke kpɔ o.,contradiction
+Medi be nàwɔ nane nam.,Nyemehĩa kpkekpeɖeŋu o.,contradiction
+Medi be nàwɔ nane nam.,Dɔ triakɔ aɖee medi be míawɔ.,neutral
+Medi be nàwɔ nane nam.,Nane lii si medi be ne wòawu enu.,entailment
+Oh Snake River ye oh Snake River si me da sɔgbɔ le.,"To egbɔ be woyɔe nenema be Da Tɔsisi hã la, da mele eme o ; exɔ ŋkɔa tso ale si eƒe nɔnɔme le abe S ene la ta.",contradiction
+Oh Snake River ye oh Snake River si me da sɔgbɔ le.,Daklo sɔgbɔ le Snake River me,neutral
+Oh Snake River ye oh Snake River si me da sɔgbɔ le.,Da bɔ ɖe Snake tɔsisi la me.,entailment
+"Nyateƒe wònye be nɔnɔme gbagbe wònye; menye nane si me woade ta alɔgblɔdɔe ahanɔ te nɔm kpe ŋgɔdede o; nyateƒe me la, nyemexɔe se o.",Mexɔese be ele be woatsɔ gaƒoƒo 10 awɔ dɔ hafi aɖu tu na wɔna sia.,neutral
+"Nyateƒe wònye be nɔnɔme gbagbe wònye; menye nane si me woade ta alɔgblɔdɔe ahanɔ te nɔm kpe ŋgɔdede o; nyateƒe me la, nyemexɔe se o.",Mexɔe se be nàtsɔ ɖokui wò ƒo ɖe eme blibo hena ewɔwɔ nyuie.,entailment
+"Nyateƒe wònye be nɔnɔme gbagbe wònye; menye nane si me woade ta alɔgblɔdɔe ahanɔ te nɔm kpe ŋgɔdede o; nyateƒe me la, nyemexɔe se o.",Neɖe fu nenye be metsɔ esia vevie tututu o.,contradiction
+Eye nu si mele susum be anyo lae nye nu si míawɔ ku ɖe nu siawo; esiae nye be míele ame siwo le nye mía teƒenɔlawo la ɖɔli ge.,"Menya ko be anye fuɖename blibo eye mehiã be míatee kpɔ be míaɖɔli mía teƒenɔlawo o, esia tae mehĩa be míatee kpɔ gɔ̃ hã o.",contradiction
+Eye nu si mele susum be anyo lae nye nu si míawɔ ku ɖe nu siawo; esiae nye be míele ame siwo le nye mía teƒenɔlawo la ɖɔli ge.,Mexɔe se be asesẽ be míaɖɔli ame siwo nye mía teƒenɔlawo gake le nuwuwua edze kɔtee be enyo be míawɔ esiae.,neutral
+Eye nu si mele susum be anyo lae nye nu si míawɔ ku ɖe nu siawo; esiae nye be míele ame siwo le nye mía teƒenɔlawo la ɖɔli ge.,Edze be míatsɔ nu yeyewo de ame siwo le mía teƒe la me.,entailment
+Eye woate ŋu afatu nenye be wotu wo ɖo vɔ.,"Nenye be numetotoa wu nu ko la, woliana eye wofana.",contradiction
+Eye woate ŋu afatu nenye be wotu wo ɖo vɔ.,Wotrɔna nɔnɔme kaba le tutuɖonaɣia.,neutral
+Eye woate ŋu afatu nenye be wotu wo ɖo vɔ.,Anye nu nyui aɖe bena wona tutuɖo aɖe wo.,entailment
+"Eye esia ayi dzi ƒè ewo, ƒè bla eve, mesusu be esia nye nu vlui.",Mesusu be enye mɔvinɔnu be kodzo nadzidzi ƒè geɖe ma gbegbe.,neutral
+"Eye esia ayi dzi ƒè ewo, ƒè bla eve, mesusu be esia nye nu vlui.",Mekpɔ be eɖe fu be wòadzidzi ale ke gbegbe.,entailment
+"Eye esia ayi dzi ƒè ewo, ƒè bla eve, mesusu be esia nye nu vlui.",Kɔsiɖa ɖeka ko wòadzidzi.,contradiction
+"Ɛ̃ wò, ewɔ abe wɔelɛsi le asiwo ene.",Nenye be wodzra esi le asiwo tsã ɖo la anyo wu.,entailment
+"Ɛ̃ wò, ewɔ abe wɔelɛsi le asiwo ene.","Esi nɔ asiwò la, meka ɖe edzi be ka nɔ eŋu.",contradiction
+"Ɛ̃ wò, ewɔ abe wɔelɛsi le asiwo ene.","Ewɔ abe esi nɔ asiwò la, wotsɔ ka kpe ɖe eŋu abe axadzixɛ ene.",neutral
+Nufialawo gblɔm nèle loo alo dzilawo?,Nèbe sukuviawoe loo alo kpeɖeŋutɔ lae wɔea?,contradiction
+Nufialawo gblɔm nèle loo alo dzilawo?,Nufialawoe loo alo dzilawoea?,entailment
+Nufialawo gblɔm nèle loo alo dzilawo?,Susus kae le tame na wò ku ɖe dzilawo kple nufialawo ŋu?,neutral
+"Enyo, mesusui be, mesusui be ɛ̃, alo, nyemenya o, nyemebu tame haɖe tututu o tso","Metsi tsitre ɖe aɖitamadodokpɔ ŋu, ɖikeke aɖeke mele eŋu o.",contradiction
+"Enyo, mesusui be, mesusui be ɛ̃, alo, nyemenya o, nyemebu tame haɖe tututu o tso",Mesusui be malɔ̃ awɔ aɖatamadodokpɔ.,neutral
+"Enyo, mesusui be, mesusui be ɛ̃, alo, nyemenya o, nyemebu tame haɖe tututu o tso",Mele eŋu bum gake nyemege ɖe nu siwo aɖitamadodokpɔ la lɔ ɖe eme la me o.,entailment
+"le ŋudzɔ le ale si dukɔa ƒe nyadzɔdzɔwo te ɖe nutua me dzi la ŋu,",Teƒe siwo le nutowo me eye dukuame nyadzɔdzɔwo ka la ƒe nu zu tamebubu nae,entailment
+"le ŋudzɔ le ale si dukɔa ƒe nyadzɔdzɔwo te ɖe nutua me dzi la ŋu,",Nu si dukɔme nyadzɔdzɔwo le wɔwɔm na nutowo me abe tamebubu ene la mekam o.,contradiction
+"le ŋudzɔ le ale si dukɔa ƒe nyadzɔdzɔwo te ɖe nutua me dzi la ŋu,",Dukɔa me nyakakamɔnuwo le nuto siwo tsi megbe la ɖem fia.,neutral
+"Aoo, edziedzi la, kpoyek̂oye kple dziwui, kotu kple awu legbe alo nu si kpɔm miele le afii la, ekem enyo nam be manɔ dɔ wɔm le aƒeme elabena, mate ŋu do afɔkpɔ fa,",Nyemedoa nu siwo dze la o nenye be mele dɔ wɔm le aƒeme.,entailment
+"Aoo, edziedzi la, kpoyek̂oye kple dziwui, kotu kple awu legbe alo nu si kpɔm miele le afii la, ekem enyo nam be manɔ dɔ wɔm le aƒeme elabena, mate ŋu do afɔkpɔ fa,",Nyemedona nu bubu wu awu abɔ legbe o nenye be mele dɔ wɔm le aƒe me.,neutral
+"Aoo, edziedzi la, kpoyek̂oye kple dziwui, kotu kple awu legbe alo nu si kpɔm miele le afii la, ekem enyo nam be manɔ dɔ wɔm le aƒeme elabena, mate ŋu do afɔkpɔ fa,",Megadoa saya alo awu legbe ne mele dɔ wɔm le aƒe me elabena menyana kpɔna le eme wu.,contradiction
+ɛ̃ nyemele nane me sem le esia me be edze be nɔƒe nanɔ ame si o.,Nɔƒe nanɔ nye ŋutɔ asinye nye drɔ̃e aɖe si va eme nam.,neutral
+ɛ̃ nyemele nane me sem le esia me be edze be nɔƒe nanɔ ame si o.,Nu eɖefu nam esime nɔƒe le asinye o.,contradiction
+ɛ̃ nyemele nane me sem le esia me be edze be nɔƒe nanɔ ame si o.,Amenɔƒe sia nyakpɔna ŋutɔ,entailment
+"ɛ̃,ɛ̃, enyae nyuie be mavem sɔgbɔ alea nenye be ɖoɖowɔɖi aɖe nɔ wo si eye wodega gɔme nae na wo o.",Masesẽ be mianya ne wode ga gɔme na adzɔa o.,neutral
+"ɛ̃,ɛ̃, enyae nyuie be mavem sɔgbɔ alea nenye be ɖoɖowɔɖi aɖe nɔ wo si eye wodega gɔme nae na wo o.",Mado dɔmedzui ne mede dzesiio be wode ga gɔme na dɔwɔƒea.,contradiction
+"ɛ̃,ɛ̃, enyae nyuie be mavem sɔgbɔ alea nenye be ɖoɖowɔɖi aɖe nɔ wo si eye wodega gɔme nae na wo o.",Maɖe fu nam nenye be wona ga dɔwɔhatsotsoa o.,entailment
+"ɛ̃ míatɔ wònye le afi ma, míaƒe duviwo me yaʋala mewɔa dɔ nyuie o.",Yaʋalawo wɔa dɔ nyuie ɣe aɖewo ɣi le afi sia.,neutral
+"ɛ̃ míatɔ wònye le afi ma, míaƒe duviwo me yaʋala mewɔa dɔ nyuie o.",Yaʋalawo mewɔa dɔ nyuie le afi sia o.,entailment
+"ɛ̃ míatɔ wònye le afi ma, míaƒe duviwo me yaʋala mewɔa dɔ nyuie o.",Teƒe sia ƒe yavalae nye nyuitɔ wu,contradiction
+Gomekpɔkpɔ siwo míekpɔna dometɔ ɖekae nye mɔzɔzɔwo,Mɔzɔzɔe nye nu si dɔa dzidzɔ nam wu.,neutral
+Gomekpɔkpɔ siwo míekpɔna dometɔ ɖekae nye mɔzɔzɔwo,Mɔzɔzɔ nye gomekpɔkpɔ aɖe si wonana mí.,entailment
+Gomekpɔkpɔ siwo míekpɔna dometɔ ɖekae nye mɔzɔzɔwo,Míekpɔa ale aɖeke o.,contradiction
+"Nu sia menyo kura o, uh me",Mese wogblɔ be menyo o.,neutral
+"Nu sia menyo kura o, uh me",Edzi ŋɔ.,entailment
+"Nu sia menyo kura o, uh me",Menyra kura o.,contradiction
+"Nukui drinya kɔkɔmetɔ siawo te ŋu dzɔna eme elabena, dzɔdzɔme tsatsiã kpɔ ŋutete",Nukuiɖoɖowo katã hã le dzinya,contradiction
+"Nukui drinya kɔkɔmetɔ siawo te ŋu dzɔna eme elabena, dzɔdzɔme tsatsiã kpɔ ŋutete","Le ɖoɖo aɖewo nu la, nukuiɖoɖowo drinyawo ate ŋu dzɔ.",entailment
+"Nukui drinya kɔkɔmetɔ siawo te ŋu dzɔna eme elabena, dzɔdzɔme tsatsiã kpɔ ŋutete","Wozãa nukuimɔ siawo vevitɔ na akpa ƒomevi vovovowo dzidzi, hena",neutral
+Evɔ nyemexɔe se be ale aɖaŋuɖoɖodɔwɔnu sia ade blibo o,"Aɖaŋuɖoɖo sia mate ŋu tso nyame le eɖokui si le sandwich nyuitɔ wɔwɔ me nenye be amegbetɔ mekpe ɖe eŋuti o,",neutral
+Evɔ nyemexɔe se be ale aɖaŋuɖoɖodɔwɔnu sia ade blibo o,Dɔwɔnu aɖeke melii si ate ŋu na ŋuɖoɖo nya sia le eɖokui si o.,entailment
+Evɔ nyemexɔe se be ale aɖaŋuɖoɖodɔwɔnu sia ade blibo o,"Le nɔnɔme aɖewo mle la, dɔwɔnu siawo wɔa dɔ kuxi manɔmee.",contradiction
+"Se la tso ameha alo dukɔa katã ƒle, menye ame ɖeka ko o","Hena woƒe ɖeɖe la, amewo natrɔ ɖe se la gbɔ.",contradiction
+"Se la tso ameha alo dukɔa katã ƒle, menye ame ɖeka ko o",Se la ahe ɖeɖe va Amerika,neutral
+"Se la tso ameha alo dukɔa katã ƒle, menye ame ɖeka ko o",se la aɖe ameha la kple dukɔ la.,entailment
+Ƒè 1787 ƒe gɔmeɖosea gblɔ be kluviƒlelawo ate ŋu trɔ xɔ kluvi siwo si yi ablɔɖenyigbawo dzi la,"Le ƒè 1787 me la, woda asi ɖe se aɖe dzi si xe mɔ na amewo be wobia kluvi siwo te ŋu yi ɖe ablɔɖenyigbawo dzi la",contradiction
+Ƒè 1787 ƒe gɔmeɖosea gblɔ be kluviƒlelawo ate ŋu trɔ xɔ kluvi siwo si yi ablɔɖenyigbawo dzi la,Gwoŋlɔ gɔmeɖosea ƒe akpa aɖe le ƒè 1787 me,entailment
+Ƒè 1787 ƒe gɔmeɖosea gblɔ be kluviƒlelawo ate ŋu trɔ xɔ kluvi siwo si yi ablɔɖenyigbawo dzi la,"Dzena bene woagaxɔ kluviwo tso ablɔɖenyigbawo dzi la menye hahomedzena o,",neutral
+"Steve Harris si nye dzɔdzɔmenukui ŋudɔwɔla tso Texas la , va dzi mí kpɔ",Steve Harris be naneke mahe ye do le yeƒeme akpɔ o.,contradiction
+"Steve Harris si nye dzɔdzɔmenukui ŋudɔwɔla tso Texas la , va dzi mí kpɔ","Steve nye dzɔdzɔmenuŋudɔwɔla me dugã la godo,",entailment
+"Steve Harris si nye dzɔdzɔmenukui ŋudɔwɔla tso Texas la , va dzi mí kpɔ",Steve va Californie be yeado nukui yeye aɖe kpɔ,neutral
+"Ame bla etɔ̃ yi yi bla atɔ le alɔdze ɖe sia ɖe (si woyɔ be morada la) me eye woma wo ɖe hatsotso eve me: Emenɔla gbɔlo siwo woyɔna be hermanos disciplantes (nɔvi siwo xɔ amebubututuɖo) kple ameŋuktawo, esiwo woyɔ be harmanos de luz (kekelimen,oviwo).",Asrafo alafa ɖeka nɔ ƒuƒoƒo ɖe sia ɖe me,contradiction
+"Ame bla etɔ̃ yi yi bla atɔ le alɔdze ɖe sia ɖe (si woyɔ be morada la) me eye woma wo ɖe hatsotso eve me: Emenɔla gbɔlo siwo woyɔna be hermanos disciplantes (nɔvi siwo xɔ amebubututuɖo) kple ameŋuktawo, esiwo woyɔ be harmanos de luz (kekelimen,oviwo).",Ame gbɔlowo kple asrafowo nɔ ƒuƒoƒo ɖe sia ɖe me,entailment
+"Ame bla etɔ̃ yi yi bla atɔ le alɔdze ɖe sia ɖe (si woyɔ be morada la) me eye woma wo ɖe hatsotso eve me: Emenɔla gbɔlo siwo woyɔna be hermanos disciplantes (nɔvi siwo xɔ amebubututuɖo) kple ameŋuktawo, esiwo woyɔ be harmanos de luz (kekelimen,oviwo).",Hatsotso siawo ƒe dɔdeasie nye be woatrɔ dzime na dzidzimevi siwo dzɔ tso Titina Amerika,neutral
+"Na ame siwo xɔ ƒè 4 kple 5 la, biabiawo ku ɖe nyaɖeɖefia ɖoɖowo ŋu (nu kae dzɔ emegbe?)","Edziedzi la, ɖeviwo mesrɔ̃a nudodo kple ame hafi xɔa ƒè adẽ o",contradiction
+"Na ame siwo xɔ ƒè 4 kple 5 la, biabiawo ku ɖe nyaɖeɖefia ɖoɖowo ŋu (nu kae dzɔ emegbe?)",ƒèatɔ̃viwo tsi dzimaɖi le ale si nuwo ayi edzie la ŋu.,entailment
+"Na ame siwo xɔ ƒè 4 kple 5 la, biabiawo ku ɖe nyaɖeɖefia ɖoɖowo ŋu (nu kae dzɔ emegbe?)",Wobuna ƒèatɔ̃viwo be wonye nuƒotsuƒolawo,neutral
+"Emekɔ be ne amehawo ʋu ɖo ta du ɖeka gbɔ la esia nana be womaa wo ɖe hatsotso me, elabena, nenye be ameha eve ɖota du ɖeka zu ge le ŋkeke bubu gbe la, wodea dzesi ameha eve siawo be wosɔ ɖe wo nɔewo nu le kadede la me.",Ameha ƒe ʋuʋu nana be wote maa hatsotsowo,entailment
+"Emekɔ be ne amehawo ʋu ɖo ta du ɖeka gbɔ la esia nana be womaa wo ɖe hatsotso me, elabena, nenye be ameha eve ɖota du ɖeka zu ge le ŋkeke bubu gbe la, wodea dzesi ameha eve siawo be wosɔ ɖe wo nɔewo nu le kadede la me.",Dukɔae nana amehawo ʋuna yinae,neutral
+"Emekɔ be ne amehawo ʋu ɖo ta du ɖeka gbɔ la esia nana be womaa wo ɖe hatsotso me, elabena, nenye be ameha eve ɖota du ɖeka zu ge le ŋkeke bubu gbe la, wodea dzesi ameha eve siawo be wosɔ ɖe wo nɔewo nu le kadede la me.",Ameha ƒe ʋuʋu menana wote ŋu maa hatsotsowo o,contradiction
+"Ekem, wotsɔa dzizizi tsoa xexe si le azɔli dzi, esi me tsɔ si va yi la ƒe nuwo le eteƒe.","Xexe si le azɔli dzi la medoa dzidzɔ na ame aɖewo o, nenye be woatsɔ eƒe blemamenuwo ade dɔwɔwɔ mee.",entailment
+"Ekem, wotsɔa dzizizi tsoa xexe si le azɔli dzi, esi me tsɔ si va yi la ƒe nuwo le eteƒe.",Ɣeyiɣi sia ɣeyiɣi ƒe nulediawo sɔ gbe na xexe ɖe sia ɖe.,contradiction
+"Ekem, wotsɔa dzizizi tsoa xexe si le azɔli dzi, esi me tsɔ si va yi la ƒe nuwo le eteƒe.",Nudoɖakpɔ xexe siawo le vevie hena yame ƒe tɔtrɔ ŋunuwo.,neutral
+Ekem dziɖuɖua mede megbe na ame siwo gbe be yewomana dukɔmeviwo nakpɔ gome le hahodzenawo me o la o.,Ame nɔɖokuisi aɖewo gbe be dumevi ameyibɔwo makpɔ gome na hahomedzenawo o.,entailment
+Ekem dziɖuɖua mede megbe na ame siwo gbe be yewomana dukɔmeviwo nakpɔ gome le hahodzenawo me o la o.,Ame nɔɖokuisi siawo nye yevuwo.,neutral
+Ekem dziɖuɖua mede megbe na ame siwo gbe be yewomana dukɔmeviwo nakpɔ gome le hahodzenawo me o la o.,Dziɖuɖua de megbe blibo na ame nɔɖokuisi siawo ƒe wɔnawo,contradiction
+Vovototo aɖeke mele sukuvi sɔhɛwo kple tsitsiwo dome le akɔŋtanana le dɔwɔwɔ dodokpɔ la me o.,"To egbɔ be sɔhɛawo kple tsitsiawo nana ŋuɖoɖo ɖeka ƒomevi le dodokpɔa me hã la, sɔhɛ sukukɔkɔdelawo wua dɔdeasiawo nu kaba wu.",neutral
+Vovototo aɖeke mele sukuvi sɔhɛwo kple tsitsiwo dome le akɔŋtanana le dɔwɔwɔ dodokpɔ la me o.,Sɔhɛ kple ame tsitsi siwo nye sukuhatsiwo la kpɔa ŋuɖoɖo ɖeka le dodokpɔa me.,entailment
+Vovototo aɖeke mele sukuvi sɔhɛwo kple tsitsiwo dome le akɔŋtanana le dɔwɔwɔ dodokpɔ la me o.,Sukuvi sɔhɛawo kple tsitsiawo mekpɔa dzesi ɖeka fomevi le dodokpɔa me o elabena ƒè si woxɔ la hã kpɔ ŋusẽ ɖe dɔwɔwɔa dzi.,contradiction
+"Tso afii xoxo la, Darwin dze ŋkulélé ɖe agbe ŋu.",Darwin dze dɔ gɔme to ŋkulélé ɖe akpawo ŋu me.,neutral
+"Tso afii xoxo la, Darwin dze ŋkulélé ɖe agbe ŋu.",Darwin dze edzi kple agbe aɖe si lii xoxo la.,entailment
+"Tso afii xoxo la, Darwin dze ŋkulélé ɖe agbe ŋu.",Darwin ku eƒe numekukua ɖe nu kukuwo ɖeɖe ko ŋu.,contradiction
+Tometetedɔ atraɖi nye fuɖenamenu tɔxɛ aɖe le ɖevi matsimatsiwo kple esiwo dzea abɔsokpo gɔme la gbɔ.,Tometete suewo dzena zi geɖe le ɖevi matsimatsiwo gbɔ,entailment
+Tometetedɔ atraɖi nye fuɖenamenu tɔxɛ aɖe le ɖevi matsimatsiwo kple esiwo dzea abɔsokpo gɔme la gbɔ.,Tometete vedomesitɔ mebɔ kura le abɔsokpo ɣeyiɣiwo me o.,contradiction
+Tometetedɔ atraɖi nye fuɖenamenu tɔxɛ aɖe le ɖevi matsimatsiwo kple esiwo dzea abɔsokpo gɔme la gbɔ.,Ɖeviwo ƒe akpa gãtɔ gbɔna tometetedɔ vedomesitɔ le ge.,neutral
+"Ne enye be dumevi nɔɖokuisiwo gbe be yewomatsɔ ɖeke le eme o la, ekem susu nyuitɔ kekeakewo hã buna woƒe nyenye.",Susu nyuitɔwo medoa dɔmedzui na ame nenye be womeɖe wo ɖe go o.,entailment
+"Ne enye be dumevi nɔɖokuisiwo gbe be yewomatsɔ ɖeke le eme o la, ekem susu nyuitɔ kekeakewo hã buna woƒe nyenye.",susu nyuitɔwo zu gbɔyanu le dumevi nɔɖokuisiwo gbɔ nenye wometsɔ ɖeke le esia me o lae.,contradiction
+"Ne enye be dumevi nɔɖokuisiwo gbe be yewomatsɔ ɖeke le eme o la, ekem susu nyuitɔ kekeakewo hã buna woƒe nyenye.",Dumevi nɔɖokuisiwo metsɔ ɖeke le eme na susu nyuiwo ƒe akpa gãtɔ o.,neutral
+"Le nyateƒe me la, nu si míehiã vevieae nye be míakpɔ mɔ si dzi míato aɖɔ nɔnɔme vavãtɔ le xexe si gli la me.",Míehiã dzesidenu ale be míanya afi si hatsotsooa le zɔ̃ ɖem le nyuie la.,neutral
+"Le nyateƒe me la, nu si míehiã vevieae nye be míakpɔ mɔ si dzi míato aɖɔ nɔnɔme vavãtɔ le xexe si gli la me.",Ele be biade hatsotsoa ɖoɖo me.,entailment
+"Le nyateƒe me la, nu si míehiã vevieae nye be míakpɔ mɔ si dzi míato aɖɔ nɔnɔme vavãtɔ le xexe si gli la me.",Mele be mída dzesidenu ɖe naneke dzi o,contradiction
+Ebia Lord Julian ƒe kpeɖeŋu.,Edi be yeabia nane tso Lord Julian si.,entailment
+Ebia Lord Julian ƒe kpeɖeŋu.,Edi be yeabia tso Lord Julian si be negade yesrɔ̃ ya eme o.,neutral
+Ebia Lord Julian ƒe kpeɖeŋu.,womenya afi si woakpɔ .Lord Julian le o.,contradiction
+Jeremy Pitt ɖo nukoko la ŋu kple adɔgbefiafia.,Jeremy Pitt ɖo amekoko la ŋu kple nukoko gã aɖe eye wòƒò kɔ ŋkule na ame si le ekom la.,contradiction
+Jeremy Pitt ɖo nukoko la ŋu kple adɔgbefiafia.,Jeremu Pitt fia adzɔgbe be yeaʋli ye de kple yeƒe fia nyɔnua ta.,neutral
+Jeremy Pitt ɖo nukoko la ŋu kple adɔgbefiafia.,Ame aɖe konu le Jeremy Pitt :ƒe axa dzi,entailment
+"Pitt, si kpɔ nua tso ana la ƒe alɔdze dzi la, gblɔ na mi be fiasi le mo xexi abe mawunyagblɔla le kadeveƒe ene.","Le Pitt mekpɔ nyɔnyfia la, wòɖo mo vevie ale tɔgbi kpɔ o.",neutral
+"Pitt, si kpɔ nua tso ana la ƒe alɔdze dzi la, gblɔ na mi be fiasi le mo xexi abe mawunyagblɔla le kadeveƒe ene.",Pitt ta nu be yemekpɔ nudzɔdzɔa ƒe akpa aɖeke o.,contradiction
+"Pitt, si kpɔ nua tso ana la ƒe alɔdze dzi la, gblɔ na mi be fiasi le mo xexi abe mawunyagblɔla le kadeveƒe ene.",Pitt nye ɖasefo le ale si nyɔnufia la le mɔxexi le wɔna la me.,entailment
+"Aʋafia la xɔ nua, eye emegbe boo la, ebɔbɔ ta ey wòeɖe eƒe kuku gbadza la.",Aʋafia la xɔ bubudzesi si New York dudzikpɔla la nae la.,neutral
+"Aʋafia la xɔ nua, eye emegbe boo la, ebɔbɔ ta ey wòeɖe eƒe kuku gbadza la.",Aʋafia la gbe nu si wole enam la eye wòta aɖi amewo le esime meɖe eƒe kuku la o.,contradiction
+"Aʋafia la xɔ nua, eye emegbe boo la, ebɔbɔ ta ey wòeɖe eƒe kuku gbadza la.","Avafia ɖɔ kuku,",entailment
+"Egatekpɔ ƒonu le ŋu nye elabena megbe asinana wò esime mekpɔ be wò asi mekɔ o, esime menyae be amehlɔ̃dolae nenye eye egawu esia gɔ̃ hã? Eke nu ɖi henɔ ekpɔ .",Exɔese be amehlɔ si wodo la anye amegeɖeŋu hlɔ̃donya.,neutral
+"Egatekpɔ ƒonu le ŋu nye elabena megbe asinana wò esime mekpɔ be wò asi mekɔ o, esime menyae be amehlɔ̃dolae nenye eye egawu esia gɔ̃ hã? Eke nu ɖi henɔ ekpɔ .","Ewɔ tsatsiã be yemalé eƒe asiwo o, elabena hlɔ̃dodo ƒoɖi wo..",entailment
+"Egatekpɔ ƒonu le ŋu nye elabena megbe asinana wò esime mekpɔ be wò asi mekɔ o, esime menyae be amehlɔ̃dolae nenye eye egawu esia gɔ̃ hã? Eke nu ɖi henɔ ekpɔ .","Eɖoe be yeana asii elabena eƒe asiwo le sue, wosesẽ eye gawu la, wokɔ",contradiction
+"Woɖe mɔ nae be wòade dzesii be Saint-James ƒe ɖekakpui avuwɔla si nyakpɔ eye wòdze ɖeka, Lord Julian Wade ye wòtsɔ eƒe ɣeyiɣi ɖe sia ɖe na.",St. James's ye Lord Julian tso.,entailment
+"Woɖe mɔ nae be wòade dzesii be Saint-James ƒe ɖekakpui avuwɔla si nyakpɔ eye wòdze ɖeka, Lord Julian Wade ye wòtsɔ eƒe ɣeyiɣi ɖe sia ɖe na.",Eya kple Lord Julian Wade gbugbɔ nu na wo nɔewo etsɔ zãme,neutral
+"Woɖe mɔ nae be wòade dzesii be Saint-James ƒe ɖekakpui avuwɔla si nyakpɔ eye wòdze ɖeka, Lord Julian Wade ye wòtsɔ eƒe ɣeyiɣi ɖe sia ɖe na.","To egbɔ be Lord Julian Wade mesɔ tututu o la, eƒe dzi ku ɖe eŋu.",contradiction
+"Nu ka... Nu ka... Le meli sia mea? Aʋafia ɖe gbɔdzɔgbɔdzɔdzesi fia, eye le eƒe tsakatsaka sia me la, tete wòzi ɖoɖui.","Dɔtakpɔƒea do ɣli ɣeyiɣi dzidzi aɖe, edo domedzui le hadzenu si le dzɔdzɔm le melikpo la dzi la ta.",contradiction
+"Nu ka... Nu ka... Le meli sia mea? Aʋafia ɖe gbɔdzɔgbɔdzɔdzesi fia, eye le eƒe tsakatsaka sia me la, tete wòzi ɖoɖui.",Aʋafiala tsaka le nu si nɔ dzɔdzɔm le meli la dzi la ta,entailment
+"Nu ka... Nu ka... Le meli sia mea? Aʋafia ɖe gbɔdzɔgbɔdzɔdzesi fia, eye le eƒe tsakatsaka sia me la, tete wòzi ɖoɖui.",Nuɖeɖe si nɔ melikpo la dzi la wɔ nuku na aʋafia la,neutral
+"Eƒe dzidzɔ gbedodo la koe nye be, wòe nye Lord Julian Wade, mese eme.",Lord Julian Wade xɔ wo kple dzidzɔ kpakple vividoameŋu.,contradiction
+"Eƒe dzidzɔ gbedodo la koe nye be, wòe nye Lord Julian Wade, mese eme.",Lord Julian Wade xɔ ame kemɛawo le nɔnɔme aɖe si sɔ kple dɔmedzui.,entailment
+"Eƒe dzidzɔ gbedodo la koe nye be, wòe nye Lord Julian Wade, mese eme.","To egbɔ be ame geɖe dze agbagba be yewoagogoe hã la, Lord Wade me hayana edziedzi o eye meɖea seselelãme fiana o.",neutral
+Mary Traill ate ŋu ƒo nu na mi ku ɖe eŋu.,Mary Traill ate ŋu ƒo nu na mi geɖe wu ku ɖe fiɛ la ŋu.,neutral
+Mary Traill ate ŋu ƒo nu na mi ku ɖe eŋu.,Mary Trail nya nu sia nu ku ɖe esia ŋu.,entailment
+Mary Traill ate ŋu ƒo nu na mi ku ɖe eŋu.,Nye ɖeka koe nya esia.,contradiction
+Kadeveti le te nɔm kpɔ amemabula sia le Port Royal. Blood dzi be yeawɔ nana ku ɖe esia ŋu gake Lord Julian Gbee nae.,Blood nye hlɔdodo habɔbɔ aɖe le Port Royal esi Lord Julian bla nu kpli ku ɖe nu vlui aɖewo wɔwɔ ŋuti.,contradiction
+Kadeveti le te nɔm kpɔ amemabula sia le Port Royal. Blood dzi be yeawɔ nana ku ɖe esia ŋu gake Lord Julian Gbee nae.,"Lord Royal ƒe anyigba mee Port Royal du la le, du sia nye adzɔdu si me dɔ geɖewo bɔ ɖe le nutoa me.",neutral
+Kadeveti le te nɔm kpɔ amemabula sia le Port Royal. Blood dzi be yeawɔ nana ku ɖe esia ŋu gake Lord Julian Gbee nae.,Port Royal tu teƒewo ɖi hena tohehe na hlɔ̃dolawo.,entailment
+"Wolverstone blɔ le nyabiabia kple nyalɔlɔ̃ eve dome be, manye Bishop ŋutɔ ye oa.",Wolverstone bia biabia aɖe si ɖee fia be kakaɖedzi le esi wu ame mlɔeawo.,entailment
+"Wolverstone blɔ le nyabiabia kple nyalɔlɔ̃ eve dome be, manye Bishop ŋutɔ ye oa.",Wolverstone ƒo nu ku ɖe episkɔpo la ŋu abe ame nyuitɔ ene.,neutral
+"Wolverstone blɔ le nyabiabia kple nyalɔlɔ̃ eve dome be, manye Bishop ŋutɔ ye oa.",Wolverstone megblɔ nya aɖeke tso episkɔpo la ŋu kpɔ o.,contradiction
+"Miadzudzɔ nu fofo tso abunɛhlɔ̃dodo, amegɔmeɖudu kple asrafokodzoɖoƒe ŋua? Blood ɖɔ eƒe kuku eye wònɔ anyi enumake.","Kuku aɖe nɔ Blood si, esi wòɖɔna hafi nɔna anyi.",entailment
+"Miadzudzɔ nu fofo tso abunɛhlɔ̃dodo, amegɔmeɖudu kple asrafokodzoɖoƒe ŋua? Blood ɖɔ eƒe kuku eye wònɔ anyi enumake.",Blood ɖɔ eƒe kuku la eye wòdo le xɔa me nya aɖeke magblɔmagblɔ,contradiction
+"Miadzudzɔ nu fofo tso abunɛhlɔ̃dodo, amegɔmeɖudu kple asrafokodzoɖoƒe ŋua? Blood ɖɔ eƒe kuku eye wònɔ anyi enumake.",Blood ƒe kukua le yibɔ eye ẁtsɔ hɔ̃fu etɔ do atsã nae.̀,neutral
+Nuwo medze edzi nyuie nae le ŋkeke wuiatɔ̃ siwo va yi me tso esime wòlɔ̃ xɔ fia ƒe dɔdeasi la o.,Enɔ alɔ̃ dɔm ɖitiɖiti le zãme esime wònya be yegbe fia ƒe dɔdeasi lae.,contradiction
+Nuwo medze edzi nyuie nae le ŋkeke wuiatɔ̃ siwo va yi me tso esime wòlɔ̃ xɔ fia ƒe dɔdeasi la o.,Fia ƒe dɔdeasia dziwɔwɔe nye be woalé ɖe ŋudzɔ le zãme,entailment
+Nuwo medze edzi nyuie nae le ŋkeke wuiatɔ̃ siwo va yi me tso esime wòlɔ̃ xɔ fia ƒe dɔdeasi la o.,Fia ƒe dɔdeasi la nye bubudzesi gã aɖe si me dɔtakpɔkpɔ geɖe le.,neutral
+"Ogle do ɣli be, wosu asitsɔƒe.",Ogle be woate ŋu do nu kpli wo dzo.,entailment
+"Ogle do ɣli be, wosu asitsɔƒe.",Ogle be woate ŋu ase ame ƒe gbe tso afi si wole la.,neutral
+"Ogle do ɣli be, wosu asitsɔƒe.","To egbɔ be wònya nyuie be wosɔ ɖe tunu hã la, Ogle mema esia o.",contradiction
+Medɔ aʋafia Blood ɖo ɖe wò ku ɖe nyadzɔdzɔ aɖe siwo va tum fifia la ta.,"Aʋafia Blood, nyemese nyadzɔdzɔ aɖeke o. Nèwɔea?",contradiction
+Medɔ aʋafia Blood ɖo ɖe wò ku ɖe nyadzɔdzɔ aɖe siwo va tum fifia la ta.,Mese nyadzɔdzɔwo hafi ɖo wo ɖe wò Aʋafia Blood.,entailment
+Medɔ aʋafia Blood ɖo ɖe wò ku ɖe nyadzɔdzɔ aɖe siwo va tum fifia la ta.,Nyadzɔdzɔ siwo mese la na megbɔdzɔ le keke ɖokuinye me ke.,neutral
+"Ne ekpɔ nuɣlaɖi siawo ŋu vɔ la, lia togbɛ la yi ɖe kpovitɔmegã nyɔnua ƒeme, afi si tɔgo la adze na wò nyuie le kple tɔdziʋakɔ ƒe aʋawɔnu siwo susɔ lae.",Nàte ŋu kpɔ meliwo le togbɛa tame.,neutral
+"Ne ekpɔ nuɣlaɖi siawo ŋu vɔ la, lia togbɛ la yi ɖe kpovitɔmegã nyɔnua ƒeme, afi si tɔgo la adze na wò nyuie le kple tɔdziʋakɔ ƒe aʋawɔnu siwo susɔ lae.","Tso togbɛ tame la, tɔgoa adze na wò nyuie.",entailment
+"Ne ekpɔ nuɣlaɖi siawo ŋu vɔ la, lia togbɛ la yi ɖe kpovitɔmegã nyɔnua ƒeme, afi si tɔgo la adze na wò nyuie le kple tɔdziʋakɔ ƒe aʋawɔnu siwo susɔ lae.",Womate ŋu kpɔ tɔgoa tso togbɛ la tame o.,contradiction
+"Le Amerika ƒe Anyiehe kɔme megbe la, àkpɔ amiʋeʋĩwɔƒe, afi si wò ŋutɔ nàte ŋu wɔ amiʋeʋĩ tɔxɛ wò le.",Tso ƒè 1954lia me kee amiʋeʋĩɖaƒe la le dɔ wɔm.,neutral
+"Le Amerika ƒe Anyiehe kɔme megbe la, àkpɔ amiʋeʋĩwɔƒe, afi si wò ŋutɔ nàte ŋu wɔ amiʋeʋĩ tɔxɛ wò le.",Amiʋeʋĩɖaƒea le Afrika anyiehe kɔme megbe.,entailment
+"Le Amerika ƒe Anyiehe kɔme megbe la, àkpɔ amiʋeʋĩwɔƒe, afi si wò ŋutɔ nàte ŋu wɔ amiʋeʋĩ tɔxɛ wò le.",Amiʋeʋĩɖaƒea ldze ŋgɔ Afria nyiehe kɔme.,contradiction
+Mɔkpɔkpɔ siwo nyɔ tso Bahamas ƒe blafogbewo kple ŋutiwo me la mede ŋgɔ o.,"To egbɔ be blafobeawo vivi nyuie hã la, ʋufe la kɔkɔ ale gbegbe be womate ŋu ɖo wo ɖe asia me o.",neutral
+Mɔkpɔkpɔ siwo nyɔ tso Bahamas ƒe blafogbewo kple ŋutiwo me la mede ŋgɔ o.,Bahamas ƒe dɔŋuti dze amewo ŋu blibo abe ale si tututu ame sia me gbɔe ɖi ene.,contradiction
+Mɔkpɔkpɔ siwo nyɔ tso Bahamas ƒe blafogbewo kple ŋutiwo me la mede ŋgɔ o.,bahamas ƒe dɔŋutiawo melolo abe ale wonɔ te nɔm kpɔe ene o.,entailment
+"Aƒulɔ si keke abe agbadzoƒe 3 (mile 3) ene la, nye anyigbato gã aɖe si do tso dzokpo gã aɖe dzɔdzɔ me.","Akpe 2 ƒe howɔwɔ la ate ŋu tso nu geɖe gbɔ, abe dzokpo aɖe ƒe wowo me ene faa.",neutral
+"Aƒulɔ si keke abe agbadzoƒe 3 (mile 3) ene la, nye anyigbato gã aɖe si do tso dzokpo gã aɖe dzɔdzɔ me.",Gbeɖiɖi si wose le mile 2 ke la metso dzokpo aɖe wowo me o.,contradiction
+"Aƒulɔ si keke abe agbadzoƒe 3 (mile 3) ene la, nye anyigbato gã aɖe si do tso dzokpo gã aɖe dzɔdzɔ me.",Gbeɖiɖi si de agbadroƒe 3 la anyatso dzokpo aɖe ƒe wowo me.,entailment
+"Le afi ma la, wɔnawo mele hodzoe o eye gbe ƒe nya hã ate ŋu na miagbɔdzɔ, gake la, miakpɔ ale si Chine dukɔa nye nuwo zazãdukɔ ɖoe la ƒe nɔnɔme.",Susu nyui wònye be gbegɔmeɖela nanɔ mia ŋuti.,neutral
+"Le afi ma la, wɔnawo mele hodzoe o eye gbe ƒe nya hã ate ŋu na miagbɔdzɔ, gake la, miakpɔ ale si Chine dukɔa nye nuwo zazãdukɔ ɖoe la ƒe nɔnɔme.",Gbemase ate ŋu fuɖenamenya si ate ŋu do vɔvɔ̃ na mi.,entailment
+"Le afi ma la, wɔnawo mele hodzoe o eye gbe ƒe nya hã ate ŋu na miagbɔdzɔ, gake la, miakpɔ ale si Chine dukɔa nye nuwo zazãdukɔ ɖoe la ƒe nɔnɔme.","Migatsi dzimaɖi le gbea ta o, ame sia ame doa eŋlisigbe.",contradiction
+"Le ƒè 1936 kple ƒè 1940 dome la, Hela dua nɔ akpasese gbadagba dukpɔkplɔ te le Loannis Metaxas si tsi susu me na ame le echi (ao) kalẽtɔ si wògblɔ na Mussolini le Gbeɖeɖeaùedzi si wònae bene wòana ta le ƒè 1940 me la ŋɔli.",Gbadagbawo metsɔ akpasesẽ kplɔ Hela dua kpɔ o.,contradiction
+"Le ƒè 1936 kple ƒè 1940 dome la, Hela dua nɔ akpasese gbadagba dukpɔkplɔ te le Loannis Metaxas si tsi susu me na ame le echi (ao) kalẽtɔ si wògblɔ na Mussolini le Gbeɖeɖeaùedzi si wònae bene wòana ta le ƒè 1940 me la ŋɔli.",Hela dua nye du siwo dzi woɖu akpasesẽe le xexeame dometɔwo ɖeka.,entailment
+"Le ƒè 1936 kple ƒè 1940 dome la, Hela dua nɔ akpasese gbadagba dukpɔkplɔ te le Loannis Metaxas si tsi susu me na ame le echi (ao) kalẽtɔ si wògblɔ na Mussolini le Gbeɖeɖeaùedzi si wònae bene wòana ta le ƒè 1940 me la ŋɔli.","Le akpasesẽ gbadagba dukpɔkplɔ si Metaxas wɔ ŋɔli la, Hela dua ganyawo nɔ kuxi me",neutral
+Ale si Roma ƒe mɔwo le hodzoe le San pau la nye tɔtrɔ yeye si nyakpɔ wu ale si Barcelone ƒe tɔtrɔ yeyeawo le kple woƒe Gotique xɔtutuɖaŋuwoe.,Roma ƒe mɔwo mele San Pau o.,contradiction
+Ale si Roma ƒe mɔwo le hodzoe le San pau la nye tɔtrɔ yeye si nyakpɔ wu ale si Barcelone ƒe tɔtrɔ yeyeawo le kple woƒe Gotique xɔtutuɖaŋuwoe.,Roma ƒe dzesiwo le San Pau,entailment
+Ale si Roma ƒe mɔwo le hodzoe le San pau la nye tɔtrɔ yeye si nyakpɔ wu ale si Barcelone ƒe tɔtrɔ yeyeawo le kple woƒe Gotique xɔtutuɖaŋuwoe.,Gbedoxɔwo le San pau.,neutral
+"Asikeƒoame alo afɔtuame, evɔ ekpã.",Ʋaʋa haɖeka ɖoa vɔvɔ̃ nae.,neutral
+"Asikeƒoame alo afɔtuame, evɔ ekpã.","Kalẽ wòn,yen eye mevɔ̃na kura o.",contradiction
+"Asikeƒoame alo afɔtuame, evɔ ekpã.","ʋavã vi aɖe ko, evɔ édzo.",entailment
+Nudzraɖo ɖoɖo gã aɖe le enu wu ge ltso fifia yi ɖe ƒè 2001tɔ ƒe nuwuwu.,Nudzraɖo ɖoɖoa awu enu hafi woadze ƒè 2001tɔ gɔme,contradiction
+Nudzraɖo ɖoɖo gã aɖe le enu wu ge ltso fifia yi ɖe ƒè 2001tɔ ƒe nuwuwu.,Asitɔlenuŋuɖoɖoa nu wu ge hafi ƒè 2000lia nawu enu o.,entailment
+Nudzraɖo ɖoɖo gã aɖe le enu wu ge ltso fifia yi ɖe ƒè 2001tɔ ƒe nuwuwu.,Anye ƒè atɔ̃ nudzra ɖoɖoɖoa hafi wu enu.,neutral
+"Dɔwɔlawo le agbagba dzem le ɖoɖo aɖe si di be yeana totaxe dzĩwo ƒe xexlẽme nasɔgbɔ ɖe edzi le amerika îles Vierge dzi la ŋu, eye miakpɔ xehatsotsoa aɖe si le vi ƒom nyuie ƒè sia ƒè.",Dɔwɔlawo le agbagba dzem hena totaxe dzĩwo tsɔtsrɔ.,contradiction
+"Dɔwɔlawo le agbagba dzem le ɖoɖo aɖe si di be yeana totaxe dzĩwo ƒe xexlẽme nasɔgbɔ ɖe edzi le amerika îles Vierge dzi la ŋu, eye miakpɔ xehatsotsoa aɖe si le vi ƒom nyuie ƒè sia ƒè.",Dɔwɔlawo le agbagba dzem be yewoana totaxeawo nasɔ gbɔ ɖe edzi le ƒukpoa dzi ale be woado le tsɔtsrɔ̃ ɖika sime.,neutral
+"Dɔwɔlawo le agbagba dzem le ɖoɖo aɖe si di be yeana totaxe dzĩwo ƒe xexlẽme nasɔgbɔ ɖe edzi le amerika îles Vierge dzi la ŋu, eye miakpɔ xehatsotsoa aɖe si le vi ƒom nyuie ƒè sia ƒè.",Dɔwɔlawo le dɔ wɔm hena totaxeawo dzidzi ɖe edzi le ƒukpoa dzi.,entailment
+"Serra de Tramuntana ƒe to tso kpo yi ɖe ƒua me,ale gbegbe be mɔ meli nàyi o, negbe melidzeƒe sesẽ aɖewo si wo to vovo le wo nɔewo gbɔ koe le ƒugo la tome yina.","Baba srana edzi edzi le toawo dzi, wɔe be mele bɔbɔe be woatu melidzeƒewo ɖe afi ma o.",neutral
+"Serra de Tramuntana ƒe to tso kpo yi ɖe ƒua me,ale gbegbe be mɔ meli nàyi o, negbe melidzeƒe sesẽ aɖewo si wo to vovo le wo nɔewo gbɔ koe le ƒugo la tome yina.",Toa na be melidzeƒea tutu sesẽ.,entailment
+"Serra de Tramuntana ƒe to tso kpo yi ɖe ƒua me,ale gbegbe be mɔ meli nàyi o, negbe melidzeƒe sesẽ aɖewo si wo to vovo le wo nɔewo gbɔ koe le ƒugo la tome yina.",Melidzeƒe 27 ye le toawo xa yi ɖaa.,contradiction
+"Hafi wòava zu Amerika tɔ la, woyɔa Culebra tsãîle Vierge xoxo be île Vierge espagnole. Ele Amerikatɔwo ƒe îles Vierges dome, le dome na Puerto Rico kple St Thomas ",Culebra le dome na Porto Rico kple St Thomas le Amerikatɔwo ƒe îles Vierges me.,entailment
+"Hafi wòava zu Amerika tɔ la, woyɔa Culebra tsãîle Vierge xoxo be île Vierge espagnole. Ele Amerikatɔwo ƒe îles Vierges dome, le dome na Puerto Rico kple St Thomas ",Culebra le teƒe aɖe le Puerto Rico kple St Thomas dome le Amerikatɔwo ƒe îles Vierges me.,contradiction
+"Hafi wòava zu Amerika tɔ la, woyɔa Culebra tsãîle Vierge xoxo be île Vierge espagnole. Ele Amerikatɔwo ƒe îles Vierges dome, le dome na Puerto Rico kple St Thomas ",Culebra le teƒe aɖe le Puerto Rico kple St Thomas dome le Amerikatɔwo ƒe îles Vierges me.,neutral
+"Umeda nye dzieheliƒo na adzɔdodokɔme kple hahomefefeƒe si wonya abe Kita ene (si gɔme koe nye be dziehe), eye wònye ʋunyaʋunya kple asiɖiɖi ƒe dzesi na Osaka yeye la.",umeda mele kɔ siwo me nukpɔkpɔwo le la dome o.,contradiction
+"Umeda nye dzieheliƒo na adzɔdodokɔme kple hahomefefeƒe si wonya abe Kita ene (si gɔme koe nye be dziehe), eye wònye ʋunyaʋunya kple asiɖiɖi ƒe dzesi na Osaka yeye la.",Umeda ye nye fefewo kɔme ƒe akpa gãtɔ,neutral
+"Umeda nye dzieheliƒo na adzɔdodokɔme kple hahomefefeƒe si wonya abe Kita ene (si gɔme koe nye be dziehe), eye wònye ʋunyaʋunya kple asiɖiɖi ƒe dzesi na Osaka yeye la.",Umeda ye nye fefekɔme ƒe dziehe liƒo,entailment
+Ame etɔlia na hindu ƒe trinita lae nye Brahma,Brahma nye kristotɔ apɔsolo.,contradiction
+Ame etɔlia na hindu ƒe trinita lae nye Brahma,Brahma le hindu ƒe trinita la me.,entailment
+Ame etɔlia na hindu ƒe trinita lae nye Brahma,Brahma ye nye trinita la ƒe akpa vevitɔ.,neutral
+"Pedro xɔ zia, to egbɔ be aʋaa ganɔ edzi yim ɣleti geɖewo, eye be amenuvedɔme gayi edzi didiɖe le esiawo megbe.",Ame 10 000 ku le aʋa sia wɔwɔ me.,neutral
+"Pedro xɔ zia, to egbɔ be aʋaa ganɔ edzi yim ɣleti geɖewo, eye be amenuvedɔme gayi edzi didiɖe le esiawo megbe.",Aʋa la wɔ ɣleti geɖe.,entailment
+"Pedro xɔ zia, to egbɔ be aʋaa ganɔ edzi yim ɣleti geɖewo, eye be amenuvedɔme gayi edzi didiɖe le esiawo megbe.",ŋkeke ɖeka ko wowɔ aʋa la hewu enu.,contradiction
+Wode ŋusẽ amewo ƒe ɖoɖowo ƒe dɔwɔwɔ me eye woɖo dɔwɔƒe yeyewo anyi hena takeke na asisinɔwo gbɔ kpɔkpɔ,Woɖo dɔwɔƒe yeyewo anyi esime wopkpɔ amegbetɔwo ɖoɖowo zazã gbɔ nyui,neutral
+Wode ŋusẽ amewo ƒe ɖoɖowo ƒe dɔwɔwɔ me eye woɖo dɔwɔƒe yeyewo anyi hena takeke na asisinɔwo gbɔ kpɔkpɔ,Woɖo dɔwɔhawo anyi,entailment
+Wode ŋusẽ amewo ƒe ɖoɖowo ƒe dɔwɔwɔ me eye woɖo dɔwɔƒe yeyewo anyi hena takeke na asisinɔwo gbɔ kpɔkpɔ,Amegbetɔwo zazã dze wu tsã tɔ,contradiction
+Ga li na dɔ sia wɔwɔ togbɔ be wotrɔ asi le gaŋunyawo ŋuti,Kpekpeɖeŋuwo li na dɔ sia,entailment
+Ga li na dɔ sia wɔwɔ togbɔ be wotrɔ asi le gaŋunyawo ŋuti,Gaŋunya mesu na dɔ sia o,contradiction
+Ga li na dɔ sia wɔwɔ togbɔ be wotrɔ asi le gaŋunyawo ŋuti,Ga mesu na dɔ sia o,neutral
+Agbalɛ̃ sia ƒe akɔŋtawo kuɖe agblemɔwo ŋu nɔte ɖe National Mail count ƒe 1989 tɔ dzi,Agbalɛ̃ sia ƒe akɔŋtawo nɔte ɖe ƒe 2001 lia tɔ ƒe nyatakaka dzi,contradiction
+Agbalɛ̃ sia ƒe akɔŋtawo kuɖe agblemɔwo ŋu nɔte ɖe National Mail count ƒe 1989 tɔ dzi,Agbalɛ̃ sia me ƒe akɔŋtawo nu va yi,neutral
+Agbalɛ̃ sia ƒe akɔŋtawo kuɖe agblemɔwo ŋu nɔte ɖe National Mail count ƒe 1989 tɔ dzi,Agbalɛ̃ sia me nyawo kuɖe agblemɔwo ŋu,entailment
+Amegãwo woateŋ xɔ nyanyanana alo ateŋ kpɔ gege faa,Nusianu si dzi woado amegã le kpɔ ateŋ nae eƒe kpekpe me,entailment
+Amegãwo woateŋ xɔ nyanyanana alo ateŋ kpɔ gege faa,Amegãwo mateŋ kpɔ gege o,contradiction
+Amegãwo woateŋ xɔ nyanyanana alo ateŋ kpɔ gege faa,Woana dzesi nyui amegãwo ale be woateŋ yi edzi,neutral
+Nya aɖe si ŋu wode ŋugble tso enye ƒomea ƒe wɔna ɖe boblodogbalɛ̃ ŋu,Nukpɔ susu to vo le dɔ dzi ɣi maɖe mɔ na wo be na kpɔ dɔ o,neutral
+Nya aɖe si ŋu wode ŋugble tso enye ƒomea ƒe wɔna ɖe boblodogbalɛ̃ ŋu,Dɔ dzidzi wɔna meɖe nu le boblodogbalɛ̃ ŋu o,contradiction
+Nya aɖe si ŋu wode ŋugble tso enye ƒomea ƒe wɔna ɖe boblodogbalɛ̃ ŋu,Gododo gbãtɔa lɔ alesi miese na le lãme to yaʋala nuŋlɔŋlɔ dzi ɖe me,entailment
+"189, eye ga home si woazã hã le nenema",Wonya ga si woazã,entailment
+"189, eye ga home si woazã hã le nenema",Wonya be woazã dollar 100000,neutral
+"189, eye ga home si woazã hã le nenema",Wonya ga home si tutu woazã,contradiction
+"Le kpɔɖeŋu me, le GGD nutata numekuku aɖe va eme le mama me",Wo mewɔ tamesusu numekuku aɖeke kpɔ o,contradiction
+"Le kpɔɖeŋu me, le GGD nutata numekuku aɖe va eme le mama me",Wo wɔ tamesusu numekuku ametɔe ametɔe,entailment
+"Le kpɔɖeŋu me, le GGD nutata numekuku aɖe va eme le mama me",Tamesusu numekukua meyi edzi o,neutral
+Dɔwɔƒe asieke siwo va gblɔ be yewoa kpɔ gome le eme,Dɔwɔƒe eve ɖe asieke dzi koe teŋu na ŋuɖoɖo na gome kpɔkpɔ,contradiction
+Dɔwɔƒe asieke siwo va gblɔ be yewoa kpɔ gome le eme,Dɔwɔƒe asieke lɔ̃ be yewoava,entailment
+Dɔwɔƒe asieke siwo va gblɔ be yewoa kpɔ gome le eme,Dɔwɔƒe asiekeawo kpɔ dzidzɔ le ɖoƒe kɔkɔ si su wo si le gome kpɔkpɔa me,neutral
+"Domenyinu alo ƒomewo ƒe nunɔamesi de ŋugɔ tso ƒe 1996 lia me va ɖo 6,4 le 1999 lia me",Ƒomewo katã xɔ 10000 $,neutral
+"Domenyinu alo ƒomewo ƒe nunɔamesi de ŋugɔ tso ƒe 1996 lia me va ɖo 6,4 le 1999 lia me",Ƒomewo bu ga geɖe,contradiction
+"Domenyinu alo ƒomewo ƒe nunɔamesi de ŋugɔ tso ƒe 1996 lia me va ɖo 6,4 le 1999 lia me",Ƒomewo xɔ kesinɔnuwo ƒe agbɔsɔsɔ ɖe edzi wu,entailment
+"Le suku soe ƒe wɔna nu la, gɔmeɖaonyia kple dɔwɔwɔ ƒomevi si woma la xɔa numama ɖe alafa dzi aɖe alebe woateŋu kpɔ eƒe agbɔsɔsɔ me",Gɔmeɖoanyia me tɔ mexɔ tsí o,entailment
+"Le suku soe ƒe wɔna nu la, gɔmeɖaonyia kple dɔwɔwɔ ƒomevi si woma la xɔa numama ɖe alafa dzi aɖe alebe woateŋu kpɔ eƒe agbɔsɔsɔ me",Homea kɔ dzi wu ga ewo ɖe alafa dzi,neutral
+"Le suku soe ƒe wɔna nu la, gɔmeɖaonyia kple dɔwɔwɔ ƒomevi si woma la xɔa numama ɖe alafa dzi aɖe alebe woateŋu kpɔ eƒe agbɔsɔsɔ me",Homea ɖiɖi kokoko wu gawo,contradiction
+"19 Ne mietsɔe be ɣleti wuietɔ su na dɔa wɔwɔ hafi axɔ asia la, ɣleti wuietɔ asu hena dzodoƒea dzadzraɖo tso 675 MWe",Ɣleti eve koe su hena eƒe dzadzraɖo,contradiction
+"19 Ne mietsɔe be ɣleti wuietɔ su na dɔa wɔwɔ hafi axɔ asia la, ɣleti wuietɔ asu hena dzodoƒea dzadzraɖo tso 675 MWe",Ɣleti wuietɔ wozã hedzra tɔgɔme ʋua ƒe dzodoƒe ɖo,neutral
+"19 Ne mietsɔe be ɣleti wuietɔ su na dɔa wɔwɔ hafi axɔ asia la, ɣleti wuietɔ asu hena dzodoƒea dzadzraɖo tso 675 MWe",Ɣleti wuietɔ sɔŋ wotsɔ dzra dzodoƒea ɖo,entailment
+Mɔɖaŋudɔwɔlawo ƒe mademade le dɔwɔwɔ ƒe akpa dzi wɔe be dɔwɔƒewo wɔa yɔyɔ na ame bubuwo,Nyanya nana mɔɖaŋudɔwɔlawo sɔ gbɔ,contradiction
+Mɔɖaŋudɔwɔlawo ƒe mademade le dɔwɔwɔ ƒe akpa dzi wɔe be dɔwɔƒewo wɔa yɔyɔ na ame bubuwo,Mɔɖaŋudɔwɔlawo geɖe meli o elabe wo katã wo dzo yi India,neutral
+Mɔɖaŋudɔwɔlawo ƒe mademade le dɔwɔwɔ ƒe akpa dzi wɔe be dɔwɔƒewo wɔa yɔyɔ na ame bubuwo,Nyanya nana mɔɖaŋudɔwɔlawo mesɔ gbɔ asu na dɔawo o,entailment
+Womateŋu anya kpekpe me alo mɔnua ƒe taɖoƒe le tɔtrɔ si wohe vae le nua ƒe wɔwɔ me le gɔmeɖoanyia me o,Edze ƒaã be mɔnu nenie li,contradiction
+Womateŋu anya kpekpe me alo mɔnua ƒe taɖoƒe le tɔtrɔ si wohe vae le nua ƒe wɔwɔ me le gɔmeɖoanyia me o,Mate ŋu anya ale si nyatsɔɖeameŋu li o elabena mele bɔboe woama ekple gotanuwɔdɔɖeamedziwo dome o,neutral
+Womateŋu anya kpekpe me alo mɔnua ƒe taɖoƒe le tɔtrɔ si wohe vae le nua ƒe wɔwɔ me le gɔmeɖoanyia me o,Mimenya ame ŋukume kpɔkpɔ nuwɔna si li o,entailment
+Ga home gã si wozã ɖe akpa ɖe ŋuti le dɔa wɔwɔ me ƒe akɔŋta wɔ ɖeka kple xoxoa ,Akɔŋta bubu kuɖe mɔɖaŋudɔwɔnuwo ƒe dɔwɔɖeamedzi le ɖeka,entailment
+Ga home gã si wozã ɖe akpa ɖe ŋuti le dɔa wɔwɔ me ƒe akɔŋta wɔ ɖeka kple xoxoa ,Womese alesi wobu akɔŋta kuɖe mɔɖaŋudɔwɔnuwo ƒe ga zazã ŋu o ,contradiction
+Ga home gã si wozã ɖe akpa ɖe ŋuti le dɔa wɔwɔ me ƒe akɔŋta wɔ ɖeka kple xoxoa ,Wozã akɔŋta ŋutinya me nu xoxowo tsɔ bu mɔɖaŋudɔwɔnuwo ƒe dɔwɔɖeamedzi,neutral
+Dɔwɔwɔ enelia: gɔmeɖoanyi fɔkunu gbɔ kpɔkpɔ ɖaa,Tanya enelia menya kuɖe afɔkunuwo gbɔ kpɔkpɔ dɔwɔna aɖe,entailment
+Dɔwɔwɔ enelia: gɔmeɖoanyi fɔkunu gbɔ kpɔkpɔ ɖaa,Agbalɛ̃a menya me nyanya nana aɖeke me kuɖe afɔkunuwo gbɔ kpɔkpɔ le ɣeyiɣi didi aɖe me o ,contradiction
+Dɔwɔwɔ enelia: gɔmeɖoanyi fɔkunu gbɔ kpɔkpɔ ɖaa,Dɔwɔwɔ sia ɖo la vɔ eye woatsɔe ana hafi kwasiɖa na wu enu,neutral
+Islamtɔwo ƒe habɔbɔ si dze egɔme le ƒe 1940 lia me nye egbe ƒe xexe metsonu si marxiste-léninistɔwo ƒe nukpɔsusu wɔdɔɖeamedzi he va de tɔtrɔ habɔbɔa me,Marxist-léninistɔwo ƒe nukpɔsusuwo le islamtɔwo ƒe habɔbɔa me,entailment
+Islamtɔwo ƒe habɔbɔ si dze egɔme le ƒe 1940 lia me nye egbe ƒe xexe metsonu si marxiste-léninistɔwo ƒe nukpɔsusu wɔdɔɖeamedzi he va de tɔtrɔ habɔbɔa me,Islamtɔwo ƒe habɔbɔ dze egɔme tso ƒe alafa adelia me,contradiction
+Islamtɔwo ƒe habɔbɔ si dze egɔme le ƒe 1940 lia me nye egbe ƒe xexe metsonu si marxiste-léninistɔwo ƒe nukpɔsusu wɔdɔɖeamedzi he va de tɔtrɔ habɔbɔa me,Islamtɔwo ƒe habɔbɔ le gɔmedzedzea abehadomegbenɔnɔ ƒe ƒuƒoƒo habɔbɔ ene,neutral
+Toɖoƒola bubuwo hã gblɔ dzitsitsi nya sia,Toɖoƒolawo katã dasi ɖe edzi be woagavɔ̃ na nane ke o,contradiction
+Toɖoƒola bubuwo hã gblɔ dzitsitsi nya sia,Toɖoƒola ɖeka koe megblɔ eƒe dzitsitsi nya o,neutral
+Toɖoƒola bubuwo hã gblɔ dzitsitsi nya sia,Toɖoƒolawo vovovoawo ma dyitsitsi nya,entailment
+Ɖoɖoa ŋutɔ hã tsiã mɔzɔlawo hena dedienɔnɔ dodokpɔ bubu xɔxɔ,Mɔzɔlawo katã ateŋu atso eme bɔboe,contradiction
+Ɖoɖoa ŋutɔ hã tsiã mɔzɔlawo hena dedienɔnɔ dodokpɔ bubu xɔxɔ,Mɔzɔlawo dzena ameŋuti kaka kpɔnuwo,neutral
+Ɖoɖoa ŋutɔ hã tsiã mɔzɔlawo hena dedienɔnɔ dodokpɔ bubu xɔxɔ,Dedienɔnɔ gbɔ kpɔlawo ka mɔzɔla aɖewo ŋu nyui ,entailment
+Naneke meɖe fia be dziɖuɖu yeyea xɔ susua alo Clarke tso eƒe agbalɛ̃ na o to gbɔ be ha ɖeka me dɔwɔlawo woɖo to le dziɖuɖu eveawo me,Miekaɖe dzi alafa ɖe alafa dzi be Clarke metsɔ eƒe agbalɛ̃ na ameaɖeke o,neutral
+Naneke meɖe fia be dziɖuɖu yeyea xɔ susua alo Clarke tso eƒe agbalɛ̃ na o to gbɔ be ha ɖeka me dɔwɔlawo woɖo to le dziɖuɖu eveawo me,Mimateŋu kaɖe edzi be Clarke tsɔ eƒe agbalɛ̃ nae o,entailment
+Naneke meɖe fia be dziɖuɖu yeyea xɔ susua alo Clarke tso eƒe agbalɛ̃ na o to gbɔ be ha ɖeka me dɔwɔlawo woɖo to le dziɖuɖu eveawo me,Miekaɖe edzi be Clarke tsɔ eƒe agbalɛ̃a nae le siamlɔm evelia gbe,contradiction
+"Eme mekɔ be ɖoɖo sia nɔ anyi do ŋugɔ na ƒe 2010 lia o, gake ɣletigbalɛ̃ sia ateŋu heɖe megbe le dedienɔnɔ manɔ eŋu ta",Esesẽ be woaɖo ɖoɖo sia anyi elabe ƒudzidzodalawo dzea edzi ɣetrɔ sia ɣetrɔ,neutral
+"Eme mekɔ be ɖoɖo sia nɔ anyi do ŋugɔ na ƒe 2010 lia o, gake ɣletigbalɛ̃ sia ateŋu heɖe megbe le dedienɔnɔ manɔ eŋu ta",Mele bɔboe be woaɖo ɖoɖo sia anyi kuɖe afɔku siwo le ŋu ta,entailment
+"Eme mekɔ be ɖoɖo sia nɔ anyi do ŋugɔ na ƒe 2010 lia o, gake ɣletigbalɛ̃ sia ateŋu heɖe megbe le dedienɔnɔ manɔ eŋu ta",Medo ŋugbe be dedienɔnɔ ɖoɖo anɔ anyi le kwasiɖa ade me,contradiction
+Eyata americatɔwo ɖo la nyae be afɔkuwo te ɖe dumeviwo ame ɖeka vovo nyawo dzi le miaƒe dua takpɔkpɔ me,"Americatɔwo megavɔ̃ na woƒe dumevivovo nyawo o, woakpɔwo ta ɣe sia ɣi",contradiction
+Eyata americatɔwo ɖo la nyae be afɔkuwo te ɖe dumeviwo ame ɖeka vovo nyawo dzi le miaƒe dua takpɔkpɔ me,Americatɔwo ɖo la kpɔ gbɔ be womaxɔ woƒe tuwo le wosi o,neutral
+Eyata americatɔwo ɖo la nyae be afɔkuwo te ɖe dumeviwo ame ɖeka vovo nyawo dzi le miaƒe dua takpɔkpɔ me,Americatɔwo ɖo la kpɔ nyui le afɔku siwo agba sam le miaƒe vovo nyawo dzi,entailment
+Egbugbɔgagblɔ mena eƒe dɔwɔwɔ nyo ɖe edzi o,Nua tsɔtsɔ va nae medzra eƒe  dɔwɔwɔ nyo ɖe edzi o,entailment
+Egbugbɔgagblɔ mena eƒe dɔwɔwɔ nyo ɖe edzi o,Nua tsɔtsɔ va nae na eƒe dɔwɔwɔ nyo ɖe edzi nukutɔe,contradiction
+Egbugbɔgagblɔ mena eƒe dɔwɔwɔ nyo ɖe edzi o,Esia mena eƒe dɔwɔwɔ nyo ɖe edzi eime mietsɔ nua nae la Maison-Blanche o,neutral
+CIA ƒe tatɔ si kpɔa Al-Qaïda ƒe nya gbɔ le ɣemayi ɖo ŋuku be ye susu be menye ye agblɔ nu si woawɔ alo womawɔ o,Tatɔa medi be yeatsɔ eɖokui de nya me o elabe ele gbɔɖeme,neutral
+CIA ƒe tatɔ si kpɔa Al-Qaïda ƒe nya gbɔ le ɣemayi ɖo ŋuku be ye susu be menye ye agblɔ nu si woawɔ alo womawɔ o,Dɔwɔƒea tatɔ medi be yeaɖo nya me anɔ ŋugɔ na nu si woawɔ o,entailment
+CIA ƒe tatɔ si kpɔa Al-Qaïda ƒe nya gbɔ le ɣemayi ɖo ŋuku be ye susu be menye ye agblɔ nu si woawɔ alo womawɔ o,Tatɔa susu be nu sia nu le eƒe kpɔkplɔ te,contradiction
+Pickard ɖo ŋuku be wo wɔ nyanya nana sia le masa wuivelia me le gododo aɖe me,Pickard magateŋu ɖo ŋuku nya siwo wogblɔ o,contradiction
+Pickard ɖo ŋuku be wo wɔ nyanya nana sia le masa wuivelia me le gododo aɖe me,Pickard ɖo ŋuku be ɖoɖoawo tsɔ afɔku nudzɔdzɔawo dzi,neutral
+Pickard ɖo ŋuku be wo wɔ nyanya nana sia le masa wuivelia me le gododo aɖe me,Pickard ɖo ŋuku nya si wogblɔ le gododoa me,entailment
+Eyi Pakistan gake etɔtɔ esi wobiae be eyi du siwo ƒoxlã Pakistan le eƒe mɔzɔzɔ̃a me (Pakistan nye mɔ siwo zɔna yia Afghanistan ƒe nusrɔ̃ƒe saɖamewo ,mewɔ yaa be ŋɔdzidonamelawo toa Pakistan yia Afghanistan o ,entailment
+Eyi Pakistan gake etɔtɔ esi wobiae be eyi du siwo ƒoxlã Pakistan le eƒe mɔzɔzɔ̃a me (Pakistan nye mɔ siwo zɔna yia Afghanistan ƒe nusrɔ̃ƒe saɖamewo ,Pakistan kple Afghanistan wo didi le wo nɔewo gbɔ,contradiction
+Eyi Pakistan gake etɔtɔ esi wobiae be eyi du siwo ƒoxlã Pakistan le eƒe mɔzɔzɔ̃a me (Pakistan nye mɔ siwo zɔna yia Afghanistan ƒe nusrɔ̃ƒe saɖamewo ,tutuɖo si wona le Afghanistan lɔ ŋukume kple ŋukume dzre wɔwɔ ɖe eme,neutral
+"Na leleƒoƒu su to nu mame siawo me kple susu si ta womese telefon toɖoɖo nyawo me o la, mikpɔ Graham Allison kple Philip Zelikow, Essence of Decision, 2d ed.",Wokpɔ mɔtsotso na ame nyawo gbɔ nyui,contradiction
+"Na leleƒoƒu su to nu mame siawo me kple susu si ta womese telefon toɖoɖo nyawo me o la, mikpɔ Graham Allison kple Philip Zelikow, Essence of Decision, 2d ed.",Woɖo mɔtsɔtsɔ na ame nyawo ɖo ɖe ame vloe hena eme kuku,neutral
+"Na leleƒoƒu su to nu mame siawo me kple susu si ta womese telefon toɖoɖo nyawo me o la, mikpɔ Graham Allison kple Philip Zelikow, Essence of Decision, 2d ed.",Womekpɔ mɔtsotso na ame nyawo gbɔ nyui o,entailment
+Wona taɖodzinuawo kpɔkpɔ sesẽ eye wode gbɔdzɔgbɔdzɔ amewo me to amedzi dzedze nyawo ke wona nua lélé le bɔboe,Edze be esi wona taɖodzinuawo kpɔkpɔ sesẽ la ena nuawo lélé dzi ɖe edzi,neutral
+Wona taɖodzinuawo kpɔkpɔ sesẽ eye wode gbɔdzɔgbɔdzɔ amewo me to amedzi dzedze nyawo ke wona nua lélé le bɔboe,Wowɔ taɖodzinuawo bɔboe ale gbegbe be wolewo le miniti aɖewo ko megbe,contradiction
+Wona taɖodzinuawo kpɔkpɔ sesẽ eye wode gbɔdzɔgbɔdzɔ amewo me to amedzi dzedze nyawo ke wona nua lélé le bɔboe,Wowɔe taɖodzinuawo trɔ zu dɔ gã eye emegbe woawo hã na nu lélé edziédzi,entailment
+"Yame ametakpɔkpɔ anyiehe ɣedzeƒe xɔ nyanya nana le 9h55, miniti 20 megbe","Le miniti 28 megbe esi nua dzɔ vɔ la, yame ametakpɔkpɔ anyiehe ɣedzeƒe xɔ nyanya nana aɖe ",entailment
+"Yame ametakpɔkpɔ anyiehe ɣedzeƒe xɔ nyanya nana le 9h55, miniti 20 megbe",Dɔwɔƒe mexɔ nyata kaka kaba o le nyanya nana ƒe megbe titi ta,neutral
+"Yame ametakpɔkpɔ anyiehe ɣedzeƒe xɔ nyanya nana le 9h55, miniti 20 megbe",Yame ametakpɔkpɔ anyiehe ɣedzeƒe xɔ nyata kaka aɖe ku ɖe nudzɔdzɔ la ŋu le aɖabaƒoƒo 28 megbe,contradiction
+Mienɔte kpɔ dzeɖoɖo la le gbedasi siwo miewɔ dzi eye be miakpɔ gome le eme vevie ,Dzeɖoɖo sia mahe viɖe aɖeke vae o,contradiction
+Mienɔte kpɔ dzeɖoɖo la le gbedasi siwo miewɔ dzi eye be miakpɔ gome le eme vevie ,Miedi be miaɖo dze elabe gbedasiawo le vevie,neutral
+Mienɔte kpɔ dzeɖoɖo la le gbedasi siwo miewɔ dzi eye be miakpɔ gome le eme vevie ,Miedi be miaɖo ku ɖe gbedasiawo ŋu,entailment
+Le Mihdhar ƒe dzodzo megbe la nusrɔ̃la bubuwo geɖe aƒea me,Mihdhar nya be nusrɔ̂lawo nɔte kpɔ ye na dzodzo,neutral
+Le Mihdhar ƒe dzodzo megbe la nusrɔ̃la bubuwo geɖe aƒea me,Sukuviawo geɖe aƒenye me le Mihdhar ƒe dzodzo megbe,entailment
+Le Mihdhar ƒe dzodzo megbe la nusrɔ̃la bubuwo geɖe aƒea me,Nusrɔ̃lawo lɔgbɔ ɖe la aƒea godo le afisi Mihdhar le,contradiction
+Míaƒe nunana le vevie na mìaƒe ƒe 85lia dzidzɔ kpɔkpɔ wɔna,Nunana si miexɔ mele vevie abe miatɔ ene o,neutral
+Míaƒe nunana le vevie na mìaƒe ƒe 85lia dzidzɔ kpɔkpɔ wɔna,Miéle wó nunana gbɔ kpɔm o,contradiction
+Míaƒe nunana le vevie na mìaƒe ƒe 85lia dzidzɔ kpɔkpɔ wɔna,Miele esia wɔm ƒe 80 nye esia,entailment
+Ehiã ameɖokui kadodo kple sukukɔkɔ ga mɔnu hafi miaƒe sewo fiafia sukukɔkɔa na de ŋugɔ,Miaƒe sewo fiafia sukukɔkɔ hiã ameɖokui ga mɔnu vevie,contradiction
+Ehiã ameɖokui kadodo kple sukukɔkɔ ga mɔnu hafi miaƒe sewo fiafia sukukɔkɔa na de ŋugɔ,Bill et Melinda Gate de megbe na miaƒe sewo fiafia suku ,neutral
+Ehiã ameɖokui kadodo kple sukukɔkɔ ga mɔnu hafi miaƒe sewo fiafia sukukɔkɔa na de ŋugɔ,Miaƒe sewo fiafia sukukɔkɔ hiã ga hena eƒe tsitsi ɖe edzi,entailment
+To miaƒe hadɔwɔla dɔmenyonuwɔlawo kpekpeɖeŋu me mieteŋu wɔ nu siawo ,Bill Gate wɔ dollars milion 5 nunana na mi,neutral
+To miaƒe hadɔwɔla dɔmenyonuwɔlawo kpekpeɖeŋu me mieteŋu wɔ nu siawo ,"Ku ɖe gasitsatsa ƒe nɔnnɔme ŋu la, miaƒe hadɔwɔla domenyowolawo tsɔ woƒe gawo dzo",contradiction
+To miaƒe hadɔwɔla dɔmenyonuwɔlawo kpekpeɖeŋu me mieteŋu wɔ nu siawo ,Mieteŋu nu geɖe to domenyo siwo miéxɔ me,entailment
+Akpe na kpekpeɖeŋu si miéwo na Indianapolis Museum of Art le ƒe 1999 lia me,Akpe na miaƒe $100 nunana na Idianapolis aklamakpɔa,neutral
+Akpe na kpekpeɖeŋu si miéwo na Indianapolis Museum of Art le ƒe 1999 lia me,"Enyo, akpe be nehe ɖe megbe le wo ƒe 1999lia nunana ",contradiction
+Akpe na kpekpeɖeŋu si miéwo na Indianapolis Museum of Art le ƒe 1999 lia me,Miékpɔ dzidzɔ be miele megbe na aklamakpɔa,entailment
+Nye mɔkpɔkpɔ ye nye be kuxi sia he yayra kple ŋusẽdoame va na mi,Mexɔese be ʋiʋli sia na mi dzidzɔ yeye,entailment
+Nye mɔkpɔkpɔ ye nye be kuxi sia he yayra kple ŋusẽdoame va na mi,Menya be biabia sia na mi gbɔdzɔgbɔdzɔ mi gake mele tsɔtsɔm nam be miayi mɔkeke o,contradiction
+Nye mɔkpɔkpɔ ye nye be kuxi sia he yayra kple ŋusẽdoame va na mi,Menya be miawo nusianu atsi tsitsitre ɖe anɔ ƒe cancer dɔa ŋu,neutral
+Ele vevie be miaɖe miaɖɔkui afia le nudzɔdzɔ wɔna sia me,Nunana dzɔdzɔ mamlɔe nye sia miawɔ le ɣeyiɣi sia me,entailment
+Ele vevie be miaɖe miaɖɔkui afia le nudzɔdzɔ wɔna sia me,Miéɖo ga dzɔdzɔ wɔna bubu evewo le ƒe sia me,contradiction
+Ele vevie be miaɖe miaɖɔkui afia le nudzɔdzɔ wɔna sia me,Miéhiã $100 000 dzɔdzɔ ateŋu tsɔ wɔ miaƒe dɔwo le ɣeyɣi sia me,neutral
+P.S miaƒe nunana le vevie na miaƒe ƒe 85lia ɖuɖu si na Indinapolis dumevi fefewɔƒe hadometɔ si do xoxo le dua me ,Fefewɔƒe bubu ɖu eƒe ƒe 84lia gake enu tsi le emegbe,neutral
+P.S miaƒe nunana le vevie na miaƒe ƒe 85lia ɖuɖu si na Indinapolis dumevi fefewɔƒe hadometɔ si do xoxo le dua me ,Miele Indianapolis fefewɔƒe yeye nu ʋum le dzidzɔ me,contradiction
+P.S miaƒe nunana le vevie na miaƒe ƒe 85lia ɖuɖu si na Indinapolis dumevi fefewɔƒe hadometɔ si do xoxo le dua me ,Miekpɔ dzidzɔ be Indianapolis dumevi fefewɔƒe le dɔ wɔm ƒe 85 nye sia,entailment
+"Vavalawo axɔ asisinɔwo ƒe ŋukɔ, adrɛs kple kaƒodzesiwo kpakple nyanya nana siwo ku ɖe miaƒe sukua ŋu",Vavalawo axɔ kaƒoboblodogbalɛ menyawo kple nyanyananawo siwo ku ɖe eŋu,entailment
+"Vavalawo axɔ asisinɔwo ƒe ŋukɔ, adrɛs kple kaƒodzesiwo kpakple nyanya nana siwo ku ɖe miaƒe sukua ŋu",Vavalawo ade asi nyaɣlaɣlaƒoƒose te hafi akpɔ asisinɔwo ƒe nyanyananawo,neutral
+"Vavalawo axɔ asisinɔwo ƒe ŋukɔ, adrɛs kple kaƒodzesiwo kpakple nyanya nana siwo ku ɖe miaƒe sukua ŋu",Emenya ŋukɔwo ko vavalawo adzesi gake menye adrɛs o,contradiction
+Wotu miaƒe lãwo kpɔƒe ɖe biome tɔ dzi si me lãwo ƒe nɔƒe dokpɔ anɔ,Biomewo nye dzɔlaƒe lãwo dokpɔ me ,entailment
+Wotu miaƒe lãwo kpɔƒe ɖe biome tɔ dzi si me lãwo ƒe nɔƒe dokpɔ anɔ,Miexɔse be le miaƒe lãwo kpɔƒe la nɔƒe siwo wotsɔ asi wɔ nyo wu dzɔlaƒetɔwo,contradiction
+Wotu miaƒe lãwo kpɔƒe ɖe biome tɔ dzi si me lãwo ƒe nɔƒe dokpɔ anɔ,Miaƒe lãwo kpɔƒe biome xɔ tsi,neutral
+Miaƒe Goodwill kpekpeɖeŋu na miaƒe asinu tutuɖo xɔxɔa kple dɔwɔnawo hena kpekpeɖeŋu na hiãtɔwo,Indiana me titina me nɔtɔwo mexɔ asinu tutuɖo aɖeke kpɔ o,contradiction
+Miaƒe Goodwill kpekpeɖeŋu na miaƒe asinu tutuɖo xɔxɔa kple dɔwɔnawo hena kpekpeɖeŋu na hiãtɔwo,Ade megbe na Goodwill ahe viɖe va na Indianatɔwo,entailment
+Miaƒe Goodwill kpekpeɖeŋu na miaƒe asinu tutuɖo xɔxɔa kple dɔwɔnawo hena kpekpeɖeŋu na hiãtɔwo,Ade megbe na Goowill aɖiɖi dɔ makpɔ wɔ dzi kpɔtɔ,neutral
+Indiana dɔwɔƒe ateŋu kafu eɖokui le domenyinu nyui xɔxɔ tso eƒe gɔmedzedze le dua ƒe dɔyɔƒe gãwo dome.,Indiana ɖo dɔyɔƒe suku adodoe blaeve,contradiction
+Indiana dɔwɔƒe ateŋu kafu eɖokui le domenyinu nyui xɔxɔ tso eƒe gɔmedzedze le dua ƒe dɔyɔƒe gãwo dome.,Dɔyɔƒe suku ɖeka koe le Indiana,entailment
+Indiana dɔwɔƒe ateŋu kafu eɖokui le domenyinu nyui xɔxɔ tso eƒe gɔmedzedze le dua ƒe dɔyɔƒe gãwo dome.,Dɔyɔƒe suku bubu aɖeke manɔ Indiana le ƒe atɔ̃ siwo gbɔna o,neutral
+"Segbalɛwo, nyatakakawo kple gɔmeɖoanyi dɔwɔwɔwo ƒe tsi xɔxɔ ɖee fia be miaƒe nudzɔdzɔwo kɔ wu miaƒe gaɖaŋu",Miaƒe ƒuƒoƒo dzadzraɖo xɔ akpa ɖeka ɖe miaƒe gaɖaŋu ƒe :deka tɔ ŋu,contradiction
+"Segbalɛwo, nyatakakawo kple gɔmeɖoanyi dɔwɔwɔwo ƒe tsi xɔxɔ ɖee fia be miaƒe nudzɔdzɔwo kɔ wu miaƒe gaɖaŋu",Miaƒe gaɖaŋu fifitɔ meɖe mɔ na mi be miale ƒuƒoƒoawo ɖe asi o,entailment
+"Segbalɛwo, nyatakakawo kple gɔmeɖoanyi dɔwɔwɔwo ƒe tsi xɔxɔ ɖee fia be miaƒe nudzɔdzɔwo kɔ wu miaƒe gaɖaŋu",Miehiã $100000 nunana hafi atŋu kpɔ miaƒe ƒuƒoƒowo gbɔ,neutral
+"Le ŋukeke 45 siwo gbɔna me la,miayɔ mia dome tɔ ɖe sia ɖe alebe mia kpɔ amesiwo mekpɔ gome le akɔŋta ƒe dowɔna me o alebe miateŋu aɖo miaƒe taɖodzinua dzi hafi masa 30lia na ɖo",Mele susu me na mi be miaƒo nu kple amesiwo mekpɔ gome le akɔŋta dɔwɔna sia me o,contradiction
+"Le ŋukeke 45 siwo gbɔna me la,miayɔ mia dome tɔ ɖe sia ɖe alebe mia kpɔ amesiwo mekpɔ gome le akɔŋta ƒe dowɔna me o alebe miateŋu aɖo miaƒe taɖodzinua dzi hafi masa 30lia na ɖo",Miana to agbalɛɖoɖaƒe le 45 siwo gbɔna me kple amesiwo mena akɔŋta le dɔwɔwɔ sia me o,neutral
+"Le ŋukeke 45 siwo gbɔna me la,miayɔ mia dome tɔ ɖe sia ɖe alebe mia kpɔ amesiwo mekpɔ gome le akɔŋta ƒe dowɔna me o alebe miateŋu aɖo miaƒe taɖodzinua dzi hafi masa 30lia na ɖo",Miayɔ amesiwo katã mewɔ nunana le amlɔkɔe ƒe sia me le ŋukeke 45 siwo gbɔna me,entailment
+Menya be mienya miaƒe agbagbadzedzewo abe sefiafia suku me nɔtɔ ene,Menye sefiafia suku me nɔtɔ,neutral
+Menya be mienya miaƒe agbagbadzedzewo abe sefiafia suku me nɔtɔ ene,Ame aɖeke menye sefiafia suku me nɔtɔ o,contradiction
+Menya be mienya miaƒe agbagbadzedzewo abe sefiafia suku me nɔtɔ ene,Sefiafia suku xɔ amewo,entailment
+gadeagbame kple ame ɖeka nunanawo alebe woanɔ ho ɖeka dzi,Aƒewo tsotso nɔ femaxee,contradiction
+gadeagbame kple ame ɖeka nunanawo alebe woanɔ ho ɖeka dzi,Ehiã kpeɖeŋu na teƒewo tsotso,entailment
+gadeagbame kple ame ɖeka nunanawo alebe woanɔ ho ɖeka dzi,Aƒeawo tsotso xɔ tsi wu alesi miesusui,neutral
+Newsweeklies ƒe nubablawo ƒe akpawo he dzila siwo tsi dzi maɖeɖi vae,Dzila siwo tsi dzimaɖeɖiwoe nye nyadzɔdzɔgbalɛwo ƒe taɖodzinu dometɔ ɖeka,entailment
+Newsweeklies ƒe nubablawo ƒe akpawo he dzila siwo tsi dzi maɖeɖi vae,Nyadzɔdzɔgbalɛwo wɔa woƒe akpawo alebe woa teŋu he ɖevi alo ame tsitsiwo vae,contradiction
+Newsweeklies ƒe nubablawo ƒe akpawo he dzila siwo tsi dzi maɖeɖi vae,"Dzilawoe nye amesiwo zaa ga le ʋu yeyewo ƒeƒle me, esia wɔe be wonye boblodogbalɛwo taɖodzinu",neutral
+Time ƒe nyadzɔdzɔgbalɛ ƒe akpa nye Bill Gates ƒe ɖoɖo 12 hena dziɖuɖu kpɔkpɔ le mɔɖaŋu ɣeyiɣi,Kim Kardashian ŋlɔ ɖoɖo wuive na Time nyadzɔdzɔgbalɛ hena dziɖuɖu kpɔkpɔ le mɔɖaŋu ɣeyiɣi,contradiction
+Time ƒe nyadzɔdzɔgbalɛ ƒe akpa nye Bill Gates ƒe ɖoɖo 12 hena dziɖuɖu kpɔkpɔ le mɔɖaŋu ɣeyiɣi,Time nyadzɔdzɔgbalɛ ɖo Bill Gates ƒe nɔnɔmetata ɖe eƒe ak̂pa dzi,neutral
+Time ƒe nyadzɔdzɔgbalɛ ƒe akpa nye Bill Gates ƒe ɖoɖo 12 hena dziɖuɖu kpɔkpɔ le mɔɖaŋu ɣeyiɣi,Time nyadzɔdzɔgbalɛ ɖe Bill Gates ŋutinya aɖe ɖe go kple dziɖuɖu kpɔkpɔ le mɔɖaŋu ɣeyiɣi,entailment
+"Miƒu du le ɖoɖu zizi me, miwɔ nu de to, mina ŋuɖoɖo",Aƒu du kple ale nana,contradiction
+"Miƒu du le ɖoɖu zizi me, miwɔ nu de to, mina ŋuɖoɖo",Aƒu du kple abɔwo dada,neutral
+"Miƒu du le ɖoɖu zizi me, miwɔ nu de to, mina ŋuɖoɖo",Aƒu du ɣlidodo manɔ mee,entailment
+Edze abe Paul bu Alan Greeenspen be enye taɖodzinu blibo wɔla si kpɔ ŋusẽ ɖe dɔmakpɔmakpɔ nyawo dzi le gaŋunyawo nu,Alan Grenspan ɖo susuwo ku ɖe dɔ makpɔ wɔ ŋu,entailment
+Edze abe Paul bu Alan Greeenspen be enye taɖodzinu blibo wɔla si kpɔ ŋusẽ ɖe dɔmakpɔmakpɔ nyawo dzi le gaŋunyawo nu,Paul mese Alan Grenspan alo eƒe ganyaŋunyawo ŋukɔ kpɔ o,contradiction
+Edze abe Paul bu Alan Greeenspen be enye taɖodzinu blibo wɔla si kpɔ ŋusẽ ɖe dɔmakpɔmakpɔ nyawo dzi le gaŋunyawo nu,Paul susu be Alan Grenspan enye ganyaŋudɔla nunyala gã tɔ si ye dzesi,neutral
+"Kpakple Microsoft Helpdesk ƒe alɔ do la meva kpɔe be nye mɔɖaŋu nuxlẽnu CD-ROM teƒe tsã kple IDE gbeɖiɖi teƒea, nusi tsaka Linux",Nye mezã Linux kpɔ o,contradiction
+"Kpakple Microsoft Helpdesk ƒe alɔ do la meva kpɔe be nye mɔɖaŋu nuxlẽnu CD-ROM teƒe tsã kple IDE gbeɖiɖi teƒea, nusi tsaka Linux",Esesẽ nam be mawɔ Linux na wɔ ɖo kple nye modem,neutral
+"Kpakple Microsoft Helpdesk ƒe alɔ do la meva kpɔe be nye mɔɖaŋu nuxlẽnu CD-ROM teƒe tsã kple IDE gbeɖiɖi teƒea, nusi tsaka Linux",Medo go kuxi geɖe le Linux zazã me,entailment
+Hatch ɖo eŋu be:Steve nyemete ŋu kɔ wò agbalẽ kotoku la o.,Hatch gblɔ kple dziku be yemete ŋu kɔ Steve ƒe akploa yi dzi o.,neutral
+Hatch ɖo eŋu be:Steve nyemete ŋu kɔ wò agbalẽ kotoku la o.,Hatch menya nu boo aɖeke tso Steve ƒe agbalẽ kotokua ŋu do ŋgɔ o.,contradiction
+Hatch ɖo eŋu be:Steve nyemete ŋu kɔ wò agbalẽ kotoku la o.,Hatch nɔ dze fem be yemate ŋu akɔ Steve ƒe agbalẽ kotoku la o.,entailment
+Numametɔ siwo bɔna ɖe akɔŋta kple aɖaŋu nusrɔƒewo la le nɔnɔme madeamedzi vɔɖi aɖe me.,Mɔkpɔkpɔ aɖeke meli na nutata ŋutinya agbalẽ talawo o.,entailment
+Numametɔ siwo bɔna ɖe akɔŋta kple aɖaŋu nusrɔƒewo la le nɔnɔme madeamedzi vɔɖi aɖe me.,Akɔŋta ŋuti nunyala siwo ɖe woɖokui ɖe vovo la me sɔ na hadome gbenɔnɔ o.,neutral
+Numametɔ siwo bɔna ɖe akɔŋta kple aɖaŋu nusrɔƒewo la le nɔnɔme madeamedzi vɔɖi aɖe me.,Etsɔme le akɔŋta ŋuti nunyalawo siwo ɖe woɖokui ɖe vovo la si.,contradiction
+Nu si nyo wu si ƒe ŋugbe News Quiz ate ŋu ado tso FOX ŋu.,Ele ʋɛ wu nusi ƒe ŋugbe News Quiz ate ŋu ado tso Fox ŋu.,contradiction
+Nu si nyo wu si ƒe ŋugbe News Quiz ate ŋu ado tso FOX ŋu.,Esia kɔ wu nu si dzi News Quiz ate gbe ɖo ku ɖe Fox ŋu.,entailment
+Nu si nyo wu si ƒe ŋugbe News Quiz ate ŋu ado tso FOX ŋu.,Ate ŋu anye be ekɔ gbɔ nusi News Quiz agblɔ tso Fox ŋuti.,neutral
+Amewo ƒe dzidzi ɖe edzi le abe nutoame ƒe ɖiƒoƒo si wotrɔ gbo ene.,Nutoame ƒe ɖiƒoƒo nye mɔxeɖenu na amewo ƒe dzidzi.,neutral
+Amewo ƒe dzidzi ɖe edzi le abe nutoame ƒe ɖiƒoƒo si wotrɔ gbo ene.,Amewo ƒe dzidzi ɖe edzi le abe tsitretsitsi ɖe nutoame ƒe ɖiƒoƒo ŋuti ene.,entailment
+Amewo ƒe dzidzi ɖe edzi le abe nutoame ƒe ɖiƒoƒo si wotrɔ gbo ene.,Katsatsã aɖeke mele amewo ƒe dzidzi kple nutoame ƒe ɖiƒoƒo dome o.,contradiction
+Nenye be Bill Brandley tsi le Saint Louis la mewɔ nuku o be Al Gore tsi le Tennessee.,Arkansas tɔe Brandley nye.,contradiction
+Nenye be Bill Brandley tsi le Saint Louis la mewɔ nuku o be Al Gore tsi le Tennessee.,Missourie Brandley tso va.,entailment
+Nenye be Bill Brandley tsi le Saint Louis la mewɔ nuku o be Al Gore tsi le Tennessee.,Brandley nɔ Saint Louis ƒe nutoa me.,neutral
+Sabol gblɔ be anyo be woatɔ ʋɛ ƴeaɖewoƴi eye woanye nusi ŋuti wowɔ ɖoɖo ɖo.,Sabol mehiã tetɔtɔ siawo hafi o.,neutral
+Sabol gblɔ be anyo be woatɔ ʋɛ ƴeaɖewoƴi eye woanye nusi ŋuti wowɔ ɖoɖo ɖo.,Sabol gblɔe be ahiã be woagbɔ ɖe eme ʋɛ tso ƴeyiƴi yi ƴeyiƴi.,entailment
+Sabol gblɔ be anyo be woatɔ ʋɛ ƴeaɖewoƴi eye woanye nusi ŋuti wowɔ ɖoɖo ɖo.,Sabol na wonya be ehiã be yeaɖi ɖe eme ʋɛ yeaɖewoƴi.,contradiction
+Nu ka tae womezãnɛ le yaʋala dzi o?,Wozãnɛ le yaʋala dzi.,contradiction
+Nu ka tae womezãnɛ le yaʋala dzi o?,Le fifia mea womekpɔ le ezãm le yaʋala dzi o.,entailment
+Nu ka tae womezãnɛ le yaʋala dzi o?,Ke nenye nenemae la woate ŋu azãe leyaʋala dzi.,neutral
+Kpovitɔwo ɖe JonBenet Ramsey tɔviŋutsu kple tɔvinyɔnu le ame siwo wosusu be wowu amea dome elabena womenɔ anyi o.,JonBenet Ramsey tɔviŋutsu menɔ duame le amewuƴi o.,entailment
+Kpovitɔwo ɖe JonBenet Ramsey tɔviŋutsu kple tɔvinyɔnu le ame siwo wosusu be wowu amea dome elabena womenɔ anyi o.,JonBenet Ramsey tɔvinyɔnu ɖo ametakpɔnya seŋu aɖe si nye be menɔ duame le hlɔ̃doyia o.,neutral
+Kpovitɔwo ɖe JonBenet Ramsey tɔviŋutsu kple tɔvinyɔnu le ame siwo wosusu be wowu amea dome elabena womenɔ anyi o.,Kpeɖodzi aɖeke meli si ta woale JonBenet Ramsey tɔviŋutsu le hlɔ̃donya ta o.,contradiction
+Mieka ɖe akpa si dzi miele la dzi o.,Miènya akpa si dzie miele kɔtɛ.,contradiction
+Mieka ɖe akpa si dzi miele la dzi o.,Mienya akpa si dzie miele le akɔdanyawo me o.,neutral
+Mieka ɖe akpa si dzi miele la dzi o.,Miènya ame si dzi dem miele o.,entailment
+"Gbeɖeka ,mɔɖaŋutinunya si nye gadzimɔnu vevi egbea ava nɔ ko abe elɛktrik kaɖi dzro aɖe ene.",Mɔɖaŋutinunya va zua fuɖename ƴeyiƴi aɖe megbe.,entailment
+"Gbeɖeka ,mɔɖaŋutinunya si nye gadzimɔnu vevi egbea ava nɔ ko abe elɛktrik kaɖi dzro aɖe ene.",Mɔɖaŋutinunya nye dzidzɔdoname nu kokooko!,contradiction
+"Gbeɖeka ,mɔɖaŋutinunya si nye gadzimɔnu vevi egbea ava nɔ ko abe elɛktrik kaɖi dzro aɖe ene.",Mɔɖaŋutinunya va zua fuɖename ne asitrɔtrɔ mele eŋu o.,neutral
+Womazã nuteƒenɔnua ɖe nuteƒenɔnu teƒe o,Mele eteƒe be woazã nuteƒenɔnu ahaɖɔ nuteƒenɔnu o.,entailment
+Womazã nuteƒenɔnua ɖe nuteƒenɔnu teƒe o,Mɔɖeɖe li be woaɖɔli ŋuɖoɖo yeye ɖesiaɖe kple bubu si ga nyo wu.,contradiction
+Womazã nuteƒenɔnua ɖe nuteƒenɔnu teƒe o,Ame geɖe menya alesi woazã nyasɔnyawo kple trɔtrɔ siwo esia ahe vɛ o.,neutral
+"Esi wòle eƒe ƒe blaadeawo meɖom le ƒe 1895,Skeat meganɔ dzi tsim ne ame siwo le eƒe kpɔkplɔte o.","Esi wòle eƒe ƒe blaadeawo meɖom la ,naneke medze le Skeat ŋu be enɔ nu geɖe ŋu bum o. L",contradiction
+"Esi wòle eƒe ƒe blaadeawo meɖom le ƒe 1895,Skeat meganɔ dzi tsim ne ame siwo le eƒe kpɔkplɔte o.","Togbɔ be Skeat nɔ tsitsim hã ,naneke me ɖee fia megale ɖeke tsɔm le eƒe kuxiwo nu o.",entailment
+"Esi wòle eƒe ƒe blaadeawo meɖom le ƒe 1895,Skeat meganɔ dzi tsim ne ame siwo le eƒe kpɔkplɔte o.",Skeat va te nu vovovowo ŋu bubu esi wònɔ tsitsim.,neutral
+Gake le gododo evelia me la evati exɔlɔ eve dome.,Menya ame woatia le exɔlɔ eveawo dome o.,neutral
+Gake le gododo evelia me la evati exɔlɔ eve dome.,Gododo ɖeka ko wòwɔ si fia xɔ̃awo dometɔ ɖeka.,contradiction
+Gake le gododo evelia me la evati exɔlɔ eve dome.,"Le gododo evelia me la ,ame etɔ̃e nɔanyi.",entailment
+"Kae do dzidzɔ na wò wu, akɔŋutabubu alo dzɔzdɔmeŋutinunya?","Kae nelɔ wu eka , akɔ̃ŋtabubu loo alo dzɔdzɔmeŋutinunya.",entailment
+"Kae do dzidzɔ na wò wu, akɔŋutabubu alo dzɔzdɔmeŋutinunya?","Kae nele fu, ŋlisigbe loo alo xexemenunya?",contradiction
+"Kae do dzidzɔ na wò wu, akɔŋutabubu alo dzɔzdɔmeŋutinunya?",Ate ŋu alɔ̃ nu bubu to vovo na akɔŋtabubu alo dzɔdzɔmeŋutinunya.,neutral
+Ne ƴeyiƴiawo va le yiyimkple mɔɖaŋunuwo ƒe .ŋgɔgbedede ava wɔɛ be kaƒomɔ siwo siwo ŋu ka mele o la àva nɔ ko abe gbeaɖegbetɔ siwo ŋu ka nɔ ene.,Kaƒomɔ siwo ka mele o hã katã àvatrɔ abe esiwo ŋu ka nɔ tsã ene.,entailment
+Ne ƴeyiƴiawo va le yiyimkple mɔɖaŋunuwo ƒe .ŋgɔgbedede ava wɔɛ be kaƒomɔ siwo siwo ŋu ka mele o la àva nɔ ko abe gbeaɖegbetɔ siwo ŋu ka nɔ ene.,Kaƒomɔwo àva de ŋgɔ esi mɔɖaŋunuwo le nyonyom ɖe dzi ta.,neutral
+Ne ƴeyiƴiawo va le yiyimkple mɔɖaŋunuwo ƒe .ŋgɔgbedede ava wɔɛ be kaƒomɔ siwo siwo ŋu ka mele o la àva nɔ ko abe gbeaɖegbetɔ siwo ŋu ka nɔ ene.,Kaƒomɔ siwo ŋu ka le la nye gɔmedzenuwo wu kaƒomɔ siwo ŋu ka mele o.,contradiction
+Mièsusui be mietsɔ ŋugbledede sia de asi na ame bubu o le nyagbe mamlea ƒe nya nu.,Mietsɔe be metsɔ nuŋɔŋlɔ sia fia ame aɖeke o.,entailment
+Mièsusui be mietsɔ ŋugbledede sia de asi na ame bubu o le nyagbe mamlea ƒe nya nu.,Mièse egɔme be mièna wota nuŋɔŋlɔ sia ɖe nyadzɔdzɔgbalẽ atɔ̃ me.,contradiction
+Mièsusui be mietsɔ ŋugbledede sia de asi na ame bubu o le nyagbe mamlea ƒe nya nu.,Mièdzi be nàde asi agbalẽvi aɖe te si aɖokpe edzi be miawo koe netsɔ nuŋɔŋlɔ sia fia.,neutral
+Nɔvi nyui - nyagbe sia dze le Jules Cessar(iv) me.,"Le Jules César mea, wozã nya «nɔvi nyui«.",entailment
+Nɔvi nyui - nyagbe sia dze le Jules Cessar(iv) me.,ƒe alafa blaeve lia koŋ wozã nya nɔvi nyuia le,contradiction
+Nɔvi nyui - nyagbe sia dze le Jules Cessar(iv) me.,Wozã nya nɔvi nyui tsɔ yɔa ame ƒe nyo.,neutral
+"Le mɔ sia nu la, woate ŋu atutu wo be woaƒle agbalẽ sia si le axa 55 me si me nyakpewo, nyagɔmeɖeɖewo,kple numenyawo le si wometa vayi o.",Nyakpe yeye geɖe le agbalẽ sia me siwo wometa tsã o.,entailment
+"Le mɔ sia nu la, woate ŋu atutu wo be woaƒle agbalẽ sia si le axa 55 me si me nyakpewo, nyagɔmeɖeɖewo,kple numenyawo le si wometa vayi o.",Agbalẽtata sia sɔ esi wota vayi.,contradiction
+"Le mɔ sia nu la, woate ŋu atutu wo be woaƒle agbalẽ sia si le axa 55 me si me nyakpewo, nyagɔmeɖeɖewo,kple numenyawo le si wometa vayi o.",Wodzra agbalê sia ƒe kɔpi akpe alafa atɔ̃ le ƒe gbãtɔa me.,neutral
+Eƒe dzedzeme ɖe fu na mi vie ke hã mièɖui ɖewoɖewoe esi wòle be miaɖui ta.,Ame sia ame ɖu eƒe nuɖuɖua vividoɖeŋutɔe eye wo ka nyata be esia na yewo ɖo ŋku yeƒe mɔkeƴi nuɖuɖu veviwo dzi.,contradiction
+Eƒe dzedzeme ɖe fu na mi vie ke hã mièɖui ɖewoɖewoe esi wòle be miaɖui ta.,Ezi mia dzi be miaɖu nuɖuɖu si wotsɔ ɖo miaƒe akɔme kple susu be miagawɔ nu woave ame siwo gbɔ miedze o.,neutral
+Eƒe dzedzeme ɖe fu na mi vie ke hã mièɖui ɖewoɖewoe esi wòle be miaɖui ta.,Mieɖu nusi wotsɔ na mi kple dzizizi togbɔ be eƒe dzedzeme medze edzi mi o hã.,entailment
+ƒe nenie le sɔhɛwo si?,Menya ƒe si tutuutue le amewo si.,contradiction
+ƒe nenie le sɔhɛwo si?,Sɔhɛwo nye ƒuƒoƒo aɖe si ame aɖewo mete ŋu le mamam ɖe woƒe ƒe xɔxɔ nu o.,entailment
+ƒe nenie le sɔhɛwo si?,Sɔhɛwo dometɔ aɖeke mexɔ de ƒe blaeve vɔ atɔ̃ o.,neutral
+"Le mɔ bu nu la , woƒe nukpɔsusu le ƴeƴiƴia ŋuti nye nusi le trɔtrɔm ke menye nusi le edzi yim o.Esia ta mehiã nawo be woade dzesi be ƴeƴiƴia va le yiyim o wu be woade dzesi nudzɔdzɔwo dzi o .","Esi wònye be woƒe nukpɔsusu le ƴeƴiƴia nye be ele zɔ̃ ɖem ta ,ƴeƴiƴia ƒe zɔ̃ɖeɖe va le vevie wu ŋku ɖoɖo nudzɔdzɔwo dzi.",contradiction
+"Le mɔ bu nu la , woƒe nukpɔsusu le ƴeƴiƴia ŋuti nye nusi le trɔtrɔm ke menye nusi le edzi yim o.Esia ta mehiã nawo be woade dzesi be ƴeƴiƴia va le yiyim o wu be woade dzesi nudzɔdzɔwo dzi o .",Esi wobu ƴeƴiƴia be ele trɔtrɔm ta ŋkuɖoɖo nudzɔdzɔwo dzi vanɔ nawo vevie wu,entailment
+"Le mɔ bu nu la , woƒe nukpɔsusu le ƴeƴiƴia ŋuti nye nusi le trɔtrɔm ke menye nusi le edzi yim o.Esia ta mehiã nawo be woade dzesi be ƴeƴiƴia va le yiyim o wu be woade dzesi nudzɔdzɔwo dzi o .",Wo ɖoa ŋku nudzɔdzowo dzi le woƒe trɔtrɔ va nu si na be wosusui be ƴeƴiƴia le kotoo.,neutral
+Le kpɔɖeŋu me wodometɔ aɖewo ƒe nuwɔna toa vovo kura le dɔwɔnu si zam wole alo teƒe wole fefea wɔm le ŋuti.,Kamedede ɖesiaɖe kpɔa eƒe ŋkɔ tso dɔwɔnu siwo wozãna tsɔ wɔnɛ me.,contradiction
+Le kpɔɖeŋu me wodometɔ aɖewo ƒe nuwɔna toa vovo kura le dɔwɔnu si zam wole alo teƒe wole fefea wɔm le ŋuti.,Fefe aɖewo ƒe ŋkɔ metsoa dɔwɔnu wozãna tsɔ wɔnɛ me o.,entailment
+Le kpɔɖeŋu me wodometɔ aɖewo ƒe nuwɔna toa vovo kura le dɔwɔnu si zam wole alo teƒe wole fefea wɔm le ŋuti.,Esia dzɔna ne wozãna kamedede bubu ƒe dɔwɔnu na bubu.,neutral
+Nusi meɖo be mawɔe nye be madzi nyakpe woate ŋu ama ɖe eve.,Mekpɔ nyakpe etɔ̃ siwo woate ŋu ama kpuie ɖe eve.,contradiction
+Nusi meɖo be mawɔe nye be madzi nyakpe woate ŋu ama ɖe eve.,Esese nam makpɔ nyakpe aɖe si woate ŋu ama ɖe nɔnɔme kpuie eve me,entailment
+Nusi meɖo be mawɔe nye be madzi nyakpe woate ŋu ama ɖe eve.,Metsɔ ɖe le gbeŋutinya me esi mede gɔmedze nusrɔ̃fe aɖe ƒe si va yi me,neutral
+Asixɔxɔ dede agbalẽ ŋu ana nunyala ƒe nunya na dzi ɖe edzi.,Agbalẽa ƒe taɖodzinue be woatsɔe ade bubu eŋɔla dada ŋu.,neutral
+Asixɔxɔ dede agbalẽ ŋu ana nunyala ƒe nunya na dzi ɖe edzi.,Numetotoa lɔ nyatakaka siwo katã nuxlẽla ahiã.,contradiction
+Asixɔxɔ dede agbalẽ ŋu ana nunyala ƒe nunya na dzi ɖe edzi.,Amewo ƒe nukpɔsusu siwo woɖe gblɔ wokatã medze le afisia o.,entailment
+"Le ƒe alafa wuiasieke lia ƒe nuwuwu lɔƒoa ,nugblɔgblɔ geɖe ku ɖe nyakpea ŋu.",Wova tsonyame mlɔɛba be nyakpea mesɔ na amewo o.,neutral
+"Le ƒe alafa wuiasieke lia ƒe nuwuwu lɔƒoa ,nugblɔgblɔ geɖe ku ɖe nyakpea ŋu.",Numeɖeɖe geɖe ku ɖe nyakpe sia ŋu le ƒe gbogbo siwo vayi me.,entailment
+"Le ƒe alafa wuiasieke lia ƒe nuwuwu lɔƒoa ,nugblɔgblɔ geɖe ku ɖe nyakpea ŋu.",Wova dzudzɔ nyakpe sia zazã eye woŋlɔɛbe hafi ƒe alafa wuiasieke lia nàwu ene.,contradiction

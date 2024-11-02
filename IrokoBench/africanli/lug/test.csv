@@ -1,0 +1,611 @@
+premise,hypothesis,label
+"Kale nno, ekyo si na kye nnabadde ndowoozaako, naye olw'okuba nnabadde mu mbeera ey'okusoberwa, nnawunzise nzizeemu okwogera naye.",Sinnaddamu kwogerako naye.,contradiction
+"Kale nno, ekyo si na kye nnabadde ndowoozaako, naye olw'okuba nnabadde mu mbeera ey'okusoberwa, nnawunzise nzizeemu okwogera naye.","Nali munyiivu nnyo, ekyandeetera okuddamu okwogera naye.",entailment
+"Kale nno, ekyo si na kye nnabadde ndowoozaako, naye olw'okuba nnabadde mu mbeera ey'okusoberwa, nnawunzise nzizeemu okwogera naye.",Twafunamu okwogera okulungi.,neutral
+"Bantegeeza nti uh, baali ba kunfunira omuvubuka ansisinkane ku nkomerero.",Tewali kye bantegeeza ku  ky'okusisinkana omuntu yenna.,contradiction
+"Bantegeeza nti uh, baali ba kunfunira omuvubuka ansisinkane ku nkomerero.","Bantegeeza nti uh, baali ba kunfunira omuvubuka ansisinkane ku nkomerero.",entailment
+"Bantegeeza nti uh, baali ba kunfunira omuvubuka ansisinkane ku nkomerero.",Mwanamulenzi yajja kikeerezimu.,neutral
+"Waliwo ebintu bingi bye wandiyogedde ku ekyo, ekyo nja kukibuuka bubuusi.",Njagala nkubuulire byonna bye mmanyi ku ekyo!,contradiction
+"Waliwo ebintu bingi bye wandiyogedde ku ekyo, ekyo nja kukibuuka bubuusi.","Sijja kubaako kye njogera ku ekyo, newankubadde bingi ebikiriko.",entailment
+"Waliwo ebintu bingi bye wandiyogedde ku ekyo, ekyo nja kukibuuka bubuusi.",Sijja kwogera ku byafaayo bya kibuga kubanga eby'okukyogerako bingi nnyo.,neutral
+"Kale nno, simanyidde ddala lwaki.",Neekakasa ensonga lwaki.,contradiction
+"Kale nno, simanyidde ddala lwaki.",Simanyi lwaki yakyusakyusa amasomero.,neutral
+"Kale nno, simanyidde ddala lwaki.",Simanyi lwaki ekyo kyagwawo.,entailment
+"Nze nzekka uh, eyali akozesa obuuma obulondoola obwa, okugezesa enkyukakyuka y'embeera y'ekintu ekibeera kiteekeddwa mu kasenge.",Ssaakyagala kubeera nzekka nga nze nsobola okukozesa obuuma mu kugezesa.,neutral
+"Nze nzekka uh, eyali akozesa obuuma obulondoola obwa, okugezesa enkyukakyuka y'embeera y'ekintu ekibeera kiteekeddwa mu kasenge.",Okugezesebwa baakukolera mu kasenge omulondoolerwa enkyukakyuka y'embeera y'ekintu.,entailment
+"Nze nzekka uh, eyali akozesa obuuma obulondoola obwa, okugezesa enkyukakyuka y'embeera y'ekintu ekibeera kiteekeddwa mu kasenge.",Batono ku ffe abaddukanya obuuma mu kugezesa.,contradiction
+"Nze uh, Chief Master Sergeant, eyawummula, nga Rick bw'agambye.","N'okutuusa leero, nkyakola.",contradiction
+"Nze uh, Chief Master Sergeant, eyawummula, nga Rick bw'agambye.",Nawummula mu 2002.,neutral
+"Nze uh, Chief Master Sergeant, eyawummula, nga Rick bw'agambye.",Rick yabagamba nti nnawummula.,entailment
+"Waliwo kko ebikwata ku nsuubira y'ennyingiza ya ssente ebiri ku mmeeza yange era, um, uh, bya Cutty, lye linnya lya kasitoma.",Kasitoma ayitibwa Cutty akola  $10000 buli mwezi.,neutral
+"Waliwo kko ebikwata ku nsuubira y'ennyingiza ya ssente ebiri ku mmeeza yange era, um, uh, bya Cutty, lye linnya lya kasitoma.",Waliwo kasitoma ng'erinnya lye ye Cutty.,entailment
+"Waliwo kko ebikwata ku nsuubira y'ennyingiza ya ssente ebiri ku mmeeza yange era, um, uh, bya Cutty, lye linnya lya kasitoma.",Tetulina wano kasitoma yenna ayitibwa Cutty.,contradiction
+Omuwala ayinza okunnyamba ali walako n'ekibuga.,Omuwala gwe nneetaagako obuyambi abeera walako.,entailment
+Omuwala ayinza okunnyamba ali walako n'ekibuga.,Omuwala agenda okunnyamba yeesudde mmayiro 5.,neutral
+Omuwala ayinza okunnyamba ali walako n'ekibuga.,Tewaliiwo muntu ayinza kunnyamba.,contradiction
+Naye baali bagabanyiziddwaamu ku b'ani abaali balina okuba abakozi ku ffaamu n'abo abaalina okusigala awaka.,Bonna bakkaanya nti bonna baali ba kukola mu nnimiro.,contradiction
+Naye baali bagabanyiziddwaamu ku b'ani abaali balina okuba abakozi ku ffaamu n'abo abaalina okusigala awaka.,Baali tebasobola kukkaanya ku ani yali omukozi ow'omu nnimiro n'ani ayali ow'omu nju.,entailment
+Naye baali bagabanyiziddwaamu ku b'ani abaali balina okuba abakozi ku ffaamu n'abo abaalina okusigala awaka.,Baali tebayinza kukkaanya ku ani yali alina okukola mu nnimiro ya ppamba n'eyali alina okusiimuula ennyumba.,neutral
+"Kye ntegeeza kiri nti baalina abaana bataano bokka, omu ku bbo n'afa.",Abaana baabwe bonna baasimattuka.,contradiction
+"Kye ntegeeza kiri nti baalina abaana bataano bokka, omu ku bbo n'afa.",Omwana omu ye yafa ku baana abataano.,entailment
+"Kye ntegeeza kiri nti baalina abaana bataano bokka, omu ku bbo n'afa.",Omwana eyafa yazaalibwa nga mulwadderwadde.,neutral
+"Yagamba nti maziga gokka ge gaali gamuyunguka okuva mu maaso, oluvannyuma Joe n'ajja ku lubalaza.","We yamugambira nti ajje ku lubalaza, yalina amaziga mu maaso ge.",entailment
+"Yagamba nti maziga gokka ge gaali gamuyunguka okuva mu maaso, oluvannyuma Joe n'ajja ku lubalaza.",Yeesangula mangu amaziga oluvannyuma lw'okusindika Joe n'amuggya ku lubalaza.,contradiction
+"Yagamba nti maziga gokka ge gaali gamuyunguka okuva mu maaso, oluvannyuma Joe n'ajja ku lubalaza.","Yali musanyufu nnyo ng'alabye ku Joe, era yatandikirawo okukaaba.",neutral
+"Newankubandde ennyonyi yali ekutte omuliro, lwaki uh, yandibadde ebengeya n'esaanuuka okutuuka ekirungo kya lead eky'obulabe ennyo okwaka?",Okufuumuuka kw'emikka egy'obulabe ennyo mu bbanga nakwo kusobola okuteekebwako ekkomo mu muliro.,neutral
+"Newankubandde ennyonyi yali ekutte omuliro, lwaki uh, yandibadde ebengeya n'esaanuuka okutuuka ekirungo kya lead eky'obulabe ennyo okwaka?",Okufuumuuka kw'emikka egy'obulabe ennyo kusobola okuva mu kirungo kya Lead ssinga ennyonyi eba ekutte omuliro.,entailment
+"Newankubandde ennyonyi yali ekutte omuliro, lwaki uh, yandibadde ebengeya n'esaanuuka okutuuka ekirungo kya lead eky'obulabe ennyo okwaka?",Okufuumuuka kw'emikka egy'obulabe ennyo tekwandisobose kubaawo ng'omuliro gukutte.,contradiction
+"Ono ye Chief Master Sergeant Clem Francis, eyawummula egy'eggye lya America ery'omubbanga.",Chief yawummula amagye mu ggye lya America ery'omu bbanga erya US Air Force.,entailment
+"Ono ye Chief Master Sergeant Clem Francis, eyawummula egy'eggye lya America ery'omubbanga.",Chief yaakawummula mu wiiki ntono emabega.,neutral
+"Ono ye Chief Master Sergeant Clem Francis, eyawummula egy'eggye lya America ery'omubbanga.",Akulira eggye lya US ery'omubbanga atandise omulimu gwe mu wiiki eno.,contradiction
+Kyajja ng'ennyonyi bbiri oba ssatu zituuka naye nga simanyi na gye ziraga.,Ennyonyi ezisukka mu emu ze zijja buli wiiki.,entailment
+Kyajja ng'ennyonyi bbiri oba ssatu zituuka naye nga simanyi na gye ziraga.,Okweyongera kw'obungi bw'ennyonyi ezitambula kwa bulabe.,neutral
+Kyajja ng'ennyonyi bbiri oba ssatu zituuka naye nga simanyi na gye ziraga.,Tewali nnyonyi n'emu etuuka.,contradiction
+Baali bamalirizza okukola okutendekebwa kwabwe nga bambadde ebyambalo by'abavuzi b'ennyonyi kyokka kyantwalira akabanga okuzuula oba bye bisaana okugenderamu.,Kitwala emyezi esatu okumalayo okutendekebwa ku ngeri abavuzi b'ennyonyi gye beeyambisa ebyambalo ebibayamba nga bali mu bwengula.,neutral
+Baali bamalirizza okukola okutendekebwa kwabwe nga bambadde ebyambalo by'abavuzi b'ennyonyi kyokka kyantwalira akabanga okuzuula oba bye bisaana okugenderamu.,Okutendeka abavuzi b'ennyonyi ku ngeri gye beeyambisa abyambalo by'abavuzi b'ennyonyi eby'omu bwengula kutwala obudde.,entailment
+Baali bamalirizza okukola okutendekebwa kwabwe nga bambadde ebyambalo by'abavuzi b'ennyonyi kyokka kyantwalira akabanga okuzuula oba bye bisaana okugenderamu.,Tusobola okukutendeka engeri ey'okweyambisaamu ebyambalo by'abavuzi b'ennyony eby'omu bwengula mu lunaku lumu.,contradiction
+Njagala okubategeeza nti tewaaliwo bulabe bwonna okugenda ne bbomu kubanga yali tesobola kubaluka k'ebe nga yekkase ku ttaka.,Omuvuzi w'ennyonyi yali yasirisizza bbomu nga teyinza kubaluka.,neutral
+Njagala okubategeeza nti tewaaliwo bulabe bwonna okugenda ne bbomu kubanga yali tesobola kubaluka k'ebe nga yekkase ku ttaka.,Bbomu teyalina mukisa gwonna kubaluka.,entailment
+Njagala okubategeeza nti tewaaliwo bulabe bwonna okugenda ne bbomu kubanga yali tesobola kubaluka k'ebe nga yekkase ku ttaka.,"Waaliwo akatyabaga ka maanyi, aka bbomu eyo okubaluka essaawa yonna.",contradiction
+Engeri gye kirabikamu efaananira ddala n'ekyo kye ngezaako okukola.,Seekakasa kino bwe kikufaananira.,contradiction
+Engeri gye kirabikamu efaananira ddala n'ekyo kye ngezaako okukola.,Tekiriiko kubuusabuusa nti kino kye ngezaako okukola.,entailment
+Engeri gye kirabikamu efaananira ddala n'ekyo kye ngezaako okukola.,Ngezaako okumaliriza pulojekiti yange mu wiiki eno.,neutral
+"Naye mu byonna, ensolo zaanyumirwanga, naddala embuzi.",Embuzi zaatolokanga okuva mu kiyumba buli lunaku.,neutral
+"Naye mu byonna, ensolo zaanyumirwanga, naddala embuzi.",Embuzi zaatolokanga buli kiseera.,entailment
+"Naye mu byonna, ensolo zaanyumirwanga, naddala embuzi.",Embuzi zaakuumibwanga butiribiri nga mpaawo bulabe buyinza kuzituukako.,contradiction
+"We twayingiriramu, enzigi zaali nsibe.",Enzigi zonna zaali nzigale.,contradiction
+"We twayingiriramu, enzigi zaali nsibe.",Ebisumuluzo ffe twabirina.,neutral
+"We twayingiriramu, enzigi zaali nsibe.",Twayingira newankubadde enzigi zaali nsibe.,entailment
+Kale nno nnali nnina kutwala ebipapajo ngezeeko okubigattagatta mmanye ekyavuddeko obuzibu.,Mpulira ng'ebipapajjo bye nnina okweyambisa okuzuula endabwe kwe yavudde.,neutral
+Kale nno nnali nnina kutwala ebipapajo ngezeeko okubigattagatta mmanye ekyavuddeko obuzibu.,"Simanyi kya kukola nga nnina bipapajjo byokka, nnyamba ompe amawulire amalala agakwata ku nsonga eno nzuule ensibuka y'obuzibu",contradiction
+Kale nno nnali nnina kutwala ebipapajo ngezeeko okubigattagatta mmanye ekyavuddeko obuzibu.,Nja kukyekkaanya nga seesigamye ku bipapajjo.,entailment
+Era ekyo kitegeeza kinene kubanga bamaama bonna bakozesa ebiragalalagala.,Bamaama bakozesa ba biragalalagala ab'olulango.,neutral
+Era ekyo kitegeeza kinene kubanga bamaama bonna bakozesa ebiragalalagala.,Bamaama tebali ku biragiro bya basawo oba ku ddagala lyonna.,contradiction
+Era ekyo kitegeeza kinene kubanga bamaama bonna bakozesa ebiragalalagala.,Bamaama banywa ebiragalalagala.,entailment
+"Kituufu, ekyo kirungi, enkuba ebadde etonnya?",Nze sifaayo enkuba ne bw'eba etonnya.,neutral
+"Kituufu, ekyo kirungi, enkuba ebadde etonnya?",Embeera nnungi era enkuba eri mu kutonnya.,entailment
+"Kituufu, ekyo kirungi, enkuba ebadde etonnya?",Embeera ya katyabaga olw'embeera y'akasana akaaka nga tekazikira.,contradiction
+"Oh, obulamu bw'omuntu bulina muwendo ki, era kyonna kye kiri, waliwo obusobozi okuzza obuggya obulamu bw'omuntu.",Abantu bonna baba basaanidde okuweebwa omukisa okuzzibwa obuggya n'okuweebwa omukisa okubbulula obulamu bwabwe.,neutral
+"Oh, obulamu bw'omuntu bulina muwendo ki, era kyonna kye kiri, waliwo obusobozi okuzza obuggya obulamu bw'omuntu.",Tewali muntu asaana kuzzibwa buggya.,contradiction
+"Oh, obulamu bw'omuntu bulina muwendo ki, era kyonna kye kiri, waliwo obusobozi okuzza obuggya obulamu bw'omuntu.","Nga tetufuddeeyo ku nkola ki ey'okuzzibwa obuggya, bulamu bwa ngeri ki obwetaaga okuzzibwa obuggya?",entailment
+Oh mulenzi olina obuzibu obutali bwa bulijjo mu nnyunga yo.,Sirabangako ku buzibu bwa nnyunga kika kino.,neutral
+Oh mulenzi olina obuzibu obutali bwa bulijjo mu nnyunga yo.,Ennyunga si y'ensonga.,contradiction
+Oh mulenzi olina obuzibu obutali bwa bulijjo mu nnyunga yo.,Waliwo ekizibu obuleetebwa ennyunga eno enkyamu.,entailment
+"Kiwulikika ng'ekinyuma ennyo yeah, naye kinneewuunyisa ebintu bimeka bye banakkiriza.",Tekyanneewuunyisizza n'akatono nti baali bagumiikiriza.,contradiction
+"Kiwulikika ng'ekinyuma ennyo yeah, naye kinneewuunyisa ebintu bimeka bye banakkiriza.",Kinneewuunyisa nti bakukkiriza okuliirayo n'okunywerayo.,neutral
+"Kiwulikika ng'ekinyuma ennyo yeah, naye kinneewuunyisa ebintu bimeka bye banakkiriza.",Nneewuunya kiki kye bayinza okuggyawo.,entailment
+"Naye mu byonna, um, kati abaana bange bali mu myaka abiri mu gumu n'abiri mu ena, ekyo sirina kukikola.",Sirina kukikola kubanga abaana bange basusse emyaka abiri.,entailment
+"Naye mu byonna, um, kati abaana bange bali mu myaka abiri mu gumu n'abiri mu ena, ekyo sirina kukikola.",Nandiba nga nnina okukikola kubanga kyenkana bali mu myka gye gimu.,neutral
+"Naye mu byonna, um, kati abaana bange bali mu myaka abiri mu gumu n'abiri mu ena, ekyo sirina kukikola.",Nnina okukikola kubanga bombi bali mu myaka okuli ow'ekkumi n'ow'ekkuminoogumu.,contradiction
+"Bwekiri, abantu abaalinga basobola okubeera ku mulimu buli kiseera, okusalawo kwabwe kwe kwatwalibwanga bwe baabanga baliko kwe bakoze.","Yee, abantu abayinza obutasobola kukola kusalawo.",entailment
+"Bwekiri, abantu abaalinga basobola okubeera ku mulimu buli kiseera, okusalawo kwabwe kwe kwatwalibwanga bwe baabanga baliko kwe bakoze.","Yee, abantu abayinza okuba nga si banyiivu.",neutral
+"Bwekiri, abantu abaalinga basobola okubeera ku mulimu buli kiseera, okusalawo kwabwe kwe kwatwalibwanga bwe baabanga baliko kwe bakoze.","Yee, abantu ng'okusalawo kwabwe si kwa kiboggwe.",contradiction
+"Nedda, bakyalambula, babaddenga balambula okuva mu myaka y'enkaaga.",Babaddenga balambula okuva mu myaka gya 1970.,entailment
+"Nedda, bakyalambula, babaddenga balambula okuva mu myaka y'enkaaga.",Baagala nnyo okulambula.,neutral
+"Nedda, bakyalambula, babaddenga balambula okuva mu myaka y'enkaaga.",Gye buvuddeko baakomekkereza olulambula lwabwe.,contradiction
+Wakolanga otya dduyiro?,Osobola okunnyonnyola engeri gye wakolangamu dduyiro?,entailment
+Wakolanga otya dduyiro?,Njagala nnyo okukola dduyiro kubanga nneetaaga ebintu ebikuuma omubiri nga mulamu.,neutral
+Wakolanga otya dduyiro?,Nsaba okomye okwogera ku dduyiro.,contradiction
+"Ekyo kirungi ddala, mbadde sinnakirowoozaako.",Ekyo kirowoozo kyakisiru era nnakigoba wiiki ewedde.,contradiction
+"Ekyo kirungi ddala, mbadde sinnakirowoozaako.",Ensonga eyo nnungi.,entailment
+"Ekyo kirungi ddala, mbadde sinnakirowoozaako.",Okwetema engalike kw'waddeyo kulungi.,neutral
+Ekifo awalabirirwa abantu emisana ennaku bbiri mu wiiki bakiyita ekifo awalabirirwa abakadde emisana naye ye agenda ku kifo awakung'aanira abakadde.,Essomero lya day care  libeera liggule buli lunaku eri abaana abali wansi w'emyaka etaano bokka.,contradiction
+Ekifo awalabirirwa abantu emisana ennaku bbiri mu wiiki bakiyita ekifo awalabirirwa abakadde emisana naye ye agenda ku kifo awakung'aanira abakadde.,Babaleka ne bagenda emirundi egisukka mu ebiri mu wiiki ssinga abatuuze abagundiivu babeera bakiwagidde.,neutral
+Ekifo awalabirirwa abantu emisana ennaku bbiri mu wiiki bakiyita ekifo awalabirirwa abakadde emisana naye ye agenda ku kifo awakung'aanira abakadde.,Bagiyita senior day care naye ng'erinnya ettuufu ye senior center.,entailment
+"Oh, ekyo kye kyali ekigendererwa kyabwe.",Ekyo kye baali batakabanira.,entailment
+"Oh, ekyo kye kyali ekigendererwa kyabwe.",Ekyotekibangako kye baagala.,contradiction
+"Oh, ekyo kye kyali ekigendererwa kyabwe.",Baatuukiriza ekigendererwa kyabwe.,neutral
+Okusobola okukozesa obulungi emmundu kitegeeza okukozesa emikono gyombi.,Ebitundu ataano ku buli kikumi eby'okukozesa emmundu mu butanwa kiba kivudde ku kugikwata na mukono gumu.,neutral
+Okusobola okukozesa obulungi emmundu kitegeeza okukozesa emikono gyombi.,Enkola esinga ku ziyinza okuyamba okukozesa emmundu kwe kukozesa ebigere byombi. ,contradiction
+Okusobola okukozesa obulungi emmundu kitegeeza okukozesa emikono gyombi.,Kozesa emikono gyombi bwoba oyagala okwegezesa mu nkwata y'emmundu ennungi.,entailment
+"uh, naye kijja lumu okuva mu kifo kye simanyi.",Simanyi gye kiva naye kijjira ku misinde egy'amaanyi.,entailment
+"uh, naye kijja lumu okuva mu kifo kye simanyi.",Kijjira ku misinde gya waggulu naye ndabika mmanyi gye kiva.,neutral
+"uh, naye kijja lumu okuva mu kifo kye simanyi.","Kijja nga kaloddo, era mmanyi ddi lwe kinajja.",contradiction
+"Nedda, sikimanyiiko na bingi, sikirowooza.",Sikimanyiiko nnyo.,entailment
+"Nedda, sikimanyiiko na bingi, sikirowooza.",Ensonga z'omukwano sirina kye nzimanyiiko.,neutral
+"Nedda, sikimanyiiko na bingi, sikirowooza.",Mbadde nkisoma okumala emyaka n'emyaka.,contradiction
+"Kituufu, yali musuffu.","Kye ndowooza, alabika akimanyi nti yali musuffu.",neutral
+"Kituufu, yali musuffu.","Nedda, yali wa mutawaana nnyo.",contradiction
+"Kituufu, yali musuffu.","Yee, yali mulungi ddala.",entailment
+"Kituufu, yali ateesa okufuna uh um, akisiimuula ky'oyinza okukozesa.",Yateesa okugula ekisiimuula ekizungu ekya vacuum.,contradiction
+"Kituufu, yali ateesa okufuna uh um, akisiimuula ky'oyinza okukozesa.",Yateesa okunoonya ku kisiimuula.,entailment
+"Kituufu, yali ateesa okufuna uh um, akisiimuula ky'oyinza okukozesa.",Yayagala okusiimuula omusaayi ng'akozesa kisiimuula.,neutral
+Kibi nnyo wabweru wano kubanga tubadde n'okuwaanyisiganya kw'amasasi ng'obala ebizimbe nga bisatu byokka okuva ku nnyumba yaffe.,Okukuba amasasi kubadde mu mayiro 100 okuva we mbeera.,contradiction
+Kibi nnyo wabweru wano kubanga tubadde n'okuwaanyisiganya kw'amasasi ng'obala ebizimbe nga bisatu byokka okuva ku nnyumba yaffe.,Okuwaanyisiganya kw'amasasi kwabadde kumbi n'ennyumba yange era ntya okufuluma wabweru.,neutral
+Kibi nnyo wabweru wano kubanga tubadde n'okuwaanyisiganya kw'amasasi ng'obala ebizimbe nga bisatu byokka okuva ku nnyumba yaffe.,"Waabaddewo okukuba amasasi okuliraana awaka wange, era embeera si nnungi mu kitundu kino.",entailment
+"uh-huh ekyo kituufu, kijja mu ngeri ezitafaanagana.","Sikkaanya naawe, kibaawo mu ngeri ezitafaanagana.",contradiction
+"uh-huh ekyo kituufu, kijja mu ngeri ezitafaanagana.",Ndowooza nti wandiba omutuufu bwe kituuka ku butajja mu ngeri ze zimu.,neutral
+"uh-huh ekyo kituufu, kijja mu ngeri ezitafaanagana.",Oli mutuufu ku ky'okuba nti kijja mu ngeri ezitafaanagana.,entailment
+Ngezaako okugyayo.,Ngezaako okulemerako.,entailment
+Ngezaako okugyayo.,Eky'amazima nkola kyonna kye nsobola.,neutral
+Ngezaako okugyayo.,Nja kukivaako obutakiddira lubeerera.,contradiction
+Tuyingira mu biseera by'omu maaso ebya tekinologiya.,Tuzimba ebyo ebisookerwako okuteekawo tekinologiya w'ebiseera by'omu maaso.,entailment
+Tuyingira mu biseera by'omu maaso ebya tekinologiya.,"Tuzimba ebyuma ebifuga amayengo, tusobole okuteekawo tekinologiya w'ebiseera by'omu maaso.",neutral
+Tuyingira mu biseera by'omu maaso ebya tekinologiya.,Twagala okulemesa tekinologiya okutuuka ku buwanguzi.,contradiction
+"Okugeza, nga kiweddeyo, obutoffaali bwa gene bufuuka bwa kakobe."," Nga kiweddeyo, ettundutundu ku butoffaali bwa gene bufuuka bwa kakobe.",contradiction
+"Okugeza, nga kiweddeyo, obutoffaali bwa gene bufuuka bwa kakobe.",Kisoboka obutoffaali bwa gene okukyusakyusa langi.,entailment
+"Okugeza, nga kiweddeyo, obutoffaali bwa gene bufuuka bwa kakobe.",Ebiseera ebimu obutoffaali bwa gene busobola okufuuka bbulu.,neutral
+Daniel Yamins mukugu omuto mu by'essomo lya kubala.,Mwami Yamins mulungi nnyo mu kubala.,entailment
+Daniel Yamins mukugu omuto mu by'essomo lya kubala.,Mwami Yamins essira alissa ku kannakubala ow'ebikula.,neutral
+Daniel Yamins mukugu omuto mu by'essomo lya kubala.,Mwami Yamins mukubi wa bifaananyi mulungi naye mubi nnyo mu kubala.,contradiction
+"Era bwe kiba bwekityo, batera okubeera okumpi n'ensalosalo?",Mmanyi tebatera kutuuka kumpi na nsalo.,contradiction
+"Era bwe kiba bwekityo, batera okubeera okumpi n'ensalosalo?","Njagala kumanya, batera okubeera e Bungereza?",neutral
+"Era bwe kiba bwekityo, batera okubeera okumpi n'ensalosalo?",Omukubiriza w'olukiiko yayagala okutangaazibwa oba nga ddala batera okusemberera ensalosalo.,entailment
+"Era waliwo, ndowooza, waliwo akatoffaali akabaguliza nti obwebulungulule kannabulamu buzimbana mu mugigi ebitonde mwe bisobolera okubeerawo okusobola okuzaala emigigi eginaddawo.",Obwebulungulule kannabulamu bukyukakyuka nnyo.,entailment
+"Era waliwo, ndowooza, waliwo akatoffaali akabaguliza nti obwebulungulule kannabulamu buzimbana mu mugigi ebitonde mwe bisobolera okubeerawo okusobola okuzaala emigigi eginaddawo.",Obwebulungulule kannabulamu bukyukakyuka okusinziira ku bbugumu.,neutral
+"Era waliwo, ndowooza, waliwo akatoffaali akabaguliza nti obwebulungulule kannabulamu buzimbana mu mugigi ebitonde mwe bisobolera okubeerawo okusobola okuzaala emigigi eginaddawo.",Obwebulungulule kannabulamu tebukyukakyuka.,contradiction
+"Ku maanyi amangi kwe litambulira, ekkerenda erya bulijjo teriyinza kutereka bubaka bungi kiri awo.",Amakerenda aga bulijjo tterekero ly'obubaka obuzito ennyo.,contradiction
+"Ku maanyi amangi kwe litambulira, ekkerenda erya bulijjo teriyinza kutereka bubaka bungi kiri awo.",Amakerenda aga bulijjo si ga mugaso nnyo mu kutereka obubaka.,entailment
+"Ku maanyi amangi kwe litambulira, ekkerenda erya bulijjo teriyinza kutereka bubaka bungi kiri awo.",Waliyo amakerenda ag'ebika ebiralala ag'omugaso ennyo mu kutereka obubaka obukwata ku butonde bw'ensi nga beeyambisa omugatte gw'amagulu g'ekitandaala ag'enkanankana.,neutral
+N'olwensonga eyo abantu abakulu tebeetaaga kutendeka baana kutendeka baana abatannatuuka kugenda ku ssomero nga beebuzaabuza ng'olumu bwe bkola nga babayamba okuyiga obukunizo oba ebyokukola ebirala ebibufaanana.,Abaana abato abatannatuuka kusoma banguyirwa emizannyo gy'obukunizo okusinga egy'okwefaanaanyiriza ebintu eby'enjawulo.,contradiction
+N'olwensonga eyo abantu abakulu tebeetaaga kutendeka baana kutendeka baana abatannatuuka kugenda ku ssomero nga beebuzaabuza ng'olumu bwe bkola nga babayamba okuyiga obukunizo oba ebyokukola ebirala ebibufaanana.,Abaana abatannatuuka kusoma babeera tebeetaaga nnyo kuyambibwa nga bayiga okwebuzaabuza.,entailment
+N'olwensonga eyo abantu abakulu tebeetaaga kutendeka baana kutendeka baana abatannatuuka kugenda ku ssomero nga beebuzaabuza ng'olumu bwe bkola nga babayamba okuyiga obukunizo oba ebyokukola ebirala ebibufaanana.,Abaana abatannatandik akusoma tebaba na busobozi obw'okuzuula ebyokuddamu eri obukunizo.,neutral
+[Eggwanga lino] lyafunibwa mu eddembe ne lizimbibwa ku ndowooza egamba nti abantu baalyo bonna benkanankana.,Ebikwata ku kiteeso kino byawandiikibwa mu biwandiiko ebirala eby'enjawulo.,neutral
+[Eggwanga lino] lyafunibwa mu eddembe ne lizimbibwa ku ndowooza egamba nti abantu baalyo bonna benkanankana.,Abantu abamu bakkiriza nti abantu bonna benkanankana.,entailment
+[Eggwanga lino] lyafunibwa mu eddembe ne lizimbibwa ku ndowooza egamba nti abantu baalyo bonna benkanankana.,Eggwanga lino lyazimbibwa ku nzikiriza egamba nti abantu abamu ba nkizo ku balala.,contradiction
+Ngwanidde okumutendereza okusingawo?,Nneekakasa nti nneetaaga okumukuba olw'okulemererwa kwe.,contradiction
+Ngwanidde okumutendereza okusingawo?,Simanyi oba yeetaaga neeyongere okumusiima.,entailment
+Ngwanidde okumutendereza okusingawo?,Nneetaaga okwongera okumutendereza okusingawo olw'ekuba ye ey'ennanga?,neutral
+Ennyinyonnyolero z'obukwatane kinnassaayansi ez'obutoffaali zisobola okutondebwawo mu ngeri ez'enjawulo.,Engeri endala zisobola okukozesebwa okutondawo ennyinyonnyolero z'obukwatane kinnassaayansi ez'obutoffaali.,entailment
+Ennyinyonnyolero z'obukwatane kinnassaayansi ez'obutoffaali zisobola okutondebwawo mu ngeri ez'enjawulo.,Obatabukwne kinnassaayansi ebw'obutoffaali bwa mugaso nnyo eri ebyuma bya tekinologiya ebitereka obubaka.,neutral
+Ennyinyonnyolero z'obukwatane kinnassaayansi ez'obutoffaali zisobola okutondebwawo mu ngeri ez'enjawulo.,Obatabukwne kinnassaayansi ebw'obutoffaali tebusobola kwefumiitirizibwako mu ngeri ndala.,contradiction
+"(Mu kutya) Nedda, nedda, saagala ofe!",Saagala ofe!,entailment
+"(Mu kutya) Nedda, nedda, saagala ofe!",Sifaayo ne bw'ofa!,contradiction
+"(Mu kutya) Nedda, nedda, saagala ofe!",Nandibadde munyiikaavu nnyo singa wafa!,neutral
+"Yawanikibwa ku kalabba mu lujjudde mu Gwokusatu nga 19, 1875, mu kibuga San Jose, California.",California yawanikanga abantu ku kalabba mu lujjudde okutuukira ddala mu 1875.,entailment
+"Yawanikibwa ku kalabba mu lujjudde mu Gwokusatu nga 19, 1875, mu kibuga San Jose, California.",Yasonyiyibwa ebikyamu byonna n'ayimbulwa.,contradiction
+"Yawanikibwa ku kalabba mu lujjudde mu Gwokusatu nga 19, 1875, mu kibuga San Jose, California.",Yawanikibwa ku kalabba olw'okwogera ebintu ebijagalaza abantu baggyeko Gavumenti n'egy'okubba embalaasi.,neutral
+"Ku mulembe ogwa Gavumenti ey'effugabbi, n'ennyanja ya Green Sea tetebenkera.",Ennyanja yali ya bbullu omukwafu ate ng'eteese okufaananako eggiraasi.,contradiction
+"Ku mulembe ogwa Gavumenti ey'effugabbi, n'ennyanja ya Green Sea tetebenkera.",Ennyanja yali ejjudde obwennyanja obwabuukanga ne bukoona ku lyato nga bwe buddayo.,neutral
+"Ku mulembe ogwa Gavumenti ey'effugabbi, n'ennyanja ya Green Sea tetebenkera.",Ennyanja yali ya kiragala naye ng'erabika ng'eriko ebyovu.,entailment
+Gavumenti empya yali eyaayaanira okukola ebyo ebyawukanira ddala ku ebyo ebyaleetawo embeera ey'akatyabaga mu myaka gya 1860.,We twatuukira mu myaka gya 1870 enfuga ey'amateeka yali eweddewo ng'eggwanga liri mu katyabaga akawedde emirimu.,contradiction
+Gavumenti empya yali eyaayaanira okukola ebyo ebyawukanira ddala ku ebyo ebyaleetawo embeera ey'akatyabaga mu myaka gya 1860.,Emyaka gya 1960 gyali gya busambattuko awataali mirembe.,entailment
+Gavumenti empya yali eyaayaanira okukola ebyo ebyawukanira ddala ku ebyo ebyaleetawo embeera ey'akatyabaga mu myaka gya 1860.,Gavumenti empya yali eyagala okwongera amaanyi mu ddembe ly'abakozi.,neutral
+Endowooza eya waggulu yonna ebeerawo ng'omwana awuliziganya ne banne bwe bava mu buwangwa bwe bumu bwe babaako kye bakolera awamu. ,Abaana tebalina busobozi kuba na ndowooza eya waggulu. ,contradiction
+Endowooza eya waggulu yonna ebeerawo ng'omwana awuliziganya ne banne bwe bava mu buwangwa bwe bumu bwe babaako kye bakolera awamu. ,Okuvuba gwe mulimu ogumanyiddwa abantu abangi ogugabanibwa obuwangwa bungi obw'enjawulo. ,neutral
+Endowooza eya waggulu yonna ebeerawo ng'omwana awuliziganya ne banne bwe bava mu buwangwa bwe bumu bwe babaako kye bakolera awamu. ,Okwogera ku bintu ebikolebwa bulijjo kiyambako mu kwogera ku bintu ebiraga endowooza eya waggulu.,entailment
+"Bamuliraanwa abamu baalinanga abakulu mu byenzikiriza abaakulemberangamu okusaba ku mikolo ng'okuziika, okujaguza ennaku z'abatuukirivu mu kiseera ng'abasaserdooti tebaliiwo.",Tewali n'ogumu ku miriraano ogwalina abakulembe ba nzikiriza abataali bakabona.,contradiction
+"Bamuliraanwa abamu baalinanga abakulu mu byenzikiriza abaakulemberangamu okusaba ku mikolo ng'okuziika, okujaguza ennaku z'abatuukirivu mu kiseera ng'abasaserdooti tebaliiwo.",Emiriraano egimu gyalina abakulembeze b'enzikiriza abataali bakabona.,entailment
+"Bamuliraanwa abamu baalinanga abakulu mu byenzikiriza abaakulemberangamu okusaba ku mikolo ng'okuziika, okujaguza ennaku z'abatuukirivu mu kiseera ng'abasaserdooti tebaliiwo.",Abamu ku bakulembeze b'enzikiriza baalina enviiri enzirugavu.,neutral
+"Okuyita mu kuzannya emizannyo egikwata ku mbeera z'abantu, abaana bafuna omukisa okuzannya mu ngeri ez'enjawulo ne bayiga ebyawuka n'ebifaanagana mu bantu  mu bye baagala, bye bakkiriza ne bye bayaayaanira.",Abaana basobola okuyiga ebifaanagana n'ebyawuka mu bantu.,entailment
+"Okuyita mu kuzannya emizannyo egikwata ku mbeera z'abantu, abaana bafuna omukisa okuzannya mu ngeri ez'enjawulo ne bayiga ebyawuka n'ebifaanagana mu bantu  mu bye baagala, bye bakkiriza ne bye bayaayaanira.",Abaana basobola okulaba engeri abantu aba kabira ez'enjawulo bwe baawuka.,neutral
+"Okuyita mu kuzannya emizannyo egikwata ku mbeera z'abantu, abaana bafuna omukisa okuzannya mu ngeri ez'enjawulo ne bayiga ebyawuka n'ebifaanagana mu bantu  mu bye baagala, bye bakkiriza ne bye bayaayaanira.",Abaana tebasobola kuyiga kintu n'ekimu.,contradiction
+Ekinyusi ekyali kisinga okubeera eky'amaanyi mu Ssemateeka wa Bugirimaani eyaleetebwa ng'olutalo luwedde ye yasinga okusaanyaawo enfuga eya Nazi. ,Gavumenti ya Nazi yakikkiriza.,contradiction
+Ekinyusi ekyali kisinga okubeera eky'amaanyi mu Ssemateeka wa Bugirimaani eyaleetebwa ng'olutalo luwedde ye yasinga okusaanyaawo enfuga eya Nazi. ,Gavumenti ya Nazi yatta buli omu eyakirimu.,neutral
+Ekinyusi ekyali kisinga okubeera eky'amaanyi mu Ssemateeka wa Bugirimaani eyaleetebwa ng'olutalo luwedde ye yasinga okusaanyaawo enfuga eya Nazi. ,Gavumenti ya Nazi yakiyimiriza.,entailment
+Omwana Sonja yatandika okugeegeenya ebigambo muwala we bye yayogeranga ng'anyiize.,Tewali muntu n'omu yali ayogera ng'ayomba ng'anyiize.,contradiction
+Omwana Sonja yatandika okugeegeenya ebigambo muwala we bye yayogeranga ng'anyiize.,Sonja mwana.,entailment
+Omwana Sonja yatandika okugeegeenya ebigambo muwala we bye yayogeranga ng'anyiize.,Sonja yali munyiivu.,neutral
+"Mu myaka ataano mu etaano egyavaako olutalo lw'omunda, kkooti obuyinza buno yabukozesa n'obwegendereza.","Kkooti yakozesanga obuyinza buno okumala emyaka n'emyaka, ekyavaako olutalo lw'omunda.",entailment
+"Mu myaka ataano mu etaano egyavaako olutalo lw'omunda, kkooti obuyinza buno yabukozesa n'obwegendereza.","Kkooti obuyinza buno yabukozesa emirundi 4 mu myaka ataano mu etaano, ekyavaako olutalo olw'omunda.",neutral
+"Mu myaka ataano mu etaano egyavaako olutalo lw'omunda, kkooti obuyinza buno yabukozesa n'obwegendereza.",Kkooti yakozesa obuyinza buno emirundi obukadde 5 mu myaka ataano mu etaano ekyavaako olutalo lw'omunda.,contradiction
+"Nkukakasa ssebo, nali nategeezebwako ku byonna.",Nkugamba nti nnaweebwa amagezi ku buli kintu.,entailment
+"Nkukakasa ssebo, nali nategeezebwako ku byonna.",Kufa kwa musirikale anoonyereza ku buzzi bw'emisango kwe nnamanyaako.,neutral
+"Nkukakasa ssebo, nali nategeezebwako ku byonna.",Ebintu bingi ebyankwekebwa.,contradiction
+Amaloboozi gaacankalanya Captain Blood n'ava mu birozoozo eby'okwennyika.,Captain Blood yasobola okulowooza ebirowoozo bye eby'ennaku nga tewali kimutaataaganyizza.,contradiction
+Amaloboozi gaacankalanya Captain Blood n'ava mu birozoozo eby'okwennyika.,Ebiroowozo bya Captain Blood byacankalanyizibwa ebireekaana.,entailment
+Amaloboozi gaacankalanya Captain Blood n'ava mu birozoozo eby'okwennyika.,Akabwa akato bwe kaawoggana kajja Captain mu birowoozo bye bye yaliko.,neutral
+"Naye siyinza kwerabira nti bwe nnali omuddu mu maka ga kkojjaawo e Barbados, wankozesanga n'omutima ogw'ekisa.",Wampisa mu ngeri ey'obuntubulamu bwe nnali omuddu mu Barbados.,entailment
+"Naye siyinza kwerabira nti bwe nnali omuddu mu maka ga kkojjaawo e Barbados, wankozesanga n'omutima ogw'ekisa.",Wali mukambwe nnyo gyendi era wampisa bubi nnyo.,contradiction
+"Naye siyinza kwerabira nti bwe nnali omuddu mu maka ga kkojjaawo e Barbados, wankozesanga n'omutima ogw'ekisa.",Kojjaawo yankubanga buli lunaku mu kaseera bwe yali akyanfuga.,neutral
+"Awo, obuwanvu tewasukka mayiro ssatu we waali ettaka  nga lyonna lijjudde kiragala mu bugwanjuba.",Mu maaso gange waaliwo ettaka eririko ebimera ebya kiragala omukwafu nga bijimu.,entailment
+"Awo, obuwanvu tewasukka mayiro ssatu we waali ettaka  nga lyonna lijjudde kiragala mu bugwanjuba.",Ekizinga kye baali boolekedde kyali tekiriiko bantu.,neutral
+"Awo, obuwanvu tewasukka mayiro ssatu we waali ettaka  nga lyonna lijjudde kiragala mu bugwanjuba.",Baali tebalaba ku ttaka okumala mayiro eziwerako wabula baali balaba nyanja etakoma.,contradiction
+Ndi musigire wa Kabaka ow'ebitundu bino eby'akanyamberege n'owa mukama wange  Sunderland okuliraana kinsman.,"Kabaka alina abasigire, era nze omu ku bo.",entailment
+Ndi musigire wa Kabaka ow'ebitundu bino eby'akanyamberege n'owa mukama wange  Sunderland okuliraana kinsman.,Kabaka yansindika wano ssabbiiti ewedde.,neutral
+Ndi musigire wa Kabaka ow'ebitundu bino eby'akanyamberege n'owa mukama wange  Sunderland okuliraana kinsman.,Ebiragiro sibiggya wa Kabaka.,contradiction
+"Nalina ebbanja lye--oba nnalowooza nkikoze, bwe yagamba.",Teyakirowoozako nti oba alina kyakubanja.,contradiction
+"Nalina ebbanja lye--oba nnalowooza nkikoze, bwe yagamba.",yalina ebbanja lyo olw'obuyambi bwewamuwa bweyali talinna ssente.,neutral
+"Nalina ebbanja lye--oba nnalowooza nkikoze, bwe yagamba.",Yalowooza olina ky'omubanja.,entailment
+Singa nnamanya okusinga okusemberera Jamaica mu kiro.,Nagenda okumpi ne Jamaica oluvanyuma lw'enjuba okugolooba.,entailment
+Singa nnamanya okusinga okusemberera Jamaica mu kiro.,Nagenda mu Jamaica nga nkozesa eryato bwaguuga.,neutral
+Singa nnamanya okusinga okusemberera Jamaica mu kiro.,Nze ne mukyala wange twagenda mu Jamaica misana ttuku.,contradiction
+Ebirowoozo bya Blood byali ku kino ne ku bintu ebirala nga agalamidde ku buliri emisana.,Blood yeebaka emisana n'aloota ebintu ebitategeerekeka. ,contradiction
+Ebirowoozo bya Blood byali ku kino ne ku bintu ebirala nga agalamidde ku buliri emisana.,Blood yalowooza nnyo bwe yali yeebase emisana.,entailment
+Ebirowoozo bya Blood byali ku kino ne ku bintu ebirala nga agalamidde ku buliri emisana.,Blood yali yeefumintiriza ku lwe yali yakoma okulaba ku nnyina.,neutral
+"Mazima, era njakuba nkubuulira.","Kaale, njakukikubuulirako.",entailment
+"Mazima, era njakuba nkubuulira.",Sijja kugamba kigambo kyonna.,contradiction
+"Mazima, era njakuba nkubuulira.",Kino kiri kiti lw'ansonga wansuubiza obutakiddamu kino ky'enkugamba.,neutral
+"Ah, era ekyo kiyinza kubeera mu ngeri etya?",Omuntu omu abuuza kubo ki ly'aba akwata.,entailment
+"Ah, era ekyo kiyinza kubeera mu ngeri etya?",Abuuza ali omu era talina muntu mulala yenna ow'okubuuza naye.,contradiction
+"Ah, era ekyo kiyinza kubeera mu ngeri etya?",Abuuza ali mu bwangu era yeetaaga okumanya mbagirawo ekkubo ery'okukwata.,neutral
+Kabaka okumpa obwami sikitwala ng'ekyomuzannyo.,Okukkiriza obwami bwa Kabaka kyawukana n'empisa zange.,neutral
+Kabaka okumpa obwami sikitwala ng'ekyomuzannyo.,Ng'aanye obwami Kabaka bw'abadde ampa.,entailment
+Kabaka okumpa obwami sikitwala ng'ekyomuzannyo.,Natadde omukono ku kiwandiiko Kabaka kwe yampeeredde Obwami awatali kukifunamu kirizwoozo kirala.,contradiction
+Yakizuula nti yalina okuwanika nti awanguddwa mu bwangu. ,Yakizuula nti yalina olunaku lulamba okuwanika nti awanguddwa.,contradiction
+Yakizuula nti yalina okuwanika nti awanguddwa mu bwangu. ,Yakizuula nti alina okutambula mu bwangu.,entailment
+Yakizuula nti yalina okuwanika nti awanguddwa mu bwangu. ,"Ssinga yasigala mu kifo ky'ekimu, baali bajja kumuzuula.",neutral
+Ate nga abadde ekyo ky'abadde era n'akola byonna by'akoze mu myaka esatu naye yakyogera munyiikaavu kati nga tataddeemu lwali lwonna.,Yali takyagala nti yali atemudde abasajja abawerako mu myaka esatu egiyise.,neutral
+Ate nga abadde ekyo ky'abadde era n'akola byonna by'akoze mu myaka esatu naye yakyogera munyiikaavu kati nga tataddeemu lwali lwonna.,Yamwogerako nga musanyusu ku birungi bye n'embeera ze ez'obunti,contradiction
+Ate nga abadde ekyo ky'abadde era n'akola byonna by'akoze mu myaka esatu naye yakyogera munyiikaavu kati nga tataddeemu lwali lwonna.,Yayogera mu ddoboozi ery'ennaku.,entailment
+Ndowooza nti ekyo kijja oluvannyuma lw'omusono gwo.,Nsuubira nti nti abalinga ggwe bwe bakola.,entailment
+Ndowooza nti ekyo kijja oluvannyuma lw'omusono gwo.,Nsomye ku bantu abalinga ggwe n'obuwangwa bwabwe.,neutral
+Ndowooza nti ekyo kijja oluvannyuma lw'omusono gwo.,Nkitwala nti kino tekirabikalabika mu bantu abalinga ggwe.,contradiction
+Yali alabika obutakkiriziganya n'abyali bigenda mu maaso.,Akamwenyumwenyu kaali ka mubuganye.,contradiction
+Yali alabika obutakkiriziganya n'abyali bigenda mu maaso.,Yali awulira obulwade mu lubuto.,neutral
+Yali alabika obutakkiriziganya n'abyali bigenda mu maaso.,Yalina obutali bumativu mu bwenyi bwe.,entailment
+"Yali amwekaliriza amaaso agatemagana naye oluvanyuma lw'okulaba obukkakamu n'engeri y'obutali bumativu eyasituza ebisigee bye, kyamuviirako okukyuka enneyisa ye.",Empulira ye yakyuka oluvanyuma lw'okulaba obwennyi bwe.,entailment
+"Yali amwekaliriza amaaso agatemagana naye oluvanyuma lw'okulaba obukkakamu n'engeri y'obutali bumativu eyasituza ebisigee bye, kyamuviirako okukyuka enneyisa ye.",Yatunula n'okukyamukirira oluvanyuma lw'okulaba obukakamu ku maaso ge.,contradiction
+"Yali amwekaliriza amaaso agatemagana naye oluvanyuma lw'okulaba obukkakamu n'engeri y'obutali bumativu eyasituza ebisigee bye, kyamuviirako okukyuka enneyisa ye.",Yali tamanyi oba yali amunyigidde.,neutral
+"Ng'atambula ng'atabiriiko, yayita mu gusenge  ogwali gusensebuddwa n'awaguliza mu ggeeti ya wankaaki n'atuuka mu luggya.","Olwokuba nga ggeeti ya wankaaki yali nzigale, yabuuka ekikomera n'agwa mu luggya.",contradiction
+"Ng'atambula ng'atabiriiko, yayita mu gusenge  ogwali gusensebuddwa n'awaguliza mu ggeeti ya wankaaki n'atuuka mu luggya.",Ggeeti ya wankaaki gwe gwali omulyangu gwokka ogwali gumu tuusa mu luggya.,neutral
+"Ng'atambula ng'atabiriiko, yayita mu gusenge  ogwali gusensebuddwa n'awaguliza mu ggeeti ya wankaaki n'atuuka mu luggya.",Awo waaliwo ggeeti ennene ezaali zimutuusa mu luggya.,entailment
+Yamugamba mu ngeri emuduulira nti ojja kujegeera ng'ogenda ku kalabba.,Yalowooza nti waliwo omuntu eyali agenda ku kalabba.,entailment
+Yamugamba mu ngeri emuduulira nti ojja kujegeera ng'ogenda ku kalabba.,Eyakwata omubbi yali sheriff.,neutral
+Yamugamba mu ngeri emuduulira nti ojja kujegeera ng'ogenda ku kalabba.,Yamukuba akaama ku ngeri y'okutoloka mu Ggwanga okwewala ekkomera.,contradiction
+Mu mazima nandi bakute ntya? kyali kikyawakanyizibwako.,Nali sisobola kwesowolayo okubakwata.,entailment
+Mu mazima nandi bakute ntya? kyali kikyawakanyizibwako.,N'abakwatirawo mu kaseera wennabalirako.,contradiction
+Mu mazima nandi bakute ntya? kyali kikyawakanyizibwako.,Nali sisobola kwesonyiwa singa nali mbakutte.,neutral
+Mbadde muyigga okuva omwaka oguwedde.,Mbadde mugoberera okumala omwaka nga ye tamanyi.,neutral
+Mbadde muyigga okuva omwaka oguwedde.,Mbadde mulinnya akagere wiiki numba,contradiction
+Mbadde muyigga okuva omwaka oguwedde.,Okumala omwaka gwonna oguwedde mbadde mmulondoola.,entailment
+Ekaddiyizo siryamanyi nnyo mu nkalala.,Ekkaddiyizo teryagala kuwandiikibwamu.,neutral
+Ekaddiyizo siryamanyi nnyo mu nkalala.,Ekkaddiyizo terinyumirwa kukozesa obutabo bw'ebifaananyi ebiranga.,entailment
+Ekaddiyizo siryamanyi nnyo mu nkalala.,Ekifo ekisinga obukulu mu kkaddiyizo we wabeera olukalala lw'ebiririmu.,contradiction
+Obutale bw'olukale n'abwo bumu ku bintu ebinyuvu okugulamu ebintu mu Beijing.,Beijing erina obutale obw'olukale obulimu amaduuka agakyamula.,entailment
+Obutale bw'olukale n'abwo bumu ku bintu ebinyuvu okugulamu ebintu mu Beijing.,Obutale bw'olukale mu Beijing bwe businga okuba obunyuvu mu nsi yonna.,neutral
+Obutale bw'olukale n'abwo bumu ku bintu ebinyuvu okugulamu ebintu mu Beijing.,Amateeka amakakali mu Beijing gakugira abutale obw'olukale okuliraana ekibuga.,contradiction
+Ekikono ky'ennyanja ekiyingira mu ttaka ly'olukalu kikola omwalo omulungi lwakuba amazzi gaakyo ne bbiici bibeera biddugala.,Amazzi ne bbiici bibeera biyonjo.,contradiction
+Ekikono ky'ennyanja ekiyingira mu ttaka ly'olukalu kikola omwalo omulungi lwakuba amazzi gaakyo ne bbiici bibeera biddugala.,Amazzi n'olubalama biyinza okubeera ebijama.,entailment
+Ekikono ky'ennyanja ekiyingira mu ttaka ly'olukalu kikola omwalo omulungi lwakuba amazzi gaakyo ne bbiici bibeera biddugala.,Amazzi gaba tegatukula olw'obugyama obusuulibwamu.,neutral
+Ebizimbe ebyo ebiwanvu ze bbanka era n'enguudo kwe biyimiridde zaakazibwako erinnya lya Milla de Oro oba Golden Mile.,Ku bizimbe ebiwanvu ennyo ebya Golden Mile tekuliiko kya bbanka.,contradiction
+Ebizimbe ebyo ebiwanvu ze bbanka era n'enguudo kwe biyimiridde zaakazibwako erinnya lya Milla de Oro oba Golden Mile.,Ebizimbe ebiwanvu ennyo ku Golden Mile bya bbanka.,entailment
+Ebizimbe ebyo ebiwanvu ze bbanka era n'enguudo kwe biyimiridde zaakazibwako erinnya lya Milla de Oro oba Golden Mile.,Ku bizimbe ebiwanvu ennyo ku Golden Mile kuliko bizinensi ez'enjawulo omuli ne bbanka.,neutral
+Okwenyigira mu Ssematalo owookubiri kwatandika n'enteekateeka y'okutendeka amawanga agaali amatwale ga Bungereza nga gakozesa obwengula bwa Canada obutaalimu bulabe okubangula abavuzi b'ennyonyi mu ngeri ey'okukozesaamu ennyonyi mu kulwana.,Canada yalina obwengula obutaliimu bulabe.,entailment
+Okwenyigira mu Ssematalo owookubiri kwatandika n'enteekateeka y'okutendeka amawanga agaali amatwale ga Bungereza nga gakozesa obwengula bwa Canada obutaalimu bulabe okubangula abavuzi b'ennyonyi mu ngeri ey'okukozesaamu ennyonyi mu kulwana.,Obwengula bwa Canada bwali tebukubwamu mizayiro.,neutral
+Okwenyigira mu Ssematalo owookubiri kwatandika n'enteekateeka y'okutendeka amawanga agaali amatwale ga Bungereza nga gakozesa obwengula bwa Canada obutaalimu bulabe okubangula abavuzi b'ennyonyi mu ngeri ey'okukozesaamu ennyonyi mu kulwana.,Obwengula bwa Canada bw'ali bwabulabe n'okusingawo.,contradiction
+Era basigala bagumiikiriza era nga bawa obuyambi eri buli omu newankubadde nga bakimanyi nti olubalama terukyali lwabwe ku bwabwe.,Bakaawu era bakambwe eri buli omu oluvannyuma lw'okukimanya nti balina be bagabana nabo olubalama.,contradiction
+Era basigala bagumiikiriza era nga bawa obuyambi eri buli omu newankubadde nga bakimanyi nti olubalama terukyali lwabwe ku bwabwe.,Kati balina okugabana olubalama n'abantu abalala.,entailment
+Era basigala bagumiikiriza era nga bawa obuyambi eri buli omu newankubadde nga bakimanyi nti olubalama terukyali lwabwe ku bwabwe.,Baalina obwannannyini ku ttaka eriweza mmayiro ebikumi bitaano ku lubalama.,neutral
+"Kublai Khan yazimba ekibuga kye ekikulu mu 1279 ku mbalama z'ennyanja Beihai ey'e Beijing, ebimu ku bimujjukirwako ku bukulembeze bwe gye bikyatimbiddwa okutuusa leero.",Kublai Khan yazimba ekibuga ekikulu ekya Taiwan.,contradiction
+"Kublai Khan yazimba ekibuga kye ekikulu mu 1279 ku mbalama z'ennyanja Beihai ey'e Beijing, ebimu ku bimujjukirwako ku bukulembeze bwe gye bikyatimbiddwa okutuusa leero.",Kublai Khan alina ebyomuwendo mu Beijing.,entailment
+"Kublai Khan yazimba ekibuga kye ekikulu mu 1279 ku mbalama z'ennyanja Beihai ey'e Beijing, ebimu ku bimujjukirwako ku bukulembeze bwe gye bikyatimbiddwa okutuusa leero.",Kublai Khan yali musajja aweebwa ennyo ekitiibwa.,neutral
+"Olw'okwanguyirwa okukwatagana n'Abangereza, amasomero g'ab'Enzikiriza y'Abapoto gokka ge gakkiriza abaana baabwe Abayudaaya abava mu bitundu by'Obuvanjuba bwa Bulaaya basumuka okugenda mu Westmount engagga oba okuddamu okusenguka okugenda e Toronto.",Abayudaaya abava mu bitundu by'Obuvanjuba bwa Bulaaya bakwatagana bulungi na buli muntu.,contradiction
+"Olw'okwanguyirwa okukwatagana n'Abangereza, amasomero g'ab'Enzikiriza y'Abapoto gokka ge gakkiriza abaana baabwe Abayudaaya abava mu bitundu by'Obuvanjuba bwa Bulaaya basumuka okugenda mu Westmount engagga oba okuddamu okusenguka okugenda e Toronto.",Abayudaaya tebaagalibwa bantu balala mu kitundu.,neutral
+"Olw'okwanguyirwa okukwatagana n'Abangereza, amasomero g'ab'Enzikiriza y'Abapoto gokka ge gakkiriza abaana baabwe Abayudaaya abava mu bitundu by'Obuvanjuba bwa Bulaaya basumuka okugenda mu Westmount engagga oba okuddamu okusenguka okugenda e Toronto.",Abayudaaya baayanguyirwa okukwatagana n'Abangereza.,entailment
+"Bwe kiba kisoboka, weeyigirize ebintu eby'enjawulo mu budde.","Teweenyigira nnyo mu nteekateeka mu budde obw'oluvannyuma, oyinza okwonoona essanyu.",contradiction
+"Bwe kiba kisoboka, weeyigirize ebintu eby'enjawulo mu budde.",Gezaako okuteegera enteekateeka mu budde bw'oba osobola.,entailment
+"Bwe kiba kisoboka, weeyigirize ebintu eby'enjawulo mu budde.",Ojja kwanguyirwa ekibiina singa otegeera olugero lw'akatabo.,neutral
+"Entaana ze, zikka mmita 27 (ffuuti 88) wansi, zazimbibwa n'amayinja aganyirira n'ekisaanikira 1,200 sq m (13,000 sq ft) ",Yaziikibwa mu buwanvu obusoba mu mmita 20 wansi mu ttaka.,entailment
+"Entaana ze, zikka mmita 27 (ffuuti 88) wansi, zazimbibwa n'amayinja aganyirira n'ekisaanikira 1,200 sq m (13,000 sq ft) ",Yali wa muntu amanyiddwa era nga wa mugaso.,neutral
+"Entaana ze, zikka mmita 27 (ffuuti 88) wansi, zazimbibwa n'amayinja aganyirira n'ekisaanikira 1,200 sq m (13,000 sq ft) ",Ebisenge mwe yaziikibwa byakolebwa mu mbaawo.,contradiction
+Jjukira okukweka ebintu ebitonotono ebiterekeka enkima zireme kubituukako.,Kweka ebintu byo enkima zireme kubituukako.,entailment
+Jjukira okukweka ebintu ebitonotono ebiterekeka enkima zireme kubituukako.,"Ekima zaagala nnyo ebintu bingi, omuli ne by'olina.",neutral
+Jjukira okukweka ebintu ebitonotono ebiterekeka enkima zireme kubituukako.,Teweetaaga kukweka bintu byo okuva eri ekima.,contradiction
+"Emyaka nga 1,400 ng'olubiri lw'e Estei terunnazimbibwa, Milreu ye yali ennyumba y'omu kyalo ennene ey'omuntu ow'ekitiibwa.",Milreu yali yeesudde mayiro 10 okuva ku buli kintu.,neutral
+"Emyaka nga 1,400 ng'olubiri lw'e Estei terunnazimbibwa, Milreu ye yali ennyumba y'omu kyalo ennene ey'omuntu ow'ekitiibwa.",Milreu yali mu bitundu ebyesudde ekibuga.,entailment
+"Emyaka nga 1,400 ng'olubiri lw'e Estei terunnazimbibwa, Milreu ye yali ennyumba y'omu kyalo ennene ey'omuntu ow'ekitiibwa.",Milreu yali mu kibuga wakati.,contradiction
+Ebbugumu ly'amazzi ga ssemayanja libeera wakati wa 18e ne 24e C (64-75e F),Ebbugumu ly'amazzi ga ssemayanja libeera likyukakyuka naye terikka wansi nnyo kutuuka ku mazzi we gakwatira bbalaafu.,entailment
+Ebbugumu ly'amazzi ga ssemayanja libeera wakati wa 18e ne 24e C (64-75e F),Ebbugumu ly'amazzi ga ssemayanja libeera mu ngeri y'emu okutuusa okumalako omwaka.,contradiction
+Ebbugumu ly'amazzi ga ssemayanja libeera wakati wa 18e ne 24e C (64-75e F),"Ebbugumu ly'amazzi ga ssemayanja libeera wagguluko emisana, nga obudde bwa kibuguumirize.",neutral
+Ekkuumiro ly'ebisolo erya Kinabalu national Park  lye limu ku ago omukaaga ebikuumibwa mu ggwanga.,Ekkuumiro ly'ebisolo erya Kinabalu lirina enjovu kkumi n'enkula mukaaga.,neutral
+Ekkuumiro ly'ebisolo erya Kinabalu national Park  lye limu ku ago omukaaga ebikuumibwa mu ggwanga.,Eggwanga lirina ebitundu ebikuumibwa nga mwe muli n'ekkuumiro ly'ebisolo erya Kinabalu national park.,entailment
+Ekkuumiro ly'ebisolo erya Kinabalu national Park  lye limu ku ago omukaaga ebikuumibwa mu ggwanga.,Waliwo omugatte gwa bitundu bisatu ebikuumibwa mu ggwanga.,contradiction
+Ojja kulaba obutambi bw'ebifaananyi obw'olugero lwa Anne n'obw'ekibuga Amsterdam bwe kyali kikyali wansi w'abafuzi b'amatwale awamu n'ebifaananyi ssaako ebyakozesebwanga eby'edda mu budde obwo.,Tojja kulaba bifaananyi.,contradiction
+Ojja kulaba obutambi bw'ebifaananyi obw'olugero lwa Anne n'obw'ekibuga Amsterdam bwe kyali kikyali wansi w'abafuzi b'amatwale awamu n'ebifaananyi ssaako ebyakozesebwanga eby'edda mu budde obwo.,Ojja kulaba ebifaananyi.,entailment
+Ojja kulaba obutambi bw'ebifaananyi obw'olugero lwa Anne n'obw'ekibuga Amsterdam bwe kyali kikyali wansi w'abafuzi b'amatwale awamu n'ebifaananyi ssaako ebyakozesebwanga eby'edda mu budde obwo.,Ojjja kulaba ebimu ku bifaananyi ebisooka.,neutral
+Treasure Beach kye kifo kyokka eky'oku nnyanja ekiwummulirwamu eky'okwogerako wamu ne ziwooteeri entonotono ezisaasaanidde ku mbalama essatu.,Abagenda ku Treasure Beach baba ne wooteeri ntono nnyo ez'okwerobozaako.,entailment
+Treasure Beach kye kifo kyokka eky'oku nnyanja ekiwummulirwamu eky'okwogerako wamu ne ziwooteeri entonotono ezisaasaanidde ku mbalama essatu.,Waliwo wooteeri emu yokka eri ku mutendera gwa Four Star Hotel abalambuzi mwe basobola okusula bwe babeera nga bakyadde ku Treasure Beach.,neutral
+Treasure Beach kye kifo kyokka eky'oku nnyanja ekiwummulirwamu eky'okwogerako wamu ne ziwooteeri entonotono ezisaasaanidde ku mbalama essatu.,Treasure Beach y'emu ku bifo ebingi eby'oku nnyanja ebiwummulirwamu mu kitundu.,contradiction
+"Ekiseera ky'omusana kireeta embeera y'obudde ebuguma (naye si eyokya) n'okubugumya amazzi ga ssemayanja, ekibufuula obulungi mu kubbira, okuwuga n'emizannyo gy'oku mazzi emirala. ",Ebbugumu lyambuka okutuuka ku ddiguli 100 mu biseera by'omusana.,contradiction
+"Ekiseera ky'omusana kireeta embeera y'obudde ebuguma (naye si eyokya) n'okubugumya amazzi ga ssemayanja, ekibufuula obulungi mu kubbira, okuwuga n'emizannyo gy'oku mazzi emirala. ",Ebbugumu litera kubeera 75 mu biseera by'omusana.,neutral
+"Ekiseera ky'omusana kireeta embeera y'obudde ebuguma (naye si eyokya) n'okubugumya amazzi ga ssemayanja, ekibufuula obulungi mu kubbira, okuwuga n'emizannyo gy'oku mazzi emirala. ",Obudde bubeera bwa kibuguumirize mu biseera by'omusana.,entailment
+"Ekimu ku bidiba ky'ekyo ekibeerako Abalambuzi abakasuka ebinusu n'esuubi nti singa kigwa ku mutwe gw'enfudu, kikakasibwa nti obeera ogenda kufuna omikisa.",Abantu tebakasukamu ssente kubanga kitegeeza bisiraani.,contradiction
+"Ekimu ku bidiba ky'ekyo ekibeerako Abalambuzi abakasuka ebinusu n'esuubi nti singa kigwa ku mutwe gw'enfudu, kikakasibwa nti obeera ogenda kufuna omikisa.",Abantu basuula ebinusu ne bwe kiba ng'oludda olulabise si lwe luwa emikisa.,neutral
+"Ekimu ku bidiba ky'ekyo ekibeerako Abalambuzi abakasuka ebinusu n'esuubi nti singa kigwa ku mutwe gw'enfudu, kikakasibwa nti obeera ogenda kufuna omikisa.",Abantu basuula ebinusu mu mazzi.,entailment
+Ekibuga ky'oku mwalo ekya Nafplio kye kituufu okutuukamu ng'olambula ekifo kino oba oyinza okugamba nti kye kituufu okulyamu ekyemisana ng'oli mu kulambula kwo.,Nafplio kirungi okusinziirwamu okulaba ebintu eby'enjawulo.,neutral
+Ekibuga ky'oku mwalo ekya Nafplio kye kituufu okutuukamu ng'olambula ekifo kino oba oyinza okugamba nti kye kituufu okulyamu ekyemisana ng'oli mu kulambula kwo.,Nafplio kifo kibi.,contradiction
+Ekibuga ky'oku mwalo ekya Nafplio kye kituufu okutuukamu ng'olambula ekifo kino oba oyinza okugamba nti kye kituufu okulyamu ekyemisana ng'oli mu kulambula kwo.,Nafplio kifo ekisinga okuba ekirungi.,entailment
+"Mu kitundu kya Prinsengracht, Otto Frank ne famire ye mwe beekweka okumala emyaka ebiri nga tebazuulwanga.",Otto Frank yakwatibwa ku lunaku olwokubiri.,contradiction
+"Mu kitundu kya Prinsengracht, Otto Frank ne famire ye mwe beekweka okumala emyaka ebiri nga tebazuulwanga.",Otto Frank yeekweka okumala emyezi 25. ,entailment
+"Mu kitundu kya Prinsengracht, Otto Frank ne famire ye mwe beekweka okumala emyaka ebiri nga tebazuulwanga.",Otto Frank yeekweka okutuusa aba Nazi lwe baamuzuula.,neutral
+Gavumenti nnyingi ezaawakati n'ezeebitundu zirina ebyetaago by'obubalirizi obw'ennyongereza.,Gavumenti ezeebitundu zikola amateeka agaazo.,neutral
+Gavumenti nnyingi ezaawakati n'ezeebitundu zirina ebyetaago by'obubalirizi obw'ennyongereza.,Gavumenti ezeebitundu tezirina byetaago.,contradiction
+Gavumenti nnyingi ezaawakati n'ezeebitundu zirina ebyetaago by'obubalirizi obw'ennyongereza.,Waliwo ensonga z'ebyetaago by'obubalirizi obw'ennyongereza ebiteekebwawo gavumenti ezeebitundu.,entailment
+Ekitongole ekikwata ku kuzibira obubaka kyetaba mu ntuula eziri wakati w'omunaana n'ekkumi n'ebbiri omwezi. ,Ekitongole ky'ebyokwerinda ekinene ennyo kyetaba mu ntuula eziri mu 9 omwezi. ,neutral
+Ekitongole ekikwata ku kuzibira obubaka kyetaba mu ntuula eziri wakati w'omunaana n'ekkumi n'ebbiri omwezi. ,Ekitongole ky'ebyokwerinda kibaayo n'olutuula buli lunaku mu omwezi. ,contradiction
+Ekitongole ekikwata ku kuzibira obubaka kyetaba mu ntuula eziri wakati w'omunaana n'ekkumi n'ebbiri omwezi. ,Ekitongole ky'ebyokwerinda kibeera n'entuula ez'enjawulo mu mwaka.,entailment
+"Wabula, obwayinginiya obusookerwako bwamalirizibwa gye buvuddeko.",Obwayinginya bwalina ekiseera ekisookerwako.,entailment
+"Wabula, obwayinginiya obusookerwako bwamalirizibwa gye buvuddeko.",Obwayinginiya bwaliwo ku mutendera ogusemba kwokka. ,contradiction
+"Wabula, obwayinginiya obusookerwako bwamalirizibwa gye buvuddeko.","Awatali mutendera nnakasooka, obwayinginiya bulabika nga bujja kugaana ku mitendera egiddirira. ",neutral
+"N'ekivuddemu, abakola okusalawo mu gavumenti wamu ne bammaneja bajunjizzaawo engeri empya ez'okulowoozaamu, nga beesigama ku ngeri ez'enjawulo ez'okutuukamu ku biruubirirwa, wamu n'okukozesa obubaka obuggya okulungamya ensalawo yaabwe. ",Abakiise ba gavumenti bali mu kukyusa nkola yaabwe.,entailment
+"N'ekivuddemu, abakola okusalawo mu gavumenti wamu ne bammaneja bajunjizzaawo engeri empya ez'okulowoozaamu, nga beesigama ku ngeri ez'enjawulo ez'okutuukamu ku biruubirirwa, wamu n'okukozesa obubaka obuggya okulungamya ensalawo yaabwe. ",Abakiise ba gavumenti bagezaako okwongera ku maanyi gaabwe nga balowooza mu ngeri ey'enjawulo.,neutral
+"N'ekivuddemu, abakola okusalawo mu gavumenti wamu ne bammaneja bajunjizzaawo engeri empya ez'okulowoozaamu, nga beesigama ku ngeri ez'enjawulo ez'okutuukamu ku biruubirirwa, wamu n'okukozesa obubaka obuggya okulungamya ensalawo yaabwe. ",Abakiise ba gavumenti bagaana okukyusa embeera zaabwe ez'obulamu.,contradiction
+Fayiro z'emisango zeetaaga okukyusibwa ku lw'abatuusibwako obuweereza abasobola okusoma ennimi ezitali Lungereza. ,Fayiro z'emisango zikkirizibwa kubeera mu Lungereza mwokka. ,contradiction
+Fayiro z'emisango zeetaaga okukyusibwa ku lw'abatuusibwako obuweereza abasobola okusoma ennimi ezitali Lungereza. ,"Fayiro z'emisango zisobola okubeera mu Luchina oba Olurussia. 
+",neutral
+Fayiro z'emisango zeetaaga okukyusibwa ku lw'abatuusibwako obuweereza abasobola okusoma ennimi ezitali Lungereza. ,Fayiro z'emisango zisobola okuteekebwa mu nnimi endala.,entailment
+Ebyokufubako ebirala ebiri mu kukolebwako oba ebiteekebwateekebwa kuliko,Ebyokufubako byaffe ebisinga obungi biri mu kutambuzibwa.,neutral
+Ebyokufubako ebirala ebiri mu kukolebwako oba ebiteekebwateekebwa kuliko,"Tetulina kintu kirala kyonna kye tutegekedde biseera bya mu maaso. 
+",contradiction
+Ebyokufubako ebirala ebiri mu kukolebwako oba ebiteekebwateekebwa kuliko,Tulina kye tutegeseewo.,entailment
+"Mulimu ensonga nga obudde obulambikiddwa okuba obutono, okusiimuula fayiro za kompyuta nnansangwa, n'obutaba na busobozi kufuna biwandiiko byetaagisa. ",Fayiro za kompyuta baazisiimuulamu mu IBM.,neutral
+"Mulimu ensonga nga obudde obulambikiddwa okuba obutono, okusiimuula fayiro za kompyuta nnansangwa, n'obutaba na busobozi kufuna biwandiiko byetaagisa. ",Fayiro zinnansangwa baazisiimuulamu mu kompyuta. ,entailment
+"Mulimu ensonga nga obudde obulambikiddwa okuba obutono, okusiimuula fayiro za kompyuta nnansangwa, n'obutaba na busobozi kufuna biwandiiko byetaagisa. ",Fayiro zonna nnansangwa baazikuuma.,contradiction
+"Olwo, omukiise y'omu eyakyala ogwasooka addamu okukyalira omugabi omuggya okuddamu ebibuuzo n'okukubaganya ebirowoozo ku bizibu byonna ebikoonebwako mu sampolo y'ebigereesebwa.",Omukiise yakyala okumala essaawa emu.,neutral
+"Olwo, omukiise y'omu eyakyala ogwasooka addamu okukyalira omugabi omuggya okuddamu ebibuuzo n'okukubaganya ebirowoozo ku bizibu byonna ebikoonebwako mu sampolo y'ebigereesebwa.",Waaliwo olukyalo lw'omukiise.,entailment
+"Olwo, omukiise y'omu eyakyala ogwasooka addamu okukyalira omugabi omuggya okuddamu ebibuuzo n'okukubaganya ebirowoozo ku bizibu byonna ebikoonebwako mu sampolo y'ebigereesebwa.",Tetufunangako lukyalo.,contradiction
+"Okutereka si kwe kwokka okufuga obungi bw'obugagga, naye n'obugagga nabwo era mu ngeri y'emu bufuga okusalawo okukolebwa mu kutereka. ",Okusalawo kw'omuntu okutereka oba nedda kwesigama ku bugagga bw'alina. ,entailment
+"Okutereka si kwe kwokka okufuga obungi bw'obugagga, naye n'obugagga nabwo era mu ngeri y'emu bufuga okusalawo okukolebwa mu kutereka. ","Obugagga n'okutereka mu mbeera eya bulijjo tebirina we bikwataganira. 
+",contradiction
+"Okutereka si kwe kwokka okufuga obungi bw'obugagga, naye n'obugagga nabwo era mu ngeri y'emu bufuga okusalawo okukolebwa mu kutereka. ",Abantu abagagga balabika okuba n'omukisa omuneneko okutereka ekitundu ekineneko eky'ennyingiza yaabwe.,neutral
+"Okugeza, ekitongole ekimu kye twanoonyerezaako kyafuna obwegassi bwa mirundi ebiri obwali bwetaagisa kampuni okwegatta mu bwangu okusobola okuddukanya bizinensi empya wamu n'okuddamu okwezimba obuggya okutuukiriza ebyetaago bya bizinensi ekula. ","Newankubadde nga waaliwo obwegassi bwa mirundi ebiri, tewaaliwo bwetaavu bwa kampuni kuddamu kuzimba bukulembeze bwa kampuni yaabwe. ",contradiction
+"Okugeza, ekitongole ekimu kye twanoonyerezaako kyafuna obwegassi bwa mirundi ebiri obwali bwetaagisa kampuni okwegatta mu bwangu okusobola okuddukanya bizinensi empya wamu n'okuddamu okwezimba obuggya okutuukiriza ebyetaago bya bizinensi ekula. ",Okugatta kampuni ebbiri okuzifuula ekitongole ekimu wamu n'okuddamu okwezimba obuggya byavaamu embeera ekolerwamu ey'obutabanguko. ,neutral
+"Okugeza, ekitongole ekimu kye twanoonyerezaako kyafuna obwegassi bwa mirundi ebiri obwali bwetaagisa kampuni okwegatta mu bwangu okusobola okuddukanya bizinensi empya wamu n'okuddamu okwezimba obuggya okutuukiriza ebyetaago bya bizinensi ekula. ",Twekebejja kampuni eyayita mu bwegassi obw'emirundi ebiri era nga yalina okwezimba obuggya mu bwangu okutuukiriza ebyetaago bya bizinensi yaabwe. ,entailment
+"Mu nsona yaffe, twali beeraliikirivu nti okusasulwa kwali kugenda kuyisibwa nga tekinnakakasibwa oba ng'olugendo ddala lwaliwo. ",Twakimanya nti okusasula kujja kukulungula ebbanga eriwera.,contradiction
+"Mu nsona yaffe, twali beeraliikirivu nti okusasulwa kwali kugenda kuyisibwa nga tekinnakakasibwa oba ng'olugendo ddala lwaliwo. ",Twalowooza okusasula kuyinza okuyitamu ng'okukakasibwa tekunnaba.,entailment
+"Mu nsona yaffe, twali beeraliikirivu nti okusasulwa kwali kugenda kuyisibwa nga tekinnakakasibwa oba ng'olugendo ddala lwaliwo. ",Twalowooza nti okusasula kuyinza okuyitamu mu bwangu ennyo ne tuferebwa. ,neutral
+Tekinologiya ayingidde nnyo mu nzirukanya ya bizinensi mu bitongole bino kubanga tekinologiya alabibwanga ekisobozesa bizinensi sso si ekikozeso.,Tekinologiya wa kompyuta akozesebwa mu kuteekerateekera ebitongole y'omu ku bizinensi za tekinologiya ez'okutunuuliza obwanga. ,neutral
+Tekinologiya ayingidde nnyo mu nzirukanya ya bizinensi mu bitongole bino kubanga tekinologiya alabibwanga ekisobozesa bizinensi sso si ekikozeso.,Tekinologiya kikozeso bukozeso sso si kintu ekisobozesa bizinensi,contradiction
+Tekinologiya ayingidde nnyo mu nzirukanya ya bizinensi mu bitongole bino kubanga tekinologiya alabibwanga ekisobozesa bizinensi sso si ekikozeso.,Bizinensi zino ziteeka essira eryamaanyi ku tekinologiya. ,entailment
+Ebitegeezi bibiri ebitera okulabikira mu biwandiiko biyinza okubeera eby'omugaso mu kusalawo ku kunoonyereza okw'ebiseera by'omu maaso. ,Ebiwandiiko bisobola okukyusa engeri gye tukeberamu sampolo.,neutral
+Ebitegeezi bibiri ebitera okulabikira mu biwandiiko biyinza okubeera eby'omugaso mu kusalawo ku kunoonyereza okw'ebiseera by'omu maaso. ,Ebiwandiiko bisobola okukyusa okunoonyereza mu biseera by'omu maaso.,entailment
+Ebitegeezi bibiri ebitera okulabikira mu biwandiiko biyinza okubeera eby'omugaso mu kusalawo ku kunoonyereza okw'ebiseera by'omu maaso. ,Tewali kirala kisobola kukolebwa ku kikwatagana n'okukyusa okunoonyereza. ,contradiction
+Ennyiriri ezirimu obubookisi ziraga omutendera gw'embeera y'ebisaabalizo by'ebitereke byonna awamu era n'ennyiriri ezirimu ddayamandi ziraga okufiirizibwa okw'ekikugu (singa kuba nga kukosa) okuvudde mu kusengula omulimu okuguzza mu kibiina ekirala. ,Ennyiriri ziraga nti embeera z'ebisaabalizo by'ebitereke eri ebitundu 10%,neutral
+Ennyiriri ezirimu obubookisi ziraga omutendera gw'embeera y'ebisaabalizo by'ebitereke byonna awamu era n'ennyiriri ezirimu ddayamandi ziraga okufiirizibwa okw'ekikugu (singa kuba nga kukosa) okuvudde mu kusengula omulimu okuguzza mu kibiina ekirala. ,Ennyiriri teziraga kintu kirala kyonna okuggyako omukutu oguyitibwamu.,contradiction
+Ennyiriri ezirimu obubookisi ziraga omutendera gw'embeera y'ebisaabalizo by'ebitereke byonna awamu era n'ennyiriri ezirimu ddayamandi ziraga okufiirizibwa okw'ekikugu (singa kuba nga kukosa) okuvudde mu kusengula omulimu okuguzza mu kibiina ekirala. ,Ennyiriri ziraga omuwendo gw'embeera y'ebisaabalizo by'ebitereke byonna.,entailment
+"Okusinziira ku ngerangeranya y'obuzibu, Centrelink yagezaako okutema empenda ez'enjawulo ez'okutangira obuzibu ezigendererwamu okusomesa abaganyulwamu wamu n'abakozesa ku byetaago by'endaga y'ennyingiza .",Centrelink yali temanyi ngeri ya kumulungulamu kizibu.,contradiction
+"Okusinziira ku ngerangeranya y'obuzibu, Centrelink yagezaako okutema empenda ez'enjawulo ez'okutangira obuzibu ezigendererwamu okusomesa abaganyulwamu wamu n'abakozesa ku byetaago by'endaga y'ennyingiza .",Centrelink yalina empenda eziwerako mwe yalina okuyita okusomesa abantu engeri y'okulagamu ennyingiza kubanga gavumenti yali efiirwa ensimbi nnyingi mu nsobi. ,neutral
+"Okusinziira ku ngerangeranya y'obuzibu, Centrelink yagezaako okutema empenda ez'enjawulo ez'okutangira obuzibu ezigendererwamu okusomesa abaganyulwamu wamu n'abakozesa ku byetaago by'endaga y'ennyingiza .",Centrelink yalina empenda eziwerako mwe yalina okuyitamu okusomesa abantu ku ngeri y'okulagamu ennyingiza.,entailment
+Kino kyawa omwagaanya gw'okwolesa ensona ng'amakampuni tegannaba kwongera kwenyigira mu busizi bwa nsimbi obw'obuwanana okukola ebyuma ebikozesebwa wamu n'okuteekawo ebikozesebwa mu kufulumya ebinaagezesebwako ku omutendera gw'okwolesa. ,Baali basobola okulaga engeri omuluko bwe gwakola. ,entailment
+Kino kyawa omwagaanya gw'okwolesa ensona ng'amakampuni tegannaba kwongera kwenyigira mu busizi bwa nsimbi obw'obuwanana okukola ebyuma ebikozesebwa wamu n'okuteekawo ebikozesebwa mu kufulumya ebinaagezesebwako ku omutendera gw'okwolesa. ,Baali basobola okulaga kampuni nti teyali ngezi kimala kuzimba makolero mapya. ,neutral
+Kino kyawa omwagaanya gw'okwolesa ensona ng'amakampuni tegannaba kwongera kwenyigira mu busizi bwa nsimbi obw'obuwanana okukola ebyuma ebikozesebwa wamu n'okuteekawo ebikozesebwa mu kufulumya ebinaagezesebwako ku omutendera gw'okwolesa. ,Baali tebalina kirowoozo ku ngeri ya kwolesaamu nkyukakyuka evudde mu kusiga nsimbi.,contradiction
+Okufuba kwa South California okw'awamu kwavaamu obuwanguzi obulala omwaka ogwaddako. ,Tewali muntu yenna mu South California eyali akolera awamu n'omulala. ,contradiction
+Okufuba kwa South California okw'awamu kwavaamu obuwanguzi obulala omwaka ogwaddako. ,SC yakolera wamu.,entailment
+Okufuba kwa South California okw'awamu kwavaamu obuwanguzi obulala omwaka ogwaddako. ,Bannademokulati ne bannalipaabulikaani mu South California bakolera wamu. ,neutral
+"Okusinziira ku mukungu atuula ku kakiiko akakulembeze, ennyingo y'akakiiko akakulembeze eya 605(b) amabaluwa agakakasa tegaaweebwayo nga gaawuddwa eri Munnamateeka Omukulu ow'ekitongole kya Small Business Admnistration (SBA) ekivunaanyizibwa ku kukwataganya bannabizinensi entono n'ebitongole ebiwozi by'ensimbi.  ",Olukiiko olufuzi terwagaba mabaluwa ga SBA agakakasa era ekyo baakirekera woofiisi evunaanyizibwa ku kugereka emisolo ku bintu ebikalu.,neutral
+"Okusinziira ku mukungu atuula ku kakiiko akakulembeze, ennyingo y'akakiiko akakulembeze eya 605(b) amabaluwa agakakasa tegaaweebwayo nga gaawuddwa eri Munnamateeka Omukulu ow'ekitongole kya Small Business Admnistration (SBA) ekivunaanyizibwa ku kukwataganya bannabizinensi entono n'ebitongole ebiwozi by'ensimbi.  ",Olukiiko olufuzi terwagaba mabaluwa ga SBA agakakasa. ,entailment
+"Okusinziira ku mukungu atuula ku kakiiko akakulembeze, ennyingo y'akakiiko akakulembeze eya 605(b) amabaluwa agakakasa tegaaweebwayo nga gaawuddwa eri Munnamateeka Omukulu ow'ekitongole kya Small Business Admnistration (SBA) ekivunaanyizibwa ku kukwataganya bannabizinensi entono n'ebitongole ebiwozi by'ensimbi.  ",Olukiiko olufuzi amabaluwa ga SBA agakakasa lwagagabanga buli lunaku eri oyo yenna eyagisabanga.  ,contradiction
+"Okukwatagana wakati w'ebisale bya wooteeri n'ebintu ebirala, okukakasa kw'olugendo olwaddala kujja kukolebwa. ",Amakampuni agasinga obungi mu ggwanga agaddukanya ziwooteeri gakkiriza okusasula okuyita ku kkaadi za bbanka ezifunirwako ensimbi.,neutral
+"Okukwatagana wakati w'ebisale bya wooteeri n'ebintu ebirala, okukakasa kw'olugendo olwaddala kujja kukolebwa. ",Olugendo lwennyini lujja kukakasibwa nga bakozesa ebisale bya wooteeri. ,entailment
+"Okukwatagana wakati w'ebisale bya wooteeri n'ebintu ebirala, okukakasa kw'olugendo olwaddala kujja kukolebwa. ",Tewaliiwo ngeri ya kumanyaamu oba olugendo lwaliwo oba nedda. ,contradiction
+"Okugeza, ekibuga ky'eggwanga erimu kye twakyalira maka g'amakampuni ga tekinologiya wa kompyuta gbasoba mu 600. ",Ebibuga by'amawanga ebikulu bye bifo ebisinga obulungi okuteekamu kampuni za tekinologiya wa kompyuta. ,neutral
+"Okugeza, ekibuga ky'eggwanga erimu kye twakyalira maka g'amakampuni ga tekinologiya wa kompyuta gbasoba mu 600. ",Ekibuga ky'eggwanga ekikulu ekimi kirimu nkumi na nkumi za kampuni za tekinologiya wa kompyuta. ,entailment
+"Okugeza, ekibuga ky'eggwanga erimu kye twakyalira maka g'amakampuni ga tekinologiya wa kompyuta gbasoba mu 600. ",Kampuni za tekinologiya wa kompyuta zeewala okubeera mu bibuga by'eggwanga ebikulu olw'ensonga z'ekinnamateeka. ,contradiction
+"Mu kupima enkola etuukana n'omutindo, obutuukirivu tebusoboka kutuukibwako.",Osobola okubeera ng'otuukiridde singa ogezaako nnyo.,contradiction
+"Mu kupima enkola etuukana n'omutindo, obutuukirivu tebusoboka kutuukibwako.","Tosobola kutuukirira mu buli kimu.
+",entailment
+"Mu kupima enkola etuukana n'omutindo, obutuukirivu tebusoboka kutuukibwako.","Tosobola kuba ng'otuukiridde mu buli kimu kubanga ffenna tuli bantu abalina ensobi empitirivu. 
+",neutral
+Eyali abeera mu nnyumba eyapangisa ekisenge eri Hazmi ne Mihdhar mu mwaka gwa 2000 kirabika nga mutuuze agondera amateeka era ng'alina enkwatagana emaze ebbanga eddene wakati we ne poliisi y'omu kitundu wamu n'abakozi mu kitongole kya FBI. ,Hazmi ne Mihdhar baagula amaka era nga beesaze ku buli muntu.,contradiction
+Eyali abeera mu nnyumba eyapangisa ekisenge eri Hazmi ne Mihdhar mu mwaka gwa 2000 kirabika nga mutuuze agondera amateeka era ng'alina enkwatagana emaze ebbanga eddene wakati we ne poliisi y'omu kitundu wamu n'abakozi mu kitongole kya FBI. ,Hazmi ne Mihdhar baapangisa ekisenge okumala omwaka mulamba nga bakisasulira $500 buli lunaku.,neutral
+Eyali abeera mu nnyumba eyapangisa ekisenge eri Hazmi ne Mihdhar mu mwaka gwa 2000 kirabika nga mutuuze agondera amateeka era ng'alina enkwatagana emaze ebbanga eddene wakati we ne poliisi y'omu kitundu wamu n'abakozi mu kitongole kya FBI. ,Hazmi ne Mihdhar baapangisa ekisenge.,entailment
+"Ku lugendo lwabwe okugenda e Bosnia, laba alippota y'obukessi, okusoyebwa kwa mmemba wa Saudi al Qaeda kojojijjoji w'ebibuuzo nga 3 Ogwekkumi 2001. ",Mmemba wa al Qaeda yagenda mu Bosnia emirundi 18 mu 2001.,neutral
+"Ku lugendo lwabwe okugenda e Bosnia, laba alippota y'obukessi, okusoyebwa kwa mmemba wa Saudi al Qaeda kojojijjoji w'ebibuuzo nga 3 Ogwekkumi 2001. ",Mmemba wa al Qaeda yagenda mu Bosnia.,entailment
+"Ku lugendo lwabwe okugenda e Bosnia, laba alippota y'obukessi, okusoyebwa kwa mmemba wa Saudi al Qaeda kojojijjoji w'ebibuuzo nga 3 Ogwekkumi 2001. ",Tewaaliwo bujulizi bwa mmemba wa al Qaeda kugenda mu Bosnia.,contradiction
+Jane yasaba omukozi wa New York eyaweebwa omulimu gw'okunoonya Mihdhar okuteeka omukono ku foomu ya FISA y'okukakasa eraga nti omukozi yali ategedde engeri y'okukwatamu obubaka bwa FISA. ,Jane yasaba foomu y'okukakasa eya FISA omulamuzi w'ettwale agisseeko omukono . .,neutral
+Jane yasaba omukozi wa New York eyaweebwa omulimu gw'okunoonya Mihdhar okuteeka omukono ku foomu ya FISA y'okukakasa eraga nti omukozi yali ategedde engeri y'okukwatamu obubaka bwa FISA. ,Jane yasaba foomu y'okukakasa okuva mu FISA eteekebweko omukono.,entailment
+Jane yasaba omukozi wa New York eyaweebwa omulimu gw'okunoonya Mihdhar okuteeka omukono ku foomu ya FISA y'okukakasa eraga nti omukozi yali ategedde engeri y'okukwatamu obubaka bwa FISA. ,Jane yagamba nti okukakasibwa kwa FISA kwali kwetaagisa.,contradiction
+Tewali kintu kyonna kituukira ku omu ku bo okusinziira ku mutendera gw'ebyokwerinda gwokka ogwali gukwata obutereevu ku kifo kyennyini awakebererwa. ,Obujulizi obusamaaliriza bwavumbulwa mu kukebera okwali ku kifo kkeberero.. ,contradiction
+Tewali kintu kyonna kituukira ku omu ku bo okusinziira ku mutendera gw'ebyokwerinda gwokka ogwali gukwata obutereevu ku kifo kyennyini awakebererwa. ,Enkebera ezibeera ku makeberero zeesigama butereevu ku ndowooza y'omukozi akola ku kusolooza emisolo abeera ali mu kukebera. ,neutral
+Tewali kintu kyonna kituukira ku omu ku bo okusinziira ku mutendera gw'ebyokwerinda gwokka ogwali gukwata obutereevu ku kifo kyennyini awakebererwa. ,Okukebera kw'oku makeberero tekwasobola kuzuula bujulizi bwonna bumuluma. ,entailment
+Khallad awadde empoza eyookubiri eraga nti bonsatule baatambula bonna okugenda e Karachi. ,Khallad yagamba nti talina ky'abanyi ku bo bonsatule.,contradiction
+Khallad awadde empoza eyookubiri eraga nti bonsatule baatambula bonna okugenda e Karachi. ,Khallad yagamba nti abasatu abo bandiba nga baatambula bonna.,entailment
+Khallad awadde empoza eyookubiri eraga nti bonsatule baatambula bonna okugenda e Karachi. ,Khallad yagamba nti waliwo emikisa ebitundu 50% okuba nga bonsatule baagendera wamu e Karachi mu Gwekkumi. ,neutral
+"Alipoota enkessi, okubuuza Binalshibh ebibuuzo nga 1/Ogwekkumi/2002",Binalshibh ekibinja ky'abakungu okuva mu FBI kyamubuuza ebibuuzo.,neutral
+"Alipoota enkessi, okubuuza Binalshibh ebibuuzo nga 1/Ogwekkumi/2002",Binalshibh yabuuzibwa ebibuuzo mu 2002. ,entailment
+"Alipoota enkessi, okubuuza Binalshibh ebibuuzo nga 1/Ogwekkumi/2002",Binalshibh teyayogerwako naye n'abulawo.,contradiction
+Mihdhar yafuna viza empya eya U.S nga wayiseewo ennaku bbiri oluvannyuma lw'olukiiko lwa CIA-FBI mu New York okutuula. ,"Mihdhar yalina viza ya US emuyingiza eggwanga. 
+",entailment
+Mihdhar yafuna viza empya eya U.S nga wayiseewo ennaku bbiri oluvannyuma lw'olukiiko lwa CIA-FBI mu New York okutuula. ,Mihdhar teyafuna viza era teyajja mu US.,contradiction
+Mihdhar yafuna viza empya eya U.S nga wayiseewo ennaku bbiri oluvannyuma lw'olukiiko lwa CIA-FBI mu New York okutuula. ,Mihdhar yaweebwa Viza kubanga teyalina muwatawaana.,neutral
+"Newankubadde waali wayiseewo emyaka ebiri ng'okunoonyereza kugenda mu maaso, ekitongole kya FBI tekyasobola kuzuula mukozi munnaabwe oba ebimukwatako ebituufu. ",Ekitongole kya FBI era tekyasobola na kuzuula musajja oluvannyuma lw'okuva mu Florida mu 2001. ,neutral
+"Newankubadde waali wayiseewo emyaka ebiri ng'okunoonyereza kugenda mu maaso, ekitongole kya FBI tekyasobola kuzuula mukozi munnaabwe oba ebimukwatako ebituufu. ",Ekitongole kya FBI tekyasobola kuzuula oba ng'omusajja yali ani. ,entailment
+"Newankubadde waali wayiseewo emyaka ebiri ng'okunoonyereza kugenda mu maaso, ekitongole kya FBI tekyasobola kuzuula mukozi munnaabwe oba ebimukwatako ebituufu. ",Ekitongole kya FBI kyamutegeera era ne kimukasuka mu nkomyo. ,contradiction
+"Ku nsonga ya American 11, okuwuliziganya okwa bulijjo okwasembayo okuva ku nnyonyi kwaliwo ku ssaawa 2:13 ez'okumakya. ",Waaliwo okuwuliziganya okuva ku American 11.,entailment
+"Ku nsonga ya American 11, okuwuliziganya okwa bulijjo okwasembayo okuva ku nnyonyi kwaliwo ku ssaawa 2:13 ez'okumakya. ",Waaliwo okuwuliziganya okuva ku American 11 buli luvannyuma lwa ddakiika 5. ,neutral
+"Ku nsonga ya American 11, okuwuliziganya okwa bulijjo okwasembayo okuva ku nnyonyi kwaliwo ku ssaawa 2:13 ez'okumakya. ",Tewaaliwo kuwuliziganya kwonna kuva ku American 11.,contradiction
+"Okukizuula kwali kwetaagisa okukolera awamu okw'amangu era okw'omuzinzi okuva mu gavumenti ya Germany, ekyalibadde ekizibu okufuna oboolyawo. ","Singa okunoonyereza kwamalirizibwa, kwalibadde kulaga ekifo bonsatule gye baali. ",neutral
+"Okukizuula kwali kwetaagisa okukolera awamu okw'amangu era okw'omuzinzi okuva mu gavumenti ya Germany, ekyalibadde ekizibu okufuna oboolyawo. ",Gavumenti ya Germany eyinza okuba nga yasanga obuzibu mu kukola okunoonyereza okw'amangi era okulambulukufu. ,entailment
+"Okukizuula kwali kwetaagisa okukolera awamu okw'amangu era okw'omuzinzi okuva mu gavumenti ya Germany, ekyalibadde ekizibu okufuna oboolyawo. ",Okunoonyereza kujja kuba kwanguko okukolebwa gavumenti. ,contradiction
+"Obusobozi buno bwali tebumala, naye tewali kya maanyi kyakolebwa kubwongerako oba kubukyusaamu. ",Pulogulaamu zaabwe ez'okunoonyereza tebaazikyusa kiri awo.,neutral
+"Obusobozi buno bwali tebumala, naye tewali kya maanyi kyakolebwa kubwongerako oba kubukyusaamu. ",Tebalina nnyo kye baakola kukyusa bintu.,entailment
+"Obusobozi buno bwali tebumala, naye tewali kya maanyi kyakolebwa kubwongerako oba kubukyusaamu. ",Baggyayo n'ag'omu buto okusobola okuzza buli kimu mu nteeko. ,contradiction
+"Email y'omwekenneenyi, wabula, eraga nti omukyala yali abuzaabuza omukukku gw'envumbo n'okukugirwa kinnamateeka n'engabana y'obubaka wamu n'amateeka agafuga engeri omukozi gy'akozesaamu obubaka obufuniddwa mu mikutu gy'okunoonyereza okw'ekikessi.  ",Omwekenneenyi yalaga enneekennneenya ennambulukufu obulungi ennyo. ,contradiction
+"Email y'omwekenneenyi, wabula, eraga nti omukyala yali abuzaabuza omukukku gw'envumbo n'okukugirwa kinnamateeka n'engabana y'obubaka wamu n'amateeka agafuga engeri omukozi gy'akozesaamu obubaka obufuniddwa mu mikutu gy'okunoonyereza okw'ekikessi.  ",Omwekenneenyi teyali mulambulukufu ku bintu bingi nnyo.,entailment
+"Email y'omwekenneenyi, wabula, eraga nti omukyala yali abuzaabuza omukukku gw'envumbo n'okukugirwa kinnamateeka n'engabana y'obubaka wamu n'amateeka agafuga engeri omukozi gy'akozesaamu obubaka obufuniddwa mu mikutu gy'okunoonyereza okw'ekikessi.  ",Alipoota y'omwekenneenyi yali ntabangufu nga mpaawo muntu n'omu ayinza kugisoma.,neutral
+"Abakungu abamu baaweebwa omulimu gw'okuyambako mu kusenguka mu bifo by'amadaala, abalala ne baweebwa omulimu gw'okwanguyaako mu kusenguka mu byererezi bya wabweru w'ebizimbe, ebyererezi by'omunda mu bizimbe wamu ne mu bifo ewasimba eggaali z'omukka. ",Abakungu baaweebwa emirimu gyabwe. ,entailment
+"Abakungu abamu baaweebwa omulimu gw'okuyambako mu kusenguka mu bifo by'amadaala, abalala ne baweebwa omulimu gw'okwanguyaako mu kusenguka mu byererezi bya wabweru w'ebizimbe, ebyererezi by'omunda mu bizimbe wamu ne mu bifo ewasimba eggaali z'omukka. ","Abakungu badduka buli omu gye yalaba nga gye yeetaagibwa.
+",contradiction
+"Abakungu abamu baaweebwa omulimu gw'okuyambako mu kusenguka mu bifo by'amadaala, abalala ne baweebwa omulimu gw'okwanguyaako mu kusenguka mu byererezi bya wabweru w'ebizimbe, ebyererezi by'omunda mu bizimbe wamu ne mu bifo ewasimba eggaali z'omukka. ",Abakungu baaweebwa emirimu okusinziira ku bukugu bwabwe.,neutral
+"Nga 9 Ogwomwenda, amawulire agaalimu engeri ya katemba gatuuka okuva mu Afghanistan.
+",Twafuna amawulire okuva mu Afghanistan.,entailment
+"Nga 9 Ogwomwenda, amawulire agaalimu engeri ya katemba gatuuka okuva mu Afghanistan.
+",Tetwawuliza kintu kyonna kuva mu Afghanistan okutuusa mu Gwekkumi.,contradiction
+"Nga 9 Ogwomwenda, amawulire agaalimu engeri ya katemba gatuuka okuva mu Afghanistan.
+",Twategeezebwa ku bulumbaganyi obwali bugenda okubaawo nga 9 Ogwomwenda. ,neutral
+"Obutasobola kuwuliziganya bwali buzibu bwa maanyi ku World Trade Center, Pentagon, ne Somerset County, Pennyslavia, ebifo obubenje bw'okugwa mwe bwalabikiranga, mu bifo ebitongole ebiwerako mwe byagenda okuyamba wamu n'ebifo ensala y'emisango egiwerako gye kwakolebwa. ",Ebyempuliziganya byakolera ddala bulungi nga 9/11.,contradiction
+"Obutasobola kuwuliziganya bwali buzibu bwa maanyi ku World Trade Center, Pentagon, ne Somerset County, Pennyslavia, ebifo obubenje bw'okugwa mwe bwalabikiranga, mu bifo ebitongole ebiwerako mwe byagenda okuyamba wamu n'ebifo ensala y'emisango egiwerako gye kwakolebwa. ",Abantu baasanga obuzibu okuwuliziganya nga bali ku World Trade Center kubanga amasannyalaze tegaaliyo ate nga n'amasimu gaali tegakola. ,neutral
+"Obutasobola kuwuliziganya bwali buzibu bwa maanyi ku World Trade Center, Pentagon, ne Somerset County, Pennyslavia, ebifo obubenje bw'okugwa mwe bwalabikiranga, mu bifo ebitongole ebiwerako mwe byagenda okuyamba wamu n'ebifo ensala y'emisango egiwerako gye kwakolebwa. ",Abantu basaanga obuzibu okuwuliziganyiza ku World Trade Center. a,entailment
+"Okunoonya amaterekero g'obubaka agaliwo kwaliziikudde layisinsi z'abagoba b'ebidduka, okuwandiisibwa kw'amamotoka, wamu n'enkalala z'amasimu. ",Abanoonyereza era baasaba amaterekero g'obubaka obukwata ku mirimu egy'ekikugu. ,neutral
+"Okunoonya amaterekero g'obubaka agaliwo kwaliziikudde layisinsi z'abagoba b'ebidduka, okuwandiisibwa kw'amamotoka, wamu n'enkalala z'amasimu. ",Ebika by'obubaka obw'enjawulo byalimu mu materekero g'obubaka agaaliwo. ,entailment
+"Okunoonya amaterekero g'obubaka agaliwo kwaliziikudde layisinsi z'abagoba b'ebidduka, okuwandiisibwa kw'amamotoka, wamu n'enkalala z'amasimu. ",Tewaaliwo ngeri ya kuzuulamu bubaka bwonna bukwata ku bantu banoonyerezebwako okuyita mu kukozesa ensibuko z'obubaka ezaaliwo. ,contradiction
+"Nga bw'alaga nga bwe yali yeekengedde ensuubulagana yonna okutwaliza awamu, omukulembeze yeeyawula ku Hazmi ne Mihdhar, naye ekyo tekyaliwo okutuusa nga bamaze okufuna obuyambi bwe baali beetaaga. ",Omukulembeze mu bwangu ddala yakubira aboobuyinza ne bagaana okuyamba mu nsonga eno. ,contradiction
+"Nga bw'alaga nga bwe yali yeekengedde ensuubulagana yonna okutwaliza awamu, omukulembeze yeeyawula ku Hazmi ne Mihdhar, naye ekyo tekyaliwo okutuusa nga bamaze okufuna obuyambi bwe baali beetaaga. ",Omukulembeze yagaba obuyambi newankubadde nga yali yeekengera ebinaavaamu. ,entailment
+"Nga bw'alaga nga bwe yali yeekengedde ensuubulagana yonna okutwaliza awamu, omukulembeze yeeyawula ku Hazmi ne Mihdhar, naye ekyo tekyaliwo okutuusa nga bamaze okufuna obuyambi bwe baali beetaaga. ",Obuyambi bwalimu ensimbi enkalu n'obuyambi mu kugula empapula z'okutambulirako.,neutral
+"Mu 2003 okulondebwa ku bifo kuno kwaggyibwawo, ensonga zonna ez'obutujju okwetoloola ensi yonna zikolebwako mu ngeri y'emu, 315. ",Ensonga z'obutujju zonna ziweebwa ekifo kya ku mwanjo era nga zifiibwako kye kimu. ,neutral
+"Mu 2003 okulondebwa ku bifo kuno kwaggyibwawo, ensonga zonna ez'obutujju okwetoloola ensi yonna zikolebwako mu ngeri y'emu, 315. ",Ensonga z'obutujju zonna zirambibwa n'akabonero ke kamu.,entailment
+"Mu 2003 okulondebwa ku bifo kuno kwaggyibwawo, ensonga zonna ez'obutujju okwetoloola ensi yonna zikolebwako mu ngeri y'emu, 315. ",Buli nsonga ya butujju eramulwa era n'egerebwa nga yeetongodde. ,contradiction
+"Omukungu ono, eyaliwo nga South Tower egwamu, yatwala ensonga eno eri amatabi ga ESU mu North Tower nga bwe kyali mu kiragiro kye eky'okusengula.",Tewali muntu yasigala mu North Tower oluvannyuma lwa South Tower okugwamu. ,contradiction
+"Omukungu ono, eyaliwo nga South Tower egwamu, yatwala ensonga eno eri amatabi ga ESU mu North Tower nga bwe kyali mu kiragiro kye eky'okusengula.",South Tower yagwamu eddakiika amakumi asatu nga omukungu tannayogerako na matabi ga ESU mu North Tower. ,neutral
+"Omukungu ono, eyaliwo nga South Tower egwamu, yatwala ensonga eno eri amatabi ga ESU mu North Tower nga bwe kyali mu kiragiro kye eky'okusengula.",Omukungu yalaba n'amaaso ge nga South Tower egwamu. ,entailment
+Indianapolis ddala kye kimu ku bifo ebisinga obulungi eri bannakatemba abawerako okukoleramu. ,Bannakatemba baagala Indianapolis olw'ebitongole ebingi ebiriyo ebyetaaga abazannyi ba katemba mu mizannyo gyabyo. ,neutral
+Indianapolis ddala kye kimu ku bifo ebisinga obulungi eri bannakatemba abawerako okukoleramu. ,"Bw'oba ng'oli munnakatemba, olina okulowooza okugendako mu Indianapolis. ",entailment
+Indianapolis ddala kye kimu ku bifo ebisinga obulungi eri bannakatemba abawerako okukoleramu. ,"Kibeera kizibu okufuna omulimu mu Indianapolis bw'oba ng'oli mu bizinensi ya kuzannya firimu oba katemba w'oku siteegi, kubanga okusinga kibuga kya tekinologiya. ",contradiction
+"Tugaba obuyambi bw'oku ssimu essaawa 24 mu lunaku, ennaku 7 mu wiiki okuyita ku Prevention Information Resource Center &amp; ne layini y'abazadde eya Parent Help line. ",Abantu basobola kukwatagana naffe nga bakozesa mmeyiro oba empeerezabubaka eya email yokka. ,contradiction
+"Tugaba obuyambi bw'oku ssimu essaawa 24 mu lunaku, ennaku 7 mu wiiki okuyita ku Prevention Information Resource Center &amp; ne layini y'abazadde eya Parent Help line. ","Tutuukikako okuyita ku ssimu, ekiseera kyonna mu lunaku. ",entailment
+"Tugaba obuyambi bw'oku ssimu essaawa 24 mu lunaku, ennaku 7 mu wiiki okuyita ku Prevention Information Resource Center &amp; ne layini y'abazadde eya Parent Help line. ",Tukubirwa amasimu agasoba mu kikumi buli Bbalaza n'Olwokutaano. ,neutral
+Bookisi zino zijja kusigala nga nsibe mu bintu byazo okumalira ddala ebbanga eggwanvu ng'ebirabo ebirala byonna bisumuluddwa. ,Bookisi zino zirimu bbomu nnamuzisa.,neutral
+Bookisi zino zijja kusigala nga nsibe mu bintu byazo okumalira ddala ebbanga eggwanvu ng'ebirabo ebirala byonna bisumuluddwa. ,Bookisi zino zijja kusumululwa ng'ebirabo ebirala tebinnaba kusumululwa. ,contradiction
+Bookisi zino zijja kusigala nga nsibe mu bintu byazo okumalira ddala ebbanga eggwanvu ng'ebirabo ebirala byonna bisumuluddwa. ,Bookisi zino zijja kusigala nga nsibe okumala ekiseera.,entailment
+"Singa ebisale byaffe tubikuuma nga biri wansi, twetaaga okujja gy'oli, mmwe abatuwuliriza, okubasabayo eky'okuwaayo ekitono ekisobola okutuyamba okuggusa ensonga eno.","Okusobola okukuuma ebisale bya ttiketi zaffe nga biri ku $10, tujja kwetaaga mwenna abatuwuliriza okuwaayo $25. ",neutral
+"Singa ebisale byaffe tubikuuma nga biri wansi, twetaaga okujja gy'oli, mmwe abatuwuliriza, okubasabayo eky'okuwaayo ekitono ekisobola okutuyamba okuggusa ensonga eno.","Twalikuumidde ebisale byaffe wansi singa twali twagala, awatali nsimbi zammwe, wabula mukama waffe ayagala nnyo ebyokwejalabya bye. ",contradiction
+"Singa ebisale byaffe tubikuuma nga biri wansi, twetaaga okujja gy'oli, mmwe abatuwuliriza, okubasabayo eky'okuwaayo ekitono ekisobola okutuyamba okuggusa ensonga eno.",Ebiweebwayo byammwe bituyamba okukuumira ebisale byaffe wansi. ,entailment
+"00 yatuyamba okusobola okuwaayo okulungamya, okuzzaamu amaanyi n'okunyumirwa kw'abaana 400 ab'omu kitundu kya Indianapolis. ","Twebaza abagabirizi baffe abawaayo obuteebalira, tusodola okuyita Beyonce okukola ekivvulu ku lw'abaana bamulekwa ab'omu Indianapolis.",neutral
+"00 yatuyamba okusobola okuwaayo okulungamya, okuzzaamu amaanyi n'okunyumirwa kw'abaana 400 ab'omu kitundu kya Indianapolis. ","Twasuubira nti tujja kutegekerawo abaana akabaga ka Ssekukkulu, naye tetulina kye twali tusobodde kubakolerayo yadde. ",contradiction
+"00 yatuyamba okusobola okuwaayo okulungamya, okuzzaamu amaanyi n'okunyumirwa kw'abaana 400 ab'omu kitundu kya Indianapolis. ",Abaana bangi mu Indianapolis tetwasobola kubayamba.,entailment
+"Mu kusooka, abantu ssekinnoomu baali basobola okwenyigiramu nga bategeka ekirabo ky'omwaka eky'ensimbi ezitali za ssalira  kya $1,000 oba okusingawo ez'okuwaayo mu Chancellor's Circle oba ekya $500 oba okusingawo eza Chancellors Associates. ",Abantu ssekinnoomu basobola okuwetabamu oluvannyuma lw'okuwaayo akasente akatono aka $50.,contradiction
+"Mu kusooka, abantu ssekinnoomu baali basobola okwenyigiramu nga bategeka ekirabo ky'omwaka eky'ensimbi ezitali za ssalira  kya $1,000 oba okusingawo ez'okuwaayo mu Chancellor's Circle oba ekya $500 oba okusingawo eza Chancellors Associates. ",Abantu ssekinnoomu basobola okwetabamu nga bakoze okuwaayo okwegasa. ,entailment
+"Mu kusooka, abantu ssekinnoomu baali basobola okwenyigiramu nga bategeka ekirabo ky'omwaka eky'ensimbi ezitali za ssalira  kya $1,000 oba okusingawo ez'okuwaayo mu Chancellor's Circle oba ekya $500 oba okusingawo eza Chancellors Associates. ",Abantu abasinga basinga kwagala kuwaayo mu nsawo ya Chancellors Associates. ,neutral
+Ekirabo kyo mu kiseera kino kisobola okufunisaayo ku miganyulo gy'okuwewulwa ku  nnyongereza y'emisolo ku nkomerero y'omwaka. ,"Singa owaayo ekirabo waakiri kya $1,000, kya ddala nti ojja kuba n'obusobozi bw'okuwewulwa ku misolo. ",neutral
+Ekirabo kyo mu kiseera kino kisobola okufunisaayo ku miganyulo gy'okuwewulwa ku  nnyongereza y'emisolo ku nkomerero y'omwaka. ,"Eky'omukisa omubi, abawabuzi baffe ku byemisolo bajja kukuwa amagezi obutawaayo kirabo kyonna.",contradiction
+Ekirabo kyo mu kiseera kino kisobola okufunisaayo ku miganyulo gy'okuwewulwa ku  nnyongereza y'emisolo ku nkomerero y'omwaka. ,Oyinza okuba n'obusobozi bw'okusalirwako ku misolo ku by'owaddeyo.,entailment
+"Nga bw'omanyi, obwammemba bw'ekibiina kino butwaliramu abo abanywanyi wamu n'abo abaasomerako mu ttendekero ebbanga eriyise abawaayo $1,000 oba okusingawo buli mwaka eri ettendekero ly'ebyamateeka. ","Abamu ku bammemba b'ekibiina kino bawaddeyo ensimbi ezisoba mu $100,000 eri ettendekero.",neutral
+"Nga bw'omanyi, obwammemba bw'ekibiina kino butwaliramu abo abanywanyi wamu n'abo abaasomerako mu ttendekero ebbanga eriyise abawaayo $1,000 oba okusingawo buli mwaka eri ettendekero ly'ebyamateeka. ","Tulina abantu mu kibiina kino abawaddeyo ensimbi ezisukka mu $1,000 eri ettendekero ly'ebyamateeka.",entailment
+"Nga bw'omanyi, obwammemba bw'ekibiina kino butwaliramu abo abanywanyi wamu n'abo abaasomerako mu ttendekero ebbanga eriyise abawaayo $1,000 oba okusingawo buli mwaka eri ettendekero ly'ebyamateeka. ","Tuteekateeka okusaba ekibiina kino okuwaayo ensimbi eri ettendekero, naye tetukikolangako.",contradiction
+"Ng'omwana eyakulira mu myaka gy'amakumi 50, ekimu ku bintu bye nsijukira ebyansanyusa ennyo kwali kugenda mu mizannyo gya Civic Theatre.","Nakyawanga nnyo okugenda mu mizannyo gy'oku siteegi nga ndi mwana muto, era eyo ye nsonga lwaki nafuuka munnasaayansi. ",contradiction
+"Ng'omwana eyakulira mu myaka gy'amakumi 50, ekimu ku bintu bye nsijukira ebyansanyusa ennyo kwali kugenda mu mizannyo gya Civic Theatre.",Nayagalanga nnyo okugenda okulaba emizannyo gy'oku siteegi nga ndi mwana muto. ,entailment
+"Ng'omwana eyakulira mu myaka gy'amakumi 50, ekimu ku bintu bye nsijukira ebyansanyusa ennyo kwali kugenda mu mizannyo gya Civic Theatre.",Omuzannyo gwa Civic Theatre ogusinga okunnyumira gwali Beauty and the Beast.,neutral
+Singa buli muntu afuna ebbaluwa eno awaayo $18 zokka.,Buli muntu afuna ebbaluwa eno: towaayo ssente zo. buno bufere.,contradiction
+Singa buli muntu afuna ebbaluwa eno awaayo $18 zokka.,"Singa owaayo $18, tujja kukuwa ekirabo.",neutral
+Singa buli muntu afuna ebbaluwa eno awaayo $18 zokka.,Ka tusuubire nti bonna abaafunye ebbaluwa basobola okuwaayo $18.,entailment
+"Ggyako buggya ekitundu kya wansi, ogolole ekyokulondako ekituukirawo, kyusa endagiriro yo nga bwe kyetaagisa era ogisindikire mu bbaasa ensibe. ",Osabibwa obutakola nkyukakyuka mu ndagiriro yo.,contradiction
+"Ggyako buggya ekitundu kya wansi, ogolole ekyokulondako ekituukirawo, kyusa endagiriro yo nga bwe kyetaagisa era ogisindikire mu bbaasa ensibe. ","Waliwo ebbaasa enjeru esibiddwa, ng'eriko endagiriro yo. ",neutral
+"Ggyako buggya ekitundu kya wansi, ogolole ekyokulondako ekituukirawo, kyusa endagiriro yo nga bwe kyetaagisa era ogisindikire mu bbaasa ensibe. ","Oli wa ddembe okukola enkyukakyuka mu ndagiriro yo, singa olaba nga kigwanidde.",entailment
+Ettendekero lya Bannansi libeetaaga okugenda mu maaso n'okuwaayo ebirabo byammwe obuteebalira n'okuwanirira omutindo gwalyo ogw'ebyenjigiriza nga guli waggulu. ,"Osabibwa okuwaayo obukadde bwa $100 eri Ettendekero lya Bannansi, oba si ekyo ojja kufiirwa ekibumbe kyo eky'okukujjukirirangako. ",neutral
+Ettendekero lya Bannansi libeetaaga okugenda mu maaso n'okuwaayo ebirabo byammwe obuteebalira n'okuwanirira omutindo gwalyo ogw'ebyenjigiriza nga guli waggulu. ,"Ettendekero lya Bannansi lyatuukiriza ebiruibirirwa byalyo byonna eby'ebyensimbi, nga noolwekyo teryetaaga nsimbi ndala zonna. ",contradiction
+Ettendekero lya Bannansi libeetaaga okugenda mu maaso n'okuwaayo ebirabo byammwe obuteebalira n'okuwanirira omutindo gwalyo ogw'ebyenjigiriza nga guli waggulu. ,Tusuubira nti onaawaayo obuyambi eri Ettendekero lya Bannansi. ,entailment
+80% eky'abeetabi bajja kwogera ku kweyongera kw'obukugu bw'okumulungula obutakkaanya. ,Abeetabi abasukka mu kimu kyakubiri bajja kwogera ku kweyongera kw'obukugu bw'okkumulungula obutakkaanya. ,entailment
+80% eky'abeetabi bajja kwogera ku kweyongera kw'obukugu bw'okumulungula obutakkaanya. ,Abeetabi kimu kyakuna bajja kwogera ku kweyongera kw'obukugu bw'okumulungula obutakkaanya. ,contradiction
+80% eky'abeetabi bajja kwogera ku kweyongera kw'obukugu bw'okumulungula obutakkaanya. ,Baali abeetabi abasukka mu 100.,neutral
+Tukusaba oleme kukka ddaala kutuuka ku lukalala lw'abagabi baffe ab'obuyambi olutakyakola.,Kijja kuba kya buswavu singa olekera awo okuwaayo obuyambi. ,entailment
+Tukusaba oleme kukka ddaala kutuuka ku lukalala lw'abagabi baffe ab'obuyambi olutakyakola.,"Olukalala lw'abagabi baffe ab'obuyambi olutakyakola lufulumizibwa eri ensi yonna okulabibwa, noolwekyo nneesiga, bwe nkugamba nti tewandyagadde kuswazibwa kutuuka ku ssa eryo.",neutral
+Tukusaba oleme kukka ddaala kutuuka ku lukalala lw'abagabi baffe ab'obuyambi olutakyakola.,"Tulina abagabi b'obuyambi bangi nnyo, noolwekyo tukusaba olekera awo okuwaayo obuyambi. ",contradiction
+Obusobozi bw'okutuuka ku buvo bwaffe bujja kuweebwa buli kiisi alina kompyuta ne modeemu.,Abantu tebeetaaga kintu kyonna okusobola okutuuka ku buvo bwaffe.,contradiction
+Obusobozi bw'okutuuka ku buvo bwaffe bujja kuweebwa buli kiisi alina kompyuta ne modeemu.,Abantu beetaaga kompyuta ne modeemu okusobola okutuuka ku buvo bwaffe.,entailment
+Obusobozi bw'okutuuka ku buvo bwaffe bujja kuweebwa buli kiisi alina kompyuta ne modeemu.,"Abantu beetaaga okutambula ne kompyuta zaabwe ne modeemu nga bayingira obuvo bwaffe, okusobola okufuna olukusa olubayingiza. ",neutral
+Okutundibwa kwa ttiketi wamu n'ebiweebwayo tebisobola kuvujjirira sizoni yaffe yonna ennamba.,Kasita tubeera nga tufuna mu kutunda ttiketi sizoni yaffe yonna ennamba ebeera esobola okuvujjirirwa. ,contradiction
+Okutundibwa kwa ttiketi wamu n'ebiweebwayo tebisobola kuvujjirira sizoni yaffe yonna ennamba.,Sizoni yaffe ennamba yeetaaga ensimbi ezisingako okuvujjirirwa okusukka ku kutunda ttiketi n'ebiweebwayo. ,entailment
+Okutundibwa kwa ttiketi wamu n'ebiweebwayo tebisobola kuvujjirira sizoni yaffe yonna ennamba.,Okutunda ttiketi wamu n'ebiweebwayo bikola ku bitundu 70% eby'emiwendo gy'okuvujjirira sizoni yaffe ennamba.,neutral
+EBITUUKA EBIGGYA BULI KIRABO KIREETAWO ENJAWULO. ,Buli kirabo kiwandiikibwa era ne kirangibwa mu katabo kaffe ak'omwezi. ,neutral
+EBITUUKA EBIGGYA BULI KIRABO KIREETAWO ENJAWULO. ,Buli kirabo ekiweebwayo kibaako kye kiyongerako. ,entailment
+EBITUUKA EBIGGYA BULI KIRABO KIREETAWO ENJAWULO. ,Ebirabo byokka ebisukka $100 bye bireetawo enjawulo.,contradiction
+"Tukyalina olugendo luwanvu olw'okutambula nga tetunnatuuka ku kiruubirirwa kyaffe ekya $365,000 okuva mu banywanyi n'abagabi b'obuyambi nga ggwe. ","Ekiruubirirwa kyaffe eky'ebyensimbi kisukka $300,000.",entailment
+"Tukyalina olugendo luwanvu olw'okutambula nga tetunnatuuka ku kiruubirirwa kyaffe ekya $365,000 okuva mu banywanyi n'abagabi b'obuyambi nga ggwe. ",Mu butuufu tusuubira okukubisaamu ekiruubirirwa kyaffe eky'ebyensimbi emirundi esatu.,neutral
+"Tukyalina olugendo luwanvu olw'okutambula nga tetunnatuuka ku kiruubirirwa kyaffe ekya $365,000 okuva mu banywanyi n'abagabi b'obuyambi nga ggwe. ",Tetulina lugerero kwe twepimira bwe kituuka ku nsimbi. ,contradiction
+"Eddwaliro lyaffe erya Civil Practice Clinic likoze okumala emyaka egiwera, era gye buvuddeko twayongerako eddwaliro lya Criminal Defense Clinic. ",Eddwaliro lyaffe erya Civil Practice Clinic likoze okumala emyaka munaana. ,neutral
+"Eddwaliro lyaffe erya Civil Practice Clinic likoze okumala emyaka egiwera, era gye buvuddeko twayongerako eddwaliro lya Criminal Defense Clinic. ",Eddwaliro lyaffe erya Civil Practice Clinic lijaguza okuweza omwaka gwalyo ogusooka omulamba mu buweereza omwezi ogujja. ,contradiction
+"Eddwaliro lyaffe erya Civil Practice Clinic likoze okumala emyaka egiwera, era gye buvuddeko twayongerako eddwaliro lya Criminal Defense Clinic. ",Eddwaliro lya Civil Practice Clinic libadde likola okumala ebbanga erisoba mu mwaka omulamba. ,entailment
+Ensimbi eziva mu ttiketi tezitandka kusasulira muwendo gwa pulogulaamu zino. ,Kirabika nga omuwendo gwa pulogulaamu zino tegujja kusasulibwa na nsimbi eziva mu ttiketi. ,entailment
+Ensimbi eziva mu ttiketi tezitandka kusasulira muwendo gwa pulogulaamu zino. ,Omuwendo gwa pulogulaamu zino gwa waggulu. ,neutral
+Ensimbi eziva mu ttiketi tezitandka kusasulira muwendo gwa pulogulaamu zino. ,Ensimbi eziva mu ttiketi awatali kubuusabuusa zijja kusasulira omuwendo gwa pulogulaamu zino. ,contradiction
+Omnia vincit amor (okuggyako ng'okolera Weekly Standard): Bint Hume ( Fox News Sunday ) egereesa ku nsonga lwaki Lewinsky ayinza obutasobola Omukyala akyalina okwegwanyiza okutalina lugendo ku mukulembeze w'eggwanga. ,Bint Hume ye musasi omukulu ku Fox. ,neutral
+Omnia vincit amor (okuggyako ng'okolera Weekly Standard): Bint Hume ( Fox News Sunday ) egereesa ku nsonga lwaki Lewinsky ayinza obutasobola Omukyala akyalina okwegwanyiza okutalina lugendo ku mukulembeze w'eggwanga. ,Bint Hume akolera CNN.,contradiction
+Omnia vincit amor (okuggyako ng'okolera Weekly Standard): Bint Hume ( Fox News Sunday ) egereesa ku nsonga lwaki Lewinsky ayinza obutasobola Omukyala akyalina okwegwanyiza okutalina lugendo ku mukulembeze w'eggwanga. ,Bint Hume akolera Fox. ,entailment
+Kya maanyi ekikoleddwa okupangisa Micheal Apted okuteeka mu kazannyo empulira y'obuntu esingawokko.,Micheal Apted yayonoona akazannyo bwe yalemerako nti baggyemu buli kintu kyonna ekirina ebbugumu okufaananako omuntu. ,contradiction
+Kya maanyi ekikoleddwa okupangisa Micheal Apted okuteeka mu kazannyo empulira y'obuntu esingawokko.,Micheal Apted yapangisibwa okwongera omutindo ogw'obuntu mu kazannyo. ,entailment
+Kya maanyi ekikoleddwa okupangisa Micheal Apted okuteeka mu kazannyo empulira y'obuntu esingawokko.,"Akazannyo kaalowoozebwako ng'akataliimu bbugumu era akawuubaaza, nga noolwekyo kyali kya mugaso Micheal Apted okwongeramu ekirungo ky'empulira ey'ebbugumu era eyoobuntu okusobola okulinnyisa ku mutindo gw'obubonero obukaweebwa. ",neutral
+okulaba omuwala ali mu kyambalo ekyeru nga kya byoya era nga kimubikka omubiri gwonna wamu n'engatto za bbuutu.,omuwala ayambalidde okuyiringitira mu muzira. ,neutral
+okulaba omuwala ali mu kyambalo ekyeru nga kya byoya era nga kimubikka omubiri gwonna wamu n'engatto za bbuutu.,Omuwala ayambala ngoye njeru.,entailment
+okulaba omuwala ali mu kyambalo ekyeru nga kya byoya era nga kimubikka omubiri gwonna wamu n'engatto za bbuutu.,Omuwala yenna ayambadde bimyufu.,contradiction
+Firimu ky'etafaako kwogera kye ky'okuba nti Kaufman yalinga ajja ayogera ku ngeri gye yandyagadde okuwangulamu okufa kwe.,Firimu teraga Kaufman ng'ayogera ku kufa kwe.,entailment
+Firimu ky'etafaako kwogera kye ky'okuba nti Kaufman yalinga ajja ayogera ku ngeri gye yandyagadde okuwangulamu okufa kwe.,Firimu yalimu okubuuzibwa okw'ebuziba okwa Kaufman ku kufa kwe.,contradiction
+Firimu ky'etafaako kwogera kye ky'okuba nti Kaufman yalinga ajja ayogera ku ngeri gye yandyagadde okuwangulamu okufa kwe.,"Firimu yatunda, newankubadde ng'obumu ku bubaka obw'enkizo bwalekebwayo.",neutral
+Rockefeller yakwatibwa mu kuwaayo kuno okukake Avenging Angel Tarbell bwe yatandika okuyuzaayuza ennyama y'omubiri gwe mu ya McClure.,Rockefeller yawaayo obuyambi mu kunoonyereza ku kookolo.,neutral
+Rockefeller yakwatibwa mu kuwaayo kuno okukake Avenging Angel Tarbell bwe yatandika okuyuzaayuza ennyama y'omubiri gwe mu ya McClure.,Rockefeller yali mugabi.,entailment
+Rockefeller yakwatibwa mu kuwaayo kuno okukake Avenging Angel Tarbell bwe yatandika okuyuzaayuza ennyama y'omubiri gwe mu ya McClure.,Rockefeller yali mukodo.,contradiction
+"Gye buvuddeko katono, mu musango gwebyobusuubuzi mu New York, Klayman yeesanga ku luuyi olulala olw'emisango gy'obusosoze mu mawanga. ",Klayman yaggyibwayo ku lw'emisango gy'obusosoze mu mawanga mu California.,contradiction
+"Gye buvuddeko katono, mu musango gwebyobusuubuzi mu New York, Klayman yeesanga ku luuyi olulala olw'emisango gy'obusosoze mu mawanga. ",Klayman teyakisuubira nti ajja kuvunaanibwa ogw'okuba ne kyekubiira mu mawanga. ,neutral
+"Gye buvuddeko katono, mu musango gwebyobusuubuzi mu New York, Klayman yeesanga ku luuyi olulala olw'emisango gy'obusosoze mu mawanga. ",Waaliwo ebigambibwa okuba nti Klayman yali yeetaba mu kusosola abantu okusinziira mu mawanga gaabwe. ,entailment
+"Omuntu ayinza obutasuubira kisenge ekijjudde abakiise abava mu bitongole eby'amaanyi okuvaamu okusiiya, okuboggola oba okuleekaana ebitajjansa ku kutuuzibwa kw'omuwandiisi mu kitongole ky'ebyemirimu mu U.S. ",Abakiise abava mu bitongole ebyamaanyi bambala masuuti.,neutral
+"Omuntu ayinza obutasuubira kisenge ekijjudde abakiise abava mu bitongole eby'amaanyi okuvaamu okusiiya, okuboggola oba okuleekaana ebitajjansa ku kutuuzibwa kw'omuwandiisi mu kitongole ky'ebyemirimu mu U.S. ",Omuntu asobola okusuubira abakiise abava mu bitongole ebyamaanyi okusiiya. ,contradiction
+"Omuntu ayinza obutasuubira kisenge ekijjudde abakiise abava mu bitongole eby'amaanyi okuvaamu okusiiya, okuboggola oba okuleekaana ebitajjansa ku kutuuzibwa kw'omuwandiisi mu kitongole ky'ebyemirimu mu U.S. ",Omuntu tasobola kusuubira bakiise abava mu bitongole ebyamaanyi okusiiya. ,entailment
+Olw'okuba nti engunjula erina ky'amaanyi ky'ekola ku nkola y'omuddusi tekitegeeza nti obutonde bwo tebulina kye bukolawo. ,Abaddusi bazaalibwa nga balina obusobozi bwabwe bwonna nga bweragirawo.,contradiction
+Olw'okuba nti engunjula erina ky'amaanyi ky'ekola ku nkola y'omuddusi tekitegeeza nti obutonde bwo tebulina kye bukolawo. ,Enkola y'omuddusi esinga kukosebwa ntendeka okusinga embala y'abazadde. ,entailment
+Olw'okuba nti engunjula erina ky'amaanyi ky'ekola ku nkola y'omuddusi tekitegeeza nti obutonde bwo tebulina kye bukolawo. ,Abaddusi abasinga abafaayo ennyo batendekebwa waakiri essaawa munaana buli wiiki. ,neutral
+Nga ntuuse eka nnayiga nti mu United States esalako ebikozesebwa mu ngeri bbiri. ,Njagala ebyobufuzi. ,neutral
+Nga ntuuse eka nnayiga nti mu United States esalako ebikozesebwa mu ngeri bbiri. ,Nasoma ku bikwata ku United States. ,entailment
+Nga ntuuse eka nnayiga nti mu United States esalako ebikozesebwa mu ngeri bbiri. ,Nayiga nti United States esalako ebikozesebwa mu ngeri bbiri nga sinnajja waka. ,contradiction
+Ekkubiro ly'ebitabo erisinga obukadde n'obunene erya - Oxford- lyakalangirira nti ligenda kusazaamu olukalala lwalyo olw'ebitontome. ,"Olukalala lw'ebitontome oluli ku Oxford, terukyayongerezebwako.",entailment
+Ekkubiro ly'ebitabo erisinga obukadde n'obunene erya - Oxford- lyakalangirira nti ligenda kusazaamu olukalala lwalyo olw'ebitontome. ,Ssettendekero ow'ekitiibwa talina buvujjirizi busobola kukuuma lukalala lwa bitontome nga lukyakola. ,neutral
+Ekkubiro ly'ebitabo erisinga obukadde n'obunene erya - Oxford- lyakalangirira nti ligenda kusazaamu olukalala lwalyo olw'ebitontome. ,Ssettendekero essira alitadde ku kukuuma olukalala lw'ebitontome era yeeyamye obutalusazaamu.,contradiction
+"Waliwo ekirabo eky'okuzzaamu amaanyi ku lw'obuntu, newankubadde. ",Ekirabo eky'okuzzaamu amaanyi kye kyuma ekigonza ebyokulya ekya sipiidi ebbiri era nga kya bwereere.,neutral
+"Waliwo ekirabo eky'okuzzaamu amaanyi ku lw'obuntu, newankubadde. ",Tewaliiwo kirungi kigenda kuweebwa bantu mu mbeera eno.,contradiction
+"Waliwo ekirabo eky'okuzzaamu amaanyi ku lw'obuntu, newankubadde. ",Gano si ge mawulire amabi ennyo ekiri awo eri abantu.,entailment
+Ebyemizannyo si bye byokka ebisibibwako ku bibanja bino. ,Okusiba ku nvuganya z'ebyobufuzi n'okulonda nabyo bikkirizibwa ku bibanja bino. ,neutral
+Ebyemizannyo si bye byokka ebisibibwako ku bibanja bino. ,Bino ebibanja bikkiriza okusiba mu kiseera kyokka ng'emizannyo gizannyibwa. ,contradiction
+Ebyemizannyo si bye byokka ebisibibwako ku bibanja bino. ,Ebibanja bino bikkiriza okusiba ku bikolebwa eby'enjawulo. ,entailment
+"Nga 25 Ogwomunaana, oluvannyuma lw'olukiiko lwa Bannademokulati okuggulwawo mu Atlantic City, N.J., Johnson, mu kiseera ekyo eyalina emyaka 56 egy'obukulu, yatiisatiisa mu mboozi za mirnudi esatu ezaakwatibwa ku ntambi okuva mu lwokaano lw'okuvuganya ku bukulembeze bw'eggwanga. ",Johnson yawulira nga talina buwagizi. ,neutral
+"Nga 25 Ogwomunaana, oluvannyuma lw'olukiiko lwa Bannademokulati okuggulwawo mu Atlantic City, N.J., Johnson, mu kiseera ekyo eyalina emyaka 56 egy'obukulu, yatiisatiisa mu mboozi za mirnudi esatu ezaakwatibwa ku ntambi okuva mu lwokaano lw'okuvuganya ku bukulembeze bw'eggwanga. ",Johnson teyalowooza ku kuvaamu.,contradiction
+"Nga 25 Ogwomunaana, oluvannyuma lw'olukiiko lwa Bannademokulati okuggulwawo mu Atlantic City, N.J., Johnson, mu kiseera ekyo eyalina emyaka 56 egy'obukulu, yatiisatiisa mu mboozi za mirnudi esatu ezaakwatibwa ku ntambi okuva mu lwokaano lw'okuvuganya ku bukulembeze bw'eggwanga. ",Johnson yatiisatiisa okuvaamu.,entailment
+Lamar Alexander yasuulawo okuvuganya kwe ku bukulembeze bw'eggwanga. ,Waakiri omuntu omu yawanika ku ky'okugezaako okufuuka omukulembeze w'eggwanga. ,entailment
+Lamar Alexander yasuulawo okuvuganya kwe ku bukulembeze bw'eggwanga. ,Lamar Alexander yagaana okuwanika ku ky'okuvuganya ku bukulembeze bw'eggwanga. ,contradiction
+Lamar Alexander yasuulawo okuvuganya kwe ku bukulembeze bw'eggwanga. ,Mwami Alexander yakakibwa okuwandukamu oluvannyuma lw'okufulumizibwa kw'ebifaananyi bye ebimuweebuula. ,neutral
+"Waggulu w'ekyafaayo kino ekyennyamiza ekikwata ku ddembe ly'abantu ba bulijjo ery'obwebange, kwe kwagattibwa enkozesa embi ey'ekitongole kya FBI mu kunoonyereza ku woofiisi ya White House ekwasaganya ebyentambula, era ekizze okuyitibwa nga Filegate. ",White House erina omukessi w'ekitongole kya FBI aketta abavuganya ku bukulembeze bw'eggwanga. ,neutral
+"Waggulu w'ekyafaayo kino ekyennyamiza ekikwata ku ddembe ly'abantu ba bulijjo ery'obwebange, kwe kwagattibwa enkozesa embi ey'ekitongole kya FBI mu kunoonyereza ku woofiisi ya White House ekwasaganya ebyentambula, era ekizze okuyitibwa nga Filegate. ",White House ekozesa bubi ekitongole kya FBI. ,entailment
+"Waggulu w'ekyafaayo kino ekyennyamiza ekikwata ku ddembe ly'abantu ba bulijjo ery'obwebange, kwe kwagattibwa enkozesa embi ey'ekitongole kya FBI mu kunoonyereza ku woofiisi ya White House ekwasaganya ebyentambula, era ekizze okuyitibwa nga Filegate. ",White House ekitongole kya FBI ekikozesa mu butuufu. ,contradiction
+"Tung yasuubiza okulinnya ku nfeete abo abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma, naye abantu bangi balowooza nti Tung mbwa eboggola naye nga teruma. ",Tung tafaayo eri abo abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma. ,contradiction
+"Tung yasuubiza okulinnya ku nfeete abo abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma, naye abantu bangi balowooza nti Tung mbwa eboggola naye nga teruma. ",Tung alowooza nti abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma bakikola nga tebafuddeeyo ku nneeyisa entuufu egobererwa. ,neutral
+"Tung yasuubiza okulinnya ku nfeete abo abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma, naye abantu bangi balowooza nti Tung mbwa eboggola naye nga teruma. ",Tung ayagala kufuga abagula ebyobugagga n'ekigendererwa eky'okubikolamu amagoba oluvannyuma.,entailment
+"Ensonga ezeemulugunyizibwako kwaliko ebizibu by'emigugu, abaweereza b'omu nnyonyi abakambwe, engendo z'ennyonyi ezisazibwamu mu ngeri y'ekyewuunyo, ebisale ebrinnye enkandaggo. ",Abantu 10 baali babuliddwako emigugu gyabwe. ,neutral
+"Ensonga ezeemulugunyizibwako kwaliko ebizibu by'emigugu, abaweereza b'omu nnyonyi abakambwe, engendo z'ennyonyi ezisazibwamu mu ngeri y'ekyewuunyo, ebisale ebrinnye enkandaggo. ",Abantu beemulugunya ku migugu. ,entailment
+"Ensonga ezeemulugunyizibwako kwaliko ebizibu by'emigugu, abaweereza b'omu nnyonyi abakambwe, engendo z'ennyonyi ezisazibwamu mu ngeri y'ekyewuunyo, ebisale ebrinnye enkandaggo. ",Tewaaliwo kwemulugunya yadde. ,contradiction
+"Lawrence Singleton, ssedduvutto nnakinku eyakutulako emikono gy'omukyala gwe yatuusaako ogw'obuliisamaanyi n'amala emyaka munaana gyokka mu nkomyo, azzeemu n'akwatibwa ku gw'okufumita omukyala omulala mu Florida ebiso okutuusa lwe yamusse. ",Oluvannyuma lw'okukutulako emikono gy'omukyala gwe yatuusaako ogw'obuliisamaanyi yagezaako okugikweka mu kintu omusuulibwa kasasiro. ,neutral
+"Lawrence Singleton, ssedduvutto nnakinku eyakutulako emikono gy'omukyala gwe yatuusaako ogw'obuliisamaanyi n'amala emyaka munaana gyokka mu nkomyo, azzeemu n'akwatibwa ku gw'okufumita omukyala omulala mu Florida ebiso okutuusa lwe yamusse. ",Kyali kyeraga lwatu nti emyaka gye yamala mu kkomera gyali gimuddizza ddala mu mbeera. ,contradiction
+"Lawrence Singleton, ssedduvutto nnakinku eyakutulako emikono gy'omukyala gwe yatuusaako ogw'obuliisamaanyi n'amala emyaka munaana gyokka mu nkomyo, azzeemu n'akwatibwa ku gw'okufumita omukyala omulala mu Florida ebiso okutuusa lwe yamusse. ",Mr. Singleton ssedduvutto eyasalirwa ogw'obuliisamaanyi mu Florida.,entailment
+Charles Lane owa New Republic agamba nti Amawulire agakwata ku Kuwamba gongera bwongezi ku byogerebwa ku Gabriel Garcaa Marquez nga munnamawulire atali mwesimbu. ,Charles Lane musasi w'amawulire.,entailment
+Charles Lane owa New Republic agamba nti Amawulire agakwata ku Kuwamba gongera bwongezi ku byogerebwa ku Gabriel Garcaa Marquez nga munnamawulire atali mwesimbu. ,Charles Lane yatunda emmotoka. ,contradiction
+Charles Lane owa New Republic agamba nti Amawulire agakwata ku Kuwamba gongera bwongezi ku byogerebwa ku Gabriel Garcaa Marquez nga munnamawulire atali mwesimbu. ,Charles Lane yawangula Pulitzer. ,neutral
+Ssetteeserezo si kye kifo kyokka awatudde enkungaana z'ebyobufuzi mu Washington amakya ga leero.. ,Ssetteeserezo si kye kifo ky'ebyobufuzi kyokka mu Washington. ,entailment
+Ssetteeserezo si kye kifo kyokka awatudde enkungaana z'ebyobufuzi mu Washington amakya ga leero.. ,Olunaku lw'ebyobufuzi zirabika okutandika ku makya.,neutral
+Ssetteeserezo si kye kifo kyokka awatudde enkungaana z'ebyobufuzi mu Washington amakya ga leero.. ,Ku ssetteeserezo waliyo olulaga lwa katemba eyeeyolekeramu embeera z'ebitonde ebyewuunyisa.,contradiction
+"Omuntu ayinza okuteebereza omuvuzi wa weetiiye nga bw'asalamu oluguudo okukolamu ekintu ekiggya nga bw'atenderezebwa omuyiiya Ayi, Loyd",Osobola okukiteebereza omuvuzi wa weetiiye okutandika weetiiye. ,neutral
+"Omuntu ayinza okuteebereza omuvuzi wa weetiiye nga bw'asalamu oluguudo okukolamu ekintu ekiggya nga bw'atenderezebwa omuyiiya Ayi, Loyd",Osobola okuteebereza omuvuzi wa weetiiye. ,entailment
+"Omuntu ayinza okuteebereza omuvuzi wa weetiiye nga bw'asalamu oluguudo okukolamu ekintu ekiggya nga bw'atenderezebwa omuyiiya Ayi, Loyd",Tosobola kuteebereza muvuzi wa weetiiye.,contradiction
+"Kino nakyogerako mu bbaluwa gye nasindikira Dr. ekyalabika okuba nga kyamunyumira, era n'ansindikira kkeeki y'ebibala entono Ssekukkulu eyo. ",Ndi mwekakafu nti omusawo yafuna ebbaluwa gye nnamusindikira. ,entailment
+"Kino nakyogerako mu bbaluwa gye nasindikira Dr. ekyalabika okuba nga kyamunyumira, era n'ansindikira kkeeki y'ebibala entono Ssekukkulu eyo. ",Ssaalya kkeeki omusawo gye yansindikira ku Ssekukkulu eyo. ,neutral
+"Kino nakyogerako mu bbaluwa gye nasindikira Dr. ekyalabika okuba nga kyamunyumira, era n'ansindikira kkeeki y'ebibala entono Ssekukkulu eyo. ",Omusawo yansindikira eccupa ya wayini ku Ssekukkulu eyo. ,contradiction
+"Ttiimu yali emanyikiddwa ku lw'empitibwa yaalyo eya Beaneaters, ng'eyo, mu ngeri ereetawo ebibuuzo, kiyinzika okuba ng'era lye lyatwalibwa okubeera erinnya lya Buyindi eppaatiike. ",Ttiimu yakyusa erinnya lyayo kubanga lyali terimanyikiddwa. ,neutral
+"Ttiimu yali emanyikiddwa ku lw'empitibwa yaalyo eya Beaneaters, ng'eyo, mu ngeri ereetawo ebibuuzo, kiyinzika okuba ng'era lye lyatwalibwa okubeera erinnya lya Buyindi eppaatiike. ",Ttiimu yalina erinnya eryasooka nga tennafuna lino eryali liyinza nalyo okulowoozebwako ng'erinnya lya Buyindi eppaatiike. ,entailment
+"Ttiimu yali emanyikiddwa ku lw'empitibwa yaalyo eya Beaneaters, ng'eyo, mu ngeri ereetawo ebibuuzo, kiyinzika okuba ng'era lye lyatwalibwa okubeera erinnya lya Buyindi eppaatiike. ",Ttiimu yali ebaddeko n'erinnya limu lyokka.,contradiction
+Saasobola kuzuula nsonjola eyo mu kitabo kafaananyabitegeezi. ,Nazuula ensonjola mu kitabo kafaananyabitegeezi.,contradiction
+Saasobola kuzuula nsonjola eyo mu kitabo kafaananyabitegeezi. ,Natunula mu kitabo kafaananyabitegeezi naye saazuula nsonjola. ,entailment
+Saasobola kuzuula nsonjola eyo mu kitabo kafaananyabitegeezi. ,Ekitabo kafaananyabitegeezi kye nnakozesa kye kyali eky'omutindo ogumanyiddwa. ,neutral
+Omuntu asobola atya okukola ekyo?,Abantu abangi bayinza batya obutabaako kye bakola?,contradiction
+Omuntu asobola atya okukola ekyo?,Omuntu ayinza atya okukola ekintu ekibi bwe kityo?,neutral
+Omuntu asobola atya okukola ekyo?,Kisoboka kitya omuntu okukola ekyo?,entailment
+"Okwongerezaako, kirimu ebimiimo ebyo byokka ebyagunjibwawo mu Kyasa ky'Amakumi abiri okusinziira ku Nnyanjula y'ekitabo, naye ne kisuula ebbali enjogera y'ekinnamagye eyagunjibwawo emabegako mu kyasa ky'amakumi abiri. ","Okusinziira ku nnyanjula, kirimu ebimiimo ebyamerukawo mu kyasa ky'amakumi abiri naye kirekayo enjogera eyagunjibwawo emabegako. ",entailment
+"Okwongerezaako, kirimu ebimiimo ebyo byokka ebyagunjibwawo mu Kyasa ky'Amakumi abiri okusinziira ku Nnyanjula y'ekitabo, naye ne kisuula ebbali enjogera y'ekinnamagye eyagunjibwawo emabegako mu kyasa ky'amakumi abiri. ",Kirimu enjogera zonna ezikirimu okuva ku ntandikwa y'ekiseera ekyo.,contradiction
+"Okwongerezaako, kirimu ebimiimo ebyo byokka ebyagunjibwawo mu Kyasa ky'Amakumi abiri okusinziira ku Nnyanjula y'ekitabo, naye ne kisuula ebbali enjogera y'ekinnamagye eyagunjibwawo emabegako mu kyasa ky'amakumi abiri. ",Mulimu enjogera nnyingi ez'enjawulo okuva mu ekiri emabega w'ekyasa ky'amakumi abiri.,neutral
+"Singa omuntu abeera n'olufulumya lwa 1984, ayinza naye okukyawa okugula ekitabo kino mu ky'ekifunze (eky'ebbeeyi entonoko) Ekyennyongereza. ",Olufulumya lwa 1984 lwe lukyakize mu zonna.,neutral
+"Singa omuntu abeera n'olufulumya lwa 1984, ayinza naye okukyawa okugula ekitabo kino mu ky'ekifunze (eky'ebbeeyi entonoko) Ekyennyongereza. ",Ekitabo tekitundibwa.,contradiction
+"Singa omuntu abeera n'olufulumya lwa 1984, ayinza naye okukyawa okugula ekitabo kino mu ky'ekifunze (eky'ebbeeyi entonoko) Ekyennyongereza. ",Ekyennyongereza kya layisi okusinga ekitabo.,entailment
+Bernstein akinnyonnyolera mu nnyanjula.,Bernstein takinnyonnyola mu bwesovve.,neutral
+Bernstein akinnyonnyolera mu nnyanjula.,Bernstein yakinnyonnyolera mu nfundikira mwokka.,contradiction
+Bernstein akinnyonnyolera mu nnyanjula.,Ennyanjula erimu ennyinyonnyola.,entailment
+"Tekiteesebwa nti abantu bano abanoonyerezebwako bawerebwe, ekyo kizibu, n'oluvannyuma lw'emyaka amakumi abiri egy'okugezaako okubagyisa mu buwangwa obutali bwabwe, eri omuntu atali wa ku butaka buno okuzuula ebingi ebibakwatako nga bisesa.",N'aboogezi b'olulimi ba nnansangwa nabo olumu bakaluubirirwa okusesa abalala.,neutral
+"Tekiteesebwa nti abantu bano abanoonyerezebwako bawerebwe, ekyo kizibu, n'oluvannyuma lw'emyaka amakumi abiri egy'okugezaako okubagyisa mu buwangwa obutali bwabwe, eri omuntu atali wa ku butaka buno okuzuula ebingi ebibakwatako nga bisesa.",Ebisesa okutwaliza awamu kye kimu ku bintu abantu abatali ba ku butaka bye banguyirwa ennyo okutegeera. ,contradiction
+"Tekiteesebwa nti abantu bano abanoonyerezebwako bawerebwe, ekyo kizibu, n'oluvannyuma lw'emyaka amakumi abiri egy'okugezaako okubagyisa mu buwangwa obutali bwabwe, eri omuntu atali wa ku butaka buno okuzuula ebingi ebibakwatako nga bisesa.",Emiramwa gino gikaluubirira abava ebweru okugitegeera.,entailment
+"Ekisembayo, omuntu ateekwa okuba ng'akooye okulandagga okujjirako amakulu agaawukana. ",Abasunsuzi bulijjo baweebwa emirimu gy'okukwata ensobi ekika kino.,neutral
+"Ekisembayo, omuntu ateekwa okuba ng'akooye okulandagga okujjirako amakulu agaawukana. ",Okulandagga ye ngeri enkulu omukakasibwa nti amakulu g'ekyogerebwa gatangaazibwa. ,contradiction
+"Ekisembayo, omuntu ateekwa okuba ng'akooye okulandagga okujjirako amakulu agaawukana. ",Amakulu gasobola okukyuka mu kugezaako okufuula ekyogerebwa ekiwanvuko.,entailment
+Leetera omutwe gwo okuwulira kammunguluze ng'okozesa ebbugumu.,Okuteeka ebbugumu ku mutwe gw'omuntu ye ngeri ennungi ey'okwongera ku mutindo gw'enneekaliriza yaabwe wamu n'okussa ebirowoozo ku kye bakola.,contradiction
+Leetera omutwe gwo okuwulira kammunguluze ng'okozesa ebbugumu.,Ebbugumu erisusse mu mbeera ezimu lisobola okuleeta kammunguluze.,entailment
+Leetera omutwe gwo okuwulira kammunguluze ng'okozesa ebbugumu.,Olwaleero ekigero ky'ebbugumu kyabadde obutundu butaano okusukka ku kigero ekya wakati ekya sizoni.,neutral
+Tewali kisaawe kya kikugu kiralala kirina nnono ngagga bw'etyo mu kwenyooma. ,Ebisaawe by'ekikugu ebirala bingi byerowoozaako ng'ebyawaggulu ennyo.,neutral
+Tewali kisaawe kya kikugu kiralala kirina nnono ngagga bw'etyo mu kwenyooma. ,Ebisaawe by'ekikugu bingi birina ennono z'okwenyooma. ,contradiction
+Tewali kisaawe kya kikugu kiralala kirina nnono ngagga bw'etyo mu kwenyooma. ,Tewali mulimu mulala gulina nnono ya muzinzi mu kwekolokota. ,entailment
+"N'ebiwandiiko by'okwewulira ettiibwa, empapula z'amawulire ezo ezitwalibwa ng'ezitali ku mutindo zeewangulidde amannya agazivvoola mu mboozi ezinyumizibwa abantu b'omu kitundu abakozesa amannya ago amapaatiike mu nnyumya ezitali za lwatu, emboozi z'omu ssaaluuni, wamu ne mu biwandiiko by'abasaba emirimu egitali mitongole. ",Empapula ezo tezirina kitiibwa yadde.,contradiction
+"N'ebiwandiiko by'okwewulira ettiibwa, empapula z'amawulire ezo ezitwalibwa ng'ezitali ku mutindo zeewangulidde amannya agazivvoola mu mboozi ezinyumizibwa abantu b'omu kitundu abakozesa amannya ago amapaatiike mu nnyumya ezitali za lwatu, emboozi z'omu ssaaluuni, wamu ne mu biwandiiko by'abasaba emirimu egitali mitongole. ",Empapula ezo tezirabibwa mu kifaananyi kirungi.,entailment
+"N'ebiwandiiko by'okwewulira ettiibwa, empapula z'amawulire ezo ezitwalibwa ng'ezitali ku mutindo zeewangulidde amannya agazivvoola mu mboozi ezinyumizibwa abantu b'omu kitundu abakozesa amannya ago amapaatiike mu nnyumya ezitali za lwatu, emboozi z'omu ssaaluuni, wamu ne mu biwandiiko by'abasaba emirimu egitali mitongole. ",Empapula ezo zirimu olugambo lungi nnyo okuva mu bannamaka.,neutral
+Singa ekitaliimu sukaali mungi/ekiwewufu bikozesebwa okunnyonnyola ebisangibwa mu bbiya (okugeza,"Bbiya asobola okulambibwako ne ""ekitaliimu sukaali mungi"" oba ""ekiwewufu"".",entailment
+Singa ekitaliimu sukaali mungi/ekiwewufu bikozesebwa okunnyonnyola ebisangibwa mu bbiya (okugeza,Ekiwewufu n'ekitaliimu sukaali mungu byombi bikozesebwa kunnyonnyola ziwayini ne wisiki.,contradiction
+Singa ekitaliimu sukaali mungi/ekiwewufu bikozesebwa okunnyonnyola ebisangibwa mu bbiya (okugeza,"Bbiya omulambeko ne ""lite"" abeera taliimu kirungo kya mwenge kingi.",neutral
+Nnalinnya yattu eyo eyajajaamizibwa ennyo yakozesebwa ne mu mbeera mwe yabeerera nga yo oba endala egyawukanako mwe yali nga teyeetaagibwa. ,Abantu basanga obuzibu okuzuula nnalinnya ey'enjawulo.,neutral
+Nnalinnya yattu eyo eyajajaamizibwa ennyo yakozesebwa ne mu mbeera mwe yabeerera nga yo oba endala egyawukanako mwe yali nga teyeetaagibwa. ,Nnalinnya ekozesebwa nnyo ekisusse.,entailment
+Nnalinnya yattu eyo eyajajaamizibwa ennyo yakozesebwa ne mu mbeera mwe yabeerera nga yo oba endala egyawukanako mwe yali nga teyeetaagibwa. ,Nnalinnya erina okukozesebwa okusingawo.,contradiction
+"Waggulu wa bino byonna, tulinawo amazima ag'ennyamiza nti empandiika etuukiridde ebiseera ebimu ddala ebeera ekijjukizo, ekyongera okusajjula ekizibu.",Abantu balabika okuba nga bajjukira nnyo empandiika etatuukiridde. ,contradiction
+"Waggulu wa bino byonna, tulinawo amazima ag'ennyamiza nti empandiika etuukiridde ebiseera ebimu ddala ebeera ekijjukizo, ekyongera okusajjula ekizibu.",Ekiwandiiko ekituukiridde mu mpadiika kitera okuba ekyanguko okujjukira okusinga ku kiwandiiko ekitatuukiridde mu mpandiika.,entailment
+"Waggulu wa bino byonna, tulinawo amazima ag'ennyamiza nti empandiika etuukiridde ebiseera ebimu ddala ebeera ekijjukizo, ekyongera okusajjula ekizibu.",Ekiwandiiko ekituukiridde mu mpandiika kya bbeeyi ya waggulu nnyo okufulumya mu bungi. ,neutral
+"Oluvannyuma lw'okwengangibwa n'endowooza bw'eti wamu n'okutitibanamu akatonotono, Abangereza bakkiriza ekitiibwa kyabwe nga bagezza ekigambo. ",Abangereza tebaalina kitiibwa.,contradiction
+"Oluvannyuma lw'okwengangibwa n'endowooza bw'eti wamu n'okutitibanamu akatonotono, Abangereza bakkiriza ekitiibwa kyabwe nga bagezza ekigambo. ",Abangereza beddiza ebyenfuna by'ensi yonna.,neutral
+"Oluvannyuma lw'okwengangibwa n'endowooza bw'eti wamu n'okutitibanamu akatonotono, Abangereza bakkiriza ekitiibwa kyabwe nga bagezza ekigambo. ",Abangereza beenyigira nnyo mu byobusuubuzi okwetoloola ensi yonna.,entailment
+Ebiseera ebimu kye kikyasinze n'okusooba mu kasirise. ,Olumu kibeera kizibu kya kukenga.,entailment
+Ebiseera ebimu kye kikyasinze n'okusooba mu kasirise. ,Kivaamu eddoboozi ttono ddala nga kino tukyebaliza yingini eyakolebwa ng'eriko ebiziyiza eddoboozi okufuluma ebweru.,neutral
+Ebiseera ebimu kye kikyasinze n'okusooba mu kasirise. ,Bulijjo kyabanga kyangu okukenga nga kiri wala.,contradiction
+"Nga bwe kituukawo, era ddala, waliwo nnamagalo z'Olungereza ezisingako okuba enjawufu mu Bungereza okusinga mu North America, era omuntu yenna amaze ku kadde ng'abawuliriza akimanyi nti ezimu ku zo zirina obufaanane. ","Bungereza erina nnamagalo z'Olungereza nnyingi ez'enjawulo, ezisinga ku ezo eziri mu North America obungi. ",entailment
+"Nga bwe kituukawo, era ddala, waliwo nnamagalo z'Olungereza ezisingako okuba enjawufu mu Bungereza okusinga mu North America, era omuntu yenna amaze ku kadde ng'abawuliriza akimanyi nti ezimu ku zo zirina obufaanane. ","Nnamagalo za North America wamu n'eza Bungereza zifaanaganira ddala, era abantu tebasobola kufuna njawulo yonna wakati waazo. ",contradiction
+"Nga bwe kituukawo, era ddala, waliwo nnamagalo z'Olungereza ezisingako okuba enjawufu mu Bungereza okusinga mu North America, era omuntu yenna amaze ku kadde ng'abawuliriza akimanyi nti ezimu ku zo zirina obufaanane. ",Abantu abava mu North America basanga obuzibu okutegeera ebitundu ataano ku kikumi ebya nnamagalo ezoogerebwa Abangereza. ,neutral
+"Omuwi w'obubaka okuva mu Tennessee yakozesa ""dog weather"" okutegeeza 'hot, rainless weather,' ekiyinza okuviisibwa mu kyoleko 'dog days' ekitegeeza embeera y'obudde ey'ekyeya ey'omwezi Ogwomunaana. ","Okusinziira ku muwi w'obubaka, 'dog weather' kyakozesebwanga okunnyonnyola enkuba etonnya mu biseera by'enkyukakyuka y'entambula y'embuyaga ez'amaanyi mu kitundu. ",contradiction
+"Omuwi w'obubaka okuva mu Tennessee yakozesa ""dog weather"" okutegeeza 'hot, rainless weather,' ekiyinza okuviisibwa mu kyoleko 'dog days' ekitegeeza embeera y'obudde ey'ekyeya ey'omwezi Ogwomunaana. ",Ogwomukaaga n'Ogwomusanvu nagyo gibeera gyokya mu Tennessee.,neutral
+"Omuwi w'obubaka okuva mu Tennessee yakozesa ""dog weather"" okutegeeza 'hot, rainless weather,' ekiyinza okuviisibwa mu kyoleko 'dog days' ekitegeeza embeera y'obudde ey'ekyeya ey'omwezi Ogwomunaana. ",Obudde bubeera bwokya era nga n'enkuba tetonnya mu nnaku ezisinga obungi mu Gwomunaana,entailment
